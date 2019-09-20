@@ -12,9 +12,6 @@
         <mark key="^" line="82" column="68" />
         <mark key="." line="82" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1563500873660">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/limit/InsuranceBlockTest.java" timestamp="1563848259220">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="67" column="17" />
@@ -62,9 +59,12 @@
         <mark key="^" line="81" column="56" />
         <mark key="." line="82" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1568964379693">
-        <mark key="a" line="124" column="69" />
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1568965537479">
+        <mark key="a" line="138" column="69" />
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/study/someprogram/lucene-demo/src/main/java/com/huyan/lucenedemo/index/Index.java" timestamp="1563781131648">
         <mark key="[" line="178" column="0" />
@@ -76,6 +76,12 @@
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1568965790203">
+        <mark key="[" line="87" column="64" />
+        <mark key="]" line="87" column="63" />
+        <mark key="^" line="87" column="63" />
+        <mark key="." line="87" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/BlockUserHandler.java" timestamp="1563440767446">
         <mark key="[" line="47" column="44" />
@@ -150,9 +156,6 @@
         <mark key="]" line="32" column="11" />
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
-      </file>
-      <file name="/fragment.java" timestamp="1563776417666">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1564579439804">
         <mark key="'" line="382" column="30" />
@@ -233,46 +236,57 @@
       <jump line="2502" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="124" column="69" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="134" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="140" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="138" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="84" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TpCompanyInfoResp</text>
+        <text>clients</text>
       </register>
       <register name="-" type="4">
-        <text>TpCompanyInfoResp</text>
+        <text>clients</text>
       </register>
       <register name="/" type="4">
         <text>getcompanybyid</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bGlzdDxUcEpvYkluZm8+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbS56aGlwaW4uVXRpbHMuSm9iUGFjayBwYWNrID0gY29tLnpoaXBpbi5VdGlscy5nZXRKb2JzKHIuYm9zc0RiQXBpLCByLnpwQm9zc0RCQXBpLCByLmh1bnRlckRCQXBpLCBpZHMpOwogICAgICAgICAgICAgICAgZm9yIChpbnQgaWQgOiBpZHMpIHsKICAgICAgICAgICAgICAgICAgICBKb2JDYXJkIGMgPSBwYWNrLmdldEpvYkNhcmQoaWQsIChqLCBib3NzLCBicmFuZCwgcHJveHlDb21JbmZvKSAtPiBjb20uemhpcGluLlV0aWxzLnZhbGlkSm9iKGopKTsKICAgICAgICAgICAgICAgICAgICBpZiAoYyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGpvYkluZm9zLmFkZChnZW5UcEpvYkluZm8oYywgY2FjaGVkLmNvbXBhbnkuaWQsIGNhY2hlZC5jb21wYW55Lm5hbWUpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDM6IGxpc3Q8VHBKb2JJbmZvPiBqb2JzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEVNUFRZX0pPQl9JTkZPOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuc2V0Qm9zc0lkKDY0NTY3OTkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>tBossId(6456799)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>tBossId(6456799)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXRCb3NzSWQoNjQ1Njc5OSk7CiAgICAgICAgcmVxLnNldENpdGllcyhDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDE3NzM2KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNsaWVudHMud1Jlc3VtZVNlYXJjaChyZXEpKTsKICAgIH0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZXRCb3NzSWQoNjQ1Njc5OSk7CiAgICAgICAgcmVxLnNldENpdGllcyhDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDE3NzM2KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNsaWVudHMud1Jlc3VtZVNlYXJjaChyZXEpKTsKICAgIH0K</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
