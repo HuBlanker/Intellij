@@ -57,12 +57,11 @@
         <mark key="^" line="81" column="56" />
         <mark key="." line="82" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1568991747603">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1569031871763">
         <mark key="'" line="87" column="49" />
-        <mark key="[" line="149" column="73" />
-        <mark key="]" line="149" column="74" />
-        <mark key="." line="149" column="74" />
-        <mark key="^" line="149" column="74" />
+        <mark key="[" line="141" column="37" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/study/someprogram/lucene-demo/src/main/java/com/huyan/lucenedemo/index/Index.java" timestamp="1563781131648">
         <mark key="[" line="178" column="0" />
@@ -150,6 +149,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1564579259096">
         <mark key="'" line="104" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/ICache.java" timestamp="1569031676413" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/wavely/WResumeSearchMainTest.java" timestamp="1563892664923">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="32" column="12" />
@@ -267,8 +267,8 @@
       <jump line="87" column="49" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZS5zYXZlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -280,31 +280,31 @@
         <text>jobByAddr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZS5zYXZlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZWQudXVpZCA9IFV0aWxzLmdldFVuaXF1ZVNlcUlkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29kZSArIGZpcnN0LmdldCgpLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlsbEpvYkluZm9zKGNhY2hlZC5pZHMsIDAsICJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZWQudXVpZCA9IFV0aWxzLmdldFVuaXF1ZVNlcUlkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29kZSArIGZpcnN0LmdldCgpLm5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
