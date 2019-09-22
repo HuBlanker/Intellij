@@ -3,19 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1569036033688" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchResult.java" timestamp="1564579299065">
+        <mark key="'" line="126" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" timestamp="1563946043439">
         <mark key="[" line="169" column="43" />
         <mark key="]" line="82" column="68" />
         <mark key="^" line="82" column="68" />
         <mark key="." line="82" column="68" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/StringChineseTest.java" timestamp="1569166339125">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1568968235932">
+        <mark key="'" line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/StringChineseTest.java" timestamp="1569166923070">
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="12" column="64" />
-        <mark key="]" line="12" column="71" />
-        <mark key="^" line="12" column="71" />
-        <mark key="." line="12" column="71" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1569059831987">
         <mark key="[" line="146" column="28" />
@@ -23,79 +28,14 @@
         <mark key="." line="146" column="46" />
         <mark key="^" line="146" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" timestamp="1564639723441">
+        <mark key="'" line="470" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/TCollector.java" timestamp="1563354801329">
         <mark key="[" line="74" column="39" />
         <mark key="]" line="74" column="39" />
         <mark key="." line="74" column="39" />
         <mark key="^" line="74" column="39" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1564579907716">
-        <mark key="[" line="176" column="80" />
-        <mark key="]" line="176" column="80" />
-        <mark key="." line="176" column="80" />
-        <mark key="^" line="176" column="80" />
-      </file>
-      <file name="$USER_HOME$/workspace/data-common/pom.xml" timestamp="1569036529567" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1569060456581">
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="18" column="58" />
-        <mark key="." line="18" column="58" />
-        <mark key="^" line="89" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/TpJobSearchMain.java" timestamp="1569046602806">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="107" column="57" />
-        <mark key="." line="107" column="57" />
-        <mark key="^" line="107" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/QueryUtils.java" timestamp="1563775674578">
-        <mark key="[" line="233" column="8" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-        <mark key="^" line="233" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" timestamp="1569057166493">
-        <mark key="[" line="9" column="75" />
-        <mark key="]" line="9" column="82" />
-        <mark key="^" line="9" column="82" />
-        <mark key="." line="9" column="82" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1569057431700">
-        <mark key="'" line="73" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/InsuranceBlockHandler.java" timestamp="1563500786595">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="41" column="49" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1569046521329">
-        <mark key="'" line="650" column="29" />
-        <mark key="[" line="861" column="0" />
-        <mark key="]" line="861" column="54" />
-        <mark key="." line="861" column="23" />
-        <mark key="^" line="861" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchpush-01/offline_detail_push.sh" timestamp="1569034368898">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="24" column="6" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1564579259096">
-        <mark key="'" line="104" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1564579439804">
-        <mark key="'" line="382" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchResult.java" timestamp="1564579299065">
-        <mark key="'" line="126" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1568968235932">
-        <mark key="'" line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" timestamp="1564639723441">
-        <mark key="'" line="470" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean.def" timestamp="1569045492115">
         <mark key="'" line="297" column="13" />
@@ -103,10 +43,15 @@
         <mark key="]" line="562" column="0" />
         <mark key="." line="562" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1564579907716">
+        <mark key="[" line="176" column="80" />
+        <mark key="]" line="176" column="80" />
+        <mark key="." line="176" column="80" />
+        <mark key="^" line="176" column="80" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/QaAccountFilter.java" timestamp="1563366573719">
         <mark key="'" line="54" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/7.31/zp-client-7.31.jar!/com/zhipin/client/InternalZpClients.class" timestamp="1569052781689" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1563778664853">
         <mark key="[" line="742" column="52" />
         <mark key="]" line="742" column="52" />
@@ -119,14 +64,30 @@
         <mark key="^" line="81" column="56" />
         <mark key="." line="82" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1569060456581">
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="58" />
+        <mark key="." line="18" column="58" />
+        <mark key="^" line="89" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/TpJobSearchMain.java" timestamp="1569046602806">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="107" column="57" />
+        <mark key="." line="107" column="57" />
+        <mark key="^" line="107" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/BlockUserHandler.java" timestamp="1563440767446">
         <mark key="[" line="47" column="44" />
         <mark key="]" line="46" column="44" />
         <mark key="^" line="46" column="44" />
         <mark key="." line="46" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/TpJobInfo.java" timestamp="1569036834908" />
-      <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/TpCompanyInfoResp.java" timestamp="1569036648584" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/QueryUtils.java" timestamp="1563775674578">
+        <mark key="[" line="233" column="8" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+        <mark key="^" line="233" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1569036517767">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="39" />
@@ -135,6 +96,15 @@
       </file>
       <file name="/Dummy.txt" timestamp="1568969408567">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" timestamp="1569057166493">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="82" />
+        <mark key="^" line="9" column="82" />
+        <mark key="." line="9" column="82" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1569057431700">
+        <mark key="'" line="73" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/InsuranceBlock.java" timestamp="1563777137744">
         <mark key="[" line="55" column="64" />
@@ -152,11 +122,30 @@
         <mark key="^" line="2531" column="8" />
         <mark key="." line="3516" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/InsuranceBlockHandler.java" timestamp="1563500786595">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="41" column="49" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1569046521329">
+        <mark key="'" line="650" column="29" />
+        <mark key="[" line="861" column="0" />
+        <mark key="]" line="861" column="54" />
+        <mark key="." line="861" column="23" />
+        <mark key="^" line="861" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/handler/F1GeekHandler.java" timestamp="1563776523855">
         <mark key="[" line="108" column="53" />
         <mark key="]" line="108" column="53" />
         <mark key="^" line="108" column="61" />
         <mark key="." line="108" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchpush-01/offline_detail_push.sh" timestamp="1569034368898">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="6" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1569052980077">
         <mark key="'" line="342" column="49" />
@@ -164,15 +153,20 @@
         <mark key="^" line="336" column="49" />
         <mark key="." line="336" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1564579259096">
+        <mark key="'" line="104" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" timestamp="1563778090824">
         <mark key="[" line="204" column="71" />
         <mark key="]" line="204" column="41" />
         <mark key="^" line="204" column="41" />
         <mark key="." line="204" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/ICache.java" timestamp="1569035882919" />
       <file name="/fragment.java" timestamp="1569073115666">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1564579439804">
+        <mark key="'" line="382" column="30" />
       </file>
     </filemarks>
     <jumps>
