@@ -10,6 +10,13 @@
         <mark key="^" line="82" column="68" />
         <mark key="." line="82" column="68" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/StringChineseTest.java" timestamp="1569166339125">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="12" column="71" />
+        <mark key="^" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1569059831987">
         <mark key="[" line="146" column="28" />
         <mark key="]" line="146" column="46" />
@@ -169,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="138" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="84" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
@@ -269,16 +275,17 @@
       <jump line="291" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
       <jump line="296" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
       <jump line="73" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/StringChineseTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>preRouter</text>
+        <text>Jerry</text>
       </register>
       <register name="-" type="4">
-        <text>preRouter</text>
+        <text>Jerry</text>
       </register>
       <register name="/" type="4">
-        <text>20</text>
+        <text>coll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigibm90IGltcGxlbWVudGVkIik7Cg==</text>
@@ -315,15 +322,14 @@
       </register>
     </registers>
     <search>
-      <last-search>20</last-search>
+      <last-search>coll</last-search>
       <last-offset />
-      <last-pattern>20</last-pattern>
+      <last-pattern>coll</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>experience</entry>
         <entry>getexperience</entry>
         <entry>getcompanybyid</entry>
         <entry>jobby</entry>
@@ -343,6 +349,7 @@
         <entry>时间</entry>
         <entry>fetch</entry>
         <entry>20</entry>
+        <entry>coll</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
