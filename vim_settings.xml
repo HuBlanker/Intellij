@@ -73,12 +73,12 @@
         <mark key="." line="46" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/TpCompanyInfo.java" timestamp="1569220040794" />
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" timestamp="1569242687201">
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" timestamp="1569243646590">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="51" column="21" />
-        <mark key="^" line="51" column="21" />
-        <mark key="." line="51" column="21" />
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+        <mark key="^" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/QueryUtils.java" timestamp="1563775674578">
         <mark key="[" line="233" column="8" />
@@ -273,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
@@ -284,36 +284,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICogcHVibGljIGNsYXNzIExpc3ROb2RlIHsKICogaW50IHZhbDsKICogTGlzdE5vZGUgbmV4dDsKICogTGlzdE5vZGUoaW50IHgpIHsgdmFsID0geDsgfQogKiB9Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfbDEK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbDEgPSBuZXh0Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbDEubmV4dC5uZXh0ID0gbDE7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdE5vZGUgdG1wID0gbDE7Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>*
 *
 *
 *
 *</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDMwMDApOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
