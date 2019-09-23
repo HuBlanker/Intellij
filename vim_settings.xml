@@ -80,6 +80,12 @@
       <file name="/Dummy.txt" timestamp="1568969408567">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/tc_job_remove.html" timestamp="1569210553166">
+        <mark key="[" line="43" column="56" />
+        <mark key="]" line="43" column="56" />
+        <mark key="^" line="43" column="56" />
+        <mark key="." line="43" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" timestamp="1569057166493">
         <mark key="[" line="9" column="75" />
         <mark key="]" line="9" column="82" />
@@ -104,6 +110,13 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="41" column="49" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" timestamp="1569211086774">
+        <mark key="'" line="41" column="98" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1569046521329">
         <mark key="'" line="650" column="29" />
@@ -141,10 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="84" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="109" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
@@ -241,16 +250,20 @@
       <jump line="296" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
       <jump line="73" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
       <jump line="17" column="8" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/StringChineseTest.java" />
+      <jump line="63" column="15" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" />
+      <jump line="64" column="97" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" />
+      <jump line="67" column="98" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" />
+      <jump line="40" column="98" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Jerry</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>Jerry</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>coll</text>
+        <text>_p</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigibm90IGltcGxlbWVudGVkIik7Cg==</text>
@@ -287,17 +300,14 @@
       </register>
     </registers>
     <search>
-      <last-search>coll</last-search>
+      <last-search>_p</last-search>
       <last-offset />
-      <last-pattern>coll</last-pattern>
+      <last-pattern>_p</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getexperience</entry>
-        <entry>getcompanybyid</entry>
-        <entry>jobby</entry>
         <entry>tp</entry>
         <entry>jobbyaddr</entry>
         <entry>result.size</entry>
@@ -315,6 +325,9 @@
         <entry>fetch</entry>
         <entry>20</entry>
         <entry>coll</entry>
+        <entry>job_ids</entry>
+        <entry>pre=pre</entry>
+        <entry>_p</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
