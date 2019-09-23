@@ -28,12 +28,6 @@
         <mark key="." line="74" column="39" />
         <mark key="^" line="74" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean.def" timestamp="1569045492115">
-        <mark key="'" line="297" column="13" />
-        <mark key="[" line="562" column="0" />
-        <mark key="]" line="562" column="0" />
-        <mark key="." line="562" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1564579907716">
         <mark key="[" line="176" column="80" />
         <mark key="]" line="176" column="80" />
@@ -59,6 +53,12 @@
         <mark key="." line="107" column="57" />
         <mark key="^" line="107" column="57" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/[2]两数相加.java" timestamp="1569225230186">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/BlockUserHandler.java" timestamp="1563440767446">
         <mark key="[" line="47" column="44" />
         <mark key="]" line="46" column="44" />
@@ -81,11 +81,10 @@
       <file name="/Dummy.txt" timestamp="1568969408567">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/tc_job_remove.html" timestamp="1569210553166">
-        <mark key="[" line="43" column="56" />
-        <mark key="]" line="43" column="56" />
-        <mark key="^" line="43" column="56" />
-        <mark key="." line="43" column="56" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/tc_job_remove.html" timestamp="1569224064898">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" timestamp="1569057166493">
         <mark key="[" line="9" column="75" />
@@ -112,12 +111,12 @@
         <mark key="^" line="41" column="49" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" timestamp="1569211086774">
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" timestamp="1569223813032">
         <mark key="'" line="41" column="98" />
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-        <mark key="^" line="18" column="15" />
+        <mark key="[" line="68" column="97" />
+        <mark key="]" line="68" column="104" />
+        <mark key="." line="68" column="97" />
+        <mark key="^" line="68" column="96" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1569046521329">
         <mark key="'" line="650" column="29" />
@@ -258,43 +257,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>_p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigibm90IGltcGxlbWVudGVkIik7Cg==</text>
+        <text encoding="base64">ICogcHVibGljIGNsYXNzIExpc3ROb2RlIHsKICogICAgIGludCB2YWw7CiAqICAgICBMaXN0Tm9kZSBuZXh0OwogKiAgICAgTGlzdE5vZGUoaW50IHgpIHsgdmFsID0geDsgfQogKiB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQUNUSVZFLmNvbnRhaW5zKDIwNjgwMjg2KSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFDVElWRS5jb250YWlucygyMDY4MDI4NikpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBQ1RJVkUuY29udGFpbnMoMjA2ODAyODYpKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQUNUSVZFLmNvbnRhaW5zKDIwNjgwMjg2KSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFDVElWRS5jb250YWlucygyMDY4MDI4NikpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBQ1RJVkUuY29udGFpbnMoMjA2ODAyODYpKTsK</text>
+        <text encoding="base64">ICBjbGFzcyBMaXN0Tm9kZSB7CiAgICAgIGludCB2YWw7CiAgICAgIExpc3ROb2RlIG5leHQ7CiAgICAgIExpc3ROb2RlKGludCB4KSB7IHZhbCA9IHg7IH0KICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="2" type="8">
+        <text>*
+*
+*
+*
+*</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YTwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQUNUSVZFLmNvbnRhaW5zKDIwNjgwMjg2KSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFDVElWRS5jb250YWlucygyMDY4MDI4NikpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBQ1RJVkUuY29udGFpbnMoMjA2ODAyODYpKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQUNUSVZFLmNvbnRhaW5zKDIwNjgwMjg2KSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFDVElWRS5jb250YWlucygyMDY4MDI4NikpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBQ1RJVkUuY29udGFpbnMoMjA2ODAyODYpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBpdGVtICE9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcC5pdGVtcy5mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
