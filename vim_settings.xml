@@ -47,11 +47,11 @@
         <mark key="." line="82" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1569220112358" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1569229700924">
-        <mark key="'" line="121" column="7" />
-        <mark key="[" line="88" column="45" />
-        <mark key="]" line="88" column="57" />
-        <mark key="." line="88" column="57" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1569232011611">
+        <mark key="'" line="126" column="23" />
+        <mark key="[" line="126" column="63" />
+        <mark key="]" line="123" column="29" />
+        <mark key="." line="123" column="29" />
         <mark key="^" line="88" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/TpJobSearchMain.java" timestamp="1569046602806">
@@ -144,12 +144,12 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1569229832572">
-        <mark key="'" line="363" column="29" />
-        <mark key="[" line="339" column="37" />
-        <mark key="]" line="338" column="26" />
-        <mark key="." line="338" column="26" />
-        <mark key="^" line="338" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1569232051413">
+        <mark key="'" line="369" column="29" />
+        <mark key="[" line="345" column="42" />
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+        <mark key="^" line="348" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" timestamp="1563778090824">
         <mark key="[" line="204" column="71" />
@@ -157,14 +157,12 @@
         <mark key="^" line="204" column="41" />
         <mark key="." line="204" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" timestamp="1569232606256" />
       <file name="/fragment.java" timestamp="1569073115666">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="150" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="88" column="54" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="30" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean.def" />
@@ -262,61 +260,63 @@
       <jump line="117" column="7" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" />
       <jump line="333" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="363" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="132" column="10" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" />
+      <jump line="126" column="23" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>jobbyaddr</text>
+        <text>100</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDosIPnlKgxMDDmrKHnmoRqb2JCeUFkZHIKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDsgaSsrKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAvLyDorqnov5nkuKrmjqXlj6PmjILmjokKICAgICAgICAgICAgICAgIExpc3Q8VHBKb2JJbmZvPiBqb2JzID0genBDbGllbnRzLmpvYkJ5QWRkcihyZXExKTsKICAgICAgICAgICAgICAgIC8vIOWlveeahOaOpeWPoy4KICAgICAgICAgICAgICAgIHpwQ2xpZW50cy5nZXRDb21wYW55QnlJZChyZXEpOwogICAgICAgICAgICB9IGNhdGNoIChDbGllbnRFeGNlcHRpb24gZSkgewogICAgICAgICAgICB9CgogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDMwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDMwMDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHBKb2JCeUFkZHJSZXEgcmVxMSA9IG5ldyBUcEpvYkJ5QWRkclJlcSgpOwogICAgICAgICAgICByZXExLnNldEFkZHIoIuS4iua1t+Wkp+mbgeWhlCIpOwogICAgICAgICAgICByZXExLnNldENvdW50KDIwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHBKb2JCeUFkZHJSZXEgcmVxMSA9IG5ldyBUcEpvYkJ5QWRkclJlcSgpOwogICAgICAgICAgICByZXExLnNldEFkZHIoIuS4iua1t+Wkp+mbgeWhlCIpOwogICAgICAgICAgICByZXExLnNldENvdW50KDIwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>jobbyaddr</last-search>
+      <last-search>100</last-search>
       <last-offset />
-      <last-pattern>jobbyaddr</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>100</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>result.size</entry>
         <entry>tpcon</entry>
         <entry>tpcom</entry>
         <entry>int count</entry>
@@ -336,6 +336,7 @@
         <entry>_p</entry>
         <entry>getco</entry>
         <entry>jobbyaddr</entry>
+        <entry>100</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
