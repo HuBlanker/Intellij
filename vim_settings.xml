@@ -21,12 +21,12 @@
         <mark key="." line="72" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/major/dump.sh" timestamp="1569307922448" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569311524447">
-        <mark key="'" line="26" column="43" />
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-        <mark key="^" line="26" column="20" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569314299923">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="49" column="52" />
+        <mark key="]" line="75" column="51" />
+        <mark key="." line="75" column="51" />
+        <mark key="^" line="75" column="51" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode13.java" timestamp="1569297252693">
         <mark key="[" line="62" column="30" />
@@ -75,12 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="148" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
-      <jump line="87" column="49" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="705" column="14" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
       <jump line="3513" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3386" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -175,63 +169,66 @@
       <jump line="79" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="59" column="44" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" />
       <jump line="23" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="54" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="75" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="82" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="83" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>titleUv</text>
+        <text>(),</text>
       </register>
       <register name="-" type="4">
-        <text>titleUv</text>
+        <text>(),</text>
       </register>
       <register name="/" type="4">
-        <text>ch</text>
+        <text>han</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWwrKzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZVV2MS5mb3JFYWNoKChrLCB2KSAtPiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQgKz0gbWFwLmdldChjaGFyc1tpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpIDwgY2hhcnMubGVuZ3RoIC0gMSAmJiBtYXAuZ2V0KGNoYXJzW2ldKSA+PSBtYXAuZ2V0KGNoYXJzW2kgKyAxXSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUyLmFkZChIZWxwZXJzLmNsZWFudXBTdHIocykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IE1hdGguYWJzKHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzIDogdGl0bGUxKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGZsYWcgPSB4IDwgMCA/IC0xIDogMTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiMi4gc2l6ZSA9IHt9IiwgdGl0bGUyLnNpemUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbCA9IHJldCAqIDEwICsgKHggJSAxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiMS4gc2l6ZSA9IHt9IiwgdGl0bGUxLnNpemUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ch</last-search>
+      <last-search>han</last-search>
       <last-offset />
-      <last-pattern>ch</last-pattern>
+      <last-pattern>han</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loadjob</entry>
-        <entry>run</entry>
-        <entry>scanJobItems</entry>
         <entry>某段时间</entry>
         <entry>loadac</entry>
         <entry>push</entry>
@@ -249,6 +246,9 @@
         <entry>2</entry>
         <entry>= a</entry>
         <entry>ch</entry>
+        <entry>titleuv1</entry>
+        <entry>,</entry>
+        <entry>han</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
