@@ -21,6 +21,13 @@
         <mark key="." line="72" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/major/dump.sh" timestamp="1569307922448" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569311524447">
+        <mark key="'" line="26" column="43" />
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="26" column="20" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode13.java" timestamp="1569297252693">
         <mark key="[" line="62" column="30" />
         <mark key="]" line="62" column="28" />
@@ -63,9 +70,11 @@
         <mark key="^" line="332" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" timestamp="1569232606256" />
+      <file name="/fragment.java" timestamp="1569311516764">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
@@ -165,61 +174,61 @@
       <jump line="56" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="79" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="59" column="44" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" />
+      <jump line="23" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>titleUv</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>titleUv</text>
       </register>
       <register name="/" type="4">
-        <text>= a</text>
+        <text>ch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQgKz0gbWFwLmdldChjaGFyc1tpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpIDwgY2hhcnMubGVuZ3RoIC0gMSAmJiBtYXAuZ2V0KGNoYXJzW2ldKSA+PSBtYXAuZ2V0KGNoYXJzW2kgKyAxXSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IE1hdGguYWJzKHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQgKz0gbWFwLmdldChjaGFyc1tpXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGZsYWcgPSB4IDwgMCA/IC0xIDogMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpIDwgY2hhcnMubGVuZ3RoIC0gMSAmJiBtYXAuZ2V0KGNoYXJzW2ldKSA+PSBtYXAuZ2V0KGNoYXJzW2kgKyAxXSkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IE1hdGguYWJzKHgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbCA9IHJldCAqIDEwICsgKHggJSAxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGZsYWcgPSB4IDwgMCA/IC0xIDogMTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmbGFnIDwgMCAmJiAobCAqIGZsYWcpIDwgSW50ZWdlci5NSU5fVkFMVUUgKSByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbCA9IHJldCAqIDEwICsgKHggJSAxMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>= a</last-search>
+      <last-search>ch</last-search>
       <last-offset />
-      <last-pattern>= a</last-pattern>
+      <last-pattern>ch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>int count</entry>
         <entry>loadjob</entry>
         <entry>run</entry>
         <entry>scanJobItems</entry>
@@ -239,6 +248,7 @@
         <entry>100</entry>
         <entry>2</entry>
         <entry>= a</entry>
+        <entry>ch</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
