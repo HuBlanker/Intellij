@@ -25,9 +25,6 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/geek/GeekTodayActivePush.java" timestamp="1569244941173" />
-      <file name="/Dummy.txt" timestamp="1568969408567">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/tc_job_remove.html" timestamp="1569226634396">
         <mark key="[" line="41" column="9" />
         <mark key="]" line="43" column="0" />
@@ -42,6 +39,12 @@
         <mark key="]" line="3516" column="33" />
         <mark key="^" line="2531" column="8" />
         <mark key="." line="3516" column="33" />
+      </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode9.java" timestamp="1569293438898">
+        <mark key="[" line="75" column="20" />
+        <mark key="]" line="75" column="20" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="75" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/tc_job_remove.py" timestamp="1569223813032">
         <mark key="'" line="41" column="98" />
@@ -67,15 +70,13 @@
         <mark key="^" line="332" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" timestamp="1569232606256" />
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" timestamp="1569289457170">
-        <mark key="[" line="41" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1569073115666">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" timestamp="1569293042759">
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="29" />
+        <mark key="." line="72" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" />
@@ -175,66 +176,47 @@
       <jump line="50" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="56" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="79" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
+      <jump line="59" column="44" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$!velocityTool.camelCaseName(</text>
+        <text>solution.isPalindrome(121)</text>
       </register>
       <register name="-" type="4">
-        <text>$!velocityTool.camelCaseName(</text>
+        <text>solution.isPalindrome(121)</text>
       </register>
       <register name="/" type="4">
         <text>= a</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CnBhY2thZ2UgbGVldGNvZGUubGVldGNvZGUuZWRpdG9yLmNuOwoKLy8g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHJldCAqIDEwICsgKHggJSAxMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC56aXAuRGVmbGF0ZXJPdXRwdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IE1hdGguYWJzKHgpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>private ListNode reverseNode(ListNode l1) {
-        if (l1 == null) {
-            return l1;
-        }
-        ListNode pre = null;
-        while (l1.next != null) {
-            ListNode next = l1.next;
-            l1.next = pre;
-            pre = l1;
-            l1 = next;
-        }
-        l1.next = pre;
-        return l1;
-    }
-
-    private static void printNode(ListNode node) {
-        while (node != null) {
-            System.out.print(node.val);
-            node = node.next;
-        }
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGZsYWcgPSB4IDwgMCA/IC0xIDogMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV2ZXJzZU5vZGUodG1wKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbCA9IHJldCAqIDEwICsgKHggJSAxMCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3TDIgPSBuZXdMMi5uZXh0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3TDEgPSBuZXdMMS5uZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmbGFnIDwgMCAmJiAobCAqIGZsYWcpIDwgSW50ZWdlci5NSU5fVkFMVUUgKSByZXR1cm4gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wID0gYTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmbGFnID4gMCAmJiBsID4gSW50ZWdlci5NQVhfVkFMVUUpIHJldHVybiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5uZXh0ID0gdG1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3TDIgPSBuZXdMMiA9PSBudWxsID8gbmV3IExpc3ROb2RlKDApIDogbmV3TDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
