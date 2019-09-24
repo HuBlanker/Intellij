@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1569320390367" />
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/[2]两数相加.java" timestamp="1569225230186">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="13" column="0" />
@@ -21,12 +22,12 @@
         <mark key="." line="72" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/major/dump.sh" timestamp="1569307922448" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569316905611">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="52" column="91" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569321048113">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="75" column="49" />
+        <mark key="." line="75" column="49" />
+        <mark key="^" line="75" column="7" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode13.java" timestamp="1569297252693">
         <mark key="[" line="62" column="30" />
@@ -41,6 +42,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="70" column="10" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeHelpersTest.java" timestamp="1569320404208">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="114" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/tc_job_remove.html" timestamp="1569226634396">
         <mark key="[" line="41" column="9" />
@@ -75,15 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="705" column="14" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
-      <jump line="3513" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3386" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3371" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3367" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3364" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3362" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3357" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3355" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3352" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3347" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3342" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -174,62 +170,70 @@
       <jump line="75" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
       <jump line="82" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
       <jump line="83" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="26" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="64" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="22" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="66" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludE1hcDJGaWxlKCJqb2JfdGl0bGVfMi50eHQiLCB0aXRsZVV2Mik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>titleUv2</text>
       </register>
       <register name="/" type="4">
-        <text>han</text>
+        <text>run</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludE1hcDJGaWxlKCJqb2JfdGl0bGVfMi50eHQiLCB0aXRsZVV2Mik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGl0bGVVdjIuY29udGFpbnNLZXkoIumUgOWUruS4k+WRmCIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZSh0YXJnZXQsIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZSh0YXJnZXQsIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWwrKzsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZVV2MS5mb3JFYWNoKChrLCB2KSAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWwrKzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUyLmFkZChIZWxwZXJzLmNsZWFudXBTdHIocykpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZVV2MS5mb3JFYWNoKChrLCB2KSAtPiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzIDogdGl0bGUxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>han</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern>han</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>某段时间</entry>
         <entry>loadac</entry>
         <entry>push</entry>
         <entry>scan</entry>
@@ -249,6 +253,7 @@
         <entry>titleuv1</entry>
         <entry>,</entry>
         <entry>han</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
