@@ -30,15 +30,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1564579259096">
         <mark key="'" line="104" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" timestamp="1569397409759">
-        <mark key="[" line="835" column="17" />
-        <mark key="]" line="820" column="0" />
-        <mark key="." line="820" column="0" />
-      </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" timestamp="1569293042759">
-        <mark key="[" line="72" column="29" />
-        <mark key="]" line="72" column="29" />
-        <mark key="." line="72" column="29" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" timestamp="1569403280402">
+        <mark key="[" line="846" column="39" />
+        <mark key="]" line="846" column="40" />
+        <mark key="." line="846" column="40" />
+        <mark key="^" line="846" column="40" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode20.java" timestamp="1569334822683">
         <mark key="[" line="47" column="0" />
@@ -76,8 +72,8 @@
         <mark key="'" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/SearchAnalyzer.java" timestamp="1569379897336" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569402291205">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569403482749">
+        <mark key="'" line="86" column="35" />
         <mark key="[" line="122" column="44" />
         <mark key="]" line="122" column="44" />
         <mark key="^" line="167" column="45" />
@@ -103,11 +99,6 @@
         <mark key="]" line="20" column="114" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/nio/file/TempFileHelper.java" timestamp="1569399538205" />
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/tc_job_remove.html" timestamp="1569226634396">
-        <mark key="[" line="41" column="9" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/study/someprogram/pom.xml" timestamp="1563709849601">
         <mark key="'" line="86" column="25" />
       </file>
@@ -132,11 +123,6 @@
         <mark key="^" line="51" column="2" />
         <mark key="." line="51" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" timestamp="1569245013470">
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" timestamp="1569232606256" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/job_title/JobTitleCleanTest.java" timestamp="1569402157049">
         <mark key="'" line="65" column="10" />
@@ -150,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3449" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3444" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3441" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3438" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -250,19 +235,20 @@
       <jump line="46" column="57" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
       <jump line="65" column="10" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/job_title/JobTitleCleanTest.java" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="86" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>[一二三四五六七八九]</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>title</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJhIGVtb2ppOiB7fSIsIGtleSk7Cg==</text>
+      <register name="0" type="4">
+        <text>[一二三四五六七八九]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
@@ -292,19 +278,20 @@
         <text encoding="base64">CiAgICBARnVuY3Rpb25hbEludGVyZmFjZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>s/title/Title/g</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>title</last-pattern>
+      <last-replace>Title</last-replace>
+      <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>job_ids</entry>
         <entry>pre=pre</entry>
         <entry>_p</entry>
         <entry>getco</entry>
@@ -324,6 +311,7 @@
         <entry>append</entry>
         <entry>newFile</entry>
         <entry>data</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
@@ -332,6 +320,7 @@
         <entry>set ignorecase</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>s/title/Title/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
