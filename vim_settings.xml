@@ -4,6 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1569320390367" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/job_welfare.txt" timestamp="1569394330465">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode14.java" timestamp="1569332482198">
         <mark key="[" line="41" column="60" />
         <mark key="]" line="58" column="22" />
@@ -23,11 +30,10 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1564579259096">
         <mark key="'" line="104" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" timestamp="1569392965894">
-        <mark key="[" line="833" column="17" />
-        <mark key="]" line="826" column="17" />
-        <mark key="." line="826" column="17" />
-        <mark key="^" line="826" column="17" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" timestamp="1569394566528">
+        <mark key="[" line="835" column="17" />
+        <mark key="]" line="820" column="0" />
+        <mark key="." line="820" column="0" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" timestamp="1569293042759">
         <mark key="[" line="72" column="29" />
@@ -147,9 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3512" column="1" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3509" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3507" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3503" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3501" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3493" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -247,13 +250,16 @@
       <jump line="15" column="9" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/job_title/JobTitleCleanTest.java" />
       <jump line="57" column="53" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/job_title/JobTitleCleanTest.java" />
       <jump line="95" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" />
+      <jump line="11" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/job_welfare.txt" />
+      <jump line="0" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/job_welfare.txt" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/job_welfare.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>广招业务员</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>append</text>
@@ -262,31 +268,38 @@
         <text encoding="base64">ICAgICAgICAgICAgIuaApeaLmyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIuacneS5neaZmuWFrSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHMuZXF1YWxzKCLnlJ/pspzotoXluILlupflkZg2OGvlj6/lsLHov5HlronmjpLlt6XkvZwiKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIuacneS5neaZmuWFrSIsCiAgICAgICAgICAgICLkuqQ/56S+5L+dIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5zLnJlbW92ZUlmKHQgLT4gRGljdGlvbmFyeS5pc0NvbXBhbnkwKHQudGVybSkpOwogICAgICAgICAgICByZXR1cm4gczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIuWPjOS8kSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIuWPjOS8kSIsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHMgPSBzLnJlcGxhY2VBbGwoc3VyZUNvbXBhbnksICIiKTsK</text>
+      <register name="6" type="8">
+        <text>,
+,
+,</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgc3VyZUNvbXBhbnkgOiBEaWN0aW9uYXJ5LlNVUkVfQ09NUEFOSUVTKSB7Cg==</text>
+      <register name="7" type="8">
+        <text>&quot;
+&quot;
+&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="8" type="8">
+        <text>&quot;,
+&quot;,
+&quot;,
+&quot;,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIHN1cmVDb21wYW55IDogRGljdGlvbmFyeS5TVVJFX0NPTVBBTklFUykgewo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgIgogICAgICAgICAgICAiCiAgICAgICAgICAgICIKICAgICAgICAgICAgIgogICAgICAgICAgICAiCiAgICAgICAgICAgICIKICAgICAgICAgICAgIgogICAgICAgICAgICAiCiAgICAgICAgICAgICIKICAgICAgICAgICAgIg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
