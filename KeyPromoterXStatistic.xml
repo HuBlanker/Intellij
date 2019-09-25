@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1823</Count>
+          <Count>1824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -423,6 +423,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'LeetCode2'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LeetCode21'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'LeetCode21'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'LeetCode7'">
