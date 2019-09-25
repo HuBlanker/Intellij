@@ -52,7 +52,13 @@
         <mark key="^" line="49" column="60" />
         <mark key="." line="49" column="60" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode35.java" timestamp="1569419002904" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode35.java" timestamp="1569421973516">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="48" column="31" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode21.java" timestamp="1569342147699">
         <mark key="[" line="17" column="42" />
         <mark key="]" line="17" column="18" />
@@ -124,10 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
-      <jump line="552" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" />
-      <jump line="337" column="49" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
-      <jump line="280" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
       <jump line="120" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
       <jump line="44" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
@@ -224,68 +226,70 @@
       <jump line="69" column="16" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode28.java" />
       <jump line="67" column="23" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode28.java" />
       <jump line="42" column="48" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode28.java" />
+      <jump line="61" column="52" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode35.java" />
+      <jump line="50" column="52" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode35.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode35.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode35.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>(left + right) / 2 + 1;</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>(left + right) / 2 + 1;</text>
       </register>
       <register name="/" type="4">
-        <text>issip</text>
+        <text>left</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICLliJ0/5LitP+mrmD/nuqciLAogICAgICAgICAgICAgICAgIui1hOa3sSI=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBTb2x1dGlvbiBzb2x1dGlvbiA9IG5ldyBMZWV0Q29kZTI4KCkubmV3IFNvbHV0aW9uKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvbHV0aW9uLnN0clN0cigiaGVsbG8iLCAibGwiKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvbHV0aW9uLnN0clN0cigiaGVsbG8iLCAibGwiKSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxlZnQgKyAiYSIgKyByaWdodCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYmluYXJ5U2VhcmNoKCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudW0gPiB0YXJnZXQpCg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBTb2x1dGlvbiBzb2x1dGlvbiA9IG5ldyBMZWV0Q29kZTI4KCkubmV3IFNvbHV0aW9uKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvbHV0aW9uLnN0clN0cigiaGVsbG8iLCAibGwiKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvbHV0aW9uLnN0clN0cigiaGVsbG8iLCAibGwiKSk7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAg</text>
+      </register>
+      <register name="7" type="4">
         <text>{
                         
                     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IGogPSAwOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>{
             
         }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGljdGlvbmFyeS5pc0NvbXBhbnkwKCLpmL/ph4zlt7Tlt7QiKSk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-        }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/title/Title/g</text>
       </register>
     </registers>
     <search>
-      <last-search>issip</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>issip</last-pattern>
+      <last-pattern>left</last-pattern>
       <last-replace>Title</last-replace>
       <last-substitute>title</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>100</entry>
         <entry>2</entry>
         <entry>= a</entry>
         <entry>ch</entry>
@@ -305,6 +309,7 @@
         <entry>seg</entry>
         <entry>i</entry>
         <entry>issip</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
