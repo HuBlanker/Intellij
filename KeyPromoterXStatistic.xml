@@ -409,6 +409,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'JobTitleCleanTest.segSingleTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'JobTitleCleanTest.segSingleTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LeetCode13'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
