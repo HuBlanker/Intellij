@@ -44,6 +44,13 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1568968235932">
         <mark key="'" line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode26.java" timestamp="1569378002010">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="49" column="60" />
+        <mark key="^" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" timestamp="1564639723441">
         <mark key="'" line="470" column="0" />
       </file>
@@ -113,9 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3339" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3336" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3333" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3328" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3326" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3323" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -213,19 +217,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_companies.txt" />
       <jump line="299" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_companies.txt" />
       <jump line="1701" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_companies.txt" />
+      <jump line="59" column="15" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode26.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode26.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode26.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhID0gezEsIDIsIDMsIDQsIDUsIDUsIDUsIDUsIDZ9OwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb2x1dGlvbi5yZW1vdmVEdXBsaWNhdGVzKGEpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>网易云音乐</text>
+        <text>b =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZVV2Mi5mb3JFYWNoKChrLCB2KSAtPiB7CiAgICAgICAgICAgIHRpdGxlVXYzLnB1dElmQWJzZW50KGhhbigicmVwbGFjZUNpdHkiLCBrLCByZXBsYWNlQ2l0eSksIHYpOwogICAgICAgIH0pOwogICAgICAgIGxvZ2dlci5pbmZvKCIzLiBzaXplID0ge30sIG1lcmdlID0ge30iLCB0aXRsZVV2My5zaXplKCksIHRpdGxlVXYzLnNpemUoKSAtIHRpdGxlVXYyLnNpemUoKSk7CiAgICAgICAgcHJpbnRNYXAyRmlsZSgiam9iX3RpdGxlXzMudHh0IiwgdGl0bGVVdjMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBhID0gezEsIDIsIDMsIDQsIDUsIDUsIDUsIDUsIDZ9OwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb2x1dGlvbi5yZW1vdmVEdXBsaWNhdGVzKGEpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -262,15 +269,14 @@
       </register>
     </registers>
     <search>
-      <last-search>网易云音乐</last-search>
+      <last-search>b =</last-search>
       <last-offset />
-      <last-pattern>网易云音乐</last-pattern>
+      <last-pattern>b =</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scan</entry>
         <entry>时间</entry>
         <entry>fetch</entry>
         <entry>20</entry>
@@ -290,6 +296,7 @@
         <entry>run</entry>
         <entry>京东</entry>
         <entry>网易云音乐</entry>
+        <entry>b =</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
