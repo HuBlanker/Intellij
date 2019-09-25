@@ -72,12 +72,12 @@
         <mark key="'" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/SearchAnalyzer.java" timestamp="1569379897336" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569403482749">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569406517516">
         <mark key="'" line="86" column="35" />
-        <mark key="[" line="122" column="44" />
-        <mark key="]" line="122" column="44" />
-        <mark key="^" line="167" column="45" />
-        <mark key="." line="122" column="44" />
+        <mark key="[" line="108" column="16" />
+        <mark key="]" line="108" column="15" />
+        <mark key="." line="108" column="15" />
+        <mark key="^" line="108" column="15" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode13.java" timestamp="1569297252693">
         <mark key="[" line="62" column="30" />
@@ -239,10 +239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[一二三四五六七八九]</text>
+        <text>2File(&quot;job_title_&quot; + strategy + &quot;.txt&quot;, to);</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>2File(&quot;job_title_&quot; + strategy + &quot;.txt&quot;, to);</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -251,31 +251,35 @@
         <text>[一二三四五六七八九]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrICsgdik7Cg==</text>
+      <register name="2" type="4">
+        <text>{
+            String s = handler.handle(k);
+            log.put(k, s);
+            to.putIfAbsent(s, v);
+        }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrZXkgKyB2YWx1ZSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGxvZyA9IG5ldyBIYXNoTWFwPD4oZnJvbS5zaXplKCkpOwogICAgICAgIGZyb20uZm9yRWFjaCgoaywgdikgLT4gewogICAgICAgICAgICBTdHJpbmcgcyA9IGhhbmRsZXIuaGFuZGxlKGspOwogICAgICAgICAgICBsb2cucHV0KGssIHMpOwogICAgICAgICAgICB0by5wdXRJZkFic2VudChzLCB2KTsKICAgICAgICB9KTsKICAgICAgICBsb2dnZXIuaW5mbygie30uIHNpemUgPSB7fSwgbWVyZ2UgPSB7fSIsIHN0cmF0ZWd5LCB0by5zaXplKCksIHRvLnNpemUoKSAtIGZyb20uc2l6ZSgpKTsKICAgICAgICBwcmludE1hcDJGaWxlKCJqb2JfdGl0bGVfIiArIHN0cmF0ZWd5ICsgIi50eHQiLCB0byk7CgogICAgICAgIFBhdGggcGF0aCA9IFBhdGhzLmdldChkaXIgKyAidGl0bGVfbG9nXyIgKyBzdHJhdGVneSk7CiAgICAgICAgaWYgKEZpbGVzLm5vdEV4aXN0cyhwYXRoKSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRmlsZXMuY3JlYXRlRmlsZShwYXRoKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBsb2cuZm9yRWFjaCgoaywgdikgLT4gewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRmlsZXMud3JpdGUocGF0aCwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChrICsgIiAtPiAiICsgdiksIFN0YW5kYXJkT3Blbk9wdGlvbi5BUFBFTkQpOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiYSBlbW9qaToge30iLCBrKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRmlsZXMud3JpdGUocGF0aCwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChrICsgIiAtPiAiICsgdiksIFN0YW5kYXJkT3Blbk9wdGlvbi5BUFBFTkQpOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiYSBlbW9qaToge30iLCBrKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHMgPSBybUVtb2ppKHMpOwo=</text>
+      <register name="5" type="4">
+        <text>(&quot;a emoji: {}&quot;, k)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWcqOi/memHjOebtOaOpeaKiuaJgOacieeahGVtb2pp5bmy5o6JLgo=</text>
+      <register name="6" type="4">
+        <text>(&quot;a emoji: {}&quot;, k)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzID0gc3BsaXRbMV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJhIGVtb2ppOiB7fSIsIGspOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJhIGVtb2ppOiB7fSIsIGspOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBARnVuY3Rpb25hbEludGVyZmFjZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/title/Title/g</text>
