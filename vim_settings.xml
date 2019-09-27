@@ -3,15 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1569555569244">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="10" column="101" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1569570960572">
+        <mark key="[" line="55" column="41" />
+        <mark key="]" line="55" column="55" />
+        <mark key="." line="55" column="46" />
+        <mark key="^" line="55" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/model/JobItem.java" timestamp="1569469767086" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/NearbyJobCollector.java" timestamp="1569551570129" />
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/ZpJob.java" timestamp="1569469136186" />
       <file name="/a.dummy" timestamp="1569505587216">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/AntiSpiderHandler.java" timestamp="1569570874570">
+        <mark key="'" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1569506987170">
         <mark key="'" line="590" column="27" />
@@ -90,14 +92,6 @@
         <mark key="^" line="4" column="62" />
         <mark key="." line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2NewJobHandler.java" timestamp="1569504609043">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1569505415140">
-        <mark key="[" line="1572" column="36" />
-        <mark key="]" line="1572" column="52" />
-      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode26.java" timestamp="1569378002010">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="48" />
@@ -145,7 +139,6 @@
         <mark key="^" line="5" column="74" />
         <mark key="." line="5" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/BuildCfAndStats.java" timestamp="1569486481524" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/job_title/JobTitleClean.java" timestamp="1569416613515">
         <mark key="'" line="66" column="1" />
         <mark key="[" line="90" column="0" />
@@ -153,7 +146,6 @@
         <mark key="^" line="64" column="48" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/c_f2_lr_ctr.sh" timestamp="1569554499933" />
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode13.java" timestamp="1569297252693">
         <mark key="[" line="62" column="30" />
         <mark key="]" line="62" column="28" />
@@ -216,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="56" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="79" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode2.java" />
       <jump line="59" column="44" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode7.java" />
@@ -316,10 +307,11 @@
       <jump line="59" column="90" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/BlockUtil.java" />
       <jump line="22" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/BlockUtil.java" />
       <jump line="204" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
+      <jump line="48" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/AntiSpiderHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>ip_spider_redis</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
