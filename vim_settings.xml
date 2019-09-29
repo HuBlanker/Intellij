@@ -209,11 +209,11 @@
         <mark key="." line="65" column="10" />
         <mark key="^" line="65" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CountHashMap0.java" timestamp="1569669118345">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CountHashMap0.java" timestamp="1569723411608">
         <mark key="'" line="159" column="23" />
-        <mark key="[" line="128" column="47" />
-        <mark key="]" line="128" column="46" />
-        <mark key="." line="128" column="46" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
         <mark key="^" line="128" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1569599223556">
@@ -327,7 +327,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>new Count(count.d1 + n1, count.d2 + n2, count.d3 + n3, count.d4 + n4).get()</text>
@@ -339,39 +339,39 @@
         <text encoding="base64">ICAgICAgICAgICAgZDEgPSAoaW50KSAodiAmIDB4ZmZmZik7CiAgICAgICAgICAgIGQyID0gKGludCkgKHYgPj4gMTYpICYgMHhmZmZmOwogICAgICAgICAgICBkMyA9IChpbnQpICh2ID4+IDMyKSAmIDB4ZmZmZjsKICAgICAgICAgICAgZDQgPSAoaW50KSAodiA+PiA0OCkgJiAweGZmZmY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
         <text>(int)
 (int)
 (int)
 (int)</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>int
 int
 int
 int</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291bnQgY291bnQgPSBuZXcgQ291bnQobWFwLmdldChrZXkuY29tYktleSh0KSkpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBGdW5jdGlvbmFsSW50ZXJmYWNlCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBDb3VudEhhc2hNYXAwPEpvYkl0ZW0sIEQxVG9ENE5ld0NvdW50ZXI+IGkgPSBuZXcgQ291bnRIYXNoTWFwMDw+KDEwLCAgbmV3IEQxVG9ENE5ld0NvdW50ZXIoKSwgRDFUb0Q0TmV3Q291bnRlci5jbGFzcyk7Cg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>.judge
 .judge
 .judge</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/750/570/g</text>
