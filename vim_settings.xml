@@ -153,11 +153,11 @@
         <mark key="]" line="161" column="5" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/CountGeekHandler.java" timestamp="1569813210629">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="32" column="58" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/CountGeekHandler.java" timestamp="1569828768180">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode100.java" timestamp="1569824107642">
         <mark key="[" line="49" column="26" />
@@ -223,6 +223,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1569575575989">
+        <mark key="'" line="411" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/job_welfare.txt" timestamp="1569394330465">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="0" column="36" />
@@ -269,12 +272,8 @@
         <mark key="^" line="226" column="44" />
         <mark key="." line="226" column="40" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode101.java" timestamp="1569826657470">
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode101.java" timestamp="1569828706211">
         <mark key="'" line="52" column="49" />
-        <mark key="[" line="95" column="24" />
-        <mark key="]" line="95" column="24" />
-        <mark key="." line="95" column="24" />
-        <mark key="^" line="95" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/FacetCollector.java" timestamp="1569576602866">
         <mark key="[" line="35" column="40" />
@@ -548,10 +547,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.left</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>.left</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>counthashmap</text>
@@ -560,31 +559,31 @@
         <text encoding="base64">ICogcHVibGljIGNsYXNzIFRyZWVOb2RlIHsKICogICAgIGludCB2YWw7CiAqICAgICBUcmVlTm9kZSBsZWZ0OwogKiAgICAgVHJlZU5vZGUgcmlnaHQ7CiAqICAgICBUcmVlTm9kZShpbnQgeCkgeyB2YWwgPSB4OyB9CiAqIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcy5wdXNoKHJvb3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChMaW5rZWRMaXN0PEludGVnZXI+KSBxKS5wdXNoKHJvb3QudmFsKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgcy5wdXNoKHBvcCk7CiAgICAgICAgICAgICAgICAgICAgcy5wdXNoKHBvcC5sZWZ0KTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChwb3AucmlnaHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHMucHVzaChwb3AucmlnaHQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0LmFkZChwb3AudmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhY2s8VHJlZU5vZGU+IHMgPSBuZXcgU3RhY2s8PigpOwogICAgICAgICAgICBUcmVlTm9kZSBjID0gcm9vdDsKICAgICAgICAgICAgd2hpbGUgKCFzLmlzRW1wdHkoKSB8fCBjICE9IG51bGwpIHsKCiAgICAgICAgICAgICAgICB3aGlsZSAoYyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgcy5wdXNoKGMpOwogICAgICAgICAgICAgICAgICAgIGMgPSBjLmxlZnQ7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjID0gcy5wb3AoKTsKICAgICAgICAgICAgICAgIHJldC5hZGQoYy52YWwpOwogICAgICAgICAgICAgICAgYyA9IGMucmlnaHQ7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHJldDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwb3AubGVmdCAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy5wdXNoKHJvb3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyZWVOb2RlIHBvcCA9IHMucG9wKCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgcy5wdXNoKHBvcCk7CiAgICAgICAgICAgICAgICAgICAgcy5wdXNoKHBvcC5sZWZ0KTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChwb3AucmlnaHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHMucHVzaChwb3AucmlnaHQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0LmFkZChwb3AudmFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgVHJlZU5vZGUgewogICAgICAgICAgICBpbnQgdmFsOwogICAgICAgICAgICBUcmVlTm9kZSBsZWZ0OwogICAgICAgICAgICBUcmVlTm9kZSByaWdodDsKCiAgICAgICAgICAgIFRyZWVOb2RlKGludCB4KSB7CiAgICAgICAgICAgICAgICB2YWwgPSB4OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwb3AubGVmdCAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGotLTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyZWVOb2RlIHBvcCA9IHMucG9wKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkrKzsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgVHJlZU5vZGUgewogICAgICAgICAgICBpbnQgdmFsOwogICAgICAgICAgICBUcmVlTm9kZSBsZWZ0OwogICAgICAgICAgICBUcmVlTm9kZSByaWdodDsKCiAgICAgICAgICAgIFRyZWVOb2RlKGludCB4KSB7CiAgICAgICAgICAgICAgICB2YWwgPSB4OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9MDsgaSA8IHJldC5zaXplKCkgLTE7KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGotLTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkrKzsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/CountHashMap.key/CountHashMap1.key/g</text>
