@@ -33,7 +33,12 @@
         <mark key="." line="26" column="60" />
         <mark key="^" line="26" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/train_logistic.py" timestamp="1570611223662" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/train_logistic.py" timestamp="1570612576525">
+        <mark key="[" line="631" column="27" />
+        <mark key="]" line="631" column="44" />
+        <mark key="^" line="631" column="44" />
+        <mark key="." line="631" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" timestamp="1569244961192">
         <mark key="[" line="579" column="34" />
       </file>
@@ -78,6 +83,7 @@
         <mark key="[" line="42" column="7" />
         <mark key="]" line="42" column="130" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/model/JobSearchLGB73.java" timestamp="1570612347608" />
       <file name="/Class.txt.ft" timestamp="1570601714891">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,7 +104,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/KeywordQueryBuilder.java" timestamp="1570521104007" />
     </filemarks>
     <jumps>
-      <jump line="67" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
       <jump line="77" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
       <jump line="93" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
       <jump line="102" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
@@ -198,6 +203,7 @@
       <jump line="87" column="16" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode111.java" />
       <jump line="64" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
       <jump line="122" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
+      <jump line="608" column="50" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/train_logistic.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -245,7 +251,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFV2LnB1dChzWzNdLCAoayxvdiwgbnYpLT57Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/CountHashMap.key/CountHashMap1.key/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -285,7 +291,6 @@
         <entry>91</entry>
         <entry>wq</entry>
         <entry>set ignorecase</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>s/title/Title/g</entry>
         <entry>s/750/570/g</entry>
@@ -297,6 +302,7 @@
         <entry>%s/CountHashMap/CountHashMap1/s</entry>
         <entry>%s/CountHashMap/CountHashMap1/g</entry>
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
