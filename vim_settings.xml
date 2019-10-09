@@ -70,10 +70,12 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" timestamp="1570603380620">
-        <mark key="[" line="72" column="11" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" timestamp="1570605107486">
+        <mark key="a" line="94" column="11" />
+        <mark key="'" line="122" column="4" />
+        <mark key="[" line="76" column="85" />
+        <mark key="]" line="76" column="86" />
+        <mark key="." line="76" column="86" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode112.java" timestamp="1570601770058">
         <mark key="[" line="26" column="22" />
@@ -238,8 +240,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/KeywordQueryBuilder.java" timestamp="1570521104007" />
     </filemarks>
     <jumps>
-      <jump line="28" column="76" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/CountHashMap2Test.java" />
-      <jump line="30" column="64" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/CountHashMap2Test.java" />
       <jump line="67" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
       <jump line="77" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
       <jump line="93" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
@@ -338,65 +338,57 @@
       <jump line="15" column="9" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode108.java" />
       <jump line="64" column="25" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode111.java" />
       <jump line="87" column="16" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode111.java" />
+      <jump line="64" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
+      <jump line="122" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e.printStackTrace();</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text>s[2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUcmVlTm9kZVtdIG5zID0gbmV3IFRyZWVOb2RlWzEwXTsKICAgICAgICBuc1swXSA9IG5ldyBUcmVlTm9kZSgzKTsKICAgICAgICBuc1sxXSA9IG5ldyBUcmVlTm9kZSgzKTsKICAgICAgICBuc1syXSA9IG5ldyBUcmVlTm9kZSgzKTsKICAgICAgICBuc1szXSA9IG5ldyBUcmVlTm9kZSgzKTsKICAgICAgICBuc1s0XSA9IG5ldyBUcmVlTm9kZSgzKTsK</text>
+        <text encoding="base64">ICAgICAgICBQYXRoIG91dCA9IFBhdGhzLmdldCgiZGF0YS9zYW1wbGUiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB1diA9IE1hdGgubWF4KG1heFV2LmdldE9yRGVmYXVsdChzWzNdLCAwKSwgSW50ZWdlci52YWx1ZU9mKHNbMl0pKTsKICAgICAgICAgICAgICAgIG1heFV2LnB1dChzWzNdLCB1dik7CiAgICAgICAgICAgICAgICBzYW1wbGVzLmFkZChuZXcgU2FtcGxlKEludGVnZXIudmFsdWVPZihzWzBdKSwgSW50ZWdlci52YWx1ZU9mKHNbMV0pLCBJbnRlZ2VyLnZhbHVlT2Yoc1syXSksIHNbM10sIHNbNF0sIEludGVnZXIudmFsdWVPZihzWzVdKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFNhbXBsZSBmcm9tKFN0cmluZyBzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUcmVlTm9kZVtdIGEgPSBuZXcgVHJlZU5vZGVbMTBdOwogICAgICAgIGFbMF0gPSBuZXcgVHJlZU5vZGUoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gTWF0aC5tYXgob3YsIG52KTsK</text>
       </register>
-      <register name="6" type="8">
-        <text>*
-*
-*
-*
-*
-*</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFV2LnB1dChzWzNdLCAoayxvdiwgbnYpLT57Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>*
-*
-*
-*
-*
-*</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHl0aG9uOiBweXRob24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB0b1VjID0gYWxsVXYuZ2V0T3JEZWZhdWx0KGN1cnJlbnQucywgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/CountHashMap.key/CountHashMap1.key/g</text>
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search>s[2</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
+      <last-pattern>s[2</last-pattern>
       <last-replace>CountHashMap1.key</last-replace>
       <last-substitute>CountHashMap.key</last-substitute>
       <last-dir>1</last-dir>
@@ -404,8 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blockutil</entry>
-        <entry>key</entry>
         <entry>judge</entry>
         <entry>get</entry>
         <entry>result0</entry>
@@ -424,6 +414,8 @@
         <entry>CountHashMap.key</entry>
         <entry>counthashmap</entry>
         <entry>left</entry>
+        <entry>s[2]</entry>
+        <entry>s[2</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
