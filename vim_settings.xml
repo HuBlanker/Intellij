@@ -111,7 +111,13 @@
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" timestamp="1570679602853" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" timestamp="1570689407453">
+        <mark key="'" line="149" column="35" />
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="71" column="47" />
+        <mark key="^" line="71" column="47" />
+        <mark key="." line="71" column="47" />
+      </file>
       <file name="/Dummy.txt" timestamp="1570625199675">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,14 +142,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/KeywordQueryBuilder.java" timestamp="1570679800656" />
     </filemarks>
     <jumps>
-      <jump line="102" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
-      <jump line="110" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
-      <jump line="38" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
-      <jump line="55" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
-      <jump line="61" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekQuery.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CountHashMap2.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/CountHashMap2Test.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/CountHashMap2Test.java" />
       <jump line="40" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" />
       <jump line="229" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" />
@@ -236,6 +234,14 @@
       <jump line="608" column="50" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/train_logistic.py" />
       <jump line="96" column="88" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
       <jump line="339" column="10" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/train_logistic.py" />
+      <jump line="71" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
+      <jump line="80" column="49" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
+      <jump line="90" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
+      <jump line="99" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
+      <jump line="130" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
+      <jump line="132" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
+      <jump line="144" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
+      <jump line="149" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -245,7 +251,7 @@
         <text>toUv</text>
       </register>
       <register name="/" type="4">
-        <text>s[2</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhcy5hcHBlbmQoW2Zsb2F0KGEuc3BsaXQoJzonKVsxXSkgZm9yIGEgaW4gcGFydHNbMTpdXSkK</text>
@@ -282,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>s[2</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>s[2</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>CountHashMap1.key</last-replace>
       <last-substitute>CountHashMap.key</last-substitute>
       <last-dir>1</last-dir>
@@ -292,8 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>judge</entry>
-        <entry>get</entry>
         <entry>result0</entry>
         <entry>CountHashMap0</entry>
         <entry>main</entry>
@@ -312,6 +316,8 @@
         <entry>left</entry>
         <entry>s[2]</entry>
         <entry>s[2</entry>
+        <entry>dir</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
