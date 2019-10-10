@@ -111,12 +111,18 @@
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" timestamp="1570689407453">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" timestamp="1570691649749">
         <mark key="'" line="149" column="35" />
-        <mark key="[" line="71" column="47" />
-        <mark key="]" line="71" column="47" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="112" column="0" />
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/RecallCountMain.java" timestamp="1570691652107">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="66" column="90" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1570625199675">
         <mark key="[" line="0" column="0" />
@@ -244,44 +250,46 @@
       <jump line="149" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toUv</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyB3b3JkID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgICAgICAgICAgICBpZiAod29yZC5sZW5ndGgoKSA8PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgd29yZGxlbjEgKz0gMTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICghRGljdGlvbmFyeS5pc0NvbXBhbnkwKHdvcmQpICYmIFRlcm1LaW5kLk5BTUUgPT0gY2MuY2xhc3NpZnkod29yZCkpIHsKICAgICAgICAgICAgICAgICAgICBuYW1lQ250ICs9IDE7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>toUv</text>
+        <text>counts</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhcy5hcHBlbmQoW2Zsb2F0KGEuc3BsaXQoJzonKVsxXSkgZm9yIGEgaW4gcGFydHNbMTpdXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyB3b3JkID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgICAgICAgICAgICBpZiAod29yZC5sZW5ndGgoKSA8PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgd29yZGxlbjEgKz0gMTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICghRGljdGlvbmFyeS5pc0NvbXBhbnkwKHdvcmQpICYmIFRlcm1LaW5kLk5BTUUgPT0gY2MuY2xhc3NpZnkod29yZCkpIHsKICAgICAgICAgICAgICAgICAgICBuYW1lQ250ICs9IDE7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZyb211diwgdG8gdXYsIGVkaXQtZGlzdGFuY2UsIGZyb20sIHRvLCByZXN1bHQuCg==</text>
+      <register name="1" type="4">
+        <text>catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZyb211diwgdG8gdXYsIGVkaXQtZGlzdGFuY2UsIGZyb20sIHRvLCByZXN1bHQuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gMAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjID0gMAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
