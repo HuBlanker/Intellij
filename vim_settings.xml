@@ -48,6 +48,9 @@
         <mark key="^" line="126" column="132" />
         <mark key="." line="126" column="132" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobQuery.java" timestamp="1570774403273">
+        <mark key="'" line="81" column="26" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode14.java" timestamp="1569332482198">
         <mark key="[" line="41" column="60" />
         <mark key="]" line="58" column="22" />
@@ -104,15 +107,12 @@
         <mark key="." line="63" column="54" />
         <mark key="^" line="63" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchResult.java" timestamp="1570774646238" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/CountHashMap2.java" timestamp="1569743437795">
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="27" />
         <mark key="^" line="40" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/runlr_job_search.sh" timestamp="1570607899122">
-        <mark key="[" line="268" column="11" />
-        <mark key="]" line="268" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_bd.txt" timestamp="1570589244348">
         <mark key="[" line="11206" column="0" />
@@ -194,10 +194,6 @@
         <mark key="^" line="70" column="10" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1570695866389">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="67" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1570601699156">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,10 +202,6 @@
         <mark key="]" line="77" column="18" />
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SpellCorrector.java" timestamp="1570586944327">
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="42" column="130" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/F1JobHandler.java" timestamp="1569815505398">
         <mark key="[" line="128" column="89" />
@@ -344,14 +336,6 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/runxgb_new_job2.sh" timestamp="1570610113446">
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" timestamp="1570696533383">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/FacetCollector.java" timestamp="1569576602866">
         <mark key="[" line="35" column="40" />
         <mark key="]" line="35" column="47" />
@@ -404,10 +388,11 @@
         <mark key="." line="77" column="19" />
         <mark key="^" line="52" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/RecallCountMain.java" timestamp="1570765956581">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/RecallCountMain.java" timestamp="1570775119045">
+        <mark key="[" line="114" column="69" />
+        <mark key="]" line="114" column="63" />
+        <mark key="." line="114" column="63" />
+        <mark key="^" line="114" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/Judger.java" timestamp="1569741706456">
         <mark key="[" line="6" column="7" />
@@ -557,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" />
       <jump line="90" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" />
       <jump line="236" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/counthashmap/CountHashMap1.java" />
@@ -657,13 +641,14 @@
       <jump line="346" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" />
       <jump line="21" column="44" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/other/MaxWater.java" />
+      <jump line="81" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobQuery.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCgrKGNvbXBhbnk6cGh0aG9uKSkpXjEwMC4wICsoKygodGl0bGU65byA5Y+RKV4xLjc1IChkZXNjOuW8gOWPkSleMC4wNykgKygodGl0bGU65bel56iL5biIKV4xLjc1IChkZXNjOiDlt6XnqIvluIgpXjAuMDcpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>JobWrapper.</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>JobWrapper.</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
