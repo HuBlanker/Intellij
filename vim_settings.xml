@@ -64,11 +64,11 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode141.java" timestamp="1570760035828">
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="15" />
-        <mark key="^" line="83" column="15" />
-        <mark key="." line="83" column="15" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode141.java" timestamp="1570763604889">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="55" column="59" />
+        <mark key="." line="55" column="59" />
+        <mark key="^" line="55" column="59" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode111.java" timestamp="1570601627365">
         <mark key="'" line="102" column="16" />
@@ -698,15 +698,8 @@
       <jump line="131" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>*
-*
-*
-*
-*
-*
-*
-*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>int a = null;</text>
@@ -717,7 +710,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIGNsYXNzIExpc3ROb2RlIHsKICAgICAqICAgICBpbnQgdmFsOwogICAgICogICAgIExpc3ROb2RlIG5leHQ7CiAgICAgKiAgICAgTGlzdE5vZGUoaW50IHgpIHsKICAgICAqICAgICAgICAgdmFsID0geDsKICAgICAqICAgICAgICAgbmV4dCA9IG51bGw7CiAgICAgKiAgICAgfQogICAgICogfQo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICDkvZzogIXvvJpMZWV0Q29kZQogICAgICAgIOmTvuaOpe+8mmh0dHBzOi8vbGVldGNvZGUtY24uY29tL3Byb2JsZW1zL2xpbmtlZC1saXN0LWN5Y2xlL3NvbHV0aW9uL2h1YW4teGluZy1saWFuLWJpYW8tYnktbGVldGNvZGUvCiAgICAgICAg5p2l5rqQ77ya5Yqb5omj77yITGVldENvZGXvvIkKICAgICAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIJrawo=</text>
+      </register>
+      <register name="3" type="8">
         <text>*
 *
 *
@@ -727,29 +726,23 @@
 *
 *</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETyBvcnF1ZXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUXVlcnkgb3JRdWVyeSA9Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETyBvcnF1ZXJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUXVlcnkgb3JRdWVyeSA9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgc2VydmVyID0gIjE5Mi4xNjguMS4yNTE6NTY3NjciOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
