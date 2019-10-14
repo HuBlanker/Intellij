@@ -62,9 +62,10 @@
         <mark key="." line="54" column="12" />
         <mark key="^" line="54" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1571041506113">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="105" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1571048928983">
+        <mark key="[" line="96" column="51" />
+        <mark key="]" line="96" column="79" />
+        <mark key="." line="96" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" timestamp="1569562697897">
         <mark key="[" line="126" column="122" />
@@ -292,6 +293,9 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1571049072417">
+        <mark key="'" line="226" column="55" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode13.java" timestamp="1569297252693">
         <mark key="[" line="62" column="30" />
         <mark key="]" line="62" column="28" />
@@ -376,11 +380,11 @@
         <mark key="^" line="75" column="20" />
         <mark key="." line="75" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1571048192563">
-        <mark key="[" line="171" column="13" />
-        <mark key="]" line="165" column="16" />
-        <mark key="." line="165" column="16" />
-        <mark key="^" line="165" column="16" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1571049678427">
+        <mark key="[" line="167" column="29" />
+        <mark key="]" line="167" column="30" />
+        <mark key="." line="167" column="30" />
+        <mark key="^" line="167" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/DumpGeekItemMain.java" timestamp="1570715730007">
         <mark key="'" line="40" column="6" />
@@ -460,8 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
-      <jump line="80" column="49" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
       <jump line="90" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
       <jump line="99" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
       <jump line="130" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
@@ -560,67 +562,64 @@
       <jump line="667" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" />
       <jump line="397" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" />
       <jump line="704" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" />
+      <jump line="226" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
+      <jump line="191" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>load user works error</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text>search</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IyYj</text>
+        <text>SearchKeyWordFromGeek</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArK2NvbUNvdW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChza2lsQ291bnQgPiAzKSBicmVhazsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN1bWVIZWxwZXJzLnNvcnRXb3Jrcyh1cyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPEludGVnZXIsIExpc3Q8VXNlcldvcms+PiB1c2VyV29ya3MgPSB3b3Jrcy5nZXQoKQogICAgICAgICAgICB1c2VyV29ya3MudmFsdWVzKCkuZm9yRWFjaCh3LT57CiAgICAgICAgICAgICAgICB3LmZvckVhY2goZS0+ewoKCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace>CountHashMap1.key</last-replace>
       <last-substitute>CountHashMap.key</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>s[2]</entry>
-        <entry>s[2</entry>
-        <entry>dir</entry>
-        <entry>result</entry>
-        <entry>pinyin</entry>
         <entry>我</entry>
         <entry>searchkeyword</entry>
         <entry>geekkeyword</entry>
@@ -636,6 +635,11 @@
         <entry>奇虎</entry>
         <entry>360</entry>
         <entry>sort</entry>
+        <entry>985</entry>
+        <entry>211</entry>
+        <entry>double</entry>
+        <entry>isd</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
