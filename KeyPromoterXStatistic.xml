@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2086</Count>
+          <Count>2087</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -623,6 +623,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'MigrateRedis'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MiscServerTest.SearchKeyWordFromGeekTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MiscServerTest.SearchKeyWordFromGeekTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OpRecPush'">
