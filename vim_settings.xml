@@ -105,6 +105,7 @@
         <mark key="^" line="3" column="84" />
         <mark key="." line="3" column="84" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/zhipin/client/NlpClients.java" timestamp="1571120321593" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1570498420761">
         <mark key="[" line="222" column="42" />
         <mark key="]" line="222" column="50" />
@@ -165,6 +166,12 @@
         <mark key="." line="264" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" timestamp="1571121519843">
+        <mark key="'" line="57" column="11" />
+        <mark key="]" line="104" column="11" />
+        <mark key="." line="104" column="11" />
+        <mark key="^" line="104" column="11" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/other/FarestNodeInBinaryTree.java" timestamp="1571104789044">
         <mark key="[" line="26" column="72" />
         <mark key="]" line="36" column="21" />
@@ -183,7 +190,8 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" timestamp="1571107486837">
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" timestamp="1571120771490">
+        <mark key="'" line="136" column="0" />
         <mark key="[" line="41" column="18" />
         <mark key="]" line="41" column="33" />
       </file>
@@ -197,11 +205,11 @@
       <file name="$USER_HOME$/workspace/zp-client/scripts/gen.sh" timestamp="1571108161796">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1569588628420">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="10" column="101" />
-        <mark key="." line="55" column="46" />
-        <mark key="^" line="55" column="46" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1571121659243">
+        <mark key="[" line="184" column="60" />
+        <mark key="]" line="184" column="60" />
+        <mark key="." line="184" column="60" />
+        <mark key="^" line="184" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/com_name_mapping.txt" timestamp="1571047163753">
         <mark key="'" line="50" column="16" />
@@ -360,7 +368,7 @@
         <mark key="^" line="13" column="94" />
         <mark key="." line="13" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ClientsPool.java" timestamp="1571107210106" />
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ClientsPool.java" timestamp="1571120650741" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/block_750_comids.sh" timestamp="1569504659564">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="47" />
@@ -389,9 +397,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/relatedbrand/RelatedBrandHandler.java" timestamp="1571108076451" />
     </filemarks>
     <jumps>
-      <jump line="99" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
-      <jump line="130" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
-      <jump line="132" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
       <jump line="144" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
       <jump line="149" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
       <jump line="140" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/KillNoResultWordMain.java" />
@@ -489,19 +494,22 @@
       <jump line="226" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="191" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/gen.sh" />
+      <jump line="145" column="47" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" />
+      <jump line="57" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>168.1.136:8912</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>168.1.136:8912</text>
       </register>
       <register name="/" type="4">
         <text>nlpcl</text>
       </register>
-      <register name="0" type="4">
-        <text>16 * 1024 * 1024</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItYWNfZW5naW5lcyIsIHVzYWdlID0gIkF1dG9Db21wbGV0ZSBFbmdpbmVzIikKICAgIHByb3RlY3RlZCBTdHJpbmcgYWNFbmdpbmVzID0gX3MoImFjX2VuZ2luZXMiLCAiMTkyLjE2OC4xLjEzNjo4OTEyIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
