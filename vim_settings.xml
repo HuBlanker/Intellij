@@ -105,6 +105,13 @@
         <mark key="." line="55" column="59" />
         <mark key="^" line="55" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/train_logistic.py" timestamp="1571223664851">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="647" column="25" />
+        <mark key="]" line="647" column="25" />
+        <mark key="^" line="647" column="25" />
+        <mark key="." line="647" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/HotTermHandler.java" timestamp="1569815573279">
         <mark key="[" line="113" column="106" />
         <mark key="]" line="113" column="107" />
@@ -113,6 +120,13 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" timestamp="1569244961192">
         <mark key="[" line="579" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" timestamp="1571223307409">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="137" column="51" />
+        <mark key="]" line="137" column="55" />
+        <mark key="." line="137" column="55" />
+        <mark key="^" line="137" column="55" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode104.java" timestamp="1569845911734">
         <mark key="[" line="59" column="70" />
@@ -392,7 +406,7 @@
         <mark key="^" line="72" column="75" />
         <mark key="." line="72" column="75" />
       </file>
-      <file name="/fragment.java" timestamp="1571221542782">
+      <file name="/fragment.java" timestamp="1571223242035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/link_job2.sh" timestamp="1569562416793">
@@ -406,8 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="13" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/8.48/data-common-8.48.jar!/com/bosszhipin/common/AHandler.class" />
-      <jump line="32" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
       <jump line="191" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
       <jump line="7" column="13" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
       <jump line="41" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
@@ -506,13 +518,15 @@
       <jump line="151" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
       <jump line="57" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" />
       <jump line="43" column="6" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/train_logistic.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isChangeLocation</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw7</text>
+        <text>isChangeLocation</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
