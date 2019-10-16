@@ -9,11 +9,12 @@
         <mark key="." line="184" column="32" />
         <mark key="^" line="184" column="32" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" timestamp="1571190364161">
-        <mark key="[" line="48" column="7" />
-        <mark key="]" line="48" column="10" />
-        <mark key="." line="48" column="10" />
-        <mark key="^" line="48" column="10" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" timestamp="1571195496120">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="28" column="40" />
+        <mark key="." line="28" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchReq.java" timestamp="1570713590089">
         <mark key="[" line="328" column="77" />
@@ -424,9 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1687" column="6" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="1764" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="25449" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/pinyin/char_pinyins2" />
       <jump line="81" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
       <jump line="101" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
@@ -524,46 +522,49 @@
       <jump line="39" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/FamousCompanyInfo.java" />
       <jump line="40" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/FamousCompanyInfo.java" />
       <jump line="510" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" />
+      <jump line="56" column="43" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" />
+      <jump line="28" column="52" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiAiIiAK</text>
+      <register name="&quot;" type="4">
+        <text>所以可以透传.</text>
       </register>
       <register name="-" type="4">
-        <text>FamousCompanyInfo</text>
+        <text>所以可以透传.</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
       </register>
       <register name="0" type="4">
-        <text>Dictionary</text>
+        <text encoding="base64">KGkgKyAxKSAlICgyICogaykgPCBr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiAiIiAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB1cy5hZGQobmV3IFVzZXJXb3JrKDAsIDAsIDAsICIiLAovLyAgICAgICAgICAgICAgICAgICAgIiIsICLljJfkuqzljY7lk4HljZrnnb/nvZHnu5znp5HmioDmnInpmZDlhazlj7giLCAwLCAiIiwKLy8gICAgICAgICAgICAgICAgICAgIDAsICIiLCAiIiwKLy8gICAgICAgICAgICAgICAgICAgICIiLCAiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCByZXZlclJhbmdlKGNoYXJbXSBjaGFycywgaW50IGwsIGludCByKSB7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgciAtIGw7IGkrKykgewogICAgICAgICAgICAgICAgcmV2ZXJzZUxhc3QoY2hhcnMsIGwsIHIpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlnKggbC0gciDkuYvpl7Tovaznp7vkuIDkvY0uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhciB0bXAgPSBjaGFyc1tyXTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IHI7IGkgPiBsIDsgaS0tKSB7CiAgICAgICAgICAgICAgICBjaGFyc1tpIF0gPSBjaGFyc1tpLTFdOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNoYXJzW2xdID0gdG1wOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE1hcDxTdHJpbmcsIFN0cmluZz4gQ09NUEFOWV9TSE9SVF9NQVBQSU5HID0gbmV3IEhhc2hNYXA8PigpOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTXVsdGltYXA8U3RyaW5nLCBTdHJpbmc+IENPTVBBTllfU09OX0JSQU5EID0gQXJyYXlMaXN0TXVsdGltYXAuY3JlYXRlKCk7CgogICAgc3RhdGljIHsKCiAgICAgICAgRGljdGlvbmFyeS5sb2FkKCJmYW1vdXNfY29tcGFueV9pbmZvLnR4dCIsIGwgLT4gewogICAgICAgICAgICBTdHJpbmdbXSBzcGxpdCA9IGwuc3BsaXQoIlxccysiKTsKICAgICAgICAgICAgaWYgKHNwbGl0Lmxlbmd0aCA+IDIpIHsKICAgICAgICAgICAgICAgIENPTVBBTllfU0hPUlRfTUFQUElORy5wdXQoYyhzcGxpdFswXSksIGMoc3BsaXRbMl0pKTsKICAgICAgICAgICAgICAgIGludCBpID0gMzsKICAgICAgICAgICAgICAgIHdoaWxlIChpIDwgc3BsaXQubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGtleSA9IGMoc3BsaXRbMl0pOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyB2YWwgPSBjKHNwbGl0W2krK10pOwogICAgICAgICAgICAgICAgICAgIGlmICghY29tLmJvc3N6aGlwaW4uY29tbW9uLlV0aWxzLmVtcHR5U3RyKGtleSkgJiYgIWNvbS5ib3NzemhpcGluLmNvbW1vbi5VdGlscy5lbXB0eVN0cih2YWwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJiAhQ09NUEFOWV9TT05fQlJBTkQuZ2V0KGtleSkuY29udGFpbnModmFsKSkgewogICAgICAgICAgICAgICAgICAgICAgICBDT01QQU5ZX1NPTl9CUkFORC5wdXQoYyhzcGxpdFsyXSksIHZhbCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSwgdHJ1ZSk7CgogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldFNob3J0TmFtZShTdHJpbmcgcykgewogICAgICAgIHJldHVybiBDT01QQU5ZX1NIT1JUX01BUFBJTkcuZ2V0KHMpOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxTdHJpbmc+IGdldFNvbkJyYW5kKFN0cmluZyBzKSB7CiAgICAgICAgcmV0dXJuIChMaXN0PFN0cmluZz4pIENPTVBBTllfU09OX0JSQU5ELmdldChzKTsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgYyhTdHJpbmcgcykgewogICAgICAgIHJldHVybiBVdGlscy5jbGVhbnVwKHMpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmluZyByID0gIiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGJvc3Pnm7TogZggPSBGYW1vdXNDb21wYW55SW5mby5nZXRTb2RkZGRkbkJyYW5kKCJib3Nz55u06IGYIik7Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiAiIiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB1cy5hZGQobmV3IFVzZXJXb3JrKDAsIDAsIDAsICIiLAovLyAgICAgICAgICAgICAgICAgICAgIiIsICLljJfkuqzljY7lk4HljZrnnb/nvZHnu5znp5HmioDmnInpmZDlhazlj7giLCAwLCAiIiwKLy8gICAgICAgICAgICAgICAgICAgIDAsICIiLCAiIiwKLy8gICAgICAgICAgICAgICAgICAgICIiLCAiIikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
