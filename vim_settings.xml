@@ -273,6 +273,13 @@
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" timestamp="1571217000897">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1571123429789">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="50" column="20" />
@@ -399,7 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3173" column="14" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3580" column="46" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="183" column="13" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/8.48/data-common-8.48.jar!/com/bosszhipin/common/AHandler.class" />
       <jump line="32" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
@@ -499,46 +505,52 @@
       <jump line="899" column="65" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" />
       <jump line="196" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
       <jump line="151" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, req.bossId, ret.toString(), ret.size()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>, req.bossId, ret.toString(), ret.size()</text>
+        <text>levelResult.get(i) - levelResult.get(i +1)</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlNlYXJjaEtleVdvcmRGcm9tR2Vlay4ge30ve30sIHI9e30ve30sIHt9IiwgcmVxLmdlZWtJZCwgcmVxLmJvc3NJZCwgcmV0LnRvU3RyaW5nKCksIHJldC5zaXplKCksIHRpY2tlcik7Cg==</text>
+        <text encoding="base64">ICogcHVibGljIGNsYXNzIFRyZWVOb2RlIHsKICogICAgIGludCB2YWw7CiAqICAgICBUcmVlTm9kZSBsZWZ0OwogKiAgICAgVHJlZU5vZGUgcmlnaHQ7CiAqICAgICBUcmVlTm9kZShpbnQgeCkgeyB2YWwgPSB4OyB9CiAqIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICogIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoc3BsaXQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgR2Vla0tleVdvcmRSZXNwIEVNUFRZID0gbmV3IEdlZWtLZXlXb3JkUmVzcChuZXcgQXJyYXlMaXN0PD4oKSk7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBSZXF1ZXN0SGVhZGVyIEhFQURFUiA9IG5ldyBSZXF1ZXN0SGVhZGVyKCkuc2V0Q29uc3VtZXIoInNlYXJjaCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAgCg==</text>
+      <register name="5" type="8">
+        <text>*
+*
+*
+*
+*
+*</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gcwogICAgICAgICAqIEBwYXJhbSBrCiAgICAgICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCByZXZlclJhbmdlKGNoYXJbXSBjaGFycywgaW50IGwsIGludCByKSB7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgciAtIGw7IGkrKykgewogICAgICAgICAgICAgICAgcmV2ZXJzZUxhc3QoY2hhcnMsIGwsIHIpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoc3BsaXQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlnKggbC0gciDkuYvpl7Tovaznp7vkuIDkvY0uCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgR2Vla0tleVdvcmRSZXNwIEVNUFRZID0gbmV3IEdlZWtLZXlXb3JkUmVzcChuZXcgQXJyYXlMaXN0PD4oKSk7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBSZXF1ZXN0SGVhZGVyIEhFQURFUiA9IG5ldyBSZXF1ZXN0SGVhZGVyKCkuc2V0Q29uc3VtZXIoInNlYXJjaCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -579,7 +591,6 @@
       <history-cmd>
         <entry>120</entry>
         <entry>91</entry>
-        <entry>wq</entry>
         <entry>set ignorecase</entry>
         <entry>q</entry>
         <entry>s/title/Title/g</entry>
@@ -592,6 +603,7 @@
         <entry>%s/CountHashMap/CountHashMap1/s</entry>
         <entry>%s/CountHashMap/CountHashMap1/g</entry>
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
