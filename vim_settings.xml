@@ -273,12 +273,12 @@
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" timestamp="1571217000897">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="37" column="3" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" timestamp="1571219870632">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="100" column="40" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1571123429789">
         <mark key="[" line="44" column="0" />
@@ -406,7 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3580" column="46" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="183" column="13" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/8.48/data-common-8.48.jar!/com/bosszhipin/common/AHandler.class" />
       <jump line="32" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
       <jump line="191" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
@@ -506,33 +505,40 @@
       <jump line="196" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
       <jump line="151" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
       <jump line="57" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" />
+      <jump line="43" column="6" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogIAo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>levelResult.get(i) - levelResult.get(i +1)</text>
-      </register>
-      <register name="/" type="4">
-        <text>clean</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICogcHVibGljIGNsYXNzIFRyZWVOb2RlIHsKICogICAgIGludCB2YWw7CiAqICAgICBUcmVlTm9kZSBsZWZ0OwogKiAgICAgVHJlZU5vZGUgcmlnaHQ7CiAqICAgICBUcmVlTm9kZShpbnQgeCkgeyB2YWwgPSB4OyB9CiAqIH0K</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>getMinimumDifference</text>
+      </register>
+      <register name="/" type="4">
+        <text>get</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGdldE1pbmltdW1EaWZmZXJlbmNlKFRyZWVOb2RlIHJvb3QpIHsKICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiBsZXZlbFJlc3VsdCA9IGxldmVsKHJvb3QpOwogICAgICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KGxldmVsUmVzdWx0KTsKICAgICAgICAgICAgaW50IG1pbiA9IEludGVnZXIuTUFYX1ZBTFVFOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxldmVsUmVzdWx0LnNpemUoKSAtIDE7IGkrKykgewogICAgICAgICAgICAgICAgbWluID0gTWF0aC5taW4obWluLCBNYXRoLmFicyhsZXZlbFJlc3VsdC5nZXQoaSkgLSBsZXZlbFJlc3VsdC5nZXQoaSArIDEpKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG1pbjsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgTGlzdDxJbnRlZ2VyPiBsZXZlbChUcmVlTm9kZSByb290KSB7CgogICAgICAgICAgICBMaXN0PEludGVnZXI+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigxMCk7CiAgICAgICAgICAgIGlmIChyb290ID09IG51bGwpIHJldHVybiByZXQ7CiAgICAgICAgICAgIFF1ZXVlPFRyZWVOb2RlPiBxID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgICAgICBxLm9mZmVyKHJvb3QpOwogICAgICAgICAgICB3aGlsZSAoIXEuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBUcmVlTm9kZSBwb2xsID0gcS5wb2xsKCk7CiAgICAgICAgICAgICAgICByZXQuYWRkKHBvbGwudmFsKTsKICAgICAgICAgICAgICAgIGlmIChwb2xsLmxlZnQgIT0gbnVsbCkgcS5vZmZlcihwb2xsLmxlZnQpOwogICAgICAgICAgICAgICAgaWYgKHBvbGwucmlnaHQgIT0gbnVsbCkgcS5vZmZlcihwb2xsLnJpZ2h0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmV0OwogICAgICAgIH0KICAgICAgICA=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIExpc3Q8SW50ZWdlcj4gbGV2ZWwoVHJlZU5vZGUgcm9vdCkgewoKICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiByZXQgPSBuZXcgQXJyYXlMaXN0PD4oMTApOwogICAgICAgICAgICBpZiAocm9vdCA9PSBudWxsKSByZXR1cm4gcmV0OwogICAgICAgICAgICBRdWV1ZTxUcmVlTm9kZT4gcSA9IG5ldyBMaW5rZWRMaXN0PD4oKTsKICAgICAgICAgICAgcS5vZmZlcihyb290KTsKICAgICAgICAgICAgd2hpbGUgKCFxLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgVHJlZU5vZGUgcG9sbCA9IHEucG9sbCgpOwogICAgICAgICAgICAgICAgcmV0LmFkZChwb2xsLnZhbCk7CiAgICAgICAgICAgICAgICBpZiAocG9sbC5sZWZ0ICE9IG51bGwpIHEub2ZmZXIocG9sbC5sZWZ0KTsKICAgICAgICAgICAgICAgIGlmIChwb2xsLnJpZ2h0ICE9IG51bGwpIHEub2ZmZXIocG9sbC5yaWdodCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHJldDsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogIAo=</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">ICogIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>*
 *
 *
@@ -540,26 +546,20 @@
 *
 *</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoc3BsaXQpKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgR2Vla0tleVdvcmRSZXNwIEVNUFRZID0gbmV3IEdlZWtLZXlXb3JkUmVzcChuZXcgQXJyYXlMaXN0PD4oKSk7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBSZXF1ZXN0SGVhZGVyIEhFQURFUiA9IG5ldyBSZXF1ZXN0SGVhZGVyKCkuc2V0Q29uc3VtZXIoInNlYXJjaCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clean</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>clean</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>CountHashMap1.key</last-replace>
       <last-substitute>CountHashMap.key</last-substitute>
       <last-dir>1</last-dir>
@@ -567,7 +567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ignores</entry>
         <entry>ignoregeeks</entry>
         <entry>user_work</entry>
         <entry>exper</entry>
@@ -587,6 +586,7 @@
         <entry>nlpcl</entry>
         <entry>getor</entry>
         <entry>clean</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
