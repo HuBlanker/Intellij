@@ -9,12 +9,12 @@
         <mark key="." line="184" column="32" />
         <mark key="^" line="184" column="32" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" timestamp="1571195496120">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="28" column="40" />
-        <mark key="^" line="28" column="40" />
-        <mark key="." line="28" column="40" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" timestamp="1571198003598">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="100" column="44" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchReq.java" timestamp="1570713590089">
         <mark key="[" line="328" column="77" />
@@ -350,8 +350,8 @@
         <mark key="." line="113" column="88" />
         <mark key="^" line="113" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/miscellaneous/MiscServerTest.java" timestamp="1571147452388">
-        <mark key="[" line="41" column="21" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/miscellaneous/MiscServerTest.java" timestamp="1571196654645">
+        <mark key="[" line="47" column="34" />
         <mark key="]" line="41" column="21" />
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="27" />
@@ -425,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25449" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/pinyin/char_pinyins2" />
       <jump line="81" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
       <jump line="101" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
       <jump line="3167" column="14" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -525,10 +524,11 @@
       <jump line="56" column="43" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" />
       <jump line="28" column="52" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" />
       <jump line="0" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode541.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>所以可以透传.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgKiAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>所以可以透传.</text>
@@ -540,31 +540,31 @@
         <text encoding="base64">KGkgKyAxKSAlICgyICogaykgPCBr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgKiAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCByZXZlclJhbmdlKGNoYXJbXSBjaGFycywgaW50IGwsIGludCByKSB7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgciAtIGw7IGkrKykgewogICAgICAgICAgICAgICAgcmV2ZXJzZUxhc3QoY2hhcnMsIGwsIHIpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gcwogICAgICAgICAqIEBwYXJhbSBrCiAgICAgICAgICogQHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlnKggbC0gciDkuYvpl7Tovaznp7vkuIDkvY0uCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhciB0bXAgPSBjaGFyc1tyXTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IHI7IGkgPiBsIDsgaS0tKSB7CiAgICAgICAgICAgICAgICBjaGFyc1tpIF0gPSBjaGFyc1tpLTFdOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNoYXJzW2xdID0gdG1wOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCByZXZlclJhbmdlKGNoYXJbXSBjaGFycywgaW50IGwsIGludCByKSB7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgciAtIGw7IGkrKykgewogICAgICAgICAgICAgICAgcmV2ZXJzZUxhc3QoY2hhcnMsIGwsIHIpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlnKggbC0gciDkuYvpl7Tovaznp7vkuIDkvY0uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmluZyByID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhciB0bXAgPSBjaGFyc1tyXTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IHI7IGkgPiBsIDsgaS0tKSB7CiAgICAgICAgICAgICAgICBjaGFyc1tpIF0gPSBjaGFyc1tpLTFdOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNoYXJzW2xdID0gdG1wOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiAiIiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmluZyByID0gIiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB1cy5hZGQobmV3IFVzZXJXb3JrKDAsIDAsIDAsICIiLAovLyAgICAgICAgICAgICAgICAgICAgIiIsICLljJfkuqzljY7lk4HljZrnnb/nvZHnu5znp5HmioDmnInpmZDlhazlj7giLCAwLCAiIiwKLy8gICAgICAgICAgICAgICAgICAgIDAsICIiLCAiIiwKLy8gICAgICAgICAgICAgICAgICAgICIiLCAiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
