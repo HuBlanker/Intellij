@@ -21,10 +21,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/AF2PushV2.java" timestamp="1569244961192">
         <mark key="[" line="579" column="34" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode257.java" timestamp="1571299036405">
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode257.java" timestamp="1571304968619">
+        <mark key="[" line="37" column="64" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode342.java" timestamp="1571278666580">
         <mark key="[" line="28" column="7" />
@@ -288,51 +289,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGhzLnB1dChwb2xsLCBzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>StringBuilder</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>no</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm9vdC5sZWZ0ID09IG51bGwgJiYgcm9vdC5yaWdodCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldC5hZGQoc2IpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXRocy5wdXQocG9sbC5sZWZ0LCBzICsgIi0+IiArIHBvbGwubGVmdC52YWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGhzLnB1dChwb2xsLCBzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIi0+IikuYXBwZW5kKHJvb3QudmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHMgKz0gcG9sbC52YWw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQocm9vdC52YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHMgKz0gIi0+IjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBTdHJpbmcgc2IgPSAiIjsKICAgICAgICAgICAgc2IgKz0gcm9vdC52YWw7CgogICAgICAgICAgICBpZiAocm9vdC5sZWZ0ID09IG51bGwgJiYgcm9vdC5yaWdodCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXQuYWRkKHNiKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBmb3JQYXRoKHJvb3QubGVmdCwgc2IsIHJldCk7CiAgICAgICAgICAgIGZvclBhdGgocm9vdC5yaWdodCwgc2IsIHJldCk7CiAgICAgICAgICAgIHJldHVybiByZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm9vdCA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>*
-*
-*
-*
-*
-*</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIi0+IikuYXBwZW5kKHJvb3QudmFsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQocm9vdC52YWwpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -382,9 +378,10 @@
         <entry>%s/CountHashMap/CountHashMap1/s</entry>
         <entry>%s/CountHashMap/CountHashMap1/g</entry>
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>Wq</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
