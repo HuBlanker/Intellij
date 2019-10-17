@@ -118,12 +118,12 @@
         <mark key="." line="222" column="50" />
         <mark key="^" line="222" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/SpellCorrectorTest.java" timestamp="1571309869764">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/SpellCorrectorTest.java" timestamp="1571315484408">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="43" column="80" />
-        <mark key="]" line="82" column="64" />
-        <mark key="." line="82" column="64" />
-        <mark key="^" line="82" column="64" />
+        <mark key="]" line="90" column="52" />
+        <mark key="." line="90" column="52" />
+        <mark key="^" line="90" column="36" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode21.java" timestamp="1569342147699">
         <mark key="[" line="17" column="42" />
@@ -218,6 +218,7 @@
         <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1571282194561" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryCorrectPredict8.java" timestamp="1571315153788" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1571214346482">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="54" />
@@ -581,13 +582,11 @@
       <jump line="174" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>GenQueryCorrectSample.
-GenQueryCorrectSample.
-GenQueryCorrectSample.</text>
+      <register name="&quot;" type="4">
+        <text>predict.s +</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>predict.s +</text>
       </register>
       <register name="/" type="4">
         <text>no</text>
@@ -595,12 +594,15 @@ GenQueryCorrectSample.</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzSGFwcHkoaW50IG4pIHsKICAgICAgICBMaXN0PEludGVnZXI+IGdyYXBoID0gbmV3IEFycmF5TGlzdDw+KDEwKTsKICAgICAgICB3aGlsZSAoIWdyYXBoLmNvbnRhaW5zKG4pKSB7CiAgICAgICAgICAgIGlmIChuID09IDEpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGdyYXBoLmFkZChuKTsKCiAgICAgICAgICAgIG4gPSBnZXREb3VibGVTVW0obik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbnVsbENudCA9IDA7Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>GenQueryCorrectSample.
 GenQueryCorrectSample.
 GenQueryCorrectSample.</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>new GenQueryCorrectSample().
 new GenQueryCorrectSample().
 new GenQueryCorrectSample().
@@ -608,26 +610,23 @@ new GenQueryCorrectSample().
 new GenQueryCorrectSample().
 new GenQueryCorrectSample().</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGlueWluKFN0cmluZyBrZXkpIHsKICAgICAgICBpZiAoa2V5ID09IG51bGwpIHJldHVybiBudWxsOwogICAgICAgIGNoYXJbXSBjaGFycyA9IGtleS50b0NoYXJBcnJheSgpOwogICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIGZvciAoY2hhciBhQ2hhciA6IGNoYXJzKSB7CiAgICAgICAgICAgIFN0cmluZ1tdIHN0cmluZ3MgPSBQaW55aW5IZWxwZXIudG9IYW55dVBpbnlpblN0cmluZ0FycmF5KGFDaGFyKTsKICAgICAgICAgICAgaWYgKHN0cmluZ3MgPT0gbnVsbCB8fCBzdHJpbmdzLmxlbmd0aCA9PSAwKSB7CiAgICAgICAgICAgICAgICBzYi5hcHBlbmQoYUNoYXIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8g5LiN6ICD6JmR5aSa6Z+z5a2XCiAgICAgICAgICAgICAgICBzYi5hcHBlbmQoc3RyaW5nc1swXSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBib29sZWFuIGlzQ2hhbmdlTG9jYXRpb24oU3RyaW5nIHMxLCBTdHJpbmcgczIpIHsKICAgICAgICBjaGFyW10gY2hhcnMgPSBzMS50b0NoYXJBcnJheSgpOwogICAgICAgIEFycmF5cy5zb3J0KGNoYXJzKTsKICAgICAgICBjaGFyW10gY2hhcnMxID0gczIudG9DaGFyQXJyYXkoKTsKICAgICAgICBBcnJheXMuc29ydChjaGFyczEpOwoKICAgICAgICBpZiAoY2hhcnMubGVuZ3RoID09IGNoYXJzMS5sZW5ndGgpIHsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjaGFycy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgaWYgKGNoYXJzW2ldICE9IGNoYXJzMVtpXSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGdyYXBoID0gbmV3IEFycmF5TGlzdDw+KDEwKTsKICAgICAgICB3aGlsZSAoIWdyYXBoLmNvbnRhaW5zKG4pKSB7CiAgICAgICAgICAgIGlmIChuID09IDEpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGdyYXBoLmFkZChuKTsKCiAgICAgICAgICAgIG4gPSBnZXREb3VibGVTVW0obik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbiA9IGdldERvdWJsZVNVbShuKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGhzLnB1dChwb2xsLCBzKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHMgKz0gcG9sbC52YWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGhzLnB1dChwb2xsLCBzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
