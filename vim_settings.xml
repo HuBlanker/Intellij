@@ -175,6 +175,12 @@
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode160.java" timestamp="1570784694246">
         <mark key="[" line="96" column="7" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode198.java" timestamp="1571366166869">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode100.java" timestamp="1569824107642">
         <mark key="[" line="49" column="26" />
         <mark key="]" line="51" column="18" />
@@ -302,10 +308,10 @@
         <mark key="." line="113" column="107" />
         <mark key="^" line="113" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" timestamp="1571317744878">
-        <mark key="[" line="100" column="46" />
-        <mark key="]" line="102" column="28" />
-        <mark key="." line="102" column="28" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" timestamp="1571366228768">
+        <mark key="[" line="148" column="22" />
+        <mark key="]" line="148" column="23" />
+        <mark key="." line="148" column="23" />
         <mark key="^" line="102" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/pfliu_query_correct.sh" timestamp="1571280716933">
@@ -640,7 +646,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTcGVsbENvcnJlY3RvciBzYyA9IG5ldyBTcGVsbENvcnJlY3RvcigiZGF0YS9qb2Jfc2VhcmNoX3F1ZXJ5X3V2LnR4dCIsIDEsICJkYXRhL3NlYXJjaF93b3JkX2NudC5uZXciKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFNwZWxsQ29ycmVjdG9yKCJkYXRhL2pvYl9zZWFyY2hfcXVlcnlfdXYudHh0IiwgMSwgImRhdGEvc2VhcmNoX3dvcmRfY250Lm5ldyIpOw==</text>
@@ -652,38 +658,31 @@
         <text encoding="base64">ICAgICAgICBTcGVsbENvcnJlY3RvciBzYyA9IG5ldyBTcGVsbENvcnJlY3RvcigiZGF0YS9qb2Jfc2VhcmNoX3F1ZXJ5X3V2LnR4dCIsIDEsICJkYXRhL3NlYXJjaF93b3JkX2NudC5uZXciKTsKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBmcm9tX3N1YlMgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMzsgaSA8IG51bXMubGVuZ3RoOyBpKyspIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQga2sgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBmcm9tX3N1YlMgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFNwZWxsQ29ycmVjdG9yLkNhbmRpZGF0ZT4gaSA9IHNjLmNvcnJlY3Rpb24oIueCueW/hei+viIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbnVsbENudCA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>GenQueryCorrectSample.
-GenQueryCorrectSample.
-GenQueryCorrectSample.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQga2sgPSAwOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>new GenQueryCorrectSample().
-new GenQueryCorrectSample().
-new GenQueryCorrectSample().
-new GenQueryCorrectSample().
-new GenQueryCorrectSample().
-new GenQueryCorrectSample().</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFNwZWxsQ29ycmVjdG9yLkNhbmRpZGF0ZT4gaSA9IHNjLmNvcnJlY3Rpb24oIueCueW/hei+viIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -736,8 +735,8 @@ new GenQueryCorrectSample().</text>
         <entry>%s/CountHashMap/CountHashMap1/s</entry>
         <entry>%s/CountHashMap/CountHashMap1/g</entry>
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
-        <entry>W</entry>
         <entry>Wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
         <entry>wq</entry>
       </history-cmd>
