@@ -537,6 +537,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LeetCode191'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'LeetCode191'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LeetCode2'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -550,7 +558,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'LeetCode202'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'LeetCode21'">
@@ -878,7 +886,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>326</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -942,7 +950,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>645</Count>
+          <Count>652</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -1206,7 +1214,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>170</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">

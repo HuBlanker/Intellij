@@ -310,6 +310,11 @@
         <mark key="^" line="646" column="25" />
         <mark key="." line="647" column="26" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode193.java" timestamp="1571386155905">
+        <mark key="[" line="48" column="2" />
+        <mark key="]" line="48" column="2" />
+        <mark key="." line="48" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/HotTermHandler.java" timestamp="1569815573279">
         <mark key="[" line="113" column="106" />
         <mark key="]" line="113" column="107" />
@@ -358,6 +363,7 @@
         <mark key="[" line="244" column="0" />
         <mark key="]" line="245" column="19" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1571387094646" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/jobsearch_lgb_model.tpl" timestamp="1571232592614">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="56" column="3" />
@@ -436,6 +442,12 @@
         <mark key="]" line="41" column="42" />
         <mark key="." line="41" column="42" />
         <mark key="^" line="41" column="19" />
+      </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode191.java" timestamp="1571387035923">
+        <mark key="[" line="59" column="58" />
+        <mark key="]" line="73" column="26" />
+        <mark key="^" line="73" column="26" />
+        <mark key="." line="73" column="26" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode530.java" timestamp="1571221631160">
         <mark key="'" line="31" column="6" />
@@ -546,11 +558,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/link_job2.sh" timestamp="1569562416793">
         <mark key="[" line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/KeywordQueryBuilder.java" timestamp="1571382824763">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="55" column="64" />
-        <mark key="." line="55" column="64" />
-        <mark key="^" line="55" column="64" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/KeywordQueryBuilder.java" timestamp="1571386950515">
+        <mark key="[" line="58" column="55" />
+        <mark key="]" line="58" column="56" />
+        <mark key="." line="58" column="56" />
+        <mark key="^" line="58" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -656,11 +668,11 @@
       <jump line="245" column="21" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIiwgKTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;query&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>correct</text>
+        <text>&quot;query&quot;</text>
       </register>
       <register name="/" type="4">
         <text>jobitem</text>
@@ -696,7 +708,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -748,8 +760,8 @@
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
         <entry>Wq</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
