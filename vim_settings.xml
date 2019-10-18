@@ -471,6 +471,9 @@
         <mark key="^" line="75" column="20" />
         <mark key="." line="75" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1571383677195">
+        <mark key="'" line="245" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/model/JobSearchLGBModel73.java" timestamp="1571231955860" />
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode70.java" timestamp="1569760835291">
         <mark key="[" line="30" column="0" />
@@ -551,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="755" column="9" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="812" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="873" column="9" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="874" column="11" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
@@ -651,6 +653,7 @@
       <jump line="139" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="110" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="533" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="245" column="21" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -660,7 +663,7 @@
         <text>correct</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text>jobitem</text>
       </register>
       <register name="0" type="4">
         <text>r.spellCorrector,</text>
@@ -697,9 +700,9 @@
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search>jobitem</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern>jobitem</last-pattern>
       <last-replace>CountHashMap1.key</last-replace>
       <last-substitute>CountHashMap.key</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +710,6 @@
     </search>
     <history>
       <history-search>
-        <entry>京东</entry>
         <entry>奇虎</entry>
         <entry>360</entry>
         <entry>sort</entry>
@@ -727,6 +729,7 @@
         <entry>job_sea</entry>
         <entry>job_search</entry>
         <entry>query</entry>
+        <entry>jobitem</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
