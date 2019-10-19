@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2176</Count>
+          <Count>2186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -391,6 +391,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FindCompanyWordTest.contaionS'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FindCompanyWordTest.suffixArray'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FindCompanyWordTest.suffixArray'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GenQueryCorrectSample'">
@@ -1022,7 +1030,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FindCompanyWord'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GenQueryCorrectSample'">

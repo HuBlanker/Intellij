@@ -44,11 +44,11 @@
         <mark key="." line="54" column="12" />
         <mark key="^" line="54" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/queryword/FindCompanyWordTest.java" timestamp="1571470363838">
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="12" column="62" />
-        <mark key="^" line="12" column="50" />
-        <mark key="." line="12" column="62" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/queryword/FindCompanyWordTest.java" timestamp="1571474776107">
+        <mark key="[" line="23" column="83" />
+        <mark key="]" line="25" column="111" />
+        <mark key="^" line="25" column="111" />
+        <mark key="." line="25" column="111" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" timestamp="1569562697897">
         <mark key="[" line="126" column="122" />
@@ -416,12 +416,11 @@
         <mark key="." line="289" column="100" />
         <mark key="^" line="289" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" timestamp="1571473840442">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="33" column="64" />
-        <mark key="]" line="160" column="0" />
-        <mark key="^" line="159" column="53" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" timestamp="1571475322689">
+        <mark key="'" line="30" column="43" />
+        <mark key="[" line="103" column="17" />
+        <mark key="]" line="103" column="17" />
+        <mark key="." line="103" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/Result0.java" timestamp="1569741713932">
         <mark key="[" line="5" column="0" />
@@ -597,7 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="11" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="618" column="8" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="604" column="11" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="1887" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/com_name_mapping.txt" />
@@ -692,51 +690,52 @@
       <jump line="88" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="61" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="176" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
-      <jump line="30" column="85" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="82" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="178" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="179" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
+      <jump line="65" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
+      <jump line="30" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text>suffix.compareTo(target);</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>jobitem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmbGFnID0gZmFsc2U7CiAgICAgICAgICAgIGlmIChjb21zLmNvbnRhaW5zKGUpKSB7CiAgICAgICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGNvbSA6IGNvbXMpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoY29udGFpbnMoY29tU3VmZml4QXJyYXlzLmdldChjb20pLCBlKSkgewogICAgICAgICAgICAgICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChmbGFnKSBzdXJlLmFkZChlKTsKICAgICAgICAgICAgaWYgKGFpLmluY3JlbWVudEFuZEdldCgpICUgMTAwMCA9PSAwKSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiYWxyZWFkeSB7fSAuIiwgYWkuZ2V0KCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBmbGFnOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nW10gc3VmZml4QXJyYXkoU3RyaW5nIHMpIHsKICAgICAgICBTdHJpbmdbXSBzYSA9IG5ldyBTdHJpbmdbcy5sZW5ndGgoKV07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgc2FbaV0gPSBzLnN1YnN0cmluZyhpKTsKICAgICAgICB9CiAgICAgICAgQXJyYXlzLnNvcnQoc2EpOwogICAgICAgIHJldHVybiBzYTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nW10gc3VmZml4QWxsID0gbGlzdFN1ZmZpeEFycmF5KG5ldyBBcnJheUxpc3Q8Pihjb21zKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdWZmaXhBbGwgPSBsaXN0U3VmZml4QXJyYXkobmV3IEFycmF5TGlzdDw+KGNvbXMpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNvbXBhcmVSZXMgPSBzdWZmaXguY29tcGFyZVRvKHRhcmdldCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBjb20gOiBjb21zKSB7CiAgICAgICAgICAgIGNvbVN1ZmZpeEFycmF5cy5wdXQoY29tLCBzdWZmaXhBcnJheShjb20pKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN1ZmZpeC5sZW5ndGgoKSA+PSB0YXJnZXQubGVuZ3RoKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1ZmZpeC5zdGFydHNXaXRoKHRhcmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2EuYWRkQWxsKG5ldyBBcnJheUxpc3Q8PigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydChzYSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYS5hZGRBbGwoc3VmZml4QXJyYXkocykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzYSA9IG5ldyBTdHJpbmdbc2l6ZV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb3B5T25Xcml0ZUFycmF5TGlzdDxTdHJpbmc+IHN1cnJyID0gbmV3IENvcHlPbldyaXRlQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IDA7CiAgICAgICAgZm9yIChTdHJpbmcgczEgOiBzKSB7CiAgICAgICAgICAgIHNpemUgKz0gczEubGVuZ3RoKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
