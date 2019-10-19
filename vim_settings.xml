@@ -416,11 +416,12 @@
         <mark key="." line="289" column="100" />
         <mark key="^" line="289" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" timestamp="1571475322689">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" timestamp="1571476477784">
         <mark key="'" line="30" column="43" />
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="103" column="17" />
-        <mark key="." line="103" column="17" />
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="84" column="19" />
+        <mark key="." line="84" column="19" />
+        <mark key="^" line="79" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/Result0.java" timestamp="1569741713932">
         <mark key="[" line="5" column="0" />
@@ -486,6 +487,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1570790843875">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_py.txt" timestamp="1571476970366">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+        <mark key="." line="31" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/query_correct_model.tpl" timestamp="1571280645961">
         <mark key="[" line="30" column="34" />
@@ -699,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>O</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>jobitem</text>
