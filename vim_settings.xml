@@ -67,6 +67,12 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode225.java" timestamp="1571573834656">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="39" />
+        <mark key="^" line="27" column="39" />
+      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode141.java" timestamp="1570763604889">
         <mark key="[" line="47" column="25" />
         <mark key="]" line="55" column="59" />
@@ -136,10 +142,6 @@
         <mark key="]" line="131" column="115" />
         <mark key="^" line="131" column="115" />
         <mark key="." line="131" column="115" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" timestamp="1571129490411">
-        <mark key="[" line="918" column="16" />
-        <mark key="]" line="918" column="74" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode20.java" timestamp="1569334822683">
         <mark key="[" line="47" column="0" />
@@ -340,10 +342,6 @@
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="27" />
         <mark key="^" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SplitDb.java" timestamp="1571130838261">
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/JobColByTime.java" timestamp="1569576690164">
         <mark key="[" line="29" column="23" />
@@ -564,10 +562,6 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/data-common/src/test/java/com/bosszhipin/common/DataInitManagerTest.java" timestamp="1571455879898">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="96" />
-      </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode121.java" timestamp="1570674779444">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="68" column="18" />
@@ -593,10 +587,6 @@
         <mark key="]" line="13" column="94" />
         <mark key="^" line="13" column="94" />
         <mark key="." line="13" column="94" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ClientsPool.java" timestamp="1571123231617">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/block_750_comids.sh" timestamp="1569504659564">
         <mark key="[" line="27" column="34" />
@@ -748,43 +738,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INDEX_NO_ANALYS</text>
+        <text>peek</text>
       </register>
       <register name="-" type="4">
-        <text>INDEX_NO_ANALYS</text>
+        <text>peek</text>
       </register>
       <register name="/" type="4">
         <text>jobitem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRG9jdW1lbnQgZG9jdW1lbnQgPSBpbmRleFNlYXJjaGVyLmRvYyhkb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IHRoaXMucXVldWUuc2l6ZSgpOwogICAgICAgIHdoaWxlIChzaXplID4gMSkgewogICAgICAgICAgICB0aGlzLnF1ZXVlLm9mZmVyKHRoaXMucXVldWUucG9sbCgpKTsKICAgICAgICAgICAgc2l6ZS0tOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdGhpcy5xdWV1ZS5wb2xsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbmRleFNlYXJjaGVyIHNlYXJjaGVyID0gbmV3IEluZGV4U2VhcmNoZXIocmVhZGVyLGx1Y2VuZVBvb2wpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBzLnB1c2goMyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBXb3JkV3JhcHBlcihTdHJpbmcgd29yZCwgSW50ZWdlciB1dikgewogICAgICAgIHRoaXMud29yZCA9IHdvcmQ7CiAgICAgICAgdGhpcy51diA9IHV2OwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5kZXhXcml0ZXJDb25maWcgY28K</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoIXRoaXMucXVldWUuaXNFbXB0eSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlcy5saW5lcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBJbmRleFNlYXJjaGVyIHNlYXJjaGVyID0gbmV3IEluZGV4U2VhcmNoZXIocmVhZGVyLGx1Y2VuZVBvb2wpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nW10gc3VmZml4QWxsID0gbGlzdFN1ZmZpeEFycmF5KG5ldyBBcnJheUxpc3Q8Pihjb21zKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdWZmaXhBbGwgPSBsaXN0U3VmZml4QXJyYXkobmV3IEFycmF5TGlzdDw+KGNvbXMpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBXb3JkV3JhcHBlcihTdHJpbmcgd29yZCwgSW50ZWdlciB1dikgewogICAgICAgIHRoaXMud29yZCA9IHdvcmQ7CiAgICAgICAgdGhpcy51diA9IHV2OwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBjb20gOiBjb21zKSB7CiAgICAgICAgICAgIGNvbVN1ZmZpeEFycmF5cy5wdXQoY29tLCBzdWZmaXhBcnJheShjb20pKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5kZXhXcml0ZXJDb25maWcgY28K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy5saW5lcygpCg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
