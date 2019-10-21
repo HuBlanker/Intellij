@@ -126,6 +126,12 @@
         <mark key="]" line="11" column="57" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode169.java" timestamp="1571623689023">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/gen_java_jobsearch_lgb.py" timestamp="1571232180029">
         <mark key="[" line="296" column="11" />
         <mark key="]" line="296" column="29" />
@@ -245,10 +251,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectSearchMain.java" timestamp="1571487416065">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="28" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectSearchMain.java" timestamp="1571583514159">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="27" />
+        <mark key="." line="44" column="27" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SpellCorrector.java" timestamp="1571478795213">
         <mark key="'" line="162" column="26" />
@@ -741,11 +748,11 @@
       <jump line="409" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRPcGVuTW9kZShJbmRleFdyaXRlckNvbmZpZy5PcGVuTW9kZS5DUkVBVEUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>3,2,3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>3,2,3</text>
       </register>
       <register name="/" type="4">
         <text>jobitem</text>
@@ -754,31 +761,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzUG93ZXJPZlR3byhpbnQgbikgewogICAgICAgIGlmIChuIDw9IDApIHJldHVybiBmYWxzZTsKICAgICAgICByZXR1cm4gSW50ZWdlci5iaXRDb3VudChuKSA9PSAxOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRPcGVuTW9kZShJbmRleFdyaXRlckNvbmZpZy5PcGVuTW9kZS5DUkVBVEUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgucHVpZihudW0sIChrLCB2KSAtPiB2ID0gdiArIDEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VhcmNoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZi5zZXRPcGVuTW9kZShJbmRleFdyaXRlckNvbmZpZy5PcGVuTW9kZS5DUkVBVEUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobiA8PSAxKSByZXR1cm4gbiA9PSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobiA8PSAwKSByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSW50ZWdlci5iaXRDb3VudChuKSA9PSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobiA8PSAxKSByZXR1cm4gbiA9PSAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzLnB1c2goMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobiA8PSAwKSByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSW50ZWdlci5iaXRDb3VudChuKSA9PSAxOwo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
