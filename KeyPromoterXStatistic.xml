@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2202</Count>
+          <Count>2209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -729,6 +729,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PredictMain'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PredictMain'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PredictMainTest.predict4C'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PredictMainTest.predict4C'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RecallCountMain'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -934,7 +950,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>365</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1006,7 +1022,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1014,7 +1030,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>684</Count>
+          <Count>717</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -1169,6 +1185,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'PredictMain'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PredictMain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ResumeSearchMain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1302,7 +1326,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>183</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
