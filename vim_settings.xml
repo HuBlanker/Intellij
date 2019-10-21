@@ -96,8 +96,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode160.java" timestamp="1570784694246">
-        <mark key="[" line="96" column="7" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode160.java" timestamp="1571637994676">
+        <mark key="[" line="94" column="77" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="101" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/query_correct_model.tpl" timestamp="1571233274480">
         <mark key="[" line="28" column="4" />
@@ -351,8 +354,8 @@
       <jump line="126966" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn_dict_com.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nn/nn_dict_com.txt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
@@ -360,35 +363,42 @@
       <register name="/" type="4">
         <text>NND</text>
       </register>
-      <register name="0" type="4">
-        <text>nn/nn_dict_com.txt</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICogcHVibGljIGNsYXNzIExpc3ROb2RlIHsKICogICAgIGludCB2YWw7CiAqICAgICBMaXN0Tm9kZSBuZXh0OwogKiAgICAgTGlzdE5vZGUoaW50IHgpIHsKICogICAgICAgICB2YWwgPSB4OwogKiAgICAgICAgIG5leHQgPSBudWxsOwogKiAgICAgfQogKiB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKG4gPj0gMCkgewogICAgICAgICAgICAgICAgcmV0ICs9IChuIC8gNSk7CiAgICAgICAgICAgICAgICBuID0gbiAvIDU7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHJldCA9IDA7Cg==</text>
+      <register name="2" type="8">
+        <text>*
+*
+*
+*
+*
+*
+*
+*</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG4gPD0wICkgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKG4gPj0gMCkgewogICAgICAgICAgICAgICAgcmV0ICs9IChuIC8gNSk7CiAgICAgICAgICAgICAgICBuID0gbiAvIDU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHJldCA9IDA7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG47IGkrKykgewogICAgICAgICAgICAgICAgaW50IHRtcCA9IGk7CiAgICAgICAgICAgICAgICB3aGlsZSAoKHRtcCAlIDUpID09IDApIHsKICAgICAgICAgICAgICAgICAgICByZXQrKzsKICAgICAgICAgICAgICAgICAgICB0bXAgLz0gNTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmV0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHJldCA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG4gPD0wICkgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodG1wICUgNSkgPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHJldCA9IDA7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG47IGkrKykgewogICAgICAgICAgICAgICAgaW50IHRtcCA9IGk7CiAgICAgICAgICAgICAgICB3aGlsZSAoKHRtcCAlIDUpID09IDApIHsKICAgICAgICAgICAgICAgICAgICByZXQrKzsKICAgICAgICAgICAgICAgICAgICB0bXAgLz0gNTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodG1wICUgNSkgPT0gMCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
