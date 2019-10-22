@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2244</Count>
+          <Count>2247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -753,6 +753,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QueryCorrectRebuildMain'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QueryCorrectRebuildMain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RecallCountMain'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -862,7 +870,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'StringChineseTest'</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TestMajorTitlePerf'">
@@ -937,6 +945,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'WordWrapper'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'WordWrapper'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'job3'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -966,7 +982,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>382</Count>
+          <Count>390</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1046,7 +1062,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>718</Count>
+          <Count>722</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -1209,6 +1225,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'QueryCorrectRebuildMain'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QueryCorrectRebuildMain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ResumeSearchMain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1278,7 +1302,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'StringChineseTest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestMajorTitlePerf'">
@@ -1350,7 +1374,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>191</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
