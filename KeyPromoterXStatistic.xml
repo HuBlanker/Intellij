@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2230</Count>
+          <Count>2238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1215,6 +1215,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ResumeSearchMain'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SFClientTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SFClientTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimMatrixV2Test'">
