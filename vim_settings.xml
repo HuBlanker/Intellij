@@ -370,7 +370,7 @@
         <mark key="." line="113" column="107" />
         <mark key="^" line="113" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" timestamp="1571727789212">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenQueryCorrectSample.java" timestamp="1571732709240">
         <mark key="'" line="48" column="7" />
         <mark key="[" line="199" column="23" />
         <mark key="]" line="199" column="24" />
@@ -414,7 +414,7 @@
         <mark key="^" line="31" column="34" />
         <mark key="." line="32" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectPredict15.java" timestamp="1571729467292" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectPredict15.java" timestamp="1571733430341" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/jobsearch_lgb_model.tpl" timestamp="1571232592614">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="56" column="3" />
@@ -444,11 +444,11 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/query_correct_model.tpl" timestamp="1571478844806">
-        <mark key="[" line="26" column="50" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/query_correct_model.tpl" timestamp="1571733402723">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2NewJobHandler.java" timestamp="1569815525247">
         <mark key="[" line="289" column="99" />
@@ -469,12 +469,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/gen_java_query_correct.py" timestamp="1571284873204">
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/gen_java_query_correct.py" timestamp="1571733410482">
         <mark key="'" line="22" column="37" />
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="48" column="22" />
-        <mark key="." line="48" column="22" />
-        <mark key="^" line="48" column="22" />
+        <mark key="[" line="60" column="43" />
+        <mark key="]" line="60" column="49" />
+        <mark key="." line="60" column="49" />
+        <mark key="^" line="60" column="49" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode521.java" timestamp="1571230381573">
         <mark key="[" line="28" column="26" />
@@ -729,43 +729,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>招商员</text>
+        <text>import static com.zhipin.tools.SpellCorrector.category;
+import static com.zhipin.tools.SpellCorrector.prefixLength;</text>
       </register>
       <register name="-" type="4">
-        <text>招商员</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>edit</text>
       </register>
       <register name="0" type="4">
-        <text>searchWordCnt.getOrDefault(s.from, 0);</text>
+        <text encoding="base64">JXMgPSA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4ucWEuY29ycmVjdC5RdWVyeUNvcnJlY3RQcmVkaWN0OTsK</text>
+      <register name="1" type="4">
+        <text>import static com.zhipin.tools.SpellCorrector.category;
+import static com.zhipin.tools.SpellCorrector.prefixLength;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4ucWEuY29ycmVjdC5RdWVyeUNvcnJlY3RQcmVkaWN0ODsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcHJlZml4X2xlbmd0aCA9IHByZWZpeExlbmd0aChzLmZyb20sIHMudG8pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4ucWEuY29ycmVjdC5RdWVyeUNvcnJlY3RQcmVkaWN0OTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQwKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4ucWEuY29ycmVjdC5RdWVyeUNvcnJlY3RQcmVkaWN0ODsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGQwKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaWR4LnNpemUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4ucWEuY29ycmVjdC5RdWVyeUNvcnJlY3RQcmVkaWN0OTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -822,8 +824,8 @@
         <entry>%s/CountHashMap/CountHashMap1/g</entry>
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
         <entry>Wq</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
