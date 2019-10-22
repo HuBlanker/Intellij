@@ -113,11 +113,12 @@
         <mark key="^" line="42" column="38" />
         <mark key="." line="42" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectRebuildMain.java" timestamp="1571741944826">
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="11" />
-        <mark key="." line="52" column="11" />
-        <mark key="^" line="52" column="11" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectRebuildMain.java" timestamp="1571747224895">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="80" column="51" />
+        <mark key="]" line="81" column="53" />
+        <mark key="^" line="81" column="53" />
+        <mark key="." line="81" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/CountHashMap2.java" timestamp="1569743437795">
         <mark key="[" line="41" column="27" />
@@ -216,11 +217,11 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/WordWrapper.java" timestamp="1571740970019">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/WordWrapper.java" timestamp="1571747199097">
         <mark key="[" line="32" column="7" />
-        <mark key="]" line="32" column="30" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="30" />
+        <mark key="]" line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1570601699156">
         <mark key="[" line="0" column="0" />
@@ -561,9 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
-      <jump line="178" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="179" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="65" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
       <jump line="30" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/FindCompanyWord.java" />
@@ -661,13 +659,16 @@
       <jump line="138" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/SpellCorrectorTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="58" column="34" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/8.48/data-common-8.48.jar!/com/bosszhipin/common/Utils.class" />
+      <jump line="39" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectRebuildMain.java" />
+      <jump line="81" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectRebuildMain.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>final</text>
+        <text>shard</text>
       </register>
       <register name="-" type="4">
-        <text>final</text>
+        <text>shard</text>
       </register>
       <register name="/" type="4">
         <text>INDEX_NO_ANALYSE</text>
@@ -679,28 +680,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXZNYXAucHV0KCLlv6vpgJLlkZgiLCAxMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdEZvcm1hdC5zZXRDYXNlVHlwZShIYW55dVBpbnlpbkNhc2VUeXBlLkxPV0VSQ0FTRSk7CgogICAgICAgIGRlZmF1bHRGb3JtYXQuc2V0VG9uZVR5cGUoSGFueXVQaW55aW5Ub25lVHlwZS5XSVRIT1VUX1RPTkUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjOeQpuW9puOAjeeahOWOn+WIm+aWh+eroO+8jOmBteW+qiBDQyA0LjAgQlktU0Eg54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICAgICAg5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ZseTkxMDkwNS9hcnRpY2xlL2RldGFpbHMvNzg1MjI1NTkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdEZvcm1hdC5zZXRDYXNlVHlwZShIYW55dVBpbnlpbkNhc2VUeXBlLkxPV0VSQ0FTRSk7CgogICAgICAgIGRlZmF1bHRGb3JtYXQuc2V0VG9uZVR5cGUoSGFueXVQaW55aW5Ub25lVHlwZS5XSVRIT1VUX1RPTkUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDAwMDAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
