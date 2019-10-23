@@ -279,6 +279,7 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SpellCorrector.java" timestamp="1571822268499" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/F1JobHandler.java" timestamp="1569815505398">
         <mark key="[" line="128" column="89" />
         <mark key="]" line="128" column="90" />
@@ -316,11 +317,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1571820026627">
-        <mark key="[" line="397" column="25" />
-        <mark key="]" line="398" column="57" />
-        <mark key="^" line="398" column="57" />
-        <mark key="." line="398" column="57" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1571822620792">
+        <mark key="'" line="331" column="8" />
+        <mark key="[" line="394" column="24" />
+        <mark key="]" line="397" column="92" />
+        <mark key="." line="397" column="92" />
+        <mark key="^" line="397" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/JobColLogin.java" timestamp="1569576754288">
         <mark key="[" line="47" column="23" />
@@ -603,7 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126966" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn_dict_com.txt" />
       <jump line="66" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode160.java" />
       <jump line="81" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode160.java" />
       <jump line="109" column="15" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode160.java" />
@@ -703,13 +704,14 @@
       <jump line="590" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="88" column="33" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode234.java" />
       <jump line="34" column="49" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode392.java" />
+      <jump line="331" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZER2LmFkdmFuY2UoZG9jKTsK</text>
+      <register name="&quot;" type="4">
+        <text>|| param.web</text>
       </register>
       <register name="-" type="4">
-        <text>Collector</text>
+        <text>|| param.web</text>
       </register>
       <register name="/" type="4">
         <text>他</text>
@@ -718,31 +720,31 @@
         <text encoding="base64">ICogcHVibGljIGNsYXNzIExpc3ROb2RlIHsKICogICAgIGludCB2YWw7CiAqICAgICBMaXN0Tm9kZSBuZXh0OwogKiAgICAgTGlzdE5vZGUoaW50IHgpIHsgdmFsID0geDsgfQogKiB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZER2LmFkdmFuY2UoZG9jKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExlYWZDb2xsZWN0b3IgZ2V0TGVhZkNvbGxlY3RvcihMZWFmUmVhZGVyQ29udGV4dCBsZWFmUmVhZGVyQ29udGV4dCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU2NvcmVNb2RlIHNjb3JlTW9kZSgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOa3u+WKoOagh+etviwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExlYWZDb2xsZWN0b3IgZ2V0TGVhZkNvbGxlY3RvcihMZWFmUmVhZGVyQ29udGV4dCBsZWFmUmVhZGVyQ29udGV4dCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTY29yZU1vZGUgc2NvcmVNb2RlKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZER2LmFkdmFuY2UoZG9jKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExlYWZDb2xsZWN0b3IgZ2V0TGVhZkNvbGxlY3RvcihMZWFmUmVhZGVyQ29udGV4dCBsZWFmUmVhZGVyQ29udGV4dCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU2NvcmVNb2RlIHNjb3JlTW9kZSgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExlYWZDb2xsZWN0b3IgZ2V0TGVhZkNvbGxlY3RvcihMZWFmUmVhZGVyQ29udGV4dCBsZWFmUmVhZGVyQ29udGV4dCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTY29yZU1vZGUgc2NvcmVNb2RlKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxJbnRlZ2VyLCBTZXQ8U3RyaW5nPj4gZSA6IGRlbGV0ZS5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIHMgOiBlLmdldFZhbHVlKCkpIHsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQ0hJTkVTRV9FRElUX0RJU1RBTlZFOyBpKyspIHsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxJbnRlZ2VyLCBTZXQ8U3RyaW5nPj4gZSA6IGRlbGV0ZS5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIHMgOiBlLmdldFZhbHVlKCkpIHsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgQ0hJTkVTRV9FRElUX0RJU1RBTlZFOyBpKyspIHsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
