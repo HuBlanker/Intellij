@@ -21,7 +21,7 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1571148295802">
+      <file name="/a.dummy" timestamp="1571813768221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/limit/AntiSpiderHandler.java" timestamp="1571382970578">
@@ -295,11 +295,11 @@
         <mark key="." line="25" column="39" />
         <mark key="^" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectSearchMain.java" timestamp="1571752860930">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="47" column="87" />
-        <mark key="." line="47" column="87" />
-        <mark key="^" line="47" column="87" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/correct/QueryCorrectSearchMain.java" timestamp="1571813904740">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="60" />
+        <mark key="." line="37" column="60" />
+        <mark key="^" line="37" column="60" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/other/FarestNodeInBinaryTree.java" timestamp="1571234759302">
         <mark key="'" line="23" column="62" />
@@ -675,7 +675,7 @@
         <mark key="^" line="79" column="102" />
         <mark key="." line="79" column="102" />
       </file>
-      <file name="/fragment.java" timestamp="1571752515354">
+      <file name="/fragment.java" timestamp="1571813768230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/link_job2.sh" timestamp="1569562416793">
@@ -791,11 +791,11 @@
       <jump line="34" column="49" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode392.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>new TermQuery(new Term(WordWrapper.REMOVE_PREFIX + 1, q));</text>
       </register>
       <register name="-" type="4">
-        <text>t.toCharArray()</text>
+        <text>new TermQuery(new Term(WordWrapper.REMOVE_PREFIX + 1, q));</text>
       </register>
       <register name="/" type="4">
         <text>他</text>
@@ -804,31 +804,31 @@
         <text encoding="base64">ICogcHVibGljIGNsYXNzIExpc3ROb2RlIHsKICogICAgIGludCB2YWw7CiAqICAgICBMaXN0Tm9kZSBuZXh0OwogKiAgICAgTGlzdE5vZGUoaW50IHgpIHsgdmFsID0geDsgfQogKiB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9wRG9jcyBzZWFyY2ggPSB0aGlzLmluZGV4U2VhcmNoZXIuc2VhcmNoKHF1ZXJ5LCApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGNoYXIgYyA6ICkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdC5hZGQobmV3IFNwZWxsQ29ycmVjdG9yLkNhbmRpZGF0ZSgi5Ymq6L6RIiw4LDI0Nzg0TCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwLmNvbXB1dGVJZkFic2VudChjLCBrIC0+IG5ldyBBcnJheUxpc3Q8PigpKS5hZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGNoYXIgYyA6ICkgewogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogMi4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLmNvbXB1dGVJZkFic2VudChjLCBrIC0+IG5ldyBBcnJheUxpc3Q8PigpKS5hZGQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogMi4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGQgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
