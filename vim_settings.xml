@@ -10,10 +10,10 @@
         <mark key="^" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchReq.java" timestamp="1571382541125">
-        <mark key="[" line="509" column="83" />
-        <mark key="]" line="509" column="85" />
-        <mark key="^" line="509" column="85" />
-        <mark key="." line="509" column="85" />
+        <mark key="[" line="19" column="83" />
+        <mark key="]" line="19" column="85" />
+        <mark key="^" line="19" column="85" />
+        <mark key="." line="19" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/Keys.java" timestamp="1569743332651">
         <mark key="[" line="8" column="21" />
@@ -281,7 +281,6 @@
         <mark key="^" line="50" column="38" />
         <mark key="." line="50" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SpellCorrector.java" timestamp="1571880868439" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/F1JobHandler.java" timestamp="1569815505398">
         <mark key="[" line="128" column="89" />
         <mark key="]" line="128" column="90" />
@@ -299,6 +298,11 @@
         <mark key="]" line="30" column="37" />
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1571886059369">
+        <mark key="[" line="184" column="87" />
+        <mark key="]" line="184" column="87" />
+        <mark key="." line="184" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/util/Key.java" timestamp="1569741695173">
         <mark key="[" line="6" column="0" />
@@ -601,11 +605,6 @@
         <mark key="^" line="79" column="102" />
         <mark key="." line="79" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/KeywordQueryBuilder.java" timestamp="1571840673357">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="44" />
-        <mark key="." line="72" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="4002" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
@@ -710,11 +709,11 @@
       <jump line="12755" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MTpncGxhbmc6Z29sYW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>pyyhon</text>
