@@ -41,11 +41,15 @@
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/GeekProfile.java" timestamp="1571905863569">
+        <mark key="[" line="596" column="0" />
+        <mark key="]" line="596" column="93" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1571887393092">
-        <mark key="[" line="397" column="69" />
-        <mark key="]" line="397" column="57" />
-        <mark key="^" line="397" column="57" />
-        <mark key="." line="397" column="57" />
+        <mark key="[" line="396" column="69" />
+        <mark key="]" line="396" column="57" />
+        <mark key="^" line="396" column="57" />
+        <mark key="." line="396" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" timestamp="1571887243497">
         <mark key="'" line="9774" column="8" />
@@ -66,7 +70,7 @@
         <mark key="^" line="200" column="61" />
         <mark key="." line="199" column="24" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1571903931588" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1571906467050" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/gen_java_query_correct.py" timestamp="1571733410482">
         <mark key="'" line="22" column="37" />
         <mark key="[" line="60" column="43" />
@@ -81,18 +85,23 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1571750829460">
-        <mark key="'" line="3248" column="0" />
-        <mark key="[" line="3253" column="7" />
-        <mark key="]" line="3253" column="18" />
-        <mark key="^" line="3253" column="18" />
-        <mark key="." line="3253" column="18" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1571907082628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3192" column="25" />
+        <mark key="]" line="3193" column="27" />
+        <mark key="^" line="3193" column="27" />
+        <mark key="." line="3193" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" timestamp="1571901983133" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1571907534644">
+        <mark key="[" line="155" column="122" />
+        <mark key="]" line="188" column="15" />
+        <mark key="." line="188" column="15" />
+        <mark key="^" line="188" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" timestamp="1571905658979" />
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode543.java" timestamp="1571888833348" />
     </filemarks>
     <jumps>
-      <jump line="4292" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
       <jump line="4717" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
       <jump line="4855" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
       <jump line="5016" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
@@ -192,46 +201,47 @@
       <jump line="10496" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
       <jump line="12755" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
       <jump line="9774" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">T3B0aW9uYWw8R2Vla0V4cGVjdD4=</text>
       </register>
       <register name="/" type="4">
-        <text>pyyhon</text>
+        <text>searchkey</text>
       </register>
-      <register name="0" type="4">
-        <text>千峰互联</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlPExpc3Q8R2Vla0V4cGVjdD4+IGUwID0gU3BsaXREYi5sb2FkVXNlckV4cGVjdEFzeW5jKHIuenBHZWVrREJBcGksIGdlZWtJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTpncGxhbmc6Z29sYW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTrlvq7kv6Hov5DooYw6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDnm5LpqaznlJ/pspzljJfkuqw655uS6ams6bKc55Sf5YyX5LqsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGwgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxHZWVrRXhwZWN0PiBleHAgPSBTcGxpdERiLmxvYWRVc2VyRXhwZWN0KHIuenBHZWVrREJBcGksIChpbnQpIHJlcS5nZWVrSWQpLnN0cmVhbSgpLmZpbHRlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2Vla1Byb2ZpbGUubG9hZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">MTpncGxhbmc6Z29sYW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTrlvq7kv6Hov5DooYw6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVyeUNvcnJlY3RSZXEgcmVxID0gbmV3IFF1ZXJ5Q29ycmVjdFJlcSgpOwogICAgICAgIHJlcS5zZXRRKHF1ZXJ5KTsKICAgICAgICBTcGVsbENvcnJlY3Rvci5DYW5kaWRhdGUgcHJlZGljdCA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgUXVlcnlDb3JyZWN0UmVzcCBxYyA9IHpwQ2xpZW50cy5RYyhyZXEpOwogICAgICAgICAgICBpZiAocWMuY2FuZGlkYXRlcyAhPSBudWxsICYmIHFjLmNhbmRpZGF0ZXMuc2l6ZSgpICE9IDApIHsKICAgICAgICAgICAgICAgIENhbmRpZGF0ZSBjYW5kaWRhdGUgPSBxYy5jYW5kaWRhdGVzLmdldCgwKTsKICAgICAgICAgICAgICAgIHByZWRpY3QgPSBuZXcgU3BlbGxDb3JyZWN0b3IuQ2FuZGlkYXRlKGNhbmRpZGF0ZS53b3JkLCAxLCBMb25nLnZhbHVlT2YoY2FuZGlkYXRlLnV2KSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChDbGllbnRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoInF1ZXJ5IGNvcnJlY3QgZXJybyIsIGUpOwogICAgICAgIH0KICAgICAgICBpZiAocHJlZGljdCA9PSBudWxsIHx8IHByZWRpY3Qucy5lcXVhbHMocXVlcnkpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oImNvcnJlY3QgcXVlcnksIDp7fTp7fS97fSwgdGltZSA9IHt9bXMiLCBxdWVyeSwgcHJlZGljdC5zLCBwcmVkaWN0LnNjb3JlLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICDnm5LpqaznlJ/pspzljJfkuqw655uS6ams6bKc55Sf5YyX5LqsCg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -241,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pyyhon</last-search>
+      <last-search>searchkey</last-search>
       <last-offset />
-      <last-pattern>pyyhon</last-pattern>
+      <last-pattern>searchkey</last-pattern>
       <last-replace>CountHashMap1.key</last-replace>
       <last-substitute>CountHashMap.key</last-substitute>
       <last-dir>1</last-dir>
@@ -251,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>phthon</entry>
         <entry>w</entry>
         <entry>重庆华医</entry>
         <entry>姿在家</entry>
@@ -271,6 +280,7 @@
         <entry encoding="base64">IGdwbGFuZw==</entry>
         <entry>gplang</entry>
         <entry>pyyhon</entry>
+        <entry>searchkey</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
