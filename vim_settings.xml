@@ -571,11 +571,11 @@
         <mark key="^" line="13" column="94" />
         <mark key="." line="13" column="94" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode496.java" timestamp="1572003864528">
-        <mark key="[" line="63" column="100" />
-        <mark key="]" line="63" column="100" />
-        <mark key="^" line="63" column="86" />
-        <mark key="." line="63" column="100" />
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode496.java" timestamp="1572005794615">
+        <mark key="[" line="64" column="100" />
+        <mark key="]" line="64" column="100" />
+        <mark key="^" line="95" column="0" />
+        <mark key="." line="64" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/block_750_comids.sh" timestamp="1569504659564">
         <mark key="[" line="27" column="34" />
@@ -700,49 +700,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1, 3, 4, 2</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>1, 3, 4, 2</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>consume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbW9kaWZ5ID0gMDsKICAgICAgICBzeW5jaHJvbml6ZWQgKGNhY2hlKSB7CiAgICAgICAgICAgIGZvciAoTWFwLkVudHJ5PEludGVnZXIsIEV4cGVjdFByb3A+IGVudHJ5IDogdXBkYXRlLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgIEludGVnZXIgZXhwZWN0SWQgPSBlbnRyeS5nZXRLZXkoKTsKICAgICAgICAgICAgICAgIEV4cGVjdFByb3Agb2xkID0gY2FjaGUuZ2V0KGV4cGVjdElkKTsKICAgICAgICAgICAgICAgIEV4cGVjdFByb3AgbmV3XyA9IGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgICAgICBpZiAob2xkID09IG51bGwgfHwgb2xkLmFkZF90cyA8IG5ld18uYWRkX3RzKSB7CiAgICAgICAgICAgICAgICAgICAgY2FjaGUucHV0KGV4cGVjdElkLCBuZXdfKTsKICAgICAgICAgICAgICAgICAgICBtb2RpZnkgKz0gMTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbW9kaWZ5Owo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bXMyLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGluZHgucHV0KG51bXMyW2ldLCBpKTsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGo8IG51bXMxLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgIGludCBpZHggPSBpbmR4LmdldChudW1zMVtqXSk7CiAgICAgICAgICAgIGZvciAoaW50IGkxID0gaWR4OyBpMSA8IG51bXMyLmxlbmd0aDsgaTErKykgewogICAgICAgICAgICAgICAgaWYgKG51bXMyW2kxXSA+IG51bXMxW2pdKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0W2pdID0gbnVtczJbaTFdOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGkxID09IG51bXMyLmxlbmd0aCAtIDEpIHsKICAgICAgICAgICAgICAgICAgICByZXRbal0gPSAtMTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpbmRleCA9IG5ldyBpbnRbbnVtczIubGVuZ3RoXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBwZWVrID0gcy5wZWVrKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnByZWRpY3QuUHJvcFVwZGF0ZWVyLlNUUkVBTV9LRVlfSk9CX1BST1A7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bXMyLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGluZHgucHV0KG51bXMyW2ldLCBpKTsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGo8IG51bXMxLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgIGludCBpZHggPSBpbmR4LmdldChudW1zMVtqXSk7CiAgICAgICAgICAgIGZvciAoaW50IGkxID0gaWR4OyBpMSA8IG51bXMyLmxlbmd0aDsgaTErKykgewogICAgICAgICAgICAgICAgaWYgKG51bXMyW2kxXSA+IG51bXMxW2pdKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0W2pdID0gbnVtczJbaTFdOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGkxID09IG51bXMyLmxlbmd0aCAtIDEpIHsKICAgICAgICAgICAgICAgICAgICByZXRbal0gPSAtMTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnByZWRpY3QuUHJvcFVwZGF0ZWVyLlNUUkVBTV9LRVlfR0VFS19QUk9QOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSByZXQgPSBuZXcgaW50W251bXMxLmxlbmd0aF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmj5DliY3mjInlsL7lj7fmnaXmkJ7vvIzlnKjmn6XmnJ/mnJvnmoTml7blgJnmmK/liIbooajnmoQK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpbmRleCA9IG5ldyBpbnRbbnVtczIubGVuZ3RoXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHNodXREb3duTm93KCk7CiAgICAgICAgICAgIGxvZ2dlci53YXJuKCJpbnRlcnJ1cHRlZCBzaHV0ZG93bi4gIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnByZWRpY3QuUHJvcFVwZGF0ZWVyLlNUUkVBTV9LRVlfSk9CX1BST1A7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kaWZ5X2MgKz0gbW9kaWZ5O2QK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnByZWRpY3QuUHJvcFVwZGF0ZWVyLlNUUkVBTV9LRVlfR0VFS19QUk9QOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmj5DliY3mjInlsL7lj7fmnaXmkJ7vvIzlnKjmn6XmnJ/mnJvnmoTml7blgJnmmK/liIbooajnmoQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHNodXREb3duTm93KCk7CiAgICAgICAgICAgIGxvZ2dlci53YXJuKCJpbnRlcnJ1cHRlZCBzaHV0ZG93bi4gIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJsb2FkIGpvYiBwcm9wIGJ5IGlkcyBlcnJvci4iLCBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kaWZ5X2MgKz0gbW9kaWZ5O2QK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -793,9 +793,9 @@
         <entry>%s/CountHashMap/CountHashMap1/g</entry>
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
