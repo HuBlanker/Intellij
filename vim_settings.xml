@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1572247912583">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/UserHistory.java" timestamp="1572247578482">
         <mark key="'" line="56" column="53" />
       </file>
@@ -16,13 +19,24 @@
         <mark key="." line="5" column="81" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" timestamp="1572247745909">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" timestamp="1572248375063">
         <mark key="'" line="43" column="0" />
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="20" />
+        <mark key="^" line="72" column="20" />
+        <mark key="." line="72" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmTpJobCache.java" timestamp="1572228331121" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/ZpJobPropHelper.java" timestamp="1572248478304">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1571989470232">
         <mark key="'" line="42" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobProp.java" timestamp="1572247905180" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/by_feature.py" timestamp="1572242743945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
@@ -41,7 +55,7 @@
         <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_correct/train_logistic.py" timestamp="1572243573537" />
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1572247752255">
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1572248219521">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode496.java" timestamp="1572006770885">
@@ -154,11 +168,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MTrmipbpn7Pnn63op4bpopE65oqW6Z+z5q616KeG6aKRCg==</text>
+      <register name="&quot;" type="4">
+        <text>ZpJobPropHelper</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>ZpJobPropHelper</text>
       </register>
       <register name="/" type="4">
         <text>byJob</text>
@@ -167,31 +181,31 @@
         <text encoding="base64">IyBlbmNvZGluZzogdXRmOAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTrmipbpn7Pnn63op4bpopE65oqW6Z+z5q616KeG6aKRCg==</text>
+        <text encoding="base64">ICAgICAgICBFTVBUWS5qX2NvbSA9IEVNUFRZX0FSUkFZX0lOVDsKICAgICAgICBFTVBUWS5qX2pvYiA9IEVNUFRZX0FSUkFZX0lOVDsKICAgICAgICBFTVBUWS5qX3NraWxsID0gRU1QVFlfQVJSQVlfSU5UOwogICAgICAgIEVNUFRZLmpfY29tX3AgPSAxOwogICAgICAgIEVNUFRZLmpfam9iX3AgPSAxOwogICAgICAgIEVNUFRZLmpfYXJlYSA9IDE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTrph4/ljJblrrY65YeM5Y2O56eR5oqACg==</text>
+        <text encoding="base64">ICAgICAgICBiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTrnianmtYHot5/ljZU654mp5rWB6Zeo5bqXCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWRkX3RzIDwgbm93IC0gY2FjaGVUaW1lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTrnm7Tmkq3nu4/nuqrkuro655u05pKt57uP5rWO5Lq6Cg==</text>
+        <text encoding="base64">MTrmipbpn7Pnn63op4bpopE65oqW6Z+z5q616KeG6aKRCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTrml6nkuZ3mmZrlha065pep5bCx5pma5YWtCg==</text>
+        <text encoding="base64">MTrph4/ljJblrrY65YeM5Y2O56eR5oqACg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTrlrpzlk4HnlJ/pspw66YC45ZOB55Sf6bKcCg==</text>
+        <text encoding="base64">MTrnianmtYHot5/ljZU654mp5rWB6Zeo5bqXCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTrml6Dnu4/pqow65LqU57uP6aqMCg==</text>
+        <text encoding="base64">MTrnm7Tmkq3nu4/nuqrkuro655u05pKt57uP5rWO5Lq6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTrlpJbosozkuJrliqHlkZg65aSW6LS45Lia5Yqh5ZGYCg==</text>
+        <text encoding="base64">MTrml6nkuZ3mmZrlha065pep5bCx5pma5YWtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTrlpJbotLjkuJrliqE65aSW6LS45LmJ5LmMCg==</text>
+        <text encoding="base64">MTrlrpzlk4HnlJ/pspw66YC45ZOB55Sf6bKcCg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
