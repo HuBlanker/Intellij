@@ -3,14 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1572249070925">
+        <mark key="'" line="42" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_correct/q_c.sh" timestamp="1572233380338">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+      </file>
       <file name="/a.dummy" timestamp="1572247912583">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/UserHistory.java" timestamp="1572247578482">
-        <mark key="'" line="56" column="53" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1571996933817">
         <mark key="'" line="150" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1572248219521">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/UserHistory.java" timestamp="1572247578482">
+        <mark key="'" line="56" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_correct/log_handler.py" timestamp="1572244724006">
         <mark key="'" line="15" column="46" />
@@ -19,27 +31,15 @@
         <mark key="." line="5" column="81" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" timestamp="1572248375063">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="20" />
-        <mark key="^" line="72" column="20" />
-        <mark key="." line="72" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmTpJobCache.java" timestamp="1572228331121" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/ZpJobPropHelper.java" timestamp="1572248478304">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="26" />
-        <mark key="^" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1571989470232">
-        <mark key="'" line="42" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobProp.java" timestamp="1572247905180" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/xgb2/by_feature.py" timestamp="1572242743945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode496.java" timestamp="1572006770885">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="123" column="33" />
+        <mark key="^" line="123" column="33" />
+        <mark key="." line="123" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" timestamp="1572247486054">
         <mark key="[" line="12775" column="13" />
@@ -47,22 +47,18 @@
         <mark key="^" line="12778" column="6" />
         <mark key="." line="12778" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/binlog/BinlogParser.java" timestamp="1572232426710" />
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_correct/q_c.sh" timestamp="1572233380338">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="13" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" timestamp="1572248520374">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="20" />
+        <mark key="^" line="72" column="20" />
+        <mark key="." line="72" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_correct/train_logistic.py" timestamp="1572243573537" />
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1572248219521">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode496.java" timestamp="1572006770885">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="123" column="33" />
-        <mark key="^" line="123" column="33" />
-        <mark key="." line="123" column="33" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/ZpJobPropHelper.java" timestamp="1572248478304">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
       </file>
     </filemarks>
     <jumps>
