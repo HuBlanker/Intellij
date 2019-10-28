@@ -48,7 +48,12 @@
         <mark key="." line="91" column="11" />
         <mark key="^" line="91" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1572267412645" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1572269082010">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="873" column="0" />
+        <mark key="]" line="873" column="0" />
+        <mark key="." line="873" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1572267821101">
         <mark key="[" line="150" column="25" />
         <mark key="]" line="150" column="35" />
@@ -57,24 +62,32 @@
         <mark key="[" line="1327" column="22" />
         <mark key="]" line="1327" column="152" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" timestamp="1572260210650" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1572257526787">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" timestamp="1572270102139">
+        <mark key="[" line="54" column="100" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/updatepredictprop/GeekExpectListener.java" timestamp="1572259704178">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="40" column="55" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1572267146513">
-        <mark key="[" line="210" column="31" />
-        <mark key="]" line="182" column="27" />
-        <mark key="." line="182" column="27" />
-        <mark key="^" line="182" column="27" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1572269682371">
+        <mark key="[" line="221" column="24" />
+        <mark key="]" line="221" column="25" />
+        <mark key="^" line="221" column="25" />
+        <mark key="." line="221" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/miscellaneous/MiscServerTest.java" timestamp="1572270753146">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+        <mark key="^" line="22" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3240" column="6" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3258" column="11" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="68" column="16" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3654" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3235" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="258" column="0" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
@@ -172,43 +185,46 @@
       <jump line="839" column="14" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="32" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" />
       <jump line="203" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
+      <jump line="861" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
+      <jump line="51" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">am9iQnlBZGRyLCA=</text>
+        <text>req</text>
       </register>
       <register name="-" type="4">
-        <text>j++;</text>
+        <text>req</text>
       </register>
       <register name="/" type="4">
-        <text>brand_user</text>
+        <text>211</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT e.user_id, e.school, e.degree, e.major, e.start_date, e.end_date, e.school_id FROM geek_edu_experience e WHERE e.user_id = ?</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRtcC5hZGQodWUuZ2V0KHNjaG9vbDk4NSkuc2Nob29sKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlua2VkSGFzaFNldAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc1NjaG9vbFVuaWZpZWQoTGlzdDxVc2VyRWR1PiBlZHVzKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgLy/kuI3og73mnIkgPCDmnKznp5HnmoTlrabljoYsIOmrmOS4remZpOWklijmnInkupvnu5/mi5vnlJ/kvJrmiorpq5jkuK3lhpnkuIopCiAgICAgICAgICAgIGlmIChlZHVzLnN0cmVhbSgpLmFueU1hdGNoKGUgLT4gZS5kZWdyZWUgIT0gMjA2ICYmIE1hdGNoZXIyLmRlZ3JlZShlLmRlZ3JlZSkgPCAyMDMpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8v5pyJ5pys56eRIOS4lOacrOenkeaXtumXtOS4jeiDvTw05bm0CiAgICAgICAgICAgIGJvb2xlYW4gYmFjaGVsb3IgPSBlZHVzLnN0cmVhbSgpLmFueU1hdGNoKGUgLT4gewogICAgICAgICAgICAgICAgaWYgKGUuZGVncmVlICE9IDIwMykgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgaWYgKGUuc3RhcnREYXRlICE9IG51bGwgJiYgZS5lbmREYXRlICE9IG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgJiYgZS5zdGFydERhdGUubGVuZ3RoKCkgPj0gNCAmJiBlLmVuZERhdGUubGVuZ3RoKCkgPj0gNCkgewoKICAgICAgICAgICAgICAgICAgICBpbnQgc3RhcnQgPSBJbnRlZ2VyLnBhcnNlSW50KGUuc3RhcnREYXRlLnN1YnN0cmluZygwLCA0KSk7CiAgICAgICAgICAgICAgICAgICAgaW50IGVuZCA9IEludGVnZXIucGFyc2VJbnQoZS5lbmREYXRlLnN1YnN0cmluZygwLCA0KSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVuZCAtIHN0YXJ0IDwgNCkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICByZXR1cm4gYmFjaGVsb3I7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGlnbm9yZSkgewogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICgpIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNxbCA9ICJTRUxFQ1QgaWQgRlJPTSBqb2IgaiBXSEVSRSBqLnVzZXJfaWQgPSA/IEFORCBqLmpvYl9zdGF0dXMgPSAwIEFORCBqLmRlbGV0ZWQgIT0gMSBBTkQgai5hdWRpdF9zdGF0dXMgIT0gMiBBTkQgai5hdWRpdF9zdGF0dXMgIT0gNSBBTkQgai5hdWRpdF9zdGF0dXMgIT0gNiBBTkQgai5qb2JfdHlwZSAhPSAzIjsKICAgICAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgcHMgPSBjb24ucHJlcGFyZVN0YXRlbWVudChzcWwpOwogICAgICAgICAgICAKICAgICAgICAgICAgcHMuc2V0T2JqZWN0KDEsIHVzZXJJZCk7CiAgICAgICAgICAgIFJlc3VsdFNldCBycyA9IHBzLmV4ZWN1dGVRdWVyeSgpOwogICAgICAgICAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgICAgICAgICAgICBqb2JJZHMuYWRkKHJzLmdldEludCgiaWQiKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHMuY2xvc2UoKTsKICAgICAgICAgICAgcnMuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlua2VkSGFzaFNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -221,9 +237,9 @@
       </register>
     </registers>
     <search>
-      <last-search>brand_user</last-search>
+      <last-search>211</last-search>
       <last-offset />
-      <last-pattern>brand_user</last-pattern>
+      <last-pattern>211</last-pattern>
       <last-replace>ZpJobProp</last-replace>
       <last-substitute>PropHelper</last-substitute>
       <last-dir>1</last-dir>
@@ -231,7 +247,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IGdwbGFuZw==</entry>
         <entry>gplang</entry>
         <entry>pyyhon</entry>
         <entry>searchkey</entry>
@@ -251,6 +266,7 @@
         <entry>ExpectProp111</entry>
         <entry>PropHelper</entry>
         <entry>brand_user</entry>
+        <entry>211</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
