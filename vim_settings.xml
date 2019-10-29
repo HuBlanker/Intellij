@@ -23,6 +23,12 @@
         <mark key="." line="21" column="75" />
         <mark key="^" line="21" column="75" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/updatepredictprop/UserProfileListener.java" timestamp="1572355553475">
+        <mark key="[" line="41" column="41" />
+        <mark key="]" line="41" column="52" />
+        <mark key="^" line="41" column="52" />
+        <mark key="." line="41" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/updatepredictprop/GeekWorkExperienceListener.java" timestamp="1572340242771">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -76,6 +82,16 @@
         <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/UserProfile.java" timestamp="1572341747852" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/modifyindex/UserProfileListener.java" timestamp="1572355540128">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmZpGeekCache.java" timestamp="1572355693947">
+        <mark key="[" line="77" column="49" />
+        <mark key="]" line="79" column="41" />
+        <mark key="." line="79" column="41" />
+        <mark key="^" line="79" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/updatepredictprop/UpdatePropsListener.java" timestamp="1572255113986">
         <mark key="[" line="71" column="38" />
         <mark key="]" line="71" column="51" />
@@ -83,11 +99,10 @@
         <mark key="^" line="71" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmBossCache.java" timestamp="1572341879873">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1572343650806" />
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode206.java" timestamp="1572332650114">
         <mark key="[" line="19" column="56" />
         <mark key="]" line="19" column="86" />
@@ -106,15 +121,10 @@
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1572344055987">
-        <mark key="[" line="269" column="23" />
-        <mark key="]" line="269" column="25" />
-        <mark key="^" line="269" column="25" />
-        <mark key="." line="269" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1572340293101">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmCacheBaseMain.java" timestamp="1572355912142" />
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode485.java" timestamp="1572315298432">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="28" column="38" />
@@ -127,7 +137,6 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" timestamp="1572347038763" />
     </filemarks>
     <jumps>
       <jump line="10834" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
@@ -232,44 +241,44 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>107000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIGdlZWtLZXkgPSBTdHJlYW1VdGlscy5QUkVESUNUX0dFRUtfUFJPUDsK</text>
       </register>
       <register name="-" type="4">
-        <text>107000</text>
+        <text>new UserProfileListener(producer3)</text>
       </register>
       <register name="/" type="4">
         <text>北京大学</text>
       </register>
-      <register name="0" type="4">
-        <text>本科985, 研究生啥都不是, 应该显示985</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIGdlZWtJZCA9IGNvbE1hcC5nZXQoInVzZXJfaWQiKS5sb25nVmFsKCk7CiAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoKGludCkgZ2Vla0lkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuY29weU9mKGlkeHMsIG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIGdlZWtLZXkgPSBTdHJlYW1VdGlscy5QUkVESUNUX0dFRUtfUFJPUDsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuY29weU9mKGlkeHMsIG4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRWR1IHVzZXJFZHUyID0gbmV3IFVzZXJFZHUoMCwgIuilv+WuieeUteWtkOenkeaKgOWkp+WtpiIsIDIwMywgIui9r+S7tiIsICIyMDE5MDEwMSIsICIyMDIzMDEwMSIsIDEwNyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyRWR1IHVzZXJFZHUxID0gbmV3IFVzZXJFZHUoMCwgIuWMl+S6rOWkp+WtpiIsIDIwMywgIui9r+S7tiIsICIyMDE5MDEwMSIsICIyMDIzMDEwMSIsIDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0bXBOYW1lLmFkZEFsbCh0bXBUYWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRWR1IHVzZXJFZHUyID0gbmV3IFVzZXJFZHUoMCwgIuilv+WuieeUteWtkOenkeaKgOWkp+WtpiIsIDIwMywgIui9r+S7tiIsICIyMDE5MDEwMSIsICIyMDIzMDEwMSIsIDEwNyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRWR1IHVzZXJFZHUxID0gbmV3IFVzZXJFZHUoMCwgIuWMl+S6rOWkp+WtpiIsIDIwMywgIui9r+S7tiIsICIyMDE5MDEwMSIsICIyMDIzMDEwMSIsIDEpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
