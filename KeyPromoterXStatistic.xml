@@ -609,6 +609,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LeetCode204'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'LeetCode204'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LeetCode21'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1055,6 +1063,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'HashMapTest.main()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LeetCode203.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'LeetCode203.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LeetCode88.main()'">
