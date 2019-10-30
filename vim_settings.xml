@@ -16,7 +16,8 @@
         <mark key="." line="32" column="58" />
         <mark key="^" line="32" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1572401379722">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1572403550094">
+        <mark key="'" line="433" column="25" />
         <mark key="[" line="406" column="0" />
         <mark key="]" line="406" column="0" />
         <mark key="." line="406" column="0" />
@@ -137,9 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10834" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
-      <jump line="1" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
-      <jump line="12693" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
       <jump line="59" column="16" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode374.java" />
       <jump line="12450" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
       <jump line="12449" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/query_correct_mapping_head2.txt" />
@@ -237,6 +235,9 @@
       <jump line="27" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
+      <jump line="426" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
+      <jump line="427" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
+      <jump line="433" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -246,7 +247,7 @@
         <text>6461074</text>
       </register>
       <register name="/" type="4">
-        <text>北京大学</text>
+        <text>userwork</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gcGNPbGQgPSBwYXJhbS53ZWIgJiAhcGNHcmF5LmNvbnRhaW5zKHN1ZmZpeCk7Cg==</text>
@@ -286,9 +287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>北京大学</last-search>
+      <last-search>userwork</last-search>
       <last-offset />
-      <last-pattern>北京大学</last-pattern>
+      <last-pattern>userwork</last-pattern>
       <last-replace>ZpJobProp</last-replace>
       <last-substitute>guava</last-substitute>
       <last-dir>1</last-dir>
@@ -296,7 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Boss直聘</entry>
         <entry>nlp</entry>
         <entry>initg</entry>
         <entry>initG</entry>
@@ -316,6 +316,7 @@
         <entry>电子科技</entry>
         <entry>guava</entry>
         <entry>北京大学</entry>
+        <entry>userwork</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
