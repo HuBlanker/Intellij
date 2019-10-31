@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2594</Count>
+          <Count>2597</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -286,7 +286,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -351,6 +351,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Module 'zp-client'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'zp-search2'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild Module 'zp-search2'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
