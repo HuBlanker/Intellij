@@ -51,6 +51,9 @@
         <mark key="." line="85" column="20" />
         <mark key="^" line="85" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/PredictMainTest.java" timestamp="1572592002547">
+        <mark key="[" line="21" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchResult.java" timestamp="1572430388690" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
@@ -64,13 +67,16 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/ExpectPropLoader.java" timestamp="1572590179753">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/ExpectPropLoader.java" timestamp="1572591407733">
         <mark key="[" line="85" column="24" />
         <mark key="]" line="85" column="18" />
         <mark key="." line="85" column="18" />
         <mark key="^" line="85" column="18" />
       </file>
       <file name="/ExposureItemParser.java" timestamp="1572491200124" />
+      <file name="/RmBossCache.java" timestamp="1572493969677">
+        <mark key="[" line="74" column="77" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/7.57/zp-client-7.57.jar!/gen/thrift/Geek.class" timestamp="1572426682892" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/DumpGeekExpectProperties.java" timestamp="1572509155869">
         <mark key="[" line="35" column="34" />
@@ -119,7 +125,9 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" timestamp="1572590589629" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" timestamp="1572591307154">
+        <mark key="'" line="255" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1572489309790" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobRanker4F2N.java" timestamp="1572574847663">
         <mark key="[" line="146" column="12" />
@@ -135,12 +143,12 @@
         <mark key="^" line="390" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1572427655265" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572590966569">
-        <mark key="'" line="207" column="16" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-        <mark key="^" line="207" column="28" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572592063889">
+        <mark key="'" line="219" column="16" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="206" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/UserProfile.java" timestamp="1572505358779" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmZpGeekCache.java" timestamp="1572573026175">
@@ -208,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="427" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="433" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="425" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
@@ -308,46 +315,47 @@
       <jump line="103" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" />
       <jump line="380" column="59" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="207" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="255" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTVEFUX0NPVU5ULmluY3JBbmRHZXQoVUFfTlVNKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>load</text>
+        <text>geek</text>
       </register>
       <register name="/" type="4">
         <text>logitem</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNvbS56aGlwaW4uVXRpbHMubmV3TG9nVjRDbGllbnQoY19hY3Rpb25zX3RpbnkpOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygidXBkYXRlIGdlZWsgYWN0aW9ucywge30ve30iLCB1c2VySWQsIGkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTVEFUX0NPVU5ULmluY3JBbmRHZXQoVUFfTlVNKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAKCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZmluYWwgTG9nZGJWNENsaWVudHMgY0xvZ1RpbnlEYjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyQWN0aW9ucy5sb2FkKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaUNoYW5uZWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWN0aW9uLmdlZWtJZCA9PSAyMDY4MDI4NikgewogICAgICAgICAgICBsb2dnZXIuaW5mbygiZ2VlayBhY3Rpb24gcHJvcCB7fSIsIGNvbS56aGlwaW4uVXRpbHMuZ3Nvbi50b0pzb24oanNvbikpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbi50aHJpZnQuUHJlZGljdDRDUmVxOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RQcm9wUHJvZHVjZXIucHJvZHVjZShTdHJlYW1VdGlscy5QUkVESUNUX0dFRUtfQUNUSU9OX1BST1AsIFN0cmVhbVV0aWxzLm1heExlbiwgY29tLnpoaXBpbi5VdGlscy5nc29uLnRvSnNvbihqc29uKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
