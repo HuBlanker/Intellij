@@ -80,6 +80,12 @@
         <mark key="." line="85" column="20" />
         <mark key="^" line="85" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/PredictMainTest.java" timestamp="1572577857323">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="70" />
+        <mark key="^" line="15" column="70" />
+        <mark key="." line="15" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1572506583343">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="111" column="26" />
@@ -206,8 +212,10 @@
         <mark key="." line="40" column="67" />
         <mark key="^" line="40" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572572962489">
-        <mark key="'" line="582" column="75" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572578215176">
+        <mark key="'" line="584" column="31" />
+        <mark key="[" line="584" column="31" />
+        <mark key="]" line="584" column="62" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/util/LeetCodeUtil.java" timestamp="1572314111040">
         <mark key="[" line="9" column="18" />
@@ -314,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
       <jump line="27" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
@@ -414,43 +421,44 @@
       <jump line="111" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="390" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="582" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Predict4CReq</text>
+        <text>&quot;localhost:10000&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Predict4CReq</text>
+        <text>&quot;localhost:10000&quot;</text>
       </register>
       <register name="/" type="4">
         <text>predict4c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIHB1YmxpYyBjbGFzcyBMaXN0Tm9kZSB7CiAgICAgKiBpbnQgdmFsOwogICAgICogTGlzdE5vZGUgbmV4dDsKICAgICAqIExpc3ROb2RlKGludCB4KSB7IHZhbCA9IHg7IH0KICAgICAqIH0K</text>
+        <text encoding="base64">ICAgICAgICBQcmVkaWN0UmVxIHJlcSA9IG5ldyBQcmVkaWN0UmVxKCk7CiAgICAgICAgUHJlZGljdEl0ZW0gbyA9IG5ldyBQcmVkaWN0SXRlbSgpOwogICAgICAgIG8uc2V0Sm9iSWQoOTAwMDg2MjcpOwogICAgICAgIG8uc2V0Qm9zc0lkKDkwMDAxMzUwKTsKLy8gICAgICAgIHJlcS5uYW1lcyA9IENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoImEiKTsKICAgICAgICByZXEuaXRlbXMgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KG8pOwogICAgICAgIFByZWRpY3RSZXNwIHByZWRpY3RSZXNwID0gY2xpZW50cy5QcmVkaWN0NEMocmVxKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJlZGljdFJlc3ApOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaUNoYW5uZWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbi50aHJpZnQuUHJlZGljdDRDUmVxOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaUNoYW5uZWw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbi50aHJpZnQuUHJlZGljdDRCUmVxOwo=</text>
+        <text encoding="base64">aW1wb3J0IGdlbi50aHJpZnQuUHJlZGljdDRDUmVxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdlbi50aHJpZnQuUHJlZGljdDRCUmVxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVkaWN0UHJvZHVjZXIgPQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJjb3VudCIsIG1vZGlmeUNvdW50LmdldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVkaWN0UHJvZHVjZXIgPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJjb3VudCIsIG1vZGlmeUNvdW50LmdldCgpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
