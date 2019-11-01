@@ -46,10 +46,10 @@
         <mark key="^" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdateer.java" timestamp="1572524914169">
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="334" column="32" />
-        <mark key="^" line="333" column="29" />
-        <mark key="." line="334" column="0" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="32" />
+        <mark key="^" line="318" column="29" />
+        <mark key="." line="319" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1572319903872">
         <mark key="'" line="8" column="0" />
@@ -86,11 +86,6 @@
         <mark key="]" line="112" column="14" />
         <mark key="." line="112" column="14" />
         <mark key="^" line="112" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/updatepredictprop/UpdatePropsListener.java" timestamp="1572518024509">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode2.java" timestamp="1572514430894">
         <mark key="[" line="50" column="0" />
@@ -167,11 +162,11 @@
         <mark key="^" line="129" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1572524431941">
-        <mark key="'" line="181" column="1" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="149" column="35" />
+        <mark key="'" line="182" column="1" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="150" column="35" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/leetcode/editor/cn/LeetCode876.java" timestamp="1572488713418">
         <mark key="[" line="38" column="26" />
@@ -192,6 +187,12 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobRanker4F2N.java" timestamp="1572574847663">
+        <mark key="[" line="146" column="12" />
+        <mark key="]" line="146" column="20" />
+        <mark key="." line="146" column="20" />
+        <mark key="^" line="146" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" timestamp="1572573084973">
         <mark key="'" line="390" column="31" />
         <mark key="[" line="390" column="8" />
@@ -206,11 +207,7 @@
         <mark key="^" line="40" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572572962489">
-        <mark key="'" line="659" column="75" />
-        <mark key="[" line="121" column="43" />
-        <mark key="]" line="121" column="42" />
-        <mark key="." line="121" column="42" />
-        <mark key="^" line="121" column="42" />
+        <mark key="'" line="582" column="75" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/leetcode/util/LeetCodeUtil.java" timestamp="1572314111040">
         <mark key="[" line="9" column="18" />
@@ -278,8 +275,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="88" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1572319875493">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1572574866153">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/updatepredictprop/GeekExpectListener.java" timestamp="1572341950418">
         <mark key="[" line="15" column="63" />
@@ -317,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/miscellaneous/MiscHandlerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
       <jump line="27" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_985.txt" />
@@ -417,46 +413,47 @@
       <jump line="102" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="111" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="390" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Predict4CReq</text>
       </register>
       <register name="-" type="4">
-        <text>producer3</text>
+        <text>Predict4CReq</text>
       </register>
       <register name="/" type="4">
-        <text>predictStream</text>
+        <text>predict4c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIHB1YmxpYyBjbGFzcyBMaXN0Tm9kZSB7CiAgICAgKiBpbnQgdmFsOwogICAgICogTGlzdE5vZGUgbmV4dDsKICAgICAqIExpc3ROb2RlKGludCB4KSB7IHZhbCA9IHg7IH0KICAgICAqIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNvdW5kLm1pZGkuTWlkaUNoYW5uZWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdlbi50aHJpZnQuUHJlZGljdDRDUmVxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVkaWN0UHJvZHVjZXIgPQo=</text>
+        <text encoding="base64">aW1wb3J0IGdlbi50aHJpZnQuUHJlZGljdDRCUmVxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJjb3VudCIsIG1vZGlmeUNvdW50LmdldCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVkaWN0UHJvZHVjZXIgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJjb3VudCIsIG1vZGlmeUNvdW50LmdldCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljICBjbGFzcyAgTGlzdE5vZGUgewogICAgICBpbnQgdmFsOwogICAgICBMaXN0Tm9kZSBuZXh0OwogICAgICBMaXN0Tm9kZShpbnQgeCkgeyB2YWwgPSB4OyB9CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -466,9 +463,9 @@
       </register>
     </registers>
     <search>
-      <last-search>predictStream</last-search>
+      <last-search>predict4c</last-search>
       <last-offset />
-      <last-pattern>predictStream</last-pattern>
+      <last-pattern>predict4c</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>中国石油大学（北京）</entry>
         <entry>中央财经大学</entry>
         <entry>211</entry>
         <entry>%s</entry>
@@ -496,6 +492,7 @@
         <entry>loadgeeksinfo</entry>
         <entry>predict</entry>
         <entry>predictStream</entry>
+        <entry>predict4c</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
