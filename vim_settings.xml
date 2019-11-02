@@ -10,11 +10,11 @@
         <mark key="." line="558" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1572678627121" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/JobSearchMainTest.java" timestamp="1572677764185">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="27" />
+      <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode86.java" timestamp="1572682565459">
+        <mark key="[" line="19" column="81" />
+        <mark key="]" line="74" column="33" />
+        <mark key="." line="74" column="33" />
+        <mark key="^" line="74" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1572677296692" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/modifyindex/GeekCompleteListener.java" timestamp="1572674795570">
@@ -22,6 +22,20 @@
         <mark key="]" line="34" column="49" />
         <mark key="." line="34" column="49" />
         <mark key="^" line="34" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" timestamp="1572682494094">
+        <mark key="'" line="448" column="0" />
+        <mark key="[" line="65" column="63" />
+        <mark key="]" line="65" column="63" />
+        <mark key="." line="65" column="63" />
+        <mark key="^" line="65" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572682485508">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="156" column="28" />
+        <mark key="]" line="156" column="32" />
+        <mark key="." line="156" column="32" />
+        <mark key="^" line="156" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1572677397879">
         <mark key="[" line="128" column="26" />
@@ -53,13 +67,16 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1572681214763">
+        <mark key="'" line="114" column="22" />
+        <mark key="[" line="229" column="4" />
+        <mark key="." line="229" column="10" />
+      </file>
       <file name="/fragment.java" timestamp="1572678043018">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="429" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdateer.java" />
       <jump line="491" column="1" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" />
       <jump line="13" column="27" filename="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" />
@@ -158,58 +175,60 @@
       <jump line="100" column="27" filename="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode82.java" />
       <jump line="117" column="0" filename="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode82.java" />
       <jump line="37" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/modifyindex/BossCompleteListener.java" />
+      <jump line="229" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="114" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuc2V0VHlwZShTZWFyY2hUeXBlLlNpbXBsZSk7CiAgICAgICAgcmVxLnNldFB1U291VHlwZShQdVNvdVR5cGUuSk9CKTsK</text>
+      <register name="&quot;" type="4">
+        <text>300</text>
       </register>
       <register name="-" type="4">
-        <text>6456415</text>
+        <text>300</text>
       </register>
       <register name="/" type="4">
-        <text>gen.db.DBApi.loadGeekInfo</text>
+        <text>hook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0Tm9kZSByb3RhdGVSaWdodChMaXN0Tm9kZSBoZWFkLCBpbnQgaykgewogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgazsgaSsrKSB7CiAgICAgICAgICAgIGhlYWQgPSByYXRhdGVPbmUoaGVhZCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBoZWFkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImlzIHRydWUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuc2V0VHlwZShTZWFyY2hUeXBlLlNpbXBsZSk7CiAgICAgICAgcmVxLnNldFB1U291VHlwZShQdVNvdVR5cGUuSk9CKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItaCIsIHVzYWdlID0gIlByaW50IGhlbHAgYW5kIGV4aXRzIikKICAgIHByb3RlY3RlZCBib29sZWFuIGhlbHAgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgc3VwZXIoR0VFS19UWVBFLCBORUVEX0NPTFMsIHByb2R1Y2VyMyk7Cj09PT09PT0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItcG9ydCIsIHVzYWdlID0gIlBvcnQgdG8gbGlzdGVuIHRvIikKICAgIHByb3RlY3RlZCBpbnQgcG9ydCA9IDk4NzY7CgogICAgQE9wdGlvbihuYW1lID0gIi10aHJlYWRzIiwgdXNhZ2UgPSAidGhyaWZ0IHdvcmtlciB0aHJlYWRzIikKICAgIHByb3RlY3RlZCBpbnQgdGhyZWFkcyA9IDMwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICBwdWJsaWMgQm9zc0NvbXBsZXRlTGlzdGVuZXIoIERhdGFTb3VyY2UgYm9zc0RiLCBTdHJlYW1Qcm9kdWNlcjM8SW5kZXhNb2RpZnlJdGVtPiBwcm9kdWNlcjMpIHsKICAgICAgICBzdXBlcihKT0JfVFlQRSwgTkVFRF9DT0xTLCBwcm9kdWNlcjMpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZEhvb2s0VGhyaWZ0KHRTZXJ2ZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdFNlcnZlci5zZXJ2ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgICAgIGxvZ1BhcnNlci5yZWdMaXN0ZW5lcihCT1NTX0RCLCBHRUVLX1BST0ZJTEUsIHpwR2Vla0RzLCBuZXcgVXNlclByb2ZpbGVMaXN0ZW5lcihwcm9kdWNlcjMpKTsKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBhWzBdLm5leHQgPSBhWzZdOwo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>gen.db.DBApi.loadGeekInfo</last-search>
+      <last-search>hook</last-search>
       <last-offset />
-      <last-pattern>gen.db.DBApi.loadGeekInfo</last-pattern>
+      <last-pattern>hook</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -217,7 +236,6 @@
     </search>
     <history>
       <history-search>
-        <entry>embed</entry>
         <entry>zookee</entry>
         <entry>zpjob</entry>
         <entry>rebuild</entry>
@@ -237,6 +255,7 @@
         <entry>0</entry>
         <entry>ubs</entry>
         <entry>gen.db.DBApi.loadGeekInfo</entry>
+        <entry>hook</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
@@ -247,18 +266,18 @@
         <entry>%s/CountHashMap/CountHashMap1/s</entry>
         <entry>%s/CountHashMap/CountHashMap1/g</entry>
         <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
-        <entry>Wq</entry>
-        <entry>W</entry>
         <entry>%s/ExpectProp111/ZpExpectProp/g</entry>
         <entry>%s/PropHelper/ZpJobProp/g</entry>
-        <entry>wq</entry>
         <entry>%s/&quot;,//g</entry>
         <entry>%s/,/\n/g</entry>
         <entry>%s/,/\r/g</entry>
         <entry>%s/&quot;,/\r/g</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgSW15</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
+        <entry>Wq</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
