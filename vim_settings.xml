@@ -30,12 +30,11 @@
         <mark key="." line="65" column="63" />
         <mark key="^" line="65" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572682485508">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572684581900">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="156" column="28" />
-        <mark key="]" line="156" column="32" />
-        <mark key="." line="156" column="32" />
-        <mark key="^" line="156" column="32" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1572677397879">
         <mark key="[" line="128" column="26" />
@@ -72,7 +71,7 @@
         <mark key="[" line="229" column="4" />
         <mark key="." line="229" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1572678043018">
+      <file name="/fragment.java" timestamp="1572684274509">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -179,11 +178,11 @@
       <jump line="114" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>300</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>300</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>hook</text>
@@ -192,31 +191,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImlzIHRydWUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItaCIsIHVzYWdlID0gIlByaW50IGhlbHAgYW5kIGV4aXRzIikKICAgIHByb3RlY3RlZCBib29sZWFuIGhlbHAgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItcG9ydCIsIHVzYWdlID0gIlBvcnQgdG8gbGlzdGVuIHRvIikKICAgIHByb3RlY3RlZCBpbnQgcG9ydCA9IDk4NzY7CgogICAgQE9wdGlvbihuYW1lID0gIi10aHJlYWRzIiwgdXNhZ2UgPSAidGhyaWZ0IHdvcmtlciB0aHJlYWRzIikKICAgIHByb3RlY3RlZCBpbnQgdGhyZWFkcyA9IDMwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZU91dHB1dFN0cmVhbS53cml0ZShzYi50b1N0cmluZygpLmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZTEucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmFwcGVuZChjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGVwKSkuYXBwZW5kKCItLS0iKS5hcHBlbmQobm5fc3RhdGljLmdldChpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZEhvb2s0VGhyaWZ0KHRTZXJ2ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNiLmFwcGVuZChjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGl0ZW0pKS5hcHBlbmQoIi0tLSIpLmFwcGVuZChjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGpwKSkuYXBwZW5kKCItLS0tIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdFNlcnZlci5zZXJ2ZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhWzBdLm5leHQgPSBhWzZdOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQcmVkaWN0TWFpbigpIHsK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
