@@ -1457,6 +1457,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'LeetCode92'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'LeetCode92'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MiscHandlerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1695,6 +1703,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Sign in">
+        <Item>
+          <IdeaActionID>leetcode.LoginAction</IdeaActionID>
+          <Description>Sign in</Description>
         </Item>
       </Statistic>
     </option>
