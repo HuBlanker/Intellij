@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2779</Count>
+          <Count>2784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -497,12 +497,20 @@
           <Count>41</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'InternalServerTest.getDbCacheTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'InternalServerTest.getDbCacheTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'InternalServerTest.getGeekItemsTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'InternalServerTest.getGeekItemsTest'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InternalServerTest.getJobItemsTest'">
