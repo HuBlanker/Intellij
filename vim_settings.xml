@@ -70,6 +70,7 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1572836328958" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdateer.java" timestamp="1572524914169">
         <mark key="[" line="319" column="0" />
         <mark key="]" line="319" column="32" />
@@ -374,7 +375,7 @@
         <text>Flags.NOW_TS -</text>
       </register>
       <register name="/" type="4">
-        <text>hook</text>
+        <text>qa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwLnVwZGF0ZVRzIDwgRmxhZ3MuREFZM19BR09fVFMgfHwgcC5hY3Rpb25VcGRhdGVUcyA8IEZsYWdzLkRBWTNfQUdPX1RTKSBjb250aW51ZTsK</text>
@@ -414,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hook</last-search>
+      <last-search>qa</last-search>
       <last-offset />
-      <last-pattern>hook</last-pattern>
+      <last-pattern>qa</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -424,7 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zookee</entry>
         <entry>zpjob</entry>
         <entry>rebuild</entry>
         <entry>geek_com</entry>
@@ -444,6 +444,7 @@
         <entry>ubs</entry>
         <entry>gen.db.DBApi.loadGeekInfo</entry>
         <entry>hook</entry>
+        <entry>qa</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
