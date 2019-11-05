@@ -38,6 +38,9 @@
         <mark key="^" line="129" column="14" />
         <mark key="." line="129" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1572942775927">
+        <mark key="'" line="350" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmZpGeekCache.java" timestamp="1572675267529">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -116,8 +119,8 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" timestamp="1572682494094">
         <mark key="'" line="449" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1572940160268">
-        <mark key="'" line="114" column="22" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1572942786929">
+        <mark key="'" line="176" column="28" />
         <mark key="[" line="229" column="4" />
         <mark key="." line="229" column="10" />
       </file>
@@ -143,10 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
-      <jump line="5" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdateer.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" />
       <jump line="194" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="193" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="332" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
@@ -243,6 +242,10 @@
       <jump line="589" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
       <jump line="37" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
       <jump line="63" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
+      <jump line="483" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
+      <jump line="334" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
+      <jump line="350" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
+      <jump line="176" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -252,7 +255,7 @@
         <text>JobExpectMatcher.</text>
       </register>
       <register name="/" type="4">
-        <text>matchin</text>
+        <text>scan</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TGlzdDxHZWVrRXhwZWN0Pg==</text>
@@ -292,9 +295,9 @@
       </register>
     </registers>
     <search>
-      <last-search>matchin</last-search>
+      <last-search>scan</last-search>
       <last-offset />
-      <last-pattern>matchin</last-pattern>
+      <last-pattern>scan</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -302,8 +305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gender</entry>
-        <entry>channel</entry>
         <entry>loadgeeksinfo</entry>
         <entry>predict</entry>
         <entry>predictStream</entry>
@@ -322,6 +323,8 @@
         <entry>match</entry>
         <entry>city</entry>
         <entry>matchin</entry>
+        <entry>min</entry>
+        <entry>scan</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
