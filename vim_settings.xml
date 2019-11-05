@@ -135,8 +135,8 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" timestamp="1572682494094">
         <mark key="'" line="449" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1572957846258">
-        <mark key="'" line="228" column="21" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1572963419337">
+        <mark key="'" line="531" column="45" />
         <mark key="[" line="260" column="12" />
         <mark key="]" line="260" column="10" />
         <mark key="." line="260" column="10" />
@@ -170,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="34" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/DumpGeekExpectProperties.java" />
       <jump line="50" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/modifyindex/GeekCompleteListener.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
@@ -266,10 +265,11 @@
       <jump line="350" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="176" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="408" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
-      <jump line="531" column="45" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="173" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="228" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="517" column="83" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="531" column="45" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -279,7 +279,7 @@
         <text>JobExpectMatcher.</text>
       </register>
       <register name="/" type="4">
-        <text>2000</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TGlzdDxHZWVrRXhwZWN0Pg==</text>
@@ -319,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2000</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>2000</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -346,9 +346,9 @@
         <entry>min</entry>
         <entry>scan</entry>
         <entry>reg</entry>
-        <entry>update</entry>
         <entry>totaljobsu</entry>
         <entry>2000</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
