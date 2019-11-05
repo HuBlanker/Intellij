@@ -49,6 +49,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/DictionaryTest.java" timestamp="1572418713176">
         <mark key="'" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/modifyindex/ModifyIndexListener.java" timestamp="1572947449495" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1572426307597">
         <mark key="'" line="911" column="0" />
       </file>
@@ -255,7 +256,7 @@
         <text>JobExpectMatcher.</text>
       </register>
       <register name="/" type="4">
-        <text>scan</text>
+        <text>reg</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TGlzdDxHZWVrRXhwZWN0Pg==</text>
@@ -295,9 +296,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scan</last-search>
+      <last-search>reg</last-search>
       <last-offset />
-      <last-pattern>scan</last-pattern>
+      <last-pattern>reg</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -305,7 +306,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loadgeeksinfo</entry>
         <entry>predict</entry>
         <entry>predictStream</entry>
         <entry>byex</entry>
@@ -325,6 +325,7 @@
         <entry>matchin</entry>
         <entry>min</entry>
         <entry>scan</entry>
+        <entry>reg</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
