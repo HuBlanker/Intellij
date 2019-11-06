@@ -13,6 +13,13 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchReq.java" timestamp="1573023805564">
+        <mark key="'" line="63" column="13" />
+        <mark key="[" line="558" column="30" />
+        <mark key="]" line="558" column="32" />
+        <mark key="^" line="558" column="32" />
+        <mark key="." line="558" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-dataservice/src/main/java/com/zhipin/service/ServiceMain.java" timestamp="1573005470704">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -22,6 +29,7 @@
         <mark key="'" line="350" column="50" />
       </file>
       <file name="/JobQuery.java" timestamp="1573009078597" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/GeekProfile.java" timestamp="1573023824813" />
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/zhipin/SimMatrixV2.java" timestamp="1573021652677">
         <mark key="'" line="86" column="4" />
       </file>
@@ -70,7 +78,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
       </file>
-      <file name="/CountHashMap.java" timestamp="1573022390308" />
+      <file name="/CountHashMap.java" timestamp="1573023506300" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmZpGeekCache.java" timestamp="1572675267529">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -89,12 +97,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1572678043004">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/8.66/data-common-8.66.jar!/com/bosszhipin/common/AbstractMain.class" timestamp="1572961103992">
-        <mark key="[" line="63" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1572957411327">
         <mark key="'" line="0" column="0" />
@@ -122,12 +124,8 @@
         <mark key="'" line="428" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-dataservice/gen-java/gen/jobdb/DBApi.java" timestamp="1573007029267" />
-      <file name="/fragment.java" timestamp="1572684274509">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdateer.java" />
       <jump line="659" column="75" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="186" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdateer.java" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" />
@@ -227,6 +225,7 @@
       <jump line="238" column="30" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
       <jump line="25" column="18" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
       <jump line="86" column="4" filename="$USER_HOME$/workspace/data-common/src/main/java/com/zhipin/SimMatrixV2.java" />
+      <jump line="63" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchReq.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -236,7 +235,7 @@
         <text>JobExpectMatcher.</text>
       </register>
       <register name="/" type="4">
-        <text>qureyJobbingTitles</text>
+        <text>gp</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TGlzdDxHZWVrRXhwZWN0Pg==</text>
@@ -276,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>qureyJobbingTitles</last-search>
+      <last-search>gp</last-search>
       <last-offset />
-      <last-pattern>qureyJobbingTitles</last-pattern>
+      <last-pattern>gp</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updatejob</entry>
         <entry>predict4c</entry>
         <entry>rotateRight</entry>
         <entry>0</entry>
@@ -306,6 +304,7 @@
         <entry>comp</entry>
         <entry>qureyJobbingTitlesAsync</entry>
         <entry>qureyJobbingTitles</entry>
+        <entry>gp</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
