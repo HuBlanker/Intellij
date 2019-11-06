@@ -110,8 +110,8 @@
         <mark key="^" line="83" column="34" />
         <mark key="." line="83" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1572684581900">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1573049667858">
+        <mark key="'" line="366" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
@@ -188,7 +188,6 @@
       <file name="$USER_HOME$/workspace/zp-dataservice/gen-java/gen/jobdb/DBApi.java" timestamp="1573007029267" />
     </filemarks>
     <jumps>
-      <jump line="370" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="17" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="65" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
@@ -288,6 +287,7 @@
       <jump line="260" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="531" column="72" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="537" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="366" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -297,7 +297,7 @@
         <text>JobExpectMatcher.</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>predict4b</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TGlzdDxHZWVrRXhwZWN0Pg==</text>
@@ -337,9 +337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>predict4b</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>predict4b</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -347,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>predict4c</entry>
         <entry>rotateRight</entry>
         <entry>0</entry>
         <entry>ubs</entry>
@@ -367,6 +366,7 @@
         <entry>qureyJobbingTitles</entry>
         <entry>gp</entry>
         <entry>update</entry>
+        <entry>predict4b</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
