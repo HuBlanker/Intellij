@@ -119,8 +119,8 @@
         <mark key="^" line="83" column="34" />
         <mark key="." line="83" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1573051762204">
-        <mark key="'" line="600" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1573093239099">
+        <mark key="'" line="114" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
@@ -202,8 +202,6 @@
       <file name="$USER_HOME$/workspace/zp-dataservice/gen-java/gen/jobdb/DBApi.java" timestamp="1573007029267" />
     </filemarks>
     <jumps>
-      <jump line="66" column="53" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
-      <jump line="102" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="111" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="390" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" />
       <jump line="582" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
@@ -302,6 +300,8 @@
       <jump line="119" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobRanker4F2N.java" />
       <jump line="303" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="600" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="250" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="114" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -311,7 +311,7 @@
         <text>JobExpectMatcher.</text>
       </register>
       <register name="/" type="4">
-        <text>predict4b</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TGlzdDxHZWVrRXhwZWN0Pg==</text>
@@ -351,9 +351,9 @@
       </register>
     </registers>
     <search>
-      <last-search>predict4b</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>predict4b</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute>&quot;,</last-substitute>
       <last-dir>1</last-dir>
@@ -379,8 +379,8 @@
         <entry>qureyJobbingTitlesAsync</entry>
         <entry>qureyJobbingTitles</entry>
         <entry>gp</entry>
-        <entry>update</entry>
         <entry>predict4b</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>/s/750/570/g</entry>
