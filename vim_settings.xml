@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" timestamp="1573185672147">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" timestamp="1573193425408">
         <mark key="a" line="29" column="35" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="157" column="67" />
-        <mark key="]" line="157" column="67" />
-        <mark key="." line="157" column="67" />
-        <mark key="^" line="157" column="66" />
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobItemArray.java" timestamp="1572949670032">
         <mark key="[" line="106" column="23" />
@@ -287,8 +287,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>limit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>limit</text>
@@ -300,32 +300,32 @@
         <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCI9PT09PT09PT09YWxsIGpvYnNcbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHZWVrRXhwZWN0W10gID0gZ2Vlay5leHBlY3RzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JFeHBlY3RNYXRjaGVyLlIgam0gPSBnZWVrLmZyZXNoR3JhZHVhdGUgIT0gMiA/IGplTWF0Y2hlci5tYXRjaCgsIGdlZWsudXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBHZWVrRXhwZWN0W10gID0gZ2Vlay5leHBlY3RzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2JFeHBlY3RNYXRjaGVyLlIgam0gPSBnZWVrLmZyZXNoR3JhZHVhdGUgIT0gMiA/IGplTWF0Y2hlci5tYXRjaCgsIGdlZWsudXNlcklkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJcbiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJcbiIpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>&quot;job : %s-%s, expect: %s-%s. score: %f , choose: %s&quot;, zpJob.id, zpJob.title
                         , geekExpect.id, Positions2.get(geekExpect.position).name, socres.get(i), choose</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
