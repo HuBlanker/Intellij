@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" timestamp="1573182188579">
-        <mark key="a" line="32" column="35" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" timestamp="1573185672147">
+        <mark key="a" line="29" column="35" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="163" column="28" />
-        <mark key="]" line="165" column="74" />
-        <mark key="." line="165" column="74" />
-        <mark key="^" line="165" column="74" />
+        <mark key="[" line="157" column="67" />
+        <mark key="]" line="157" column="67" />
+        <mark key="." line="157" column="67" />
+        <mark key="^" line="157" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobItemArray.java" timestamp="1572949670032">
         <mark key="[" line="106" column="23" />
@@ -25,6 +25,9 @@
         <mark key="]" line="554" column="32" />
         <mark key="^" line="554" column="32" />
         <mark key="." line="554" column="32" />
+      </file>
+      <file name="/a.dummy" timestamp="1573185665487">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1573107716042">
         <mark key="'" line="69" column="13" />
@@ -140,7 +143,12 @@
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1573136415410">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/simquery/StringSimilarityTest.java" timestamp="1573177118459" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/simquery/StringSimilarityTest.java" timestamp="1573185048447">
+        <mark key="[" line="90" column="27" />
+        <mark key="]" line="90" column="20" />
+        <mark key="^" line="92" column="7" />
+        <mark key="." line="90" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1573106422990">
         <mark key="'" line="492" column="11" />
       </file>
@@ -280,44 +288,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Z2Vlay5mcmVzaEdyYWR1YXRlICE9IDIgPyA=</text>
+        <text>limit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2Vlay5mcmVzaEdyYWR1YXRlICE9IDIgPyA=</text>
+        <text>limit</text>
       </register>
       <register name="/" type="4">
         <text>empty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEpvYkV4cGVjdE1hdGNoZXIuUiBqbSA9IGdlZWsuZnJlc2hHcmFkdWF0ZSAhPSAyID8gamVNYXRjaGVyLm1hdGNoKFN0cmVhbS5vZihnZWVrLmV4cGVjdHMpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSksIGdlZWsudXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCI9PT09PT09PT09YWxsIGpvYnNcbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBHZWVrRXhwZWN0W10gID0gZ2Vlay5leHBlY3RzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JFeHBlY3RNYXRjaGVyLlIgam0gPSBnZWVrLmZyZXNoR3JhZHVhdGUgIT0gMiA/IGplTWF0Y2hlci5tYXRjaCgsIGdlZWsudXNlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHZWVrRXhwZWN0W10gID0gZ2Vlay5leHBlY3RzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBKb2JFeHBlY3RNYXRjaGVyLlIgam0gPSBnZWVrLmZyZXNoR3JhZHVhdGUgIT0gMiA/IGplTWF0Y2hlci5tYXRjaCgsIGdlZWsudXNlcklkKTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCJcbiIpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>&quot;job : %s-%s, expect: %s-%s. score: %f , choose: %s&quot;, zpJob.id, zpJob.title
                         , geekExpect.id, Positions2.get(geekExpect.position).name, socres.get(i), choose</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIj09PT09PT09PT1ib3NzOnt9LCBnZWVrOnt9PT09PT09PT09PSIsIHRoaXMuc2VhcmNoUmVxLm9yaWdpbmFsUmVxLmJvc3NJZCwgZ2Vla0lkKTsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oIj09PT09PT09PT1hbGwgam9icz09PT09PT09PT0iKTsKICAgICAgICAgICAgZm9yIChacEpvYiBqIDogdGhpcy5vcmlnaW5Kb2JzKSB7CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhVdGlscy5nc29uLnRvSnNvbihqKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIj09PT09PT09PT1maWx0ZXJlZCBqb2JzPT09PT09PT09PSIpOwogICAgICAgICAgICBmb3IgKFpwSm9iIGogOiB0aGlzLmZpbHRlckpvYnMpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKFV0aWxzLmdzb24udG9Kc29uKGopKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBsb2dnZXIuaW5mbygiPT09PT09PT09PWZpbHRlcmVkIGV4cGVjdHM9PT09PT09PT09Iik7CiAgICAgICAgICAgIGZvciAoR2Vla0V4cGVjdCBlIDogZXhwZWN0cykgewogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oVXRpbHMuZ3Nvbi50b0pzb24oZSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCI9PT09PT09PT09bWF0Y2ggcmVzdWx0PT09PT09PT09PSIpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGl0ZW1zLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBQcmVkaWN0SXRlbSBpdGVtID0gaXRlbXMuZ2V0KGkpOwogICAgICAgICAgICAgICAgR2Vla0V4cGVjdCBnZWVrRXhwZWN0ID0gZXhwTWFwLmdldChpdGVtLmV4cGVjdElkKTsKICAgICAgICAgICAgICAgIFpwSm9iIHpwSm9iID0gam9iTWFwLmdldChpdGVtLmpvYklkKTsKCiAgICAgICAgICAgICAgICBib29sZWFuIGNob29zZSA9IHJlc3VsdC5leHBlY3RJZCA9PSBnZWVrRXhwZWN0LmlkICYmIHJlc3VsdC5qb2JJZCA9PSB6cEpvYi5pZDsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJqb2IgOiB7fS17fSwgZXhwZWN0OiB7fS17fS4gc2NvcmU6IHt9ICwgY2hvb3NlOiB7fSIsIHpwSm9iLmlkLCB6cEpvYi50aXRsZQogICAgICAgICAgICAgICAgICAgICAgICAsIGdlZWtFeHBlY3QuaWQsIFBvc2l0aW9uczIuZ2V0KGdlZWtFeHBlY3QucG9zaXRpb24pLm5hbWUsIHNvY3Jlcy5nZXQoaSksIGNob29zZSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
