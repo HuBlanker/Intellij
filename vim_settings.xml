@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" timestamp="1573180120604">
-        <mark key="a" line="98" column="6" />
-        <mark key="'" line="82" column="46" />
-        <mark key="[" line="131" column="25" />
-        <mark key="]" line="129" column="20" />
-        <mark key="." line="129" column="20" />
-        <mark key="^" line="129" column="20" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" timestamp="1573181125414">
+        <mark key="a" line="32" column="35" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="127" column="34" />
+        <mark key="]" line="129" column="11" />
+        <mark key="^" line="129" column="11" />
+        <mark key="." line="129" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobItemArray.java" timestamp="1572949670032">
         <mark key="[" line="106" column="23" />
@@ -177,11 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" />
-      <jump line="194" column="21" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
-      <jump line="199" column="22" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
-      <jump line="206" column="57" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
-      <jump line="207" column="158" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
       <jump line="210" column="58" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
       <jump line="211" column="181" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
       <jump line="214" column="67" filename="$USER_HOME$/workspace/zp-dataservice/scripts/db_job.def" />
@@ -277,13 +272,18 @@
       <jump line="199" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
       <jump line="232" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
       <jump line="78" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
+      <jump line="82" column="82" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
+      <jump line="121" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
+      <jump line="32" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
+      <jump line="127" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>==============</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlYnVnTG9nID0gdHJ1ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>==============</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>empty</text>
@@ -292,31 +292,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiPT09PT09PT09PT09PT1maWx0ZXJlZCBleHBlY3RzPT09PT09PT09PSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRlYnVnTG9nID0gdHJ1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUiByID0gbWF4U2NvcmVSKGl0ZW1zLCByZXNwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1heFNjb3JlUihpdGVtcywgcmVzcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiPT09PT09PT09PT09PT1hbGwgam9icz09PT09PT09PT0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGN1cnNvciA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHNbY3Vyc29yXSA9IGlkeChlLmlkLCBqb2IuaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiPT09PT09PT09PT09PT1hbGwgam9icz09PT09PT09PT0iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nW10gaWRzID0gbmV3IGxvbmdbam9icy5zaXplKCkgKiBleHBlY3RzLnNpemUoKV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
