@@ -89,17 +89,17 @@
         <mark key="^" line="129" column="14" />
         <mark key="." line="129" column="14" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/common-util/src/test/java/com/huyan/StringSimilarityTest.java" timestamp="1573479184560">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="31" />
-        <mark key="^" line="14" column="71" />
-        <mark key="." line="14" column="31" />
+      <file name="$USER_HOME$/study/someprogram/common-util/src/test/java/com/huyan/StringSimilarityTest.java" timestamp="1573539357436">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/common-util/src/main/java/com/huyan/StringSimilarity.java" timestamp="1573531055777">
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="62" column="76" />
-        <mark key="." line="62" column="76" />
-        <mark key="^" line="62" column="76" />
+      <file name="$USER_HOME$/study/someprogram/common-util/src/main/java/com/huyan/StringSimilarity.java" timestamp="1573539445688">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="86" column="5" />
+        <mark key="^" line="59" column="40" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1573194582394">
         <mark key="[" line="0" column="0" />
@@ -114,7 +114,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/simquery/StringSimilarityTest.java" timestamp="1573530461545">
         <mark key="[" line="43" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/simquery/StringSimilarity.java" timestamp="1573530964628">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/simquery/StringSimilarity.java" timestamp="1573539481262">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="80" column="4" />
         <mark key="." line="80" column="4" />
@@ -236,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBudWxsICYmIGIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gMWY7CiAgICAgICAgfQogICAgICAgIGlmIChhID09IG51bGwgfHwgYiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgTGV2ZW5zaHRlaW4oU3RyaW5nIGEsIFN0cmluZyBiKSB7CiAgICAgICAgaWYgKGEgPT0gbnVsbCAmJiBiID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIDFmOwogICAgICAgIH0KICAgICAgICBpZiAoYSA9PSBudWxsIHx8IGIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gMEY7CiAgICAgICAgfQogICAgICAgIGludCBlZGl0RGlzdGFuY2UgPSBlZGl0RGlzKGEsIGIpOwogICAgICAgIHJldHVybiAxIC0gKChmbG9hdCkgZWRpdERpc3RhbmNlIC8gTWF0aC5tYXgoYS5sZW5ndGgoKSwgYi5sZW5ndGgoKSkpOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGludCBlZGl0RGlzKFN0cmluZyBhLCBTdHJpbmcgYikgewoKICAgICAgICBpbnQgYUxlbiA9IGEubGVuZ3RoKCk7CiAgICAgICAgaW50IGJMZW4gPSBiLmxlbmd0aCgpOwoKICAgICAgICBpZiAoYUxlbiA9PSAwKSByZXR1cm4gYUxlbjsKICAgICAgICBpZiAoYkxlbiA9PSAwKSByZXR1cm4gYkxlbjsKCiAgICAgICAgaW50W11bXSB2ID0gbmV3IGludFthTGVuICsgMV1bYkxlbiArIDFdOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IGFMZW47ICsraSkgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8PSBiTGVuOyArK2opIHsKICAgICAgICAgICAgICAgIGlmIChpID09IDApIHsKICAgICAgICAgICAgICAgICAgICB2W2ldW2pdID0gajsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaiA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgdltpXVtqXSA9IGk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGEuY2hhckF0KGkgLSAxKSA9PSBiLmNoYXJBdChqIC0gMSkpIHsKICAgICAgICAgICAgICAgICAgICB2W2ldW2pdID0gdltpIC0gMV1baiAtIDFdOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICB2W2ldW2pdID0gMSArIE1hdGgubWluKHZbaSAtIDFdW2ogLSAxXSwgTWF0aC5taW4odltpXVtqIC0gMV0sIHZbaSAtIDFdW2pdKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHZbYUxlbl1bYkxlbl07CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>// optimize and in case 0 divisor</text>
+        <text>十</text>
       </register>
       <register name="/" type="4">
         <text>更好</text>
@@ -248,22 +248,22 @@
         <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBudWxsICYmIGIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gMWY7CiAgICAgICAgfQogICAgICAgIGlmIChhID09IG51bGwgfHwgYiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgU29yZW5zZW5EaWNlKFN0cmluZyBBLCBTdHJpbmcgQikgewogICAgICAgIGlmIChBID09IG51bGwgfHwgQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9CiAgICAgICAgU2V0PEludGVnZXI+IGFDaGFycyA9IEEuY2hhcnMoKS5ib3hlZCgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKICAgICAgICBTZXQ8SW50ZWdlcj4gYkNoYXJzID0gQi5jaGFycygpLmJveGVkKCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwogICAgICAgIGludCBpbnRlcnNlY3QgPSBTZXRVdGlscy5pbnRlcnNlY3Rpb24oYUNoYXJzLCBiQ2hhcnMpLnNpemUoKTsKICAgICAgICBpZiAoaW50ZXJzZWN0ID09IDApIHsgLy8gb3B0aW1pemUgYW5kIGluIGNhc2UgMCBkaXZpc29yCiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9CiAgICAgICAgaW50IGFTaXplID0gYUNoYXJzLnNpemUoKTsKICAgICAgICBpbnQgYlNpemUgPSBiQ2hhcnMuc2l6ZSgpOwogICAgICAgIHJldHVybiAoMiAqIChmbG9hdCkgaW50ZXJzZWN0KSAvICgoZmxvYXQpIChhU2l6ZSArIGJTaXplKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMS4wLCBTdHJpbmdTaW1pbGFyaXR5LmphY2NhcmQoIiIsICIiKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygxLjAsIFN0cmluZ1NpbWlsYXJpdHkuamFjY2FyZCgiIiwgIiIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgU29yZW5zZW5EaWNlKFN0cmluZyBBLCBTdHJpbmcgQikgewogICAgICAgIGlmIChBID09IG51bGwgfHwgQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9CiAgICAgICAgU2V0PEludGVnZXI+IGFDaGFycyA9IEEuY2hhcnMoKS5ib3hlZCgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKICAgICAgICBTZXQ8SW50ZWdlcj4gYkNoYXJzID0gQi5jaGFycygpLmJveGVkKCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwogICAgICAgIGludCBpbnRlcnNlY3QgPSBTZXRVdGlscy5pbnRlcnNlY3Rpb24oYUNoYXJzLCBiQ2hhcnMpLnNpemUoKTsKICAgICAgICBpZiAoaW50ZXJzZWN0ID09IDApIHsgLy8gb3B0aW1pemUgYW5kIGluIGNhc2UgMCBkaXZpc29yCiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9CiAgICAgICAgaW50IGFTaXplID0gYUNoYXJzLnNpemUoKTsKICAgICAgICBpbnQgYlNpemUgPSBiQ2hhcnMuc2l6ZSgpOwogICAgICAgIHJldHVybiAoMiAqIChmbG9hdCkgaW50ZXJzZWN0KSAvICgoZmxvYXQpIChhU2l6ZSArIGJTaXplKSk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMS4wLCBTdHJpbmdTaW1pbGFyaXR5LmphY2NhcmQoIiIsICIiKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygxLjAsIFN0cmluZ1NpbWlsYXJpdHkuamFjY2FyZCgiIiwgIiIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -272,7 +272,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZXR1dGlscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
