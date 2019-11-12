@@ -95,11 +95,11 @@
         <mark key="^" line="14" column="71" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/study/someprogram/common-util/src/main/java/com/huyan/StringSimilarity.java" timestamp="1573478918583">
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="26" column="14" />
-        <mark key="^" line="26" column="14" />
-        <mark key="." line="26" column="14" />
+      <file name="$USER_HOME$/study/someprogram/common-util/src/main/java/com/huyan/StringSimilarity.java" timestamp="1573531055777">
+        <mark key="[" line="59" column="29" />
+        <mark key="]" line="62" column="76" />
+        <mark key="." line="62" column="76" />
+        <mark key="^" line="62" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1573194582394">
         <mark key="[" line="0" column="0" />
@@ -110,6 +110,15 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1573522651452">
         <mark key="'" line="1918" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/simquery/StringSimilarityTest.java" timestamp="1573530461545">
+        <mark key="[" line="43" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/simquery/StringSimilarity.java" timestamp="1573530964628">
+        <mark key="[" line="80" column="5" />
+        <mark key="]" line="80" column="4" />
+        <mark key="." line="80" column="4" />
+        <mark key="^" line="80" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/internal/InternalServerTest.java" timestamp="1572857301526">
         <mark key="[" line="112" column="20" />
@@ -226,29 +235,29 @@
       <jump line="282" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchReq.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>intention4csServers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBudWxsICYmIGIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gMWY7CiAgICAgICAgfQogICAgICAgIGlmIChhID09IG51bGwgfHwgYiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>// optimize and in case 0 divisor</text>
       </register>
       <register name="/" type="4">
         <text>更好</text>
       </register>
-      <register name="0" type="4">
-        <text>intention4csServers</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBudWxsICYmIGIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gMWY7CiAgICAgICAgfQogICAgICAgIGlmIChhID09IG51bGwgfHwgYiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMS4wLCBTdHJpbmdTaW1pbGFyaXR5LmphY2NhcmQoIiIsICIiKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygxLjAsIFN0cmluZ1NpbWlsYXJpdHkuamFjY2FyZCgiIiwgIiIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgU29yZW5zZW5EaWNlKFN0cmluZyBBLCBTdHJpbmcgQikgewogICAgICAgIGlmIChBID09IG51bGwgfHwgQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9CiAgICAgICAgU2V0PEludGVnZXI+IGFDaGFycyA9IEEuY2hhcnMoKS5ib3hlZCgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKICAgICAgICBTZXQ8SW50ZWdlcj4gYkNoYXJzID0gQi5jaGFycygpLmJveGVkKCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwogICAgICAgIGludCBpbnRlcnNlY3QgPSBTZXRVdGlscy5pbnRlcnNlY3Rpb24oYUNoYXJzLCBiQ2hhcnMpLnNpemUoKTsKICAgICAgICBpZiAoaW50ZXJzZWN0ID09IDApIHsgLy8gb3B0aW1pemUgYW5kIGluIGNhc2UgMCBkaXZpc29yCiAgICAgICAgICAgIHJldHVybiAwRjsKICAgICAgICB9CiAgICAgICAgaW50IGFTaXplID0gYUNoYXJzLnNpemUoKTsKICAgICAgICBpbnQgYlNpemUgPSBiQ2hhcnMuc2l6ZSgpOwogICAgICAgIHJldHVybiAoMiAqIChmbG9hdCkgaW50ZXJzZWN0KSAvICgoZmxvYXQpIChhU2l6ZSArIGJTaXplKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMS4wLCBTdHJpbmdTaW1pbGFyaXR5LmphY2NhcmQoIiIsICIiKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygxLjAsIFN0cmluZ1NpbWlsYXJpdHkuamFjY2FyZCgiIiwgIiIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEuMCwgU3RyaW5nU2ltaWxhcml0eS5qYWNjYXJkKCIiLCAiIikpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -257,13 +266,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZXR1dGlscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5jb21tb25zL2NvbW1vbnMtbGFuZzMgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1sYW5nMzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My45PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5jb21tb25zL2NvbW1vbnMtbGFuZzMgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1sYW5nMzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My45PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5jb21tb25zL2NvbW1vbnMtbGFuZzMgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1sYW5nMzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My45PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBTZXR1dGlscwo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
