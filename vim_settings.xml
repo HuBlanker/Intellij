@@ -27,12 +27,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/DictionaryTest.java" timestamp="1572418713176">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode349.java" timestamp="1573617076639">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="119" column="9" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_school.txt" timestamp="1573629852421">
         <mark key="'" line="259" column="0" />
       </file>
@@ -141,12 +135,6 @@
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/8.66/data-common-8.66.jar!/com/bosszhipin/common/AbstractMain.class" timestamp="1572961103992">
         <mark key="[" line="63" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_company.txt" timestamp="1573608695931">
-        <mark key="'" line="671517" column="12" />
-        <mark key="[" line="106473" column="0" />
-        <mark key="]" line="106473" column="0" />
-        <mark key="." line="106473" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/simquery/StringSimilarityTest.java" timestamp="1573530461545">
         <mark key="[" line="43" column="68" />
       </file>
@@ -172,12 +160,20 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" timestamp="1572964684503">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1573641953264">
-        <mark key="'" line="58" column="15" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="78" column="11" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" timestamp="1573647588460">
+        <mark key="a" line="188" column="16" />
+        <mark key="'" line="231" column="16" />
+        <mark key="[" line="176" column="8" />
+        <mark key="]" line="176" column="7" />
+        <mark key="^" line="176" column="7" />
+        <mark key="." line="176" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1573647427503">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="241" column="43" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" timestamp="1573631254374">
         <mark key="[" line="113" column="116" />
@@ -189,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
-      <jump line="120" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
       <jump line="125" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
       <jump line="135" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" />
@@ -289,13 +283,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/com_types" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/our_brand.txt" />
+      <jump line="245" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TWFwPEludGVudGlvblR5cGUsIExpc3Q8UGhyYXNlPj4gYnlUeXBlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>data/intention/tmp.txt</text>
+        <text encoding="base64">TWFwPEludGVudGlvblR5cGUsIExpc3Q8UGhyYXNlPj4gYnlUeXBlIA==</text>
       </register>
       <register name="/" type="4">
         <text>清华大学$</text>
@@ -307,28 +303,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUXVlcnlBbmFseXplck1haW4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0aGlzLmpmdDRCLmxvYWRNb2RlbCgieHh4Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0aGlzLmpmdDRCID0gbmV3IEpGYXN0VGV4dCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSkZhc3RUZXh0IGpmdDRCOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUXVlcnlBbmFseXplck1haW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIFtdIGFyZ3MpewogICAgICAgIExpc3Q8U3RyaW5nPiBhID0gZ2V0VGVybXMoIuS4reWNjuS6uuawkeWFseWSjOWbvSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhKTsKICAgICAgICBMaXN0PFN0cmluZz4gdGVybXMgPSBnZXRUZXJtcygiZW5nbGlzaCBpcyB2ZXJ5IGdvb2dkLiIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0ZXJtcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aGl2ZSAtZSAic2VsZWN0ICdfX2xhYmVsX19zY2hvb2wnLHNjaG9vbCBmcm9tIGR3X2Jvc3N6cC56cF9lZHUiID4gZWR1LnR4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
