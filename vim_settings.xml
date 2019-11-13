@@ -33,11 +33,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/DictionaryTest.java" timestamp="1572418713176">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode349.java" timestamp="1573615481104">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode349.java" timestamp="1573617076639">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="119" column="9" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/query2job/JobExpectMatcherTest.java" timestamp="1573124193716">
         <mark key="'" line="3" column="8" />
@@ -72,6 +72,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" timestamp="1572491436023">
         <mark key="'" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode350.java" timestamp="1573617296642">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="77" column="70" />
+        <mark key="." line="51" column="89" />
+        <mark key="^" line="51" column="89" />
       </file>
       <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode92.java" timestamp="1573611479064">
         <mark key="[" line="99" column="0" />
@@ -279,28 +285,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0TC5yZXRhaW5BbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLnNvcnQobnVtczEpOwogICAgICAgICAgICBBcnJheXMuc29ydChudW1zMik7CgogICAgICAgICAgICBMaXN0PEludGVnZXI+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBpbnQgaSA9IDAsIGogPSAwOwogICAgICAgICAgICB3aGlsZSAoaSA8IG51bXMxLmxlbmd0aCAmJiBqIDwgbnVtczIubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICBpZiAobnVtczFbaV0gPT0gbnVtczJbal0pIHsKICAgICAgICAgICAgICAgICAgICByZXQuYWRkKG51bXMxW2ldKTsKICAgICAgICAgICAgICAgICAgICBpKys7CiAgICAgICAgICAgICAgICAgICAgaisrOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmIChudW1zMVtpXSA8IG51bXMyW2pdKSB7CiAgICAgICAgICAgICAgICAgICAgaSsrOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBqKys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHJldC5zdHJlYW0oKS5tYXBUb0ludChJbnRlZ2VyOjppbnRWYWx1ZSkudG9BcnJheSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ret.get(i1);</text>
+        <text>HashSet</text>
       </register>
       <register name="/" type="4">
         <text>清华大学</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpIDogbnVtczEpIHsKICAgICAgICAgICAgdW5pb24uYWRkKGkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLnNvcnQobnVtczEpOwogICAgICAgICAgICBBcnJheXMuc29ydChudW1zMik7CgogICAgICAgICAgICBMaXN0PEludGVnZXI+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBpbnQgaSA9IDAsIGogPSAwOwogICAgICAgICAgICB3aGlsZSAoaSA8IG51bXMxLmxlbmd0aCAmJiBqIDwgbnVtczIubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICBpZiAobnVtczFbaV0gPT0gbnVtczJbal0pIHsKICAgICAgICAgICAgICAgICAgICByZXQuYWRkKG51bXMxW2ldKTsKICAgICAgICAgICAgICAgICAgICBpKys7CiAgICAgICAgICAgICAgICAgICAgaisrOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmIChudW1zMVtpXSA8IG51bXMyW2pdKSB7CiAgICAgICAgICAgICAgICAgICAgaSsrOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBqKys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHJldC5zdHJlYW0oKS5tYXBUb0ludChJbnRlZ2VyOjppbnRWYWx1ZSkudG9BcnJheSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0TC5yZXRhaW5BbGwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGludGVnZXIgOiByZXQpIHsKICAgICAgICAgICAgICAgIHJbaV0gPSAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gciA9IG5ldyBpbnRbcmV0LnNpemUoKV07CiAgICAgICAgICAgIGludCBwID0gMDsKICAgICAgICAgICAgZm9yIChpbnQgYSA6IHJldCkgewogICAgICAgICAgICAgICAgcltwXSA9IGE7CiAgICAgICAgICAgICAgICBwKys7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHJldAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnRbXSBpbnRlcnNlY3QoaW50W10gbnVtczEsIGludFtdIG51bXMyKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoKICogNC4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -309,10 +315,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGIgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgICAgIGZvciAoaW50IGkgOiBudW1zMikgewogICAgICAgICAgICAgICAgYS5hZGQoaSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJldEwudG9BcnJheWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGEgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgICAgIGZvciAoaW50IGkgOiBudW1zMSkgewogICAgICAgICAgICAgICAgYS5hZGQoaSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
