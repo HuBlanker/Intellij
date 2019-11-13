@@ -141,14 +141,15 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/simquery/StringSimilarityTest.java" timestamp="1573530461545">
         <mark key="[" line="43" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1573565497015">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="17" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1573633752922">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="149" column="5" />
         <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1573106422990">
         <mark key="'" line="492" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/nn/build_nn_dictionary.sh" timestamp="1573634315476" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/simquery/StringSimilarity.java" timestamp="1573540607356">
         <mark key="[" line="80" column="5" />
         <mark key="]" line="80" column="4" />
@@ -163,12 +164,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1573633386114">
-        <mark key="'" line="57" column="15" />
-        <mark key="[" line="268" column="7" />
-        <mark key="]" line="268" column="10" />
-        <mark key="^" line="268" column="10" />
-        <mark key="." line="268" column="10" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1573634074325">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="77" column="40" />
+        <mark key="]" line="78" column="11" />
+        <mark key="." line="78" column="11" />
+        <mark key="^" line="78" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" timestamp="1573631254374">
         <mark key="[" line="113" column="116" />
@@ -283,43 +284,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>虑</text>
+        <text>final</text>
       </register>
       <register name="-" type="4">
-        <text>虑</text>
+        <text>final</text>
       </register>
       <register name="/" type="4">
         <text>清华大学$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChTQ0hPT0xTLmNvbnRhaW5zKHF1ZXJ5KSkgewogICAgICAgICAgICBxayA9IFF1ZXJ5S2luZC5TQ0hPT0w7CiAgICAgICAgfSBlbHNlIGlmIChNQUpPUlMuY29udGFpbnMocXVlcnkpKSB7CiAgICAgICAgICAgIHFrID0gUXVlcnlLaW5kLk1BSk9SOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxQaHJhc2U+IGdldEJ5UnVsZShTdHJpbmcgcXVlcnkpIHsKICAgICAgICBpZiAocXVlcnkuc3RhcnRzV2l0aCgiaHR0cHM6Ly8iKSB8fCBxdWVyeS5zdGFydHNXaXRoKCJodHRwOi8vIikpIHsKICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QobmV3IFBocmFzZShxdWVyeSwgTywgMWQpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGVsc2UgaWYgKFNDSE9PTFMuY29udGFpbnMocXVlcnkpKSB7Ci8vICAgICAgICAgICAgcWsgPSBRdWVyeUtpbmQuU0NIT09MOwovLyAgICAgICAgfSBlbHNlIGlmIChNQUpPUlMuY29udGFpbnMocXVlcnkpKSB7Ci8vICAgICAgICAgICAgcWsgPSBRdWVyeUtpbmQuTUFKT1I7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsdGVyT2xkID0gZmlsdGVycy5nZXQoRmlsdGVyRmllbGQuQVJFQSk7CiAgICAgICAgZmlsdGVycy5wdXQoRmlsdGVyRmllbGQuQVJFQSwgZmlsdGVyT2xkID09IG51bGwgPyBxdWVyeSA6IChmaWx0ZXJPbGQgKyAiICIgKyBxdWVyeSkpOwogICAgICAgIHJldHVybiBuZXcgUGhyYXNlKHF1ZXJ5LCBxaywgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocWsgIT0gbnVsbCkgewogICAgICAgICAgICBNYXA8U3RyaW5nLCBEb3VibGU+IHdlaWdodHMgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIHdlaWdodHMucHV0KHF1ZXJ5LCAxZCk7CiAgICAgICAgICAgIHJldHVybiBuZXcgUGhyYXNlKHF1ZXJ5LCBxaywgd2VpZ2h0cyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAocWsgIT0gbnVsbCkgewogICAgICAgICAgICBNYXA8U3RyaW5nLCBEb3VibGU+IHdlaWdodHMgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIHdlaWdodHMucHV0KHF1ZXJ5LCAxZCk7CiAgICAgICAgICAgIHJldHVybiBuZXcgUGhyYXNlKHF1ZXJ5LCBxaywgd2VpZ2h0cyk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChTQ0hPT0xTLmNvbnRhaW5zKHF1ZXJ5KSkgewogICAgICAgICAgICBxayA9IFF1ZXJ5S2luZC5TQ0hPT0w7CiAgICAgICAgfSBlbHNlIGlmIChNQUpPUlMuY29udGFpbnMocXVlcnkpKSB7CiAgICAgICAgICAgIHFrID0gUXVlcnlLaW5kLk1BSk9SOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocC5lcXVhbHMoIua4heWNjuWkp+WtpiIpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT0iKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsdGVyT2xkID0gZmlsdGVycy5nZXQoRmlsdGVyRmllbGQuQVJFQSk7CiAgICAgICAgZmlsdGVycy5wdXQoRmlsdGVyRmllbGQuQVJFQSwgZmlsdGVyT2xkID09IG51bGwgPyBxdWVyeSA6IChmaWx0ZXJPbGQgKyAiICIgKyBxdWVyeSkpOwogICAgICAgIHJldHVybiBuZXcgUGhyYXNlKHF1ZXJ5LCBxaywgbnVsbCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
