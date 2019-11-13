@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_analyzer/b_ft_data.sh" timestamp="1573637153914">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="83" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="43" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_analyzer/b_ft_data.sh" timestamp="1573639827210">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" timestamp="1573136290298">
         <mark key="'" line="1130" column="57" />
@@ -84,19 +84,19 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfTokenizer.java" timestamp="1573636936055">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfTokenizer.java" timestamp="1573639717295">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" timestamp="1573630723733">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/genFastTextSample.java" timestamp="1573637754204">
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="50" />
-        <mark key="." line="38" column="50" />
-        <mark key="^" line="38" column="50" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/genFastTextSample.java" timestamp="1573639565521">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="25" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
@@ -268,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>data/intention/tmp.txt</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>data/intention/tmp.txt</text>
       </register>
       <register name="/" type="4">
         <text>清华大学$</text>

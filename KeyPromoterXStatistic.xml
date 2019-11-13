@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3062</Count>
+          <Count>3063</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'genFastTextSample'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'job3'">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>453</Count>
+          <Count>454</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>776</Count>
+          <Count>777</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -1766,6 +1766,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'WResumeSearchMain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'genFastTextSample'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'genFastTextSample'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
