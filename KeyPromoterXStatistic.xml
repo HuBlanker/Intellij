@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3079</Count>
+          <Count>3110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -990,7 +990,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'QueryAnalyzerMain'</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerTest'">
@@ -1001,12 +1001,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QueryAnalyzerTest.compare'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QueryAnalyzerTest.compare'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerTest.single'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'QueryAnalyzerTest.single'</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QueryCorrectRebuildMain'">
@@ -1270,7 +1278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>463</Count>
+          <Count>468</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1366,7 +1374,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>782</Count>
+          <Count>787</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -1622,7 +1630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'QueryAnalyzerMain'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QueryAnalyzerTest'">
@@ -1633,12 +1641,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'QueryAnalyzerTest.compare'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QueryAnalyzerTest.compare'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'QueryAnalyzerTest.single'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'QueryAnalyzerTest.single'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QueryCorrectRebuildMain'">
@@ -1838,7 +1854,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>240</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
