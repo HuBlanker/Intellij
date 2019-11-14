@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3122</Count>
+          <Count>3124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -998,7 +998,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'QueryAnalyzerMain'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerTest'">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'QueryAnalyzerTest.single'</Description>
-          <Count>15</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerTest.t'">
@@ -1294,7 +1294,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>501</Count>
+          <Count>505</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1390,7 +1390,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>810</Count>
+          <Count>812</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -1646,7 +1646,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'QueryAnalyzerMain'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QueryAnalyzerTest'">
@@ -1878,7 +1878,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>259</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
