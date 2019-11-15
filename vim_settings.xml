@@ -59,7 +59,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" timestamp="1573027753140">
         <mark key="'" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_companies.txt" timestamp="1573740690931">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_companies.txt" timestamp="1573814689660">
         <mark key="'" line="57545" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1573648920468">
@@ -69,7 +69,7 @@
         <mark key="." line="485" column="16" />
         <mark key="^" line="485" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" timestamp="1573721762298">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" timestamp="1573814704336">
         <mark key="'" line="3542" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryHotRepairer.java" timestamp="1573649871455">
@@ -114,8 +114,8 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" timestamp="1573740860083">
-        <mark key="'" line="38543" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" timestamp="1573814586154">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/genFastTextSample.java" timestamp="1573719426680">
         <mark key="[" line="26" column="13" />
@@ -164,12 +164,12 @@
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1573813700548">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1573815106085">
         <mark key="'" line="213" column="58" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="56" />
-        <mark key="." line="176" column="0" />
-        <mark key="^" line="165" column="55" />
+        <mark key="[" line="233" column="75" />
+        <mark key="]" line="233" column="75" />
+        <mark key="." line="233" column="75" />
+        <mark key="^" line="233" column="153" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_company.txt" timestamp="1573608695931">
         <mark key="'" line="671517" column="12" />
@@ -221,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode349.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_school.txt" />
-      <jump line="7452" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_school.txt" />
       <jump line="259" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_school.txt" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_major.txt" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
@@ -321,46 +318,49 @@
       <jump line="422" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" />
       <jump line="23924" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" />
       <jump line="816" column="30" filename="$MAVEN_REPOSITORY$/com/zhipin/tensorflow-serve-client/0.1/tensorflow-serve-client-0.1.jar!/tensorflow/serving/Predict.class" />
+      <jump line="38549" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
+      <jump line="57571" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGFDaGFyLmVxdWFscygiICIpKSBjb250aW51ZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>char</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>亚马逊$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGFDaGFyLmVxdWFscygiICIpKSBjb250aW51ZTsK</text>
+      <register name="0" type="4">
+        <text>sb.append(terms.get(i)).append(&quot; &quot;).append(&quot;B-&quot;).append(tag).append(&quot;\n&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQocXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQocXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkuZ2V0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQocXVlcnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkuaW5jcmVtZW50QW5kR2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQocXVlcnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFyW10gY2hhcnMgPSBzLnRvQ2hhckFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkuZ2V0KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkuaW5jcmVtZW50QW5kR2V0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFyW10gY2hhcnMgPSBzLnRvQ2hhckFycmF5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
