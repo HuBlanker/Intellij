@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3124</Count>
+          <Count>3125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1009,6 +1009,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QueryAnalyzerTest.a'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QueryAnalyzerTest.a'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerTest.compare'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1022,7 +1030,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'QueryAnalyzerTest.genSample'</Description>
-          <Count>8</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerTest.single'">
@@ -1302,7 +1310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>512</Count>
+          <Count>561</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1398,7 +1406,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>813</Count>
+          <Count>831</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -1673,6 +1681,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'QueryAnalyzerTest.genSample'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QueryAnalyzerTest.genSample'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'QueryAnalyzerTest.single'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1886,7 +1902,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>270</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
