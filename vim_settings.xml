@@ -165,12 +165,12 @@
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1573874952415">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1573888262191">
         <mark key="'" line="71" column="58" />
-        <mark key="[" line="350" column="72" />
-        <mark key="]" line="350" column="72" />
-        <mark key="." line="350" column="72" />
-        <mark key="^" line="350" column="78" />
+        <mark key="[" line="267" column="52" />
+        <mark key="]" line="267" column="76" />
+        <mark key="." line="267" column="76" />
+        <mark key="^" line="267" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_company.txt" timestamp="1573608695931">
         <mark key="'" line="671517" column="12" />
@@ -325,10 +325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cocos creator</text>
+        <text>&quot;/Users/pfliu/study/open-source/zh-NER-TF-master/data_path/test_data_debug&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>cocos creator</text>
+        <text>&quot;/Users/pfliu/study/open-source/zh-NER-TF-master/data_path/test_data_debug&quot;</text>
       </register>
       <register name="/" type="4">
         <text>query</text>
@@ -337,31 +337,31 @@
         <text encoding="base64">ICAgICAgICBMaXN0PExpc3Q8U3RyaW5nPj4gcGFydGl0aW9uID0gTGlzdHMucGFydGl0aW9uKHRyYWluLCB0cmFpbi5zaXplKCkgLyAxMCk7CiAgICAgICAgZm9yIChMaXN0PFN0cmluZz4gc3RyaW5ncyA6IHBhcnRpdGlvbikgewogICAgICAgICAgICBwb29sLnN1Ym1pdCgoKSAtPiB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHNwbGl0QW5kV3JpdGUoc3RyaW5ncywgZik7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocy5lcXVhbHMoInJlYWN0IG5hdGl2ZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09Iik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IFN0cmluZy5mb3JtYXQobmFtZSwgImRhdGFfMSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocy5lcXVhbHMoInJlYWN0IG5hdGl2ZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09Iik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoc2IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoc2IpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdEFuZFdyaXRlKHRyYWluLCBmKTsKICAgICAgICBzcGxpdEFuZFdyaXRlKHRlc3QsIGYxKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzcGxpdEFuZFdyaXRlKHRyYWluLCBmKTsKICAgICAgICBzcGxpdEFuZFdyaXRlKHRlc3QsIGYxKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZShzYi50b1N0cmluZygpLmdldEJ5dGVzKFVURl84KSk7CiAgICAgICAgICAgIHNiLnNldExlbmd0aCgwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzLmVxdWFscygicmVhY3QgbmF0aXZlIikpIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PSIpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZShzYi50b1N0cmluZygpLmdldEJ5dGVzKFVURl84KSk7CiAgICAgICAgICAgIHNiLnNldExlbmd0aCgwKTsK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
