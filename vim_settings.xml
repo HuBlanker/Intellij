@@ -66,9 +66,14 @@
         <mark key="." line="78" column="89" />
         <mark key="^" line="78" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/ftjp_test.java" timestamp="1573715012769" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" timestamp="1573027753140">
         <mark key="'" line="34" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" timestamp="1574070438400">
+        <mark key="[" line="329" column="22" />
+        <mark key="]" line="329" column="21" />
+        <mark key="^" line="329" column="21" />
+        <mark key="." line="329" column="21" />
       </file>
       <file name="$USER_HOME$/study/someprogram/javaprogram/pom.xml" timestamp="1573999664218">
         <mark key="[" line="46" column="0" />
@@ -95,8 +100,12 @@
       <file name="$MAVEN_REPOSITORY$/com/zhipin/tensorflow-serve-client/0.1/tensorflow-serve-client-0.1.jar!/tensorflow/serving/Predict.class" timestamp="1573803984944">
         <mark key="'" line="816" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" timestamp="1572491436023">
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" timestamp="1574070136196">
         <mark key="'" line="13" column="27" />
+        <mark key="[" line="49" column="7" />
+        <mark key="]" line="49" column="7" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="49" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_major.txt" timestamp="1573630123319">
         <mark key="'" line="17" column="0" />
@@ -153,8 +162,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfModel.java" timestamp="1573729079860" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/IntentionType.java" timestamp="1573822433746" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1573998804050">
         <mark key="'" line="31" column="41" />
         <mark key="[" line="53" column="0" />
@@ -313,7 +320,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>single</text>
+        <text>OUTER</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -339,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>single</text>
+        <text>OUTER</text>
       </register>
       <register name="/" type="4">
         <text>PredictMain.Builder</text>
