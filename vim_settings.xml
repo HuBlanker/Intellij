@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1574086101223">
+        <mark key="[" line="159" column="12" />
+        <mark key="]" line="159" column="20" />
+        <mark key="." line="159" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/gen_builder.py" timestamp="1574069563103">
         <mark key="'" line="294" column="59" />
         <mark key="[" line="292" column="40" />
@@ -317,7 +322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>58579997</text>
+        <text>n</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -343,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>58579997</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>PredictMain.Builder</text>
