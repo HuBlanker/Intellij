@@ -41,6 +41,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌘5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BuildAcIndexMain'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -358,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3185</Count>
+          <Count>3192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1015,6 +1023,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PredictMainTest.predict4C'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PredictTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PredictTest'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerMain'">
@@ -1678,7 +1694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PredictMain'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QueryAnalyzerMain'">
@@ -1902,7 +1918,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
