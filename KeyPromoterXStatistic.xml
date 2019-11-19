@@ -1033,6 +1033,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PredictMainTest.predictTestTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PredictMainTest.predictTestTest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PredictTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
