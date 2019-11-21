@@ -57,6 +57,9 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="74" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Converter.java" timestamp="1574341565136">
+        <mark key="'" line="488" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" timestamp="1574301940545">
         <mark key="'" line="16591" column="1" />
         <mark key="[" line="16608" column="1" />
@@ -100,12 +103,12 @@
         <mark key="]" line="25" column="53" />
         <mark key="." line="25" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1574340248652">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1574341371933">
         <mark key="'" line="583" column="32" />
-        <mark key="[" line="630" column="21" />
-        <mark key="]" line="622" column="76" />
-        <mark key="." line="622" column="76" />
-        <mark key="^" line="622" column="76" />
+        <mark key="[" line="622" column="53" />
+        <mark key="]" line="622" column="53" />
+        <mark key="." line="622" column="53" />
+        <mark key="^" line="611" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
@@ -172,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37560" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
       <jump line="37681" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
       <jump line="38151" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
       <jump line="38246" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
@@ -272,10 +274,11 @@
       <jump line="383" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_analyzer/train_intention_bilstm-crf.py" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/PredictMainTest.java" />
       <jump line="583" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="488" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Converter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0g</text>
+        <text>output</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -301,7 +304,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0g</text>
+        <text>output</text>
       </register>
       <register name="/" type="4">
         <text>add {</text>
