@@ -1030,7 +1030,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PredictMain'</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PredictMainTest.predict4C'">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PredictMainTest.predictTestTest'</Description>
-          <Count>50</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PredictTest'">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>863</Count>
+          <Count>864</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
