@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_brand.txt" timestamp="1573630801030">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574414402472">
-        <mark key="[" line="39" column="91" />
-        <mark key="]" line="39" column="89" />
-        <mark key="." line="39" column="89" />
-        <mark key="^" line="39" column="89" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574415510631">
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="31" column="40" />
+        <mark key="." line="33" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/ConcurrentIntObjectMapTest.java" timestamp="1574153166104">
         <mark key="'" line="68" column="14" />
@@ -145,12 +145,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
       </file>
-      <file name="$USER_HOME$/study/LeetCode/java/leetcode/editor/cn/LeetCode441.java" timestamp="1574130069604">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="73" column="30" />
-        <mark key="^" line="73" column="30" />
-        <mark key="." line="73" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenBiLSTMCRFSample.java" timestamp="1574316940548">
         <mark key="'" line="99" column="24" />
         <mark key="[" line="23" column="23" />
@@ -207,12 +201,12 @@
         <mark key="[" line="195" column="0" />
         <mark key="]" line="199" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574413042735">
-        <mark key="'" line="387" column="0" />
-        <mark key="[" line="429" column="15" />
-        <mark key="]" line="271" column="28" />
-        <mark key="." line="271" column="28" />
-        <mark key="^" line="271" column="28" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574415929494">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="436" column="68" />
+        <mark key="]" line="436" column="82" />
+        <mark key="." line="436" column="82" />
+        <mark key="^" line="436" column="82" />
       </file>
       <file name="/fragment.java" timestamp="1574148942372">
         <mark key="[" line="0" column="0" />
@@ -226,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="244" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="339" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="119" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/gen_builder.py" />
@@ -326,10 +319,11 @@
       <jump line="1262" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
       <jump line="6050" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
       <jump line="23" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
+      <jump line="91" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>unk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPENoYXJhY3RlciwgSW50ZWdlcj4gY2hhclRhYmxlID0gQmlMU1RNQ1JGRGljdG9yeS5DSEFSX1RBQkxFOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -355,19 +349,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unk</text>
+        <text>\t+</text>
       </register>
       <register name="/" type="4">
         <text>unk</text>
       </register>
       <register name="0" type="4">
-        <text>Collections.singletonList(phraseByComRule);</text>
+        <text>&quot;q/bilstm-crf_char_mapping.json&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPENoYXJhY3RlciwgSW50ZWdlcj4gY2hhclRhYmxlID0gQmlMU1RNQ1JGRGljdG9yeS5DSEFSX1RBQkxFOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwaHJhc2UgIT0gbnVsbCAmJiBwaHJhc2UucWsgIT0gbnVsbCkgcGhyYXNlcy5hZGQocGhyYXNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaXMgPSBCaUxTVE1DUkZEaWN0b3J5LmNsYXNzLmdldENsYXNzTG9hZGVyKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbSgicS9iaWxzdG0tY3JmX2NoYXJfbWFwcGluZy5qc29uIik7CiAgICAgICAgICAgIGFzc2VydCBpcyAhPSBudWxsOwogICAgICAgICAgICBTdHJpbmcganNvbiA9IElPVXRpbHMudG9TdHJpbmcoaXMsICJ1dGYtOCIpOwogICAgICAgICAgICBUeXBlIHR5cGUgPSBuZXcgVHlwZVRva2VuPE1hcDxDaGFyYWN0ZXIsIEludGVnZXI+PigpIHsKICAgICAgICAgICAgfS5nZXRUeXBlKCk7CiAgICAgICAgICAgIENIQVJfVEFCTEUgPSBVdGlscy5nc29uLmZyb21Kc29uKGpzb24sIHR5cGUpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -388,10 +382,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -405,19 +399,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIHMgOiBzcGxpdCkgewogICAgICAgICAgICAgICAgICAgIENIQVJfVEFCTEUucHV0KHMudG9DaGFyQXJyYXkoKVswXSwpCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaXMgPSBCaUxTVE1DUkZEaWN0b3J5LmNsYXNzLmdldENsYXNzTG9hZGVyKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbSgicS9iaWxzdG0tY3JmX2NoYXJfbWFwcGluZy5qc29uIik7CiAgICAgICAgICAgIGFzc2VydCBpcyAhPSBudWxsOwogICAgICAgICAgICBTdHJpbmcganNvbiA9IElPVXRpbHMudG9TdHJpbmcoaXMsICJ1dGYtOCIpOwogICAgICAgICAgICBUeXBlIHR5cGUgPSBuZXcgVHlwZVRva2VuPE1hcDxDaGFyYWN0ZXIsIEludGVnZXI+PigpIHsKICAgICAgICAgICAgfS5nZXRUeXBlKCk7CiAgICAgICAgICAgIENIQVJfVEFCTEUgPSBVdGlscy5nc29uLmZyb21Kc29uKGpzb24sIHR5cGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5hZGQoMzQ4LjBmKTsKICAgICAgICAgICAgZGF0YS5hZGQoMzg0OC4wZik7CiAgICAgICAgICAgIGRhdGEuYWRkKDI1NTcuMGYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwaHJhc2UgIT0gbnVsbCAmJiBwaHJhc2UucWsgIT0gbnVsbCkgcGhyYXNlcy5hZGQocGhyYXNlKTsK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
