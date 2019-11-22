@@ -11,6 +11,12 @@
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" timestamp="1573136290298">
         <mark key="'" line="1130" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" timestamp="1574414697321">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="3331" column="3" />
+        <mark key="]" line="3331" column="3" />
+        <mark key="." line="3331" column="3" />
+      </file>
       <file name="/a.dummy" timestamp="1574410051104">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,11 +49,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_brand.txt" timestamp="1573630801030">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574413131494">
-        <mark key="[" line="31" column="90" />
-        <mark key="]" line="46" column="47" />
-        <mark key="." line="46" column="47" />
-        <mark key="^" line="44" column="11" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574414402472">
+        <mark key="[" line="39" column="91" />
+        <mark key="]" line="39" column="89" />
+        <mark key="." line="39" column="89" />
+        <mark key="^" line="39" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/ConcurrentIntObjectMapTest.java" timestamp="1574153166104">
         <mark key="'" line="68" column="14" />
@@ -71,12 +77,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Converter.java" timestamp="1574341565136">
         <mark key="'" line="488" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" timestamp="1574301940545">
-        <mark key="'" line="16591" column="1" />
-        <mark key="[" line="16608" column="1" />
-        <mark key="]" line="16608" column="1" />
-        <mark key="." line="16608" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1572319903872">
         <mark key="'" line="8" column="0" />
@@ -169,12 +169,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_id.json" timestamp="1574407221490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1573998804050">
-        <mark key="'" line="31" column="41" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="57" column="21" />
-        <mark key="." line="25" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/location/LocationBuilder.java" timestamp="1574410567056">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="188" column="5" />
@@ -232,12 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="4" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/zecene/ZBoostQuery.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/zecene/ZBoostQuery.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/nn/runnn_b_job_resume_f1.sh" />
-      <jump line="313" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
-      <jump line="563" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
-      <jump line="98" column="84" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="264" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="244" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="339" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
@@ -332,10 +320,16 @@
       <jump line="191" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="232" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="162" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
+      <jump line="3869" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
+      <jump line="1119" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
+      <jump line="1215" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
+      <jump line="1262" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
+      <jump line="6050" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
+      <jump line="23" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Phrase()</text>
+        <text>unk</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -361,10 +355,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new Phrase()</text>
+        <text>unk</text>
       </register>
       <register name="/" type="4">
-        <text>builder2</text>
+        <text>unk</text>
       </register>
       <register name="0" type="4">
         <text>Collections.singletonList(phraseByComRule);</text>
@@ -429,24 +423,20 @@
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text>%s/private/public/g</text>
+        <text>%s/&quot; /&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>builder2</last-search>
+      <last-search>unk</last-search>
       <last-offset />
-      <last-pattern>builder2</last-pattern>
-      <last-replace>public</last-replace>
-      <last-substitute>private</last-substitute>
+      <last-pattern>unk</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute encoding="base64">IiA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>刘佳</entry>
-        <entry>IntentionType</entry>
-        <entry>jp</entry>
-        <entry>运营$</entry>
         <entry>亚马逊</entry>
         <entry>亚马逊$</entry>
         <entry>get(&quot;query</entry>
@@ -463,9 +453,12 @@
         <entry>private</entry>
         <entry>builder1</entry>
         <entry>builder2</entry>
+        <entry>寥</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry encoding="base64">IiA=</entry>
+        <entry>unk</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;,/\r/g</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgSW15</entry>
         <entry>Wq</entry>
         <entry>%s/, r)/, null)/g</entry>
@@ -485,6 +478,7 @@
         <entry>q</entry>
         <entry>%s/private/publiv/g</entry>
         <entry>%s/private/public/g</entry>
+        <entry>%s/&quot; /&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
