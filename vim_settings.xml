@@ -11,11 +11,18 @@
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" timestamp="1573136290298">
         <mark key="'" line="1130" column="57" />
       </file>
+      <file name="/a.dummy" timestamp="1574410051104">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1573727619348">
         <mark key="'" line="170" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1573107716042">
         <mark key="'" line="69" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/PlaceFinder.java" timestamp="1574410620448">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="40" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_analyzer/train_intention_bilstm-crf.py" timestamp="1574332572001">
         <mark key="'" line="0" column="0" />
@@ -36,7 +43,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_brand.txt" timestamp="1573630801030">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictTest.java" timestamp="1574075996963" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574411250524">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="49" />
+        <mark key="." line="40" column="49" />
+        <mark key="^" line="40" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/ConcurrentIntObjectMapTest.java" timestamp="1574153166104">
         <mark key="'" line="68" column="14" />
         <mark key="[" line="95" column="35" />
@@ -53,9 +65,9 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" timestamp="1573027753140">
         <mark key="'" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" timestamp="1574333113542">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="74" column="46" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" timestamp="1574409982758">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Converter.java" timestamp="1574341565136">
         <mark key="'" line="488" column="0" />
@@ -75,6 +87,13 @@
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/nn/runnn_b_job_resume_f1.sh" timestamp="1574057152157">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/TFServingUtils.java" timestamp="1574410134338">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="17" />
+        <mark key="^" line="102" column="17" />
+        <mark key="." line="102" column="17" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/engagor/jfasttext/1.3/jfasttext-1.3.jar!/com/github/jfasttext/JFastText.class" timestamp="1573548710404">
         <mark key="'" line="99" column="31" />
       </file>
@@ -91,24 +110,37 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" timestamp="1574070136196">
         <mark key="'" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" timestamp="1574408421735">
+        <mark key="[" line="1176" column="0" />
+        <mark key="]" line="1176" column="0" />
+        <mark key="." line="1176" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_major.txt" timestamp="1573630123319">
         <mark key="'" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" timestamp="1574411121047">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/job_related" timestamp="1573698867124">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/PredictMainTest.java" timestamp="1574333340951">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/PredictMainTest.java" timestamp="1574409563510">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="53" />
-        <mark key="." line="25" column="53" />
+        <mark key="]" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+        <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1574405352299">
-        <mark key="'" line="584" column="32" />
-        <mark key="[" line="646" column="21" />
-        <mark key="]" line="646" column="21" />
-        <mark key="." line="646" column="21" />
-        <mark key="^" line="647" column="19" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1574410165651">
+        <mark key="'" line="642" column="33" />
+        <mark key="[" line="522" column="0" />
+        <mark key="]" line="522" column="0" />
+        <mark key="^" line="520" column="91" />
+        <mark key="." line="522" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
@@ -134,11 +166,18 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfDict.java" timestamp="1573648586825">
         <mark key="'" line="156" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_id.json" timestamp="1574407221490">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1573998804050">
         <mark key="'" line="31" column="41" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="57" column="21" />
         <mark key="." line="25" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/location/LocationBuilder.java" timestamp="1574410567056">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="188" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1574301633332">
         <mark key="'" line="219" column="17" />
@@ -167,35 +206,32 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" timestamp="1572964684503">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1573647811601">
-        <mark key="'" line="420" column="17" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1574407939822">
+        <mark key="'" line="468" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" timestamp="1574411168555">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="199" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574410410382">
+        <mark key="'" line="385" column="0" />
+        <mark key="[" line="416" column="8" />
+        <mark key="]" line="401" column="26" />
+        <mark key="." line="401" column="26" />
+        <mark key="^" line="401" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1574148942372">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" timestamp="1574409988755">
+        <mark key="'" line="232" column="42" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="53" />
+        <mark key="." line="248" column="0" />
+        <mark key="^" line="130" column="61" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="37681" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="38151" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="38246" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="38274" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="38457" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="38543" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="66462" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" />
-      <jump line="66478" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" />
-      <jump line="422" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" />
-      <jump line="23924" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" />
-      <jump line="816" column="30" filename="$MAVEN_REPOSITORY$/com/zhipin/tensorflow-serve-client/0.1/tensorflow-serve-client-0.1.jar!/tensorflow/serving/Predict.class" />
-      <jump line="38549" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="57571" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" />
-      <jump line="286" column="10" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
-      <jump line="9" column="21" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
-      <jump line="28" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
-      <jump line="29" column="65" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
-      <jump line="70" column="16" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
-      <jump line="68" column="58" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
-      <jump line="31" column="41" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="47" column="60" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/finder/job/InternJobHandler.java" />
       <jump line="91" column="4" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/zecene/ZBoostQuery.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/zecene/ZBoostQuery.java" />
@@ -232,7 +268,6 @@
       <jump line="42" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="29" column="27" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="238" column="29" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
-      <jump line="112" column="12" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="111" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="83" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
@@ -275,10 +310,32 @@
       <jump line="99" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/PredictMainTest.java" />
       <jump line="583" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="488" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Converter.java" />
+      <jump line="20" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
+      <jump line="1" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
+      <jump line="6" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
+      <jump line="308" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
+      <jump line="333" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
+      <jump line="468" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="59" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/TFServingUtils.java" />
+      <jump line="688" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="62" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
+      <jump line="380" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/TFServingUtils.java" />
+      <jump line="241" column="12" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="254" column="52" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="37" column="91" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="130" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="255" column="52" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="19" column="97" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="74" column="49" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="112" column="89" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="153" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="191" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="232" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Float aFloat : floats</text>
+        <text>Set</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -304,19 +361,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Float aFloat : floats</text>
+        <text>Set</text>
       </register>
       <register name="/" type="4">
-        <text>add {</text>
+        <text>builder2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8RmxvYXQ+IGRhdGEgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU2V0PFN0cmluZz4gbG9hZFJtQ29tbWVudHMoU3RyaW5nIGYpIHsKICAgICAgICBTZXQ8U3RyaW5nPiByZXQgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgbG9hZChmLCByZXQ6OmFkZCwgdHJ1ZSk7CiAgICAgICAgcmV0dXJuIHJldDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxGbG9hdD4gZmxvYXRzID0gb3V0cHV0LnN1Ykxpc3QoMCwgMyAqIDQxKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldFJlc291cmNlKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdHJ5IChJbnB1dFN0cmVhbSBpcyA9IFBsYWNlRmluZGVyLmNsYXNzLmdldENsYXNzTG9hZGVyKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbShuYW1lKSkgewogICAgICAgICAgICByZXR1cm4gSU9VdGlscy50b1N0cmluZyhpcywgInV0Zi04Iik7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigibm90IGZvdW5kICIgKyBuYW1lLCBlKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -337,10 +394,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlbnNvclByb3RvLkJ1aWxkZXIgYnVpbGRlciA9IGJ1aWxkZXIyKDMwLCAzMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuYWRkKDEuMGYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -354,45 +411,38 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgODsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgZGF0YS5hZGQoMC4wZik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1hcDxTdHJpbmcsIE1hcDxTdHJpbmcsIFN0cmluZz4+IGxvYWRBcmVhKCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIrIiArIG91dHB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsbERhdGEocSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJiLnB1dElucHV0cygic2VuIiwgYnVpbGRlci5idWlsZCgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYnVpbGRlci5hZGRBbGxGbG9hdFZhbChkYXRhKTsKLy8gICAgICAgICAgICAgICAgYnVpbGRlci5hZGRBbGxJbnRWYWwobmV3IEFycmF5TGlzdDw+KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludFtdIGludHMgPSBuZXcgaW50WzMwXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVuc29yUHJvdG9CdWlsZGVyLmFkZEFsbEZsb2F0VmFsKGRhdGExKTsK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/private/public/g</text>
       </register>
     </registers>
     <search>
-      <last-search>add {</last-search>
+      <last-search>builder2</last-search>
       <last-offset />
-      <last-pattern>add {</last-pattern>
-      <last-replace>Builder</last-replace>
-      <last-substitute>PredictMain.Builder</last-substitute>
+      <last-pattern>builder2</last-pattern>
+      <last-replace>public</last-replace>
+      <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>清华大学$</entry>
-        <entry>intention</entry>
-        <entry>listen</entry>
-        <entry>hot</entry>
-        <entry>农业项目</entry>
-        <entry>农业</entry>
-        <entry>母婴</entry>
         <entry>刘佳</entry>
         <entry>IntentionType</entry>
         <entry>jp</entry>
@@ -406,18 +456,17 @@
         <entry>PredictMain.</entry>
         <entry>PredictMain.Builder</entry>
         <entry>add {</entry>
+        <entry encoding="base64">LCA=</entry>
+        <entry>&quot;, &quot;</entry>
+        <entry>&quot;,</entry>
+        <entry>nn</entry>
+        <entry>private</entry>
+        <entry>builder1</entry>
+        <entry>builder2</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/CountHashMap/CountHashMap1/g</entry>
-        <entry>%s/CountHashMap.key/CountHashMap1.key/g</entry>
-        <entry>%s/ExpectProp111/ZpExpectProp/g</entry>
-        <entry>%s/PropHelper/ZpJobProp/g</entry>
-        <entry>%s/&quot;,//g</entry>
-        <entry>%s/,/\n/g</entry>
-        <entry>%s/,/\r/g</entry>
         <entry>%s/&quot;,/\r/g</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgSW15</entry>
-        <entry>q</entry>
         <entry>Wq</entry>
         <entry>%s/, r)/, null)/g</entry>
         <entry>%s/this.bp/null/g</entry>
@@ -428,6 +477,14 @@
         <entry>W</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>%s/, /\n/g</entry>
+        <entry>%s/, /\\n/g</entry>
+        <entry>%s/, /\r/g</entry>
+        <entry>%s/&quot;, &quot;/\r/g</entry>
+        <entry>%s/&quot;,//g</entry>
+        <entry>q</entry>
+        <entry>%s/private/publiv/g</entry>
+        <entry>%s/private/public/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
