@@ -43,11 +43,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_brand.txt" timestamp="1573630801030">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574411250524">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="49" />
-        <mark key="." line="40" column="49" />
-        <mark key="^" line="40" column="49" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574413131494">
+        <mark key="[" line="31" column="90" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="44" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/ConcurrentIntObjectMapTest.java" timestamp="1574153166104">
         <mark key="'" line="68" column="14" />
@@ -179,9 +179,9 @@
         <mark key="[" line="179" column="0" />
         <mark key="]" line="188" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1574301633332">
-        <mark key="'" line="219" column="17" />
-        <mark key="[" line="230" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1574412985351">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="96" column="72" />
         <mark key="]" line="230" column="0" />
         <mark key="." line="230" column="0" />
       </file>
@@ -213,12 +213,12 @@
         <mark key="[" line="195" column="0" />
         <mark key="]" line="199" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574410410382">
-        <mark key="'" line="385" column="0" />
-        <mark key="[" line="416" column="8" />
-        <mark key="]" line="401" column="26" />
-        <mark key="." line="401" column="26" />
-        <mark key="^" line="401" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574413042735">
+        <mark key="'" line="387" column="0" />
+        <mark key="[" line="429" column="15" />
+        <mark key="]" line="271" column="28" />
+        <mark key="." line="271" column="28" />
+        <mark key="^" line="271" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1574148942372">
         <mark key="[" line="0" column="0" />
@@ -232,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="60" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/finder/job/InternJobHandler.java" />
       <jump line="91" column="4" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/zecene/ZBoostQuery.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/zecene/ZBoostQuery.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/nn/runnn_b_job_resume_f1.sh" />
@@ -332,10 +331,11 @@
       <jump line="153" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="191" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
       <jump line="232" column="42" filename="$USER_HOME$/workspace/zp-search2/scripts/gen_builder.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Set</text>
+        <text>new Phrase()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -361,19 +361,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Set</text>
+        <text>new Phrase()</text>
       </register>
       <register name="/" type="4">
         <text>builder2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU2V0PFN0cmluZz4gbG9hZFJtQ29tbWVudHMoU3RyaW5nIGYpIHsKICAgICAgICBTZXQ8U3RyaW5nPiByZXQgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgbG9hZChmLCByZXQ6OmFkZCwgdHJ1ZSk7CiAgICAgICAgcmV0dXJuIHJldDsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>Collections.singletonList(phraseByComRule);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldFJlc291cmNlKFN0cmluZyBuYW1lKSB7CiAgICAgICAgdHJ5IChJbnB1dFN0cmVhbSBpcyA9IFBsYWNlRmluZGVyLmNsYXNzLmdldENsYXNzTG9hZGVyKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbShuYW1lKSkgewogICAgICAgICAgICByZXR1cm4gSU9VdGlscy50b1N0cmluZyhpcywgInV0Zi04Iik7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigibm90IGZvdW5kICIgKyBuYW1lLCBlKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwaHJhc2UgIT0gbnVsbCAmJiBwaHJhc2UucWsgIT0gbnVsbCkgcGhyYXNlcy5hZGQocGhyYXNlKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -394,10 +394,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -411,19 +411,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1hcDxTdHJpbmcsIE1hcDxTdHJpbmcsIFN0cmluZz4+IGxvYWRBcmVhKCkgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsbERhdGEocSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYnVpbGRlci5hZGRBbGxGbG9hdFZhbChkYXRhKTsKLy8gICAgICAgICAgICAgICAgYnVpbGRlci5hZGRBbGxJbnRWYWwobmV3IEFycmF5TGlzdDw+KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVuc29yUHJvdG9CdWlsZGVyLmFkZEFsbEZsb2F0VmFsKGRhdGExKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5hZGQoMzQ4LjBmKTsKICAgICAgICAgICAgZGF0YS5hZGQoMzg0OC4wZik7CiAgICAgICAgICAgIGRhdGEuYWRkKDI1NTcuMGYpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
