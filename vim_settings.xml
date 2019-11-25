@@ -12,12 +12,6 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" timestamp="1574414697321">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="3331" column="3" />
-        <mark key="]" line="3331" column="3" />
-        <mark key="." line="3331" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/SearchReq.java" timestamp="1574669692415">
         <mark key="[" line="359" column="78" />
         <mark key="]" line="359" column="78" />
@@ -138,10 +132,17 @@
         <mark key="[" line="37" column="24" />
         <mark key="]" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1574689565051">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="153" column="53" />
-        <mark key="]" line="153" column="53" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" timestamp="1574691049530">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="74" column="54" />
+        <mark key="]" line="74" column="51" />
+        <mark key="." line="74" column="51" />
+        <mark key="^" line="74" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1574690296999">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="52" />
         <mark key="." line="153" column="53" />
         <mark key="^" line="153" column="53" />
       </file>
@@ -151,12 +152,6 @@
         <mark key="]" line="522" column="5" />
         <mark key="^" line="522" column="5" />
         <mark key="." line="522" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/ac/AcHighLightTest.java" timestamp="1574148661215">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1574676105227">
         <mark key="'" line="59" column="0" />
@@ -179,27 +174,18 @@
         <mark key="." line="281" column="17" />
         <mark key="^" line="281" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574689385780">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574690751825">
         <mark key="'" line="104" column="11" />
         <mark key="[" line="512" column="73" />
-        <mark key="]" line="512" column="36" />
-        <mark key="." line="512" column="36" />
-        <mark key="^" line="512" column="36" />
+        <mark key="]" line="511" column="41" />
+        <mark key="." line="511" column="41" />
+        <mark key="^" line="511" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1574687759317">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenBiLSTMCRFSample.java" />
-      <jump line="99" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenBiLSTMCRFSample.java" />
-      <jump line="16591" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
-      <jump line="266" column="8" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_analyzer/train_intention_bilstm-crf.py" />
-      <jump line="383" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/query_analyzer/train_intention_bilstm-crf.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/PredictMainTest.java" />
-      <jump line="583" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
-      <jump line="488" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Converter.java" />
-      <jump line="20" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
       <jump line="1" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
       <jump line="6" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
       <jump line="308" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
@@ -291,10 +277,19 @@
       <jump line="126" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
+      <jump line="175" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
+      <jump line="81" column="59" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
+      <jump line="27" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
+      <jump line="73" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
+      <jump line="61" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -320,19 +315,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>整形医院运营</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWJjIC0+IGFiYy9qICAjIG5ldyBtb2RlbCByZXN1bHQKYWJjIC0+IGFiYy9qICAjIG5ldyBtb2RlbCByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSW50ZW50aW9uVHlwZS52YWx1ZU9mKHFrLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -353,10 +348,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBjcmZDb21wYXJlSW50ZW50aW9uKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAVGVzdAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -370,16 +365,16 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmLndyaXRlKHNiLnRvU3RyaW5nKCkuZ2V0Qnl0ZXMoVVRGXzgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgT2JqZWN0IGxvY2sgPSBuZXcgT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgc3RhdGljICBGaWxlT3V0cHV0U3RyZWFtIGYgPSBuZXcgRmlsZU91dHB1dFN0cmVhbSgiL1VzZXJzL3BmbGl1L3dvcmtzcGFjZS96cC1zZWFyY2gyL2RhdGEvaW50ZW50aW9uL3Jlc3VtZV9hbGwuY29tcGFyZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGkgPSBuZXcgQXRvbWljSW50ZWdlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlT3V0cHV0U3RyZWFtIGYgPSBuZXcgRmlsZU91dHB1dFN0cmVhbSgiL1VzZXJzL3BmbGl1L3dvcmtzcGFjZS96cC1zZWFyY2gyL2RhdGEvaW50ZW50aW9uL3Jlc3VtZV9hbGwuY29tcGFyZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGkgPSBuZXcgQXRvbWljSW50ZWdlcigpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
