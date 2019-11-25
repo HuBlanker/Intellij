@@ -54,6 +54,7 @@
         <mark key="]" line="49" column="42" />
         <mark key="." line="49" column="42" />
       </file>
+      <file name="/QueryAnalyzerMain.java" timestamp="1574666167927" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/predict/ConcurrentIntObjectMapTest.java" timestamp="1574153166104">
         <mark key="'" line="68" column="14" />
         <mark key="[" line="95" column="35" />
@@ -110,9 +111,9 @@
         <mark key="'" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" timestamp="1574408421735">
-        <mark key="[" line="1176" column="0" />
-        <mark key="]" line="1176" column="0" />
-        <mark key="." line="1176" column="0" />
+        <mark key="[" line="1174" column="0" />
+        <mark key="]" line="1174" column="0" />
+        <mark key="." line="1174" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_major.txt" timestamp="1573630123319">
         <mark key="'" line="17" column="0" />
@@ -134,8 +135,8 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1574410165651">
-        <mark key="'" line="642" column="33" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1574666012567">
+        <mark key="'" line="584" column="33" />
         <mark key="[" line="522" column="0" />
         <mark key="]" line="522" column="0" />
         <mark key="^" line="520" column="91" />
@@ -162,6 +163,10 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_id.json" timestamp="1574407221490">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/IntentionType.java" timestamp="1574666487191">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="28" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/location/LocationBuilder.java" timestamp="1574410567056">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="188" column="5" />
@@ -171,6 +176,13 @@
         <mark key="[" line="194" column="0" />
         <mark key="]" line="209" column="5" />
         <mark key="." line="230" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574666850725">
+        <mark key="'" line="2544" column="34" />
+        <mark key="[" line="527" column="0" />
+        <mark key="]" line="527" column="0" />
+        <mark key="^" line="526" column="18" />
+        <mark key="." line="527" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/ac/AcHighLightTest.java" timestamp="1574148661215">
         <mark key="'" line="0" column="0" />
@@ -200,12 +212,12 @@
         <mark key="[" line="195" column="0" />
         <mark key="]" line="199" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574417204217">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574666313421">
         <mark key="'" line="301" column="27" />
         <mark key="[" line="438" column="86" />
-        <mark key="]" line="438" column="86" />
-        <mark key="." line="438" column="86" />
-        <mark key="^" line="438" column="88" />
+        <mark key="]" line="460" column="23" />
+        <mark key="." line="460" column="23" />
+        <mark key="^" line="460" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1574148942372">
         <mark key="[" line="0" column="0" />
@@ -219,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
-      <jump line="119" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/gen_builder.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/gen_builder.py" />
       <jump line="827" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="43" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="140" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/gen_builder.py" />
@@ -319,10 +328,13 @@
       <jump line="23" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_mapping.json" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="301" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="2530" column="34" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="2529" column="34" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nuwll</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE5BTUUgICAgIC8vIOWnk+WQjQogICAgTkFNRSAgICAgLy8g5aeT5ZCNCiAgICBOQU1FICAgICAvLyDlp5PlkI0KICAgIE5BTUUgICAgIC8vIOWnk+WQjQogICAgTkFNRSAgICAgLy8g5aeT5ZCNCiAgICBERUdSRUUoMTYpLAogICAgU0VQQSgxNyksCiAgICBPKDE4KSwKICAgIFNUT1AoMTkpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -348,19 +360,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nuwll</text>
+        <text>NAME</text>
       </register>
       <register name="/" type="4">
-        <text>unk</text>
+        <text>QUERYKIND</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHMuYWRkKG5ldyBQaHJhc2UoaXRlbSwgcXVlcnlLaW5kRnJvbVRhZyhpZHguZ2V0KGkgLSAxKSksIG51bGwpKTsK</text>
+      <register name="0" type="4">
+        <text>PLACE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzCg==</text>
+        <text encoding="base64">ICAgIE5BTUUgICAgIC8vIOWnk+WQjQogICAgTkFNRSAgICAgLy8g5aeT5ZCNCiAgICBOQU1FICAgICAvLyDlp5PlkI0KICAgIE5BTUUgICAgIC8vIOWnk+WQjQogICAgTkFNRSAgICAgLy8g5aeT5ZCNCiAgICBERUdSRUUoMTYpLAogICAgU0VQQSgxNyksCiAgICBPKDE4KSwKICAgIFNUT1AoMTkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENUWVBFKDEzKSwKICAgIEdQKDE0KSwKICAgIEpSKDE1KSwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -381,10 +393,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdMKDEyKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEpQKDExKSwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -398,19 +410,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogICAgICAgIHJldHVybiBudWxsOwoK</text>
+        <text encoding="base64">ICAgIFBMQUNFKDEwKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJVU0lORVNTKDkpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERJU1RSSUNUKDgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENJVFkoNyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzLnN1YnN0cmluZygpCg==</text>
+        <text encoding="base64">ICAgIElORCg2KSwK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -420,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unk</last-search>
+      <last-search>QUERYKIND</last-search>
       <last-offset />
-      <last-pattern>unk</last-pattern>
+      <last-pattern>QUERYKIND</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">IiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -430,8 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>亚马逊</entry>
-        <entry>亚马逊$</entry>
         <entry>get(&quot;query</entry>
         <entry>query</entry>
         <entry>fasttext</entry>
@@ -450,6 +460,8 @@
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">IiA=</entry>
         <entry>unk</entry>
+        <entry>api</entry>
+        <entry>QUERYKIND</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub3JtYWwgSW15</entry>
