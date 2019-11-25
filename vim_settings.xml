@@ -39,11 +39,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/our_brand.txt" timestamp="1573630801030">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" timestamp="1574417101493">
-        <mark key="[" line="49" column="42" />
-        <mark key="]" line="49" column="42" />
-        <mark key="." line="49" column="42" />
-      </file>
       <file name="/QueryAnalyzerMain.java" timestamp="1574666167927" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1572604207920">
         <mark key="'" line="207" column="1" />
@@ -139,13 +134,6 @@
         <mark key="." line="74" column="51" />
         <mark key="^" line="74" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" timestamp="1574690296999">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="52" />
-        <mark key="." line="153" column="53" />
-        <mark key="^" line="153" column="53" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574668059657">
         <mark key="'" line="538" column="37" />
         <mark key="[" line="522" column="6" />
@@ -174,6 +162,12 @@
         <mark key="." line="281" column="17" />
         <mark key="^" line="281" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1574695874566">
+        <mark key="'" line="179" column="29" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="222" column="82" />
+        <mark key="." line="220" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" timestamp="1574690751825">
         <mark key="'" line="104" column="11" />
         <mark key="[" line="512" column="73" />
@@ -186,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
       <jump line="6" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
       <jump line="308" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="333" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
@@ -286,10 +279,11 @@
       <jump line="61" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
+      <jump line="179" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbiA9IGdldCgwKS5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgcHMgPSBjb24ucHJlcGFyZVN0YXRlbWVudCgKICAgICAgICAgICAgICAgICJzZWxlY3QgdXNlcl9pZCBmcm9tIHVzZXJfcHJvZmlsZSBvcmRlciBieSB1c2VyX2lkIGRlc2MgbGltaXQgMSIpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -315,19 +309,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user_profile</text>
       </register>
       <register name="/" type="4">
-        <text>整形医院运营</text>
+        <text>user_profile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSW50ZW50aW9uVHlwZS52YWx1ZU9mKHFrLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>select user_id from geek_profile order by user_id desc limit 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbiA9IGdldCgwKS5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgcHMgPSBjb24ucHJlcGFyZVN0YXRlbWVudCgKICAgICAgICAgICAgICAgICJzZWxlY3QgdXNlcl9pZCBmcm9tIHVzZXJfcHJvZmlsZSBvcmRlciBieSB1c2VyX2lkIGRlc2MgbGltaXQgMSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -348,10 +342,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBjcmZDb21wYXJlSW50ZW50aW9uKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBjcmZDb21wYXJlSW50ZW50aW9uKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -365,19 +359,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgT2JqZWN0IGxvY2sgPSBuZXcgT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBAVGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGkgPSBuZXcgQXRvbWljSW50ZWdlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgT2JqZWN0IGxvY2sgPSBuZXcgT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGkgPSBuZXcgQXRvbWljSW50ZWdlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -387,9 +381,9 @@
       </register>
     </registers>
     <search>
-      <last-search>整形医院运营</last-search>
+      <last-search>user_profile</last-search>
       <last-offset />
-      <last-pattern>整形医院运营</last-pattern>
+      <last-pattern>user_profile</last-pattern>
       <last-replace>QueryKind.C</last-replace>
       <last-substitute>QueryKind.COMPANY</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>寥</entry>
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">IiA=</entry>
         <entry>unk</entry>
@@ -417,6 +410,7 @@
         <entry>图文广告</entry>
         <entry>洗头学徒</entry>
         <entry>整形医院运营</entry>
+        <entry>user_profile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, r)/, null)/g</entry>
