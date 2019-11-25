@@ -163,6 +163,11 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="28" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1574673326496">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/location/LocationBuilder.java" timestamp="1574410567056">
         <mark key="[" line="179" column="0" />
         <mark key="]" line="188" column="5" />
@@ -228,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
-      <jump line="100" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="38" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="1415" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
       <jump line="563" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/Builders.java" />
@@ -328,10 +331,12 @@
       <jump line="303" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="307" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="23" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/com_types" />
+      <jump line="45" column="20" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
+      <jump line="37" column="24" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tensorflow-serve-client</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -360,10 +365,10 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>美容医院</text>
+        <text>tenso</text>
       </register>
       <register name="0" type="4">
-        <text>PLACE</text>
+        <text>tensorflow-serve-client</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -429,9 +434,9 @@
       </register>
     </registers>
     <search>
-      <last-search>美容医院</last-search>
+      <last-search>tenso</last-search>
       <last-offset />
-      <last-pattern>美容医院</last-pattern>
+      <last-pattern>tenso</last-pattern>
       <last-replace>QueryKind.C</last-replace>
       <last-substitute>QueryKind.COMPANY</last-substitute>
       <last-dir>1</last-dir>
@@ -439,8 +444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PredictMain.Builder</entry>
-        <entry>add {</entry>
         <entry encoding="base64">LCA=</entry>
         <entry>&quot;, &quot;</entry>
         <entry>&quot;,</entry>
@@ -459,6 +462,8 @@
         <entry>QueryKind.JOB</entry>
         <entry>QueryKind.COMPANY</entry>
         <entry>美容医院</entry>
+        <entry>serving</entry>
+        <entry>tenso</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, r)/, null)/g</entry>
