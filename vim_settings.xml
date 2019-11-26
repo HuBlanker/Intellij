@@ -91,6 +91,13 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job.txt" timestamp="1574675707289">
         <mark key="'" line="40262" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/genFastTextSample.java" timestamp="1574735286491">
+        <mark key="'" line="75" column="34" />
+        <mark key="[" line="93" column="66" />
+        <mark key="]" line="93" column="64" />
+        <mark key="." line="93" column="64" />
+        <mark key="^" line="93" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/GeekHistory.java" timestamp="1572590905793">
         <mark key="'" line="103" column="39" />
       </file>
@@ -118,21 +125,16 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_char_id.json" timestamp="1574407221490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/IntentionType.java" timestamp="1574666487191">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="28" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1574673326496">
         <mark key="'" line="37" column="24" />
         <mark key="[" line="37" column="24" />
         <mark key="]" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" timestamp="1574691049530">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="74" column="54" />
-        <mark key="]" line="74" column="51" />
-        <mark key="." line="74" column="51" />
-        <mark key="^" line="74" column="51" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" timestamp="1574733330647">
+        <mark key="'" line="80" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="75" column="51" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574668059657">
         <mark key="'" line="538" column="37" />
@@ -174,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" />
       <jump line="308" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="333" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="468" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
@@ -274,10 +275,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="179" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="75" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/genFastTextSample.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbiA9IGdldCgwKS5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgcHMgPSBjb24ucHJlcGFyZVN0YXRlbWVudCgKICAgICAgICAgICAgICAgICJzZWxlY3QgdXNlcl9pZCBmcm9tIHVzZXJfcHJvZmlsZSBvcmRlciBieSB1c2VyX2lkIGRlc2MgbGltaXQgMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -303,19 +305,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user_profile</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>user_profile</text>
       </register>
-      <register name="0" type="4">
-        <text>select user_id from geek_profile order by user_id desc limit 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBPYmplY3QgbG9jayA9IG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbiA9IGdldCgwKS5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgUHJlcGFyZWRTdGF0ZW1lbnQgcHMgPSBjb24ucHJlcGFyZVN0YXRlbWVudCgKICAgICAgICAgICAgICAgICJzZWxlY3QgdXNlcl9pZCBmcm9tIHVzZXJfcHJvZmlsZSBvcmRlciBieSB1c2VyX2lkIGRlc2MgbGltaXQgMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBmaWxlIDogbmFtZXMpIHsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -339,7 +341,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBjcmZDb21wYXJlSW50ZW50aW9uKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgbG9jayA9IG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -353,19 +355,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAiX19sYWJlbF9fIikuYXBwZW5kKGxhYmVsLnRvU3RyaW5nKCkudG9Mb3dlckNhc2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgT2JqZWN0IGxvY2sgPSBuZXcgT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9vbC5zdWJtaXQoKCkgLT4gZ2VuRmlsZShmaWxlLCBvdXQsIGxvY2spKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBdG9taWNJbnRlZ2VyIGkgPSBuZXcgQXRvbWljSW50ZWdlcigpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEludGVudGlvblR5cGUgbGFiZWwoU3RyaW5nIGZpbGUpIHsKICAgICAgICBzd2l0Y2ggKGZpbGUpIHsKICAgICAgICAgICAgY2FzZSAiYnVzaW5lc3NfbmFtZXMiOgogICAgICAgICAgICAgICAgcmV0dXJuIEJVU0lORVNTOwogICAgICAgICAgICBjYXNlICJjaXR5X25hbWVzIjoKICAgICAgICAgICAgICAgIHJldHVybiBDSVRZOwogICAgICAgICAgICBjYXNlICJjb21fdHlwZXMiOgogICAgICAgICAgICAgICAgcmV0dXJuIENUWVBFOwogICAgICAgICAgICBjYXNlICJkZWdyZWUiOgogICAgICAgICAgICAgICAgcmV0dXJuIERFR1JFRTsKICAgICAgICAgICAgICAgIGNhc2UgImRpcyIKICAgICAgICB9CgogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb29sLnN1Ym1pdCgoKS0+IGdlbkZpbGUoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
