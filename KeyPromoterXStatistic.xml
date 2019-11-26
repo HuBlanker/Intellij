@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3297</Count>
+          <Count>3302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -510,7 +510,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CompareCrfAndBiLSTMCRF'</Description>
-          <Count>17</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ConcurrentIntObjectMapTest.testTest2'">
@@ -591,6 +591,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FindCompanyWordTest.suffixArray'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GenBiLSTMCRFSample'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'GenBiLSTMCRFSample'</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GenQueryCorrectSample'">
@@ -1169,6 +1177,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QueryDictBuild'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QueryDictBuild'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RecallCountMain'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1406,7 +1422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>763</Count>
+          <Count>842</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1534,7 +1550,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1021</Count>
+          <Count>1035</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -1558,7 +1574,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CompareCrfAndBiLSTMCRF'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ConcurrentIntObjectMapTest'">
@@ -1623,6 +1639,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FindCompanyWord'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GenBiLSTMCRFSample'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GenBiLSTMCRFSample'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GenQueryCorrectSample'">
@@ -1921,6 +1945,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'QueryDictBuild'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QueryDictBuild'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ResumeSearchMain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2094,7 +2126,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>349</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
