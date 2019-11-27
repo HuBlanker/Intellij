@@ -63,12 +63,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" timestamp="1574754785030">
-        <mark key="'" line="9296" column="0" />
-        <mark key="[" line="6675" column="0" />
-        <mark key="]" line="6675" column="0" />
-        <mark key="." line="6675" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CleanQueryDict.java" timestamp="1574819343517">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="46" column="45" />
@@ -155,6 +149,7 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/actioncheck/ActionCheckerServer.java" timestamp="1574831209170" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/SearchReq.java" timestamp="1574669703446">
         <mark key="[" line="281" column="17" />
         <mark key="]" line="281" column="17" />
@@ -172,8 +167,14 @@
         <mark key="." line="509" column="41" />
         <mark key="^" line="509" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1574687759317">
+      <file name="/fragment.java" timestamp="1574830581205">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/actioncheck/ActionCheckerServerTest.java" timestamp="1574830645523">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="15" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -280,7 +281,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>righ</text>
+        <text>setBossId</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -306,7 +307,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>righ</text>
+        <text>setBossId</text>
       </register>
       <register name="/" type="4">
         <text>System</text>
