@@ -406,7 +406,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -521,12 +521,20 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove Module">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove Module</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BiLSTMCRFDictory'">
