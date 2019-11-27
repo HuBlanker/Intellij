@@ -65,6 +65,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CleanQueryDict'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'CleanQueryDict'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DemoMain'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -527,6 +535,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BiLSTMCRFDictory'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CleanQueryDict'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CleanQueryDict'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CompareCrfAndBiLSTMCRF'">
@@ -1446,7 +1462,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>845</Count>
+          <Count>847</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2166,7 +2182,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>362</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
