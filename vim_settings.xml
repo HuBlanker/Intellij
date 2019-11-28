@@ -79,6 +79,12 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/ftjp_test.java" timestamp="1574935176786">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="50" />
+        <mark key="." line="84" column="50" />
+        <mark key="^" line="84" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/qi/clean/similar_from_segment.txt" timestamp="1574774199167">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="88" />
@@ -406,8 +412,8 @@
       <jump line="647" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZW5zb3JmbG93LjsK</text>
+      <register name="&quot;" type="4">
+        <text>QueryAnalyzerMain</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -433,7 +439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Tensor</text>
+        <text>QueryAnalyzerMain</text>
       </register>
       <register name="/" type="4">
         <text>Tensor</text>
