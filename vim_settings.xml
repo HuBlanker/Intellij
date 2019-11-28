@@ -232,7 +232,7 @@
         <mark key="." line="103" column="62" />
         <mark key="^" line="103" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574911160762">
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574911893683">
         <mark key="[" line="512" column="0" />
         <mark key="]" line="545" column="1" />
         <mark key="." line="547" column="0" />
@@ -409,7 +409,7 @@
         <text>4.</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text>f32</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZW51bSBRdWVyeUtpbmQgewogICAgQ09NUEFOWSwKICAgIEpPQiwKICAgIFNDSE9PTCwgIC8vIOWtpuagoQogICAgTUFKT1IsICAgLy8g5LiT5LiaCiAgICBOQU1FICAgICAvLyDlp5PlkI0KfQoKCnN0cnVjdCBQaHJhc2UgewogICAgMTogcmVxdWlyZWQgc3RyaW5nIHEKICAgIDI6IHJlcXVpcmVkIFF1ZXJ5S2luZCBxawogICAgMzogb3B0aW9uYWwgZG91YmxlIGNvbmZpZGVuY2UgPSAxLjAKCiAgICAvLyDliIbor43ku6XlkI7nmoTmnYPph40KICAgIDQ6IHJlcXVpcmVkIG1hcDxzdHJpbmcsZG91YmxlPiB3ZWlnaHRzCn0KCgpzdHJ1Y3QgUXVlcnlBbmFseXplUmVxIHsKICAgIDE6IHJlcXVpcmVkIHN0cmluZyBxCiAgICAyOiByZXF1aXJlZCBtYXA8RmlsdGVyRmllbGQsc3RyaW5nPiBmaWx0ZXJzCiAgICAzOiBvcHRpb25hbCBpMzIgZGVidWcKICAgIDQ6IG9wdGlvbmFsIGk2NCB1c2VySWQKfQoKCnN0cnVjdCBRdWVyeUFuYWx5emVSZXNwIHsKICAgIDE6IHJlcXVpcmVkIHN0cmluZyBxCiAgICAyOiByZXF1aXJlZCBtYXA8RmlsdGVyRmllbGQsc3RyaW5nPiBmaWx0ZXJzCiAgICAzOiByZXF1aXJlZCBsaXN0PFBocmFzZT4gcGhyYXNlcwoKICAgIC8vIDQ6IG9wdGlvbmFsIGxpc3Q8bGlzdDxQaHJhc2U+PiBleHRlbmQKfQo=</text>
@@ -478,9 +478,9 @@
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search>f32</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
+      <last-pattern>f32</last-pattern>
       <last-replace>QueryKind.C</last-replace>
       <last-substitute>QueryKind.COMPANY</last-substitute>
       <last-dir>1</last-dir>
@@ -488,7 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serving</entry>
         <entry>tenso</entry>
         <entry>汽车维修</entry>
         <entry>西班牙语</entry>
@@ -508,6 +507,7 @@
         <entry>System</entry>
         <entry>1.5</entry>
         <entry>5</entry>
+        <entry>f32</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, r)/, null)/g</entry>
