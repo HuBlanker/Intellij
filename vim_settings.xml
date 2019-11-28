@@ -54,11 +54,6 @@
         <mark key="^" line="58" column="11" />
         <mark key="." line="58" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" timestamp="1574408421735">
-        <mark key="[" line="1174" column="0" />
-        <mark key="]" line="1174" column="0" />
-        <mark key="." line="1174" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/q/bilstm-crf_all_tags.txt" timestamp="1574411121047">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="0" column="0" />
@@ -237,9 +232,9 @@
         <mark key="." line="103" column="62" />
         <mark key="^" line="103" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574861692599">
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="547" column="0" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574911160762">
+        <mark key="[" line="512" column="0" />
+        <mark key="]" line="545" column="1" />
         <mark key="." line="547" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-modules/src/main/java/com/zhipin/tseg/NLPSeg.java" timestamp="1574841958724">
@@ -385,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZW51bSBRdWVyeUtpbmQgewogICAgQ09NUEFOWSwKICAgIEpPQiwKICAgIFNDSE9PTCwgIC8vIOWtpuagoQogICAgTUFKT1IsICAgLy8g5LiT5LiaCiAgICBOQU1FICAgICAvLyDlp5PlkI0KfQoKCnN0cnVjdCBQaHJhc2UgewogICAgMTogcmVxdWlyZWQgc3RyaW5nIHEKICAgIDI6IHJlcXVpcmVkIFF1ZXJ5S2luZCBxawogICAgMzogb3B0aW9uYWwgZG91YmxlIGNvbmZpZGVuY2UgPSAxLjAKCiAgICAvLyDliIbor43ku6XlkI7nmoTmnYPph40KICAgIDQ6IHJlcXVpcmVkIG1hcDxzdHJpbmcsZG91YmxlPiB3ZWlnaHRzCn0KCgpzdHJ1Y3QgUXVlcnlBbmFseXplUmVxIHsKICAgIDE6IHJlcXVpcmVkIHN0cmluZyBxCiAgICAyOiByZXF1aXJlZCBtYXA8RmlsdGVyRmllbGQsc3RyaW5nPiBmaWx0ZXJzCiAgICAzOiBvcHRpb25hbCBpMzIgZGVidWcKICAgIDQ6IG9wdGlvbmFsIGk2NCB1c2VySWQKfQoKCnN0cnVjdCBRdWVyeUFuYWx5emVSZXNwIHsKICAgIDE6IHJlcXVpcmVkIHN0cmluZyBxCiAgICAyOiByZXF1aXJlZCBtYXA8RmlsdGVyRmllbGQsc3RyaW5nPiBmaWx0ZXJzCiAgICAzOiByZXF1aXJlZCBsaXN0PFBocmFzZT4gcGhyYXNlcwoKICAgIC8vIDQ6IG9wdGlvbmFsIGxpc3Q8bGlzdDxQaHJhc2U+PiBleHRlbmQKfQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -417,7 +412,7 @@
         <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDM6IG1hcDxGaWx0ZXJGaWVsZCxzdHJpbmc+IGZpbHRlcnMK</text>
+        <text encoding="base64">ZW51bSBRdWVyeUtpbmQgewogICAgQ09NUEFOWSwKICAgIEpPQiwKICAgIFNDSE9PTCwgIC8vIOWtpuagoQogICAgTUFKT1IsICAgLy8g5LiT5LiaCiAgICBOQU1FICAgICAvLyDlp5PlkI0KfQoKCnN0cnVjdCBQaHJhc2UgewogICAgMTogcmVxdWlyZWQgc3RyaW5nIHEKICAgIDI6IHJlcXVpcmVkIFF1ZXJ5S2luZCBxawogICAgMzogb3B0aW9uYWwgZG91YmxlIGNvbmZpZGVuY2UgPSAxLjAKCiAgICAvLyDliIbor43ku6XlkI7nmoTmnYPph40KICAgIDQ6IHJlcXVpcmVkIG1hcDxzdHJpbmcsZG91YmxlPiB3ZWlnaHRzCn0KCgpzdHJ1Y3QgUXVlcnlBbmFseXplUmVxIHsKICAgIDE6IHJlcXVpcmVkIHN0cmluZyBxCiAgICAyOiByZXF1aXJlZCBtYXA8RmlsdGVyRmllbGQsc3RyaW5nPiBmaWx0ZXJzCiAgICAzOiBvcHRpb25hbCBpMzIgZGVidWcKICAgIDQ6IG9wdGlvbmFsIGk2NCB1c2VySWQKfQoKCnN0cnVjdCBRdWVyeUFuYWx5emVSZXNwIHsKICAgIDE6IHJlcXVpcmVkIHN0cmluZyBxCiAgICAyOiByZXF1aXJlZCBtYXA8RmlsdGVyRmllbGQsc3RyaW5nPiBmaWx0ZXJzCiAgICAzOiByZXF1aXJlZCBsaXN0PFBocmFzZT4gcGhyYXNlcwoKICAgIC8vIDQ6IG9wdGlvbmFsIGxpc3Q8bGlzdDxQaHJhc2U+PiBleHRlbmQKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
