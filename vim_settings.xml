@@ -17,10 +17,10 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/disabled/v-bosssearchbuilder-01/ac/major" timestamp="1575004371892" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1574949315264" />
-      <file name="$USER_HOME$/workspace/zp-client/scripts/nlu.thrift" timestamp="1575004786774">
+      <file name="$USER_HOME$/workspace/zp-client/scripts/nlu.thrift" timestamp="1575019176167">
         <mark key="'" line="101" column="34" />
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="32" column="34" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="15" />
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
@@ -222,7 +222,7 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1574757683979">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1575018701775">
         <mark key="'" line="67" column="44" />
         <mark key="[" line="105" column="71" />
         <mark key="]" line="105" column="70" />
@@ -257,6 +257,7 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy.java" timestamp="1575018153876" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/job_core_all.txt" timestamp="1575015805958">
         <mark key="'" line="58" column="13" />
       </file>
@@ -393,8 +394,8 @@
       <jump line="58" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/job_core_all.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW51bSBOTFVTbG90VHlwZSB7CiAgICBQRVJTT05fTkFNRSwgIC8v5Lq65ZCNCiAgICBTQ0hPT0xfVFlQRSwgIC8v5a2m5qCh57G75YirCiAgICBTQ0hPT0wsICAgICAgIC8v5a2m5qChCiAgICBNQUpPUiwgICAgICAgIC8v5LiT5LiaCiAgICBERUdSRUUsICAgICAgIC8v5a2m5Y6GCiAgICBFWFBFUklFTkNFLCAgIC8v5bel5L2c57uP6aqMCiAgICBHRUVLX0xFVkVMLCAgIC8v54mb5Lq657qn5YirLCDotYTmt7EsIOmrmOe6pwogICAgR0VOREVSLCAgICAgICAvL+aAp+WIqwogICAgU0tJTEwsICAgICAgICAvL+aKgOiDveWFs+mUruivjQoKICAgIElORFVTVFJZLCAgICAgLy/ooYzkuJoKICAgIENPTVBBTlksICAgICAgLy/lhazlj7gKICAgIENPTVBBTllfVFlQRSwgLy/lhazlj7jnsbvlnosKCiAgICBDSVRZLCAgICAgICAgIC8v5Z+O5biCCiAgICBESVNUUklDVCwgICAgIC8v5Yy6CiAgICBCVVNJTkVTUywgICAgIC8v5ZWG5ZyICiAgICBQTEFDRSwgICAgICAgIC8v5Zyw54K5CgogICAgSk9CLCAgICAgICAgICAvL+iBjOS9jQogICAgSk9CX1RZUEUsICAgICAvL+iBjOS9jeexu+WIq++8jOWFqOiBjHzlhbzogYx85a6e5LmgCiAgICBKT0JfTEVWRUwsICAgIC8v57qn5Yir77ya6aG+6Zeu44CB5Li7566h44CB57uP55CG44CB5oC757uP55CG44CB5oC755uR44CB5Yqp55CG44CB5a2m5b6S44CB5bqX5ZGY562JCiAgICBKT0JfREVTQywgICAgIC8vam9iIOazm+azm+aPj+i/sAogICAgU0FMQVJZLCAgICAgICAvL+iWquawtCDojIPlm7Tmn6Xor6LvvIzpnIDopoHlvZLkuIDljJYKICAgIEpPQl9QUk9QLCAgICAgLy/lt6XkvZzlsZ7mgKfvvJog5Y+M5LyR44CB5pyd5Lmd5pma5LqU44CB56aP5Yip77ya5YGc6L2m44CB6aOf5aCCCgogICAgUEhPTkUsICAgICAgICAvL+eUteivnQogICAgTUFJTCwgICAgICAgICAvL+mCrueusQogICAgU1RPUCwgICAgICAgICAvL+WBnOeUqOivjQogICAgU0VQQSwgICAgICAgICAvL+espuWPtwogICAgT1RIRVIsICAgICAgICAvL290aGVy5YWz6ZSu6K+NCn0K</text>
+      <register name="&quot;" type="4">
+        <text>NLUSlotType</text>
       </register>
       <register name="e" type="4">
         <keys>
