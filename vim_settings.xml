@@ -9,6 +9,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1575249974041" />
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1574925032848">
         <mark key="'" line="407" column="11" />
         <mark key="[" line="512" column="0" />
@@ -34,6 +35,7 @@
         <mark key="[" line="329" column="22" />
         <mark key="." line="329" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1575249864724" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/job_core_all.txt" timestamp="1575015805958">
         <mark key="'" line="58" column="13" />
       </file>
@@ -262,7 +264,7 @@
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text>%s/FilterField/api.FilterField/g</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -309,7 +311,6 @@
         <entry>%s/, /\r/g</entry>
         <entry>%s/&quot;, &quot;/\r/g</entry>
         <entry>%s/&quot;,//g</entry>
-        <entry>q</entry>
         <entry>%s/private/publiv/g</entry>
         <entry>%s/private/public/g</entry>
         <entry>%s/&quot; /&quot;/g</entry>
@@ -318,6 +319,7 @@
         <entry>W</entry>
         <entry>w</entry>
         <entry>%s/FilterField/api.FilterField/g</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
