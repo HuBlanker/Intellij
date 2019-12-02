@@ -68,6 +68,13 @@
         <mark key="^" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1575249864724" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" timestamp="1575292874743">
+        <mark key="'" line="114" column="34" />
+        <mark key="[" line="115" column="116" />
+        <mark key="]" line="115" column="117" />
+        <mark key="." line="115" column="117" />
+        <mark key="^" line="115" column="117" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/scripts/crf_trainer.py" timestamp="1575103586314">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="7" />
@@ -165,9 +172,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/business_names" timestamp="1575290316359" />
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/chinese_family_name" />
-      <jump line="31" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
-      <jump line="222" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="229" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="38" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="22207" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
@@ -265,10 +269,13 @@
       <jump line="35" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/tag/business_names.txt" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/tag/business_names.txt" />
       <jump line="80" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
+      <jump line="115" column="13" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
+      <jump line="114" column="34" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MatchMethod.MAX_FORWARD</text>
+        <text>info</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -294,10 +301,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MatchMethod.MAX_FORWARD</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>^市</text>
+        <text>user_info.geek_info.info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFdUSW50ZXJUYWc+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcXVlcnkubGVuZ3RoKCk7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gaTsgaiA8IHF1ZXJ5Lmxlbmd0aCgpOyBqKyspIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzdWIgPSBxdWVyeS5zdWJzdHJpbmcoaSwgaik7CiAgICAgICAgICAgICAgICByZXQuYWRkQWxsKG1hdGNoRGljdChzdWIsIGkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmV0Owo=</text>
@@ -368,9 +375,9 @@
       </register>
     </registers>
     <search>
-      <last-search>^市</last-search>
+      <last-search>user_info.geek_info.info</last-search>
       <last-offset />
-      <last-pattern>^市</last-pattern>
+      <last-pattern>user_info.geek_info.info</last-pattern>
       <last-replace>api.FilterField</last-replace>
       <last-substitute>FilterField</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Istrategy.bySplit</entry>
         <entry>new_inten</entry>
         <entry>item</entry>
         <entry>DT_F</entry>
@@ -398,6 +404,7 @@
         <entry>pathon</entry>
         <entry>市场</entry>
         <entry>^市</entry>
+        <entry>user_info.geek_info.info</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.bp/null/g</entry>
