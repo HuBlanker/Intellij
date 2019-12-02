@@ -27,9 +27,13 @@
         <mark key="^" line="109" column="10" />
         <mark key="." line="109" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/SearchAnalyzer.java" timestamp="1575256978700" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Status.java" timestamp="1575251317607" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/DIR.java" timestamp="1575094664990">
         <mark key="[" line="10" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1575257550628">
+        <mark key="'" line="41" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1575255253022">
         <mark key="[" line="86" column="0" />
@@ -61,9 +65,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1575252696269" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1575249864724" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1575255880765">
-        <mark key="'" line="474" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/FilterRewrite.java" timestamp="1575253499468">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="30" />
@@ -82,14 +83,8 @@
       <file name="/fragment.java" timestamp="1575098092307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/scripts/crf_trainer.py" timestamp="1575103586314">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
       <jump line="143" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/QueryAnalyzerTest.java" />
@@ -189,6 +184,7 @@
       <jump line="133" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="474" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" />
+      <jump line="41" column="20" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -221,7 +217,7 @@
         <text>qaClients</text>
       </register>
       <register name="/" type="4">
-        <text>recall</text>
+        <text>seg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOTFVSZXEgIHJlcSA9IG5ldyBOTFVSZXEoKTsKICAgICAgICBOTFVSZXNxIHJlc3AgPSBuZXcgTkxVUmVzcSgpOwoKICAgICAgICByZXEuc2V0UWlkKCJ0ZXN0XzEyMyIpOwogICAgICAgIHJlcS5zZXRRdWVyeSgi5YyX5LqsIGphdmHlvIDlj5Hlt6XnqIvluIgiKTsKICAgICAgICByZXEuc2V0VXNlcklkKDEwMDAwKTsKICAgICAgICByZXEuc2V0QXBwKCJib3NzX3NlYXJoIik7CiAgICAgICAgcmVxLnNldExhbmdpZCgiemgiKTsKCgogICAgICAgIFNlYXJjaFFBICBxYSA9IG5ldyBTZWFyY2hRQSgpOwoKICAgICAgICBTdHJpbmcgbmx1UGF0aCA9IHFhLmdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgibmx1IikuZ2V0UGF0aCgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihubHVQYXRoKTsKCiAgICAgICAgcWEubG9hZChubHVQYXRoKTsKCiAgICAgICAgcWEucXVlcnlBbmFseXNpcyhyZXEsIHJlc3ApOwoKICAgICAgICByZXNwLmRlYnVnKCk7Cgo=</text>
@@ -290,9 +286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recall</last-search>
+      <last-search>seg</last-search>
       <last-offset />
-      <last-pattern>recall</last-pattern>
+      <last-pattern>seg</last-pattern>
       <last-replace>api.FilterField</last-replace>
       <last-substitute>FilterField</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>图文广告</entry>
         <entry>洗头学徒</entry>
         <entry>整形医院运营</entry>
         <entry>user_profile</entry>
@@ -320,6 +315,7 @@
         <entry>tensor</entry>
         <entry>Tensor</entry>
         <entry>recall</entry>
+        <entry>seg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.bp/null/g</entry>
