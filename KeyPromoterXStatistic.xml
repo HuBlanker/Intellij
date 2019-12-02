@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3419</Count>
+          <Count>3427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1033,6 +1033,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MTagDict'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MTagDict'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MaxWater'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1486,7 +1494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>853</Count>
+          <Count>948</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1622,7 +1630,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1035</Count>
+          <Count>1046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -1887,6 +1895,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LeetCode92'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MTagDict'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MTagDict'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MiscHandlerTest'">
@@ -2222,7 +2238,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>369</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
