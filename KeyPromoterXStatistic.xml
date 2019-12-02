@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3402</Count>
+          <Count>3418</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1081,6 +1081,14 @@
           <Count>45</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'NLURewrite'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'NLURewrite'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OpRecPush'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1478,7 +1486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>847</Count>
+          <Count>853</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2214,7 +2222,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>363</Count>
+          <Count>369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
