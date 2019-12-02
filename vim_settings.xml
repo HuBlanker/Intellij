@@ -3,16 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/ftjp_test.java" timestamp="1574935176786">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="4" column="50" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1575251381710" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1575252150330">
-        <mark key="[" line="293" column="4" />
-        <mark key="]" line="293" column="9" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1575253036220">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="119" column="9" />
         <mark key="." line="293" column="9" />
         <mark key="^" line="293" column="9" />
       </file>
@@ -36,19 +30,20 @@
         <mark key="." line="105" column="70" />
         <mark key="^" line="105" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1575013838316">
-        <mark key="'" line="647" column="0" />
-        <mark key="[" line="329" column="22" />
-        <mark key="." line="329" column="50" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1575253185708">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1575252469787">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1575252696269" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1575249864724" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Status.java" timestamp="1575251317607" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/FilterRewrite.java" timestamp="1575253159779">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/job_core_all.txt" timestamp="1575015805958">
         <mark key="'" line="58" column="13" />
       </file>
@@ -183,7 +178,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVyeVV0aWxzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -209,19 +204,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>null;</text>
       </register>
       <register name="/" type="4">
         <text>Tensor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2F2ZWx5PXNjcmlwdHMvd2F2ZWx5LnRocmlmdAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXdyaXRlIOWPquacieS4iee6p+aXtu+8jOi1sOaQnOe0ogogICAgICAgIFN0cmluZyBwID0gZmlsdGVycy5nZXQoRmlsdGVyRmllbGQuUE9TSVRJT04pOwogICAgICAgIGlmIChwICE9IG51bGwgJiYgVXRpbHMuZW1wdHlTdHIocXVlcnkpKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBxdWVyeSA9IFBvc2l0aW9uczIuZ2V0KEludGVnZXIucGFyc2VJbnQocCkpLm5hbWU7CiAgICAgICAgICAgICAgICBmaWx0ZXJzLnJlbW92ZShGaWx0ZXJGaWVsZC5QT1NJVElPTik7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVyeVV0aWxzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDkuJrliqHnm7jlhbPnmoRxdWVyeS1maWx0ZXLmlLnlhpkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaWx0ZXItcXVlcnnkupLnm7jmlLnlhpkKICAgICAgICBxdWVyeSA9IEZpbHRlclJld3JpdGUucHJvY2Vzc0JlZm9yZSgpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -242,10 +237,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlj6rmnInkuInnuqfml7YsIOaUueWGmeWIsHF1ZXJ56YeM6Z2iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBHUXVlcnlCdWlsZGVyLmNsZWFuRmlsdGVycyhmaWx0ZXJzKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -259,19 +254,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZW5zb3JmbG93LjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBOTFVDbGllbnRzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RydWN0IE5MVVRva2VuCnsK</text>
+        <text encoding="base64">ICAgICAgICBGaWx0ZXJSZXdyaXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmx1PXNjcmlwdHMvbmx1LnRocmlmdApweXRob24gc2NyaXB0cy9nZW5fY2xpZW50cy5weSBcCiAgICAtLWZpbGUgJHtubHV9IFwKICAgIC0tcGFja2FnZSBjb20uYm9zc3poaXBpbi5jbGllbnQgXAogICAgLS1kaXIgc3JjL21haW4vamF2YSBcCiAgICAtLWNscyBOTFVDbGllbnRzCg==</text>
+        <text encoding="base64">ICAgIC8v6K+N5YW45pu/5o2iCg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
