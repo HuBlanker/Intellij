@@ -3,73 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1575293851401" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/rewrite/replace_snippet.txt" timestamp="1575279189461">
+        <mark key="'" line="19" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1575253036220">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="119" column="9" />
         <mark key="." line="293" column="9" />
         <mark key="^" line="293" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" timestamp="1575268102763">
-        <mark key="'" line="306" column="41" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Status.java" timestamp="1575251317607" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1575291758735">
-        <mark key="'" line="80" column="51" />
-        <mark key="[" line="184" column="31" />
-        <mark key="]" line="80" column="51" />
-        <mark key="^" line="80" column="51" />
-        <mark key="." line="80" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/ftjp_test.java" timestamp="1574935176786">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
-        <mark key="^" line="4" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerOldMain.java" timestamp="1575280621223" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1575290572143">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1575254471419">
-        <mark key="'" line="133" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/TextNorm.java" timestamp="1575277730615">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1575253957260">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-        <mark key="." line="45" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1575283253177">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="53" column="20" />
-        <mark key="." line="68" column="11" />
-        <mark key="^" line="68" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1575249864724" />
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" timestamp="1575292874743">
-        <mark key="'" line="114" column="34" />
-        <mark key="[" line="115" column="116" />
-        <mark key="]" line="115" column="117" />
-        <mark key="." line="115" column="117" />
-        <mark key="^" line="115" column="117" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/scripts/crf_trainer.py" timestamp="1575103586314">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/rewrite/replace_snippet.txt" timestamp="1575279189461">
-        <mark key="'" line="19" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/rewrite/replace_whole.txt" timestamp="1575279574085" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordseg/TextAnalyzer.java" timestamp="1575275471632">
         <mark key="[" line="130" column="66" />
         <mark key="]" line="130" column="66" />
@@ -83,6 +25,9 @@
         <mark key="." line="73" column="56" />
         <mark key="^" line="73" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" timestamp="1575268102763">
+        <mark key="'" line="306" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/tag/business_names.txt" timestamp="1575291116987">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="35" column="3" />
@@ -91,7 +36,13 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="38" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1575279924551" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1575291758735">
+        <mark key="'" line="80" column="51" />
+        <mark key="[" line="184" column="31" />
+        <mark key="]" line="80" column="51" />
+        <mark key="^" line="80" column="51" />
+        <mark key="." line="80" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WTInterTag.java" timestamp="1575291043452">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="17" />
@@ -107,17 +58,58 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/push/PushControlFlowMain.java" timestamp="1575344720710">
+        <mark key="'" line="96" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/tools/ftjp_test.java" timestamp="1574935176786">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1575290572143">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1575254471419">
+        <mark key="'" line="133" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUResq.java" timestamp="1575276548688">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="31" column="40" />
         <mark key="." line="31" column="40" />
         <mark key="^" line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/TextNorm.java" timestamp="1575277730615">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" timestamp="1575268683802">
         <mark key="[" line="127" column="22" />
         <mark key="]" line="127" column="59" />
         <mark key="^" line="127" column="59" />
         <mark key="." line="127" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1575253957260">
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1575283253177">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="53" column="20" />
+        <mark key="." line="68" column="11" />
+        <mark key="^" line="68" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" timestamp="1575292874743">
+        <mark key="'" line="114" column="34" />
+        <mark key="[" line="115" column="116" />
+        <mark key="]" line="115" column="117" />
+        <mark key="." line="115" column="117" />
+        <mark key="^" line="115" column="117" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/utils.py" timestamp="1575272512630">
         <mark key="[" line="1121" column="2" />
@@ -137,14 +129,16 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/TFModel.java" timestamp="1575276050514" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/job_core_all.txt" timestamp="1575015805958">
         <mark key="'" line="58" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/business_names" timestamp="1575290316359" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/scripts/crf_trainer.py" timestamp="1575103586314">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="38" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
       <jump line="22207" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
       <jump line="20996" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
@@ -244,6 +238,7 @@
       <jump line="126" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
       <jump line="115" column="13" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
       <jump line="114" column="34" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
+      <jump line="96" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/push/PushControlFlowMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -276,7 +271,7 @@
         <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>user_info.geek_info.info</text>
+        <text>免打扰</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFdUSW50ZXJUYWc+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcXVlcnkubGVuZ3RoKCk7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gaTsgaiA8IHF1ZXJ5Lmxlbmd0aCgpOyBqKyspIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzdWIgPSBxdWVyeS5zdWJzdHJpbmcoaSwgaik7CiAgICAgICAgICAgICAgICByZXQuYWRkQWxsKG1hdGNoRGljdChzdWIsIGkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmV0Owo=</text>
@@ -347,9 +342,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user_info.geek_info.info</last-search>
+      <last-search>免打扰</last-search>
       <last-offset />
-      <last-pattern>user_info.geek_info.info</last-pattern>
+      <last-pattern>免打扰</last-pattern>
       <last-replace>api.FilterField</last-replace>
       <last-substitute>FilterField</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new_inten</entry>
         <entry>item</entry>
         <entry>DT_F</entry>
         <entry>System</entry>
@@ -377,6 +371,7 @@
         <entry>市场</entry>
         <entry>^市</entry>
         <entry>user_info.geek_info.info</entry>
+        <entry>免打扰</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.bp/null/g</entry>
