@@ -15,7 +15,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1575376408673" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1575379245565">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
+        <mark key="^" line="263" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1575369944381">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -52,7 +57,6 @@
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1575355772779" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagRule.java" timestamp="1575369693077">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -88,8 +92,11 @@
         <mark key="[" line="133" column="0" />
         <mark key="]" line="142" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1575376316118">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1575378271050">
         <mark key="[" line="214" column="85" />
+        <mark key="]" line="214" column="48" />
+        <mark key="^" line="214" column="48" />
+        <mark key="." line="214" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" timestamp="1575268683802">
         <mark key="[" line="127" column="22" />
@@ -126,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20996" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
       <jump line="21656" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
       <jump line="9297" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
       <jump line="377" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
@@ -226,10 +232,11 @@
       <jump line="96" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/push/PushControlFlowMain.java" />
       <jump line="405" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" />
       <jump line="55" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="228" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -255,19 +262,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>confPath</text>
+        <text>high</text>
       </register>
       <register name="/" type="4">
         <text>免打扰</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXVEJ1ZmYgYnVmZjEgPSBuZXcgV1RCdWZmKCLljJfkuqzluILlnLrnno7lhpnnmoTkuIDkuKrlhazlj7giLCBuZXcgQXJyYXlMaXN0PD4oKSk7CiAgICAgICAgbXRhZ1J1bGUucHJvY2VzcyhidWZmMSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ1ZmYxLnRhZ1J1bGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbG93ID0gTWF0Y2hlcjIuZGVncmVlKEludGVnZXIucGFyc2VJbnQoZHBhcnRzWzBdKSksIGhpZ2ggPSBNYXRjaGVyMi5kZWdyZWUoSW50ZWdlci5wYXJzZUludChkcGFydHNbMV0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -288,10 +295,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKQogICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb3cgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8g6L+Z6YeM5piO5pi+5piv5pyJ6Zeu6aKY55qELCDkuI3og73lrp7njrAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -305,19 +312,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpCiAgICB7CiAgICAgICAgTVRhZ0RpY3QgbVRhZ0RpY3QgPSBuZXcgTVRhZ0RpY3QoKTsKICAgICAgICBtVGFnRGljdC5sb2FkKG1UYWdEaWN0LmdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgibmx1IikuZ2V0UGF0aCgpICsgIi93b3JkdGFnL3RhZ19kaWN0Iik7CgogICAgICAgIFdUQnVmZiB3dEJ1ZmYgPSBuZXcgV1RCdWZmKCLljJfkuqzluILljJflrrbkuZDnpo/pmL/lupDlj6TmtJ7mma/ljLoiLCBuZXcgQXJyYXlMaXN0PD4oKSk7CiAgICAgICAgbVRhZ0RpY3QucHJvY2Vzcyh3dEJ1ZmYsIE1hdGNoTWV0aG9kLkFMTCk7CgogICAgICAgIGZvciAoV1RJbnRlclRhZyB0YWc6IHd0QnVmZi50YWdEaWNMaXN0KSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0YWcpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBNVGFnUnVsZSBtdGFnUnVsZSA9IG5ldyBNVGFnUnVsZSgpOwogICAgICAgIG10YWdSdWxlLmxvYWQobXRhZ1J1bGUuZ2V0Q2xhc3MoKS5nZXRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlKCJubHUiKS5nZXRQYXRoKCkgKyAiL3RhZyIpOwoKICAgICAgICBXVEJ1ZmYgd3RCdWZmID0gbmV3IFdUQnVmZigi5YyX5Lqs556O5YaZ55qE5LiA5Liq5YWs5Y+4IiwgbmV3IEFycmF5TGlzdDw+KCkpOwogICAgICAgIG10YWdSdWxlLnByb2Nlc3Mod3RCdWZmKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od3RCdWZmLnRhZ1J1bGVMaXN0KTsKCiAgICAgICAgV1RCdWZmIGJ1ZmYxID0gbmV3IFdUQnVmZigi5YyX5Lqs5biC5Zy6556O5YaZ55qE5LiA5Liq5YWs5Y+4IiwgbmV3IEFycmF5TGlzdDw+KCkpOwogICAgICAgIG10YWdSdWxlLnByb2Nlc3MoYnVmZjEpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmMS50YWdSdWxlTGlzdCk7CgogICAgICAgIFdUQnVmZiBidWZmMiA9IG5ldyBXVEJ1ZmYoIueejuWGmeeahOS4gOS4quiBjOS4muaKgOacr+WtpuagoSIsIG5ldyBBcnJheUxpc3Q8PigpKTsKICAgICAgICBtdGFnUnVsZS5wcm9jZXNzKGJ1ZmYyKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnVmZjIudGFnUnVsZUxpc3QpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaGlnaCAhPSAyMDEpIHsgLy8g5LiN6ZmQCg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
