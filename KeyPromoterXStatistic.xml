@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3464</Count>
+          <Count>3474</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1473,6 +1473,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'b_query_more_10_premark'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'b_query_more_10_premark'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'genFastTextSample'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1510,7 +1518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>971</Count>
+          <Count>972</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
