@@ -48,11 +48,6 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/TextNorm.java" timestamp="1575277730615">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1575253957260">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="45" column="28" />
@@ -65,27 +60,23 @@
         <mark key="." line="68" column="11" />
         <mark key="^" line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/grom_brat_to_txt.py" timestamp="1575430606662">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/grom_brat_to_txt.py" timestamp="1575446255506">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
+        <mark key="^" line="63" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" timestamp="1575440131518" />
       <file name="$USER_HOME$/study/huyan-modules/scripts/b_query_more_10_premark.py" timestamp="1575427492799" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1575443254375" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/c/GeekCollector2.java" timestamp="1575431196840" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/scripts/crf_trainer.py" timestamp="1575103586314">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/c/GeekCollector.java" timestamp="1575443215775">
         <mark key="[" line="113" column="65" />
         <mark key="]" line="113" column="85" />
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="/Python Console" timestamp="1575442815010">
+      <file name="/Python Console" timestamp="1575446260350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1575355772779" />
@@ -261,7 +252,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/data/intention/pre_mark/pre_mark.txt</text>
+        <text>$USER_HOME$/data/intention/mark_10000</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -287,7 +278,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/data/intention/pre_mark/pre_mark.txt</text>
+        <text>$USER_HOME$/data/intention/mark_10000</text>
       </register>
       <register name="/" type="4">
         <text>免打扰</text>
