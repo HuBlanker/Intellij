@@ -15,11 +15,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1575379245565">
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-        <mark key="^" line="263" column="44" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1575422600373">
+        <mark key="'" line="234" column="29" />
+        <mark key="[" line="229" column="35" />
+        <mark key="]" line="229" column="65" />
+        <mark key="." line="229" column="65" />
+        <mark key="^" line="229" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1575369944381">
         <mark key="[" line="63" column="0" />
@@ -128,12 +129,17 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1575376135467">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/qb/GFilterBuilderTest.java" timestamp="1575423195191">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+      </file>
+      <file name="/fragment.java" timestamp="1575422604057">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21656" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
       <jump line="9297" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/crf/names" />
       <jump line="377" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="192" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/CompareCrfAndBiLSTMCRF.java" />
@@ -233,10 +239,11 @@
       <jump line="405" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" />
       <jump line="55" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
       <jump line="228" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
+      <jump line="234" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>198</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -262,7 +269,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>high</text>
+        <text>198</text>
       </register>
       <register name="/" type="4">
         <text>免打扰</text>
@@ -295,10 +302,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb3cgPQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oR0ZpbHRlckJ1aWxkZXIuZGVncmVlRmlsdGVyKCIyMDIiLCAiMjAxIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihHRmlsdGVyQnVpbGRlci5kZWdyZWVGaWx0ZXIoIjIwMSIsICIyMDkiKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEdGaWx0ZXJCdWlsZGVyLmRlZ3JlZUZpbHRlcigiMjAxIiwgIjIwOSIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oR0ZpbHRlckJ1aWxkZXIuZGVncmVlRmlsdGVyKCIyMDEiLCAiMjA5IikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8g6L+Z6YeM5piO5pi+5piv5pyJ6Zeu6aKY55qELCDkuI3og73lrp7njrAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -312,19 +319,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">QElnbm9yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB4Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaGlnaCAhPSAyMDEpIHsgLy8g5LiN6ZmQCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
