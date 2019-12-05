@@ -25,6 +25,7 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1575513709250" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1575447934856" />
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_brat_sample.py" timestamp="1575442790253">
         <mark key="[" line="51" column="62" />
@@ -32,11 +33,11 @@
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/grom_brat_to_txt.py" timestamp="1575446255506">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="63" column="36" />
-        <mark key="." line="63" column="36" />
-        <mark key="^" line="63" column="36" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/grom_brat_to_txt.py" timestamp="1575515574825">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="77" column="70" />
+        <mark key="." line="77" column="66" />
+        <mark key="^" line="77" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" timestamp="1575440131518" />
       <file name="$USER_HOME$/study/huyan-modules/scripts/b_query_more_10_premark.py" timestamp="1575427492799" />
@@ -48,11 +49,11 @@
         <mark key="." line="113" column="85" />
         <mark key="^" line="113" column="85" />
       </file>
-      <file name="/Python Console" timestamp="1575446260350">
+      <file name="/Python Console" timestamp="1575515616033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1575355772779" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" timestamp="1575450850062" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" timestamp="1575513555314" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagRule.java" timestamp="1575369693077">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -63,12 +64,19 @@
       <file name="/Dummy.txt" timestamp="1575376135456">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dic.txt" timestamp="1575515522220">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1575425293726">
         <mark key="[" line="214" column="85" />
         <mark key="]" line="214" column="48" />
         <mark key="^" line="214" column="48" />
         <mark key="." line="214" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/cache_dict.txt" timestamp="1575515846263" />
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/334437337/builtins.py" timestamp="1575428257833" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/qb/GFilterBuilderTest.java" timestamp="1575423195191">
         <mark key="[" line="19" column="44" />
@@ -184,7 +192,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/data/intention/mark_10000</text>
+        <text>h[3]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -210,19 +218,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/data/intention/mark_10000</text>
+        <text>h[3]</text>
       </register>
       <register name="/" type="4">
         <text>免打扰</text>
       </register>
       <register name="0" type="4">
-        <text>$USER_HOME$/data/old_data/intention/</text>
+        <text encoding="base64">ICsgInwiICsgaFsxXQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">T1VUX1BVVCA9ICcvVXNlcnMvcGZsaXUvd29ya3NwYWNlL3pwLXNlYXJjaDIvZGF0YS9pbnRlbnRpb24vcHJlX21hcmtfMS50eHQnCg==</text>
+        <text encoding="base64">6Zi/6YeM5be05be0amF2YeW3peeoi+W4iAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5URU5USU9OX1RYVCA9ICcvVXNlcnMvcGZsaXUvd29ya3NwYWNlL3pwLXNlYXJjaDIvZGF0YS9pbnRlbnRpb24vYl9xdWVyeV9pbnRlbnRpb24udHh0Jwo=</text>
+        <text encoding="base64">5Yqe5YWs5a6k5Li75Lu7CeWKnuWFrOWupOS4u+S7u3xKT0J8MHw0Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -243,10 +251,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIiwgKTsK</text>
+        <text encoding="base64">T1VUX1BVVCA9ICcvVXNlcnMvcGZsaXUvd29ya3NwYWNlL3pwLXNlYXJjaDIvZGF0YS9pbnRlbnRpb24vcHJlX21hcmtfMS50eHQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">SU5URU5USU9OX1RYVCA9ICcvVXNlcnMvcGZsaXUvd29ya3NwYWNlL3pwLXNlYXJjaDIvZGF0YS9pbnRlbnRpb24vYl9xdWVyeV9pbnRlbnRpb24udHh0Jwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -260,19 +268,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIiwgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oR0ZpbHRlckJ1aWxkZXIuZGVncmVlRmlsdGVyKCIyMDIiLCAiMjAxIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihHRmlsdGVyQnVpbGRlci5kZWdyZWVGaWx0ZXIoIjIwMSIsICIyMDkiKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEdGaWx0ZXJCdWlsZGVyLmRlZ3JlZUZpbHRlcigiMjAxIiwgIjIwOSIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oR0ZpbHRlckJ1aWxkZXIuZGVncmVlRmlsdGVyKCIyMDEiLCAiMjA5IikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
