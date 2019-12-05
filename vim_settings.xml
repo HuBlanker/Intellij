@@ -44,13 +44,12 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/Accuracy.java" timestamp="1575535407958">
-        <mark key="[" line="19" column="66" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/Accuracy.java" timestamp="1575537662019">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1575527293015">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1575537183622">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="0" />
@@ -109,6 +108,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_2.txt" timestamp="1575534150807" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordseg/TextAnalyzer.java" timestamp="1575357938575">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/exposure_view.py" timestamp="1575272436240">
         <mark key="'" line="4" column="71" />
         <mark key="[" line="73" column="53" />
@@ -150,6 +154,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="60" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlot.java" timestamp="1575367399814">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1575376135456">
         <mark key="[" line="0" column="0" />
@@ -324,8 +333,8 @@
       <jump line="82" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nlu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaW4pIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -351,19 +360,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nlu</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>[0-9]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGRhdGEudGFnTGlzdEZpbmFsLmNsZWFyKCk7CiAgICAgICAgICAgIHRkYXRhLnRhZ0xpc3RGaW5hbC5hZGRBbGwobWFudWFsRGljdC5nZXQocXVlcnkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVTY29yZXMucHV0KGRpY3QudHlwZSwgZGljdC4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaW4pIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8TkxVU2xvdFR5cGUsIEZsb2F0PiB0eXBlU2NvcmVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -384,10 +393,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YWcuc2NvcmUgPSAxLjBmOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbERpY3QucHV0KGVudHJ5LmdldEtleSgpLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tIik7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5KTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tIik7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -401,7 +410,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -418,40 +427,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8TkxVU2xvdFR5cGUsIFN0cmluZz4gY29uZmlnRmlsZXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8TkxVU2xvdFR5cGUsIFNldDxTdHJpbmc+PiBhbGxEaWN0ID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>(
-(
-(
-(
-(
-(
-(
-(
-(
-(
-(
-(
-(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVTY29yZXMucHV0KGRpY3QudHlwZSwgZGljdC4pCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put
-configFiles.put</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8TkxVU2xvdFR5cGUsIEZsb2F0PiB0eXBlU2NvcmVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
