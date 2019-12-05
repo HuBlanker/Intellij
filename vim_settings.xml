@@ -25,11 +25,12 @@
         <mark key="." line="200" column="36" />
         <mark key="^" line="229" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1575527403015">
-        <mark key="[" line="76" column="7" />
-        <mark key="]" line="76" column="13" />
-        <mark key="." line="76" column="13" />
-        <mark key="^" line="76" column="13" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1575528850364">
+        <mark key="'" line="80" column="6" />
+        <mark key="[" line="170" column="21" />
+        <mark key="]" line="170" column="33" />
+        <mark key="." line="170" column="33" />
+        <mark key="^" line="170" column="33" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/b_query_more_10_premark.py" timestamp="1575442529240">
         <mark key="[" line="9" column="11" />
@@ -137,6 +138,12 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="54" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WTInterTag.java" timestamp="1575528687235">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="60" column="34" />
+      </file>
       <file name="/Dummy.txt" timestamp="1575376135456">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,11 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" />
-      <jump line="103" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" />
-      <jump line="54" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/BiLSTMCRFDictory.java" />
-      <jump line="137" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/GenBiLSTMCRFSample.java" />
-      <jump line="1" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/qi/clean/name1.txt" />
       <jump line="150" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="510" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
       <jump line="435" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/qa/QueryAnalyzerMain.java" />
@@ -308,10 +310,15 @@
       <jump line="41" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
       <jump line="43" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
+      <jump line="178" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="179" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="62" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="184" column="65" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="82" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>根据词典生成可能的候选tag</text>
+        <text>type</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -337,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>根据词典生成可能的候选tag</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>[0-9]</text>
@@ -346,10 +353,10 @@
         <text encoding="base64">ICAgICAgICAgICAgdGRhdGEudGFnTGlzdEZpbmFsLmNsZWFyKCk7CiAgICAgICAgICAgIHRkYXRhLnRhZ0xpc3RGaW5hbC5hZGRBbGwobWFudWFsRGljdC5nZXQocXVlcnkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVTY29yZXMucHV0KGRpY3QudHlwZSwgZGljdC4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8TkxVU2xvdFR5cGUsIEZsb2F0PiB0eXBlU2NvcmVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -370,10 +377,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
+        <text encoding="base64">ICAgICAgICB0YWcuc2NvcmUgPSAxLjBmOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGRhdGEudGFnbGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbERpY3QucHV0KGVudHJ5LmdldEtleSgpLCApOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -387,19 +394,57 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGRhdGEudGFnTGlzdEZpbmFsLmFkZEFsbChtYW51YWxEaWN0LmdldChxdWVyeSkpOwo=</text>
+        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8TkxVU2xvdFR5cGUsIFN0cmluZz4gY29uZmlnRmlsZXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChXVEludGVyVGFnIHRhZyA6IG1hbnVhbERpY3QuZ2V0KHF1ZXJ5KSkgewogICAgICAgICAgICAgICAgdGRhdGEudGFnTGlzdEZpbmFsLmFkZCh0YWcpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8TkxVU2xvdFR5cGUsIFNldDxTdHJpbmc+PiBhbGxEaWN0ID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihxdWVyeSk7Cg==</text>
+      <register name="8" type="8">
+        <text>(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpY3QuY29udGFpbnNLZXkocXVlcnkpKSB7Cg==</text>
+      <register name="9" type="8">
+        <text>configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put
+configFiles.put</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
