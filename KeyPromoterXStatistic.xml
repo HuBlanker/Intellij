@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3478</Count>
+          <Count>3479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1383,6 +1383,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'StringSimilarityTest.jaccard'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TagCacheTest.loadTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TagCacheTest.loadTest'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TestMajorTitlePerf'">
