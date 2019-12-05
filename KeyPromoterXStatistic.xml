@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3484</Count>
+          <Count>3488</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'MTagDictTest.processTest'</Description>
-          <Count>3</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MaxWater'">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>973</Count>
+          <Count>979</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1132</Count>
+          <Count>1160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -1967,6 +1967,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MTagDict'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MTagNN'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MTagNN'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MiscHandlerTest'">
@@ -2310,7 +2318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>384</Count>
+          <Count>386</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
