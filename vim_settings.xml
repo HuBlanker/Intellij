@@ -44,6 +44,12 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/Accuracy.java" timestamp="1575535407958">
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1575527293015">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="158" column="0" />
@@ -319,7 +325,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>nlu</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -345,7 +351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>nlu</text>
       </register>
       <register name="/" type="4">
         <text>[0-9]</text>
