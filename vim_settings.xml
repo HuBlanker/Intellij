@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" timestamp="1576652691829">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1159" column="50" />
+        <mark key="]" line="1159" column="50" />
+        <mark key="." line="1159" column="50" />
+        <mark key="^" line="1159" column="42" />
+      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/from_brat_to_txt.py" timestamp="1575629876093">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="44" />
@@ -52,7 +59,12 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="156" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576650606411" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576652239329">
+        <mark key="[" line="144" column="21" />
+        <mark key="]" line="144" column="26" />
+        <mark key="." line="144" column="26" />
+        <mark key="^" line="144" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/grom_brat_to_txt.py" timestamp="1575630124074">
         <mark key="'" line="91" column="22" />
         <mark key="[" line="7" column="0" />
@@ -144,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" />
       <jump line="306" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" />
       <jump line="70" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" />
       <jump line="55" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" />
@@ -244,10 +255,11 @@
       <jump line="84" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
       <jump line="66" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
       <jump line="52" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>呼</text>
+        <text>_</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -273,19 +285,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>呼</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>软件工程</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5LuO57uZ5a6a5a2X56ym5Liy55qEb2Zmc2V05byA5aeLLgogICAgICog5p+l5om+5pyA5aSn5Yy56YWN55qE56ys5LiA5LiqaW505YC8LgogICAgICogQHBhcmFtIHN0ciDnu5nlrprlrZfnrKbkuLIKICAgICAqIEBwYXJhbSBvZmZzZXQg5byA5aeL5p+l5om+55qE5YGP56e76YePCiAgICAgKiBAcmV0dXJuIOesrOS4gOS4quWMuemFjeeahOWtl+espuS4suW+t+acgOWQjuS4gOS4quiKgueCueeahGludOWAvC4KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU0NIT09MOgogICAgICAgICAgICAgICAgICAgIHNsb3ROb3JtLnNjaG9vbE5vcm0oc2xvdC53b3JkLCBzbG90LndvcmROb3JtKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJpZS5mb3J3YXJkTWF4Q3V0KGlucHV0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -306,10 +318,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU0NIT09MOgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -323,7 +335,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgREVHUkVFOgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -340,16 +352,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBUZXJtIHsKCiAgICAgICAgaW50IG9mZnNldDsKICAgICAgICBpbnQgbGVuZ3RoOwogICAgICAgIFN0cmluZyB3b3JkOwoKICAgICAgICBUZXJtKGludCBpZHgsIGludCBsZW4sIFN0cmluZyB0KSB7CiAgICAgICAgICAgIHRoaXMub2Zmc2V0ID0gaWR4OwogICAgICAgICAgICB0aGlzLmxlbmd0aCA9IGxlbjsKICAgICAgICAgICAgdGhpcy53b3JkID0gdDsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgICAgIHJldHVybiAiVGVybXsiICsKICAgICAgICAgICAgICAgICAgICAib2Zmc2V0PSIgKyBvZmZzZXQgKwogICAgICAgICAgICAgICAgICAgICIsIGxlbmd0aD0iICsgbGVuZ3RoICsKICAgICAgICAgICAgICAgICAgICAiLCB3b3JkPSciICsgd29yZCArICdcJycgKwogICAgICAgICAgICAgICAgICAgICd9JzsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE5MVVNsb3Qgc2xvdCA6IHJlc3Euc2xvdExpc3QpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xvdE5vcm0uCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5pyA5aSn5Yy56YWNIOWJquijgS4KICAgICAqIEBwYXJhbSBpbnB1dAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgTGlzdDxUZXJtPiBmb3J3YXJkTWF4Q3V0KFN0cmluZyBpbnB1dCkgewogICAgICAgIExpc3Q8VGVybT4gcmVzdWx0cyA9IG5ldyBBcnJheUxpc3Q8VGVybT4oKTsKCiAgICAgICAgaW50IHN0YXJ0ID0gMDsKCiAgICAgICAgd2hpbGUgKHN0YXJ0IDwgaW5wdXQubGVuZ3RoKCkpIHsKICAgICAgICAgICAgaW50IHNpemUgPSBtYXhNYXRjaChpbnB1dCwgc3RhcnQpOwogICAgICAgICAgICBpbnQgZW5kID0gc3RhcnQgKyBzaXplOwogICAgICAgICAgICByZXN1bHRzLmFkZChuZXcgVGVybShzdGFydCwgc2l6ZSwgaW5wdXQuc3Vic3RyaW5nKHN0YXJ0LCBlbmQpKSk7CgogICAgICAgICAgICBzdGFydCA9IGVuZDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdHM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJpZS5mb3J3YXJkTWF4Q3V0KGlucHV0KSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
