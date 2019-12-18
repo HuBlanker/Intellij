@@ -125,18 +125,24 @@
         <mark key="." line="140" column="0" />
         <mark key="^" line="49" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576632610364" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576637098903" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1575517299673">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="54" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1575617722688">
+        <mark key="'" line="37" column="20" />
+      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/TNode.java" timestamp="1576590463042">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="^" line="114" column="19" />
         <mark key="." line="126" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/push/PushControlFlowMain.java" timestamp="1575344720710">
+        <mark key="'" line="96" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1576634428249">
         <mark key="[" line="0" column="0" />
@@ -147,6 +153,9 @@
         <mark key="]" line="141" column="24" />
         <mark key="." line="141" column="24" />
         <mark key="^" line="82" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" timestamp="1576636427184">
+        <mark key="'" line="52" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dic.txt" timestamp="1575515522220">
         <mark key="[" line="1" column="20" />
@@ -186,9 +195,14 @@
       <file name="/fragment.java" timestamp="1575516543413">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576637337354">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="34" column="51" />
+        <mark key="^" line="34" column="51" />
+        <mark key="." line="34" column="51" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/SearchAnalyzer.java" />
       <jump line="164" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" />
       <jump line="306" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" />
       <jump line="70" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" />
@@ -288,6 +302,7 @@
       <jump line="80" column="50" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
       <jump line="84" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
       <jump line="66" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
+      <jump line="52" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -320,7 +335,7 @@
         <text>呼</text>
       </register>
       <register name="/" type="4">
-        <text>西安电子科技大学</text>
+        <text>软件工程</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog5LuO57uZ5a6a5a2X56ym5Liy55qEb2Zmc2V05byA5aeLLgogICAgICog5p+l5om+5pyA5aSn5Yy56YWN55qE56ys5LiA5LiqaW505YC8LgogICAgICogQHBhcmFtIHN0ciDnu5nlrprlrZfnrKbkuLIKICAgICAqIEBwYXJhbSBvZmZzZXQg5byA5aeL5p+l5om+55qE5YGP56e76YePCiAgICAgKiBAcmV0dXJuIOesrOS4gOS4quWMuemFjeeahOWtl+espuS4suW+t+acgOWQjuS4gOS4quiKgueCueeahGludOWAvC4KICAgICAqLwo=</text>
@@ -403,9 +418,9 @@
       </register>
     </registers>
     <search>
-      <last-search>西安电子科技大学</last-search>
+      <last-search>软件工程</last-search>
       <last-offset />
-      <last-pattern>西安电子科技大学</last-pattern>
+      <last-pattern>软件工程</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recall</entry>
         <entry>seg</entry>
         <entry>中文</entry>
         <entry>get_geek_infos</entry>
@@ -433,6 +447,7 @@
         <entry>term</entry>
         <entry encoding="base64">PEU+</entry>
         <entry>西安电子科技大学</entry>
+        <entry>软件工程</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
