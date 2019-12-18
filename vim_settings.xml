@@ -51,11 +51,11 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1576676187806">
-        <mark key="[" line="34" column="14" />
-        <mark key="]" line="34" column="19" />
-        <mark key="^" line="34" column="19" />
-        <mark key="." line="34" column="19" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1576676848327">
+        <mark key="[" line="105" column="122" />
+        <mark key="]" line="106" column="19" />
+        <mark key="^" line="106" column="19" />
+        <mark key="." line="106" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576660042990">
         <mark key="[" line="48" column="14" />
@@ -241,7 +241,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>nlu_data</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -267,7 +267,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>nlu_data</text>
       </register>
       <register name="/" type="4">
         <text>cnn</text>
