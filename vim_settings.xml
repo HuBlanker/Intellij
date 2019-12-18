@@ -59,11 +59,11 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="156" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576652239329">
-        <mark key="[" line="144" column="21" />
-        <mark key="]" line="144" column="26" />
-        <mark key="." line="144" column="26" />
-        <mark key="^" line="144" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576653465407">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="145" column="19" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/grom_brat_to_txt.py" timestamp="1575630124074">
         <mark key="'" line="91" column="22" />
@@ -258,8 +258,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -285,7 +285,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>软件工程</text>
@@ -297,7 +297,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -318,10 +318,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU0NIT09MOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -335,7 +335,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgREVHUkVFOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -352,22 +352,22 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE5MVVNsb3Qgc2xvdCA6IHJlc3Euc2xvdExpc3QpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xvdE5vcm0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU0NIT09MOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJpZS5mb3J3YXJkTWF4Q3V0KGlucHV0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgREVHUkVFOgo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMvPEU+Ly9n</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -419,10 +419,10 @@
         <entry>W</entry>
         <entry>w</entry>
         <entry>%s/FilterField/api.FilterField/g</entry>
-        <entry>q</entry>
         <entry>:help digraph-table</entry>
         <entry>set invlist</entry>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
