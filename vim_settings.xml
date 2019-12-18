@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1576666548964">
+        <mark key="[" line="172" column="20" />
+        <mark key="]" line="172" column="31" />
+        <mark key="." line="173" column="68" />
+        <mark key="^" line="173" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" timestamp="1576652691829">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1159" column="50" />
@@ -12,6 +18,9 @@
       </file>
       <file name="/a.dummy" timestamp="1575629746394">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/service/QueryAnalyzerMainTest.java" timestamp="1576665825021">
+        <mark key="[" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/big_brand.txt" timestamp="1575623033136">
         <mark key="[" line="999" column="3" />
@@ -25,11 +34,21 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1576666591794">
+        <mark key="[" line="440" column="45" />
+        <mark key="]" line="440" column="45" />
+        <mark key="." line="440" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1576654479840">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1576663293615" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1576666077139">
+        <mark key="[" line="104" column="78" />
+        <mark key="]" line="104" column="78" />
+        <mark key="^" line="104" column="78" />
+        <mark key="." line="104" column="78" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576660042990">
         <mark key="[" line="48" column="14" />
         <mark key="]" line="48" column="18" />
@@ -49,11 +68,11 @@
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576658335513">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="31" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576664707467">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="158" column="13" />
+        <mark key="." line="158" column="13" />
+        <mark key="^" line="158" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1575617722688">
@@ -82,20 +101,20 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" timestamp="1576636427184">
         <mark key="'" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1576662955912">
-        <mark key="[" line="286" column="61" />
-        <mark key="]" line="286" column="70" />
-        <mark key="." line="286" column="70" />
-        <mark key="^" line="286" column="70" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1576667062314">
+        <mark key="[" line="193" column="35" />
+        <mark key="]" line="193" column="36" />
+        <mark key="." line="193" column="36" />
+        <mark key="^" line="180" column="35" />
       </file>
       <file name="/fragment.java" timestamp="1575516543413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576637337354">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576664666951">
         <mark key="[" line="3" column="18" />
-        <mark key="]" line="34" column="51" />
-        <mark key="^" line="34" column="51" />
-        <mark key="." line="34" column="51" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="25" column="51" />
+        <mark key="." line="25" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -201,8 +220,8 @@
       <jump line="33" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>qa.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0xIik7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -228,19 +247,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qa.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
+        <text>&quot;localhost:31214&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>北京大学</text>
+        <text>bind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBocmFzZSBwaHJhc2UgPSBuZXcgUGhyYXNlKHNsb3Qud29yZCwgdHlwZSwgc2xvdC5zY29yZSk7CiAgICAgICAgICAgICAgICByZXQucHV0SWZBYnNlbnQodHlwZSwgbmV3IEFycmF5TGlzdDw+KCkpLmFkZChwaHJhc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0xIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ubHVDbGllbnRzID0gbmV3IE5MVUNsaWVudHMoImxvY2FsaG9zdDozMTIxNCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGhyYXNlIHBocmFzZSA9IG5ldyBQaHJhc2Uoc2xvdC53b3JkLCB0eXBlLCBzbG90LnNjb3JlKTsKICAgICAgICAgICAgcmV0LnB1dElmQWJzZW50KHR5cGUsIG5ldyBBcnJheUxpc3Q8PigpKS5hZGQocGhyYXNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -261,10 +280,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBOTFVTbG90IHNsb3RzID0gbmV3IEEK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -278,7 +297,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwLnF1ZXJ5U2VnID0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -295,16 +314,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBRdWVyeUFuYWx5emVSZXNwIHJlc3AgPSBuZXcgUXVlcnlBbmFseXplUmVzcCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGhyYXNlIHBocmFzZSA9IG5ldyBQaHJhc2Uoc2xvdC53b3JkLCB0eXBlLCBzbG90LnNjb3JlKTsKICAgICAgICAgICAgcmV0LnB1dElmQWJzZW50KHR5cGUsIG5ldyBBcnJheUxpc3Q8PigpKS5hZGQocGhyYXNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBHTDsKICAgICAgICAgICAgY2FzZSBKT0JfTEVWRUw6CiAgICAgICAgICAgICAgICByZXR1cm4gR0w7CiAgICAgICAgICAgIGNhc2UgSk9CX0xFVkVMOgogICAgICAgICAgICAgICAgcmV0dXJuIEdMOwogICAgICAgICAgICBjYXNlIEpPQl9MRVZFTDoKICAgICAgICAgICAgICAgIHJldHVybiBHTDsKICAgICAgICAgICAgY2FzZSBKT0JfTEVWRUw6CiAgICAgICAgICAgICAgICByZXR1cm4gR0w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -314,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>北京大学</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern>北京大学</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>中文</entry>
         <entry>get_geek_infos</entry>
         <entry>gray</entry>
         <entry>python</entry>
@@ -344,6 +362,7 @@
         <entry>西安电子科技大学</entry>
         <entry>软件工程</entry>
         <entry>北京大学</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
