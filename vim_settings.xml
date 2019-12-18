@@ -59,11 +59,11 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="156" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576653465407">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="145" column="19" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576655449861">
+        <mark key="[" line="187" column="23" />
+        <mark key="]" line="187" column="23" />
+        <mark key="." line="187" column="23" />
+        <mark key="^" line="141" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/grom_brat_to_txt.py" timestamp="1575630124074">
         <mark key="'" line="91" column="22" />
@@ -72,7 +72,16 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576635072890" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1576654479840">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576655866009">
+        <mark key="[" line="33" column="58" />
+        <mark key="]" line="33" column="57" />
+        <mark key="^" line="33" column="57" />
+        <mark key="." line="33" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfTokenizer.java" timestamp="1575622863166">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="27" column="5" />
@@ -88,9 +97,10 @@
         <mark key="^" line="129" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_jd.txt" timestamp="1576632831757" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" timestamp="1576635117608">
-        <mark key="'" line="66" column="18" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" timestamp="1576655509055">
+        <mark key="'" line="267" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_com_sims.txt" timestamp="1576653880381" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfDict.java" timestamp="1575539910919">
         <mark key="'" line="165" column="36" />
         <mark key="[" line="175" column="0" />
@@ -156,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" />
       <jump line="70" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" />
       <jump line="55" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" />
       <jump line="78" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/seg/TextAnalyzer.java" />
@@ -256,10 +265,11 @@
       <jump line="66" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
       <jump line="52" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" />
+      <jump line="267" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>logger</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -285,19 +295,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>logger</text>
       </register>
       <register name="/" type="4">
-        <text>软件工程</text>
+        <text>北京大学</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU0NIT09MOgogICAgICAgICAgICAgICAgICAgIHNsb3ROb3JtLnNjaG9vbE5vcm0oc2xvdC53b3JkLCBzbG90LndvcmROb3JtKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHF1ZXJ5TGlzdC5hZGQoImMrKyAgamF2Yeeul+azleW3peeoi+W4iCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsb3Qud29yZE5vcm0gPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -318,10 +328,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgREVHUkVFOgogICAgICAgICAgICAgICAgICAgIHNsb3ROb3JtLmRlZ3JlZU5vcm0oc2xvdC53b3JkLCBzbG90LndvcmROb3JtKTsKICAgICAgICAgICAgICAgICAgICBzdGF0dXMuYWRkTG9nKCJzbG90X25vcm0tPmRlZ3JlZToiICsgc2xvdC53b3JkICsgIi0+IiArIFN0cmluZy5qb2luKCIsIiwgc2xvdC53b3JkTm9ybSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0dXMuYWRkTG9nKCkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -352,16 +362,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbG90Tm9ybS5zY2hvb2xOb3JtKHNsb3Qud29yZCwgc2xvdC53b3JkTm9ybSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU0NIT09MOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgREVHUkVFOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -371,9 +381,9 @@
       </register>
     </registers>
     <search>
-      <last-search>软件工程</last-search>
+      <last-search>北京大学</last-search>
       <last-offset />
-      <last-pattern>软件工程</last-pattern>
+      <last-pattern>北京大学</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seg</entry>
         <entry>中文</entry>
         <entry>get_geek_infos</entry>
         <entry>gray</entry>
@@ -401,6 +410,7 @@
         <entry encoding="base64">PEU+</entry>
         <entry>西安电子科技大学</entry>
         <entry>软件工程</entry>
+        <entry>北京大学</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
