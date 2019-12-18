@@ -17,12 +17,13 @@
         <mark key="[" line="999" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1576632721469" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576663353822">
+      <file name="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" timestamp="1576664353894" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576664515008">
         <mark key="'" line="33" column="36" />
-        <mark key="[" line="129" column="16" />
-        <mark key="]" line="129" column="16" />
-        <mark key="." line="129" column="16" />
-        <mark key="^" line="129" column="16" />
+        <mark key="[" line="141" column="25" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1576654479840">
         <mark key="[" line="62" column="0" />
@@ -43,7 +44,11 @@
         <mark key="'" line="2799" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_com_sims.txt" timestamp="1576653880381" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576638497883" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576664530221">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576658335513">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="51" column="31" />
@@ -197,7 +202,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phrase</text>
+        <text>qa.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -223,7 +228,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>phrase</text>
+        <text>qa.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
       </register>
       <register name="/" type="4">
         <text>北京大学</text>
