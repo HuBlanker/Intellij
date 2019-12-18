@@ -83,6 +83,7 @@
         <mark key="." line="56" column="11" />
         <mark key="^" line="56" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576635072890" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/MTagDictTest.java" timestamp="1575596523155">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="29" column="56" />
@@ -110,6 +111,9 @@
         <mark key="^" line="129" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_jd.txt" timestamp="1576632831757" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" timestamp="1576635117608">
+        <mark key="'" line="66" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfDict.java" timestamp="1575539910919">
         <mark key="'" line="165" column="36" />
         <mark key="[" line="175" column="0" />
@@ -127,9 +131,6 @@
         <mark key="]" line="54" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
-      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1575617722688">
-        <mark key="'" line="37" column="20" />
-      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/TNode.java" timestamp="1576590463042">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="126" column="0" />
@@ -137,10 +138,7 @@
         <mark key="^" line="114" column="19" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/push/PushControlFlowMain.java" timestamp="1575344720710">
-        <mark key="'" line="96" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1575376135456">
+      <file name="/Dummy.txt" timestamp="1576634428249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" timestamp="1576589809337">
@@ -190,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="20" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="440" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/SearchAnalyzer.java" />
       <jump line="164" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" />
       <jump line="306" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/text/StringUtil.java" />
@@ -290,6 +287,7 @@
       <jump line="69" column="33" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
       <jump line="80" column="50" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
       <jump line="84" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
+      <jump line="66" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -322,7 +320,7 @@
         <text>呼</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PEU+</text>
+        <text>西安电子科技大学</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog5LuO57uZ5a6a5a2X56ym5Liy55qEb2Zmc2V05byA5aeLLgogICAgICog5p+l5om+5pyA5aSn5Yy56YWN55qE56ys5LiA5LiqaW505YC8LgogICAgICogQHBhcmFtIHN0ciDnu5nlrprlrZfnrKbkuLIKICAgICAqIEBwYXJhbSBvZmZzZXQg5byA5aeL5p+l5om+55qE5YGP56e76YePCiAgICAgKiBAcmV0dXJuIOesrOS4gOS4quWMuemFjeeahOWtl+espuS4suW+t+acgOWQjuS4gOS4quiKgueCueeahGludOWAvC4KICAgICAqLwo=</text>
@@ -405,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PEU+</last-search>
+      <last-search>西安电子科技大学</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PEU+</last-pattern>
+      <last-pattern>西安电子科技大学</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tensor</entry>
         <entry>recall</entry>
         <entry>seg</entry>
         <entry>中文</entry>
@@ -435,6 +432,7 @@
         <entry>^资深$</entry>
         <entry>term</entry>
         <entry encoding="base64">PEU+</entry>
+        <entry>西安电子科技大学</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
