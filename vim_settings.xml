@@ -132,11 +132,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" timestamp="1576636427184">
         <mark key="'" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1576660830082">
-        <mark key="[" line="278" column="78" />
-        <mark key="]" line="279" column="7" />
-        <mark key="." line="279" column="7" />
-        <mark key="^" line="279" column="7" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1576661622188">
+        <mark key="[" line="299" column="17" />
+        <mark key="]" line="299" column="27" />
+        <mark key="^" line="299" column="27" />
+        <mark key="." line="299" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1575516543413">
         <mark key="[" line="0" column="0" />
@@ -251,8 +251,8 @@
       <jump line="33" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>PERSON_NAME</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -278,13 +278,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filters</text>
+        <text>PERSON_NAME</text>
       </register>
       <register name="/" type="4">
         <text>北京大学</text>
       </register>
-      <register name="0" type="4">
-        <text>北大 北京大学 pku</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBQRVJTT05fTkFNRToKICAgICAgICAgICAgICAgIHJldHVybiBOQU1FOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
