@@ -9,9 +9,6 @@
         <mark key="." line="173" column="68" />
         <mark key="^" line="173" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" timestamp="1576720371688">
-        <mark key="'" line="9298" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" timestamp="1576652691829">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1159" column="50" />
@@ -19,14 +16,16 @@
         <mark key="." line="1159" column="50" />
         <mark key="^" line="1159" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1575629746394">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/big_brand.txt" timestamp="1575623033136">
-        <mark key="[" line="999" column="3" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerHttp.java" timestamp="1576751862528" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/com_name_mapping.txt" timestamp="1576745205692" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1576632721469" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1576675076277" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/famous_company_info.txt" timestamp="1576745674623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" timestamp="1576724262234">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="56" />
@@ -39,12 +38,12 @@
         <mark key="]" line="38654" column="0" />
         <mark key="." line="38654" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576739321461">
-        <mark key="'" line="47" column="25" />
-        <mark key="[" line="176" column="23" />
-        <mark key="]" line="176" column="23" />
-        <mark key="." line="176" column="23" />
-        <mark key="^" line="176" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576749735051">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="187" column="30" />
+        <mark key="]" line="187" column="32" />
+        <mark key="." line="187" column="32" />
+        <mark key="^" line="187" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1576675792885">
         <mark key="[" line="440" column="74" />
@@ -53,30 +52,37 @@
         <mark key="^" line="440" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/TextNorm.java" timestamp="1576724683246">
-        <mark key="[" line="287" column="31" />
-        <mark key="]" line="291" column="17" />
-        <mark key="^" line="291" column="17" />
-        <mark key="." line="291" column="17" />
+        <mark key="]" line="275" column="17" />
+        <mark key="^" line="275" column="17" />
+        <mark key="." line="275" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1576676848327">
-        <mark key="[" line="105" column="122" />
-        <mark key="]" line="106" column="19" />
-        <mark key="^" line="106" column="19" />
-        <mark key="." line="106" column="19" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1576750667874">
+        <mark key="[" line="70" column="84" />
+        <mark key="]" line="70" column="104" />
+        <mark key="." line="70" column="104" />
+        <mark key="^" line="70" column="104" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576660042990">
-        <mark key="[" line="48" column="14" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-        <mark key="^" line="48" column="18" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576752971626">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1576673567381">
-        <mark key="[" line="223" column="65" />
-      </file>
-      <file name="/Python Console" timestamp="1575625779997">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" timestamp="1576748126485">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_jd.txt" timestamp="1576632831757" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/logback.xml" timestamp="1576750105747">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" timestamp="1576748559583">
+        <mark key="'" line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/slot_type.txt" timestamp="1576738434933" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" timestamp="1576739054373">
         <mark key="'" line="17185" column="2" />
@@ -85,11 +91,17 @@
         <mark key="." line="62159" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_com_sims.txt" timestamp="1576653880381" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" timestamp="1576740616295">
-        <mark key="[" line="105" column="55" />
-        <mark key="]" line="105" column="63" />
-        <mark key="." line="105" column="63" />
-        <mark key="^" line="105" column="63" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" timestamp="1576752354025">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" timestamp="1576750965462">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576722172578">
         <mark key="'" line="174" column="11" />
@@ -98,16 +110,13 @@
         <mark key="^" line="173" column="11" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576739155253">
-        <mark key="[" line="155" column="56" />
-        <mark key="]" line="155" column="56" />
-        <mark key="^" line="182" column="15" />
-        <mark key="." line="155" column="56" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576751469185">
+        <mark key="[" line="170" column="30" />
+        <mark key="]" line="170" column="37" />
+        <mark key="^" line="170" column="37" />
+        <mark key="." line="170" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
-      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1575617722688">
-        <mark key="'" line="37" column="20" />
-      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/TNode.java" timestamp="1576590463042">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="126" column="0" />
@@ -115,12 +124,7 @@
         <mark key="^" line="114" column="19" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/push/PushControlFlowMain.java" timestamp="1575344720710">
-        <mark key="'" line="96" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1576634428249">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_sims.txt" timestamp="1576745048538" />
       <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" timestamp="1576589809337">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="141" column="24" />
@@ -128,8 +132,12 @@
         <mark key="." line="141" column="24" />
         <mark key="^" line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" timestamp="1576636427184">
-        <mark key="'" line="52" column="42" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUResq.java" timestamp="1576751371974">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="33" />
+        <mark key="]" line="85" column="27" />
+        <mark key="." line="85" column="27" />
+        <mark key="^" line="85" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_companies.txt" timestamp="1576675364595">
         <mark key="'" line="42" column="9" />
@@ -149,121 +157,117 @@
         <mark key="]" line="38654" column="0" />
         <mark key="." line="38654" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1575516543413">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576738762194">
-        <mark key="[" line="130" column="31" />
-        <mark key="]" line="131" column="11" />
-        <mark key="." line="131" column="11" />
-        <mark key="^" line="131" column="11" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576749610624">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4050" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="4239" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="4240" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="4544" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="4816" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="157" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="31" column="9" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/CSDNTest.java" />
-      <jump line="75" column="29" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/from_brat_to_txt.py" />
-      <jump line="5" column="16" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/from_brat_to_txt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/from_brat_to_txt.py" />
-      <jump line="84" column="22" filename="$USER_HOME$/workspace/zp-search2/scripts/grom_brat_to_txt.py" />
-      <jump line="102" column="4" filename="$USER_HOME$/workspace/zp-modules/zp-lexical/src/main/java/com/zhipin/lexical/tseg/Trie.java" />
-      <jump line="124" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="92" column="20" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/TNode.java" />
-      <jump line="46" column="8" filename="$USER_HOME$/workspace/zp-modules/zp-lexical/src/main/java/com/zhipin/lexical/tseg/TNode.java" />
-      <jump line="8" column="53" filename="$USER_HOME$/workspace/zp-modules/zp-lexical/src/main/java/com/zhipin/lexical/tseg/TNode.java" />
-      <jump line="7" column="21" filename="$USER_HOME$/workspace/zp-modules/zp-lexical/src/main/java/com/zhipin/lexical/tseg/Trie.java" />
-      <jump line="7" column="21" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="255" column="3" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="225" column="26" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="11" column="37" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="81" column="16" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="6" column="12" filename="$USER_HOME$/workspace/zp-modules/zp-lexical/src/main/java/com/zhipin/lexical/tseg/TNode.java" />
-      <jump line="40" column="45" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/TNode.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/TNode.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/TNode.java" />
-      <jump line="147" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="9" column="17" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="77" column="8" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="104" column="8" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="69" column="33" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="80" column="50" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/trie/Trie.java" />
-      <jump line="66" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
-      <jump line="52" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/major_norm.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" />
-      <jump line="267" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
-      <jump line="2799" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
-      <jump line="33" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" />
-      <jump line="42" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_companies.txt" />
-      <jump line="35" column="11" filename="$USER_HOME$/workspace/zp-search2/nlu_data/nlu/wordtag/tag_dict/sure_companies.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_companies.txt" />
-      <jump line="36" column="13" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="163" column="3" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="303" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="630" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="688" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="1258" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="1425" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="1608" column="5" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="2065" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="2378" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="2466" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="2536" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="2701" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="3236" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="3391" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="3849" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="4186" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="4238" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="4596" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="5311" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="5412" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="5473" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="5595" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="5623" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="5945" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="6000" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="6293" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="6411" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="6848" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="7775" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="7969" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="8206" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="8877" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="8943" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="9223" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="9247" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="9298" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
-      <jump line="169" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" />
-      <jump line="123" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="172" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="67" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="70" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="72" column="56" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="47" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" />
-      <jump line="54" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="84" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="216" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="98" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
-      <jump line="37" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="1762" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="1898" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="17163" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="17185" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
+      <jump line="4992" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4982" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4831" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4830" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4829" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4828" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4717" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4716" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4715" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4461" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4460" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4459" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4458" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3694" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3693" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3692" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3691" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3690" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3689" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3688" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3687" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3686" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3685" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3684" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3683" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3682" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3681" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3680" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3679" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3678" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3633" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3632" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3605" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3468" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3381" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3380" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3379" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3378" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3377" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3376" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3375" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3374" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3373" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3372" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3371" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3370" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3369" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3368" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3367" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3366" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3365" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3364" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3363" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3362" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3361" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3348" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5319" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5300" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5279" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5278" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5277" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5276" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5275" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5274" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5273" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5272" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5271" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5270" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5269" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5268" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="14" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="176" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="184" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="10" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3235" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3531" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="3564" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4543" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4544" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4593" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4594" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4597" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4599" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4600" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4604" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4605" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="4895" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5063" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="5263" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="191" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
+      <jump line="30" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
+      <jump line="2779" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
+      <jump line="3031" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" />
+      <jump line="101" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" />
+      <jump line="82" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUResq.java" />
+      <jump line="21" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUResq.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUResq.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGluZm8pOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -289,19 +293,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MAX_FORWARD</text>
+        <text>+ &quot;\n&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>^前端$</text>
+        <text>浙江大学</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJT1V0aWwud3JpdGVMaXN0KGVycm9ycywgb3V0RmlsZSwgIlVURi04Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzLmFkZExvZyhpbmZvICsgIlxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGluZm8pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZG9udCBub3JtCi8vICAgICAgICAgICAgZm9yIChTdHJpbmcgbm9ybXMgOiBzbG90LndvcmROb3JtKSB7Ci8vICAgICAgICAgICAgICAgIFBocmFzZSBwaHJhc2VOb3JtID0gbmV3IFBocmFzZShub3JtcywgdHlwZSwgc2xvdC5zY29yZSk7Ci8vICAgICAgICAgICAgICAgIHJldC5hZGQocGhyYXNlTm9ybSk7Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGluZm8pOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -322,10 +326,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGluZm8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFnLnRhZyA9ICBtZW50aW9uRGljdC5zZWVrVHlwZSh0YWcud29yZCwgcGxhY2VUeXBlTGlzdCwgdGFnLnRhZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGluZm8pOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -339,7 +343,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -356,28 +360,28 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGluZm8gPSAibXRhZ0NSRj0+OiAiICsgdGFnLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIHF1ZXJ5IDogYmF0Y2gpIHsKICAgICAgICAgICAgICAgICAgICBDcmZDbGFzc2lmaWVyLlIgY3JmUmV0ID0gQ3JmQ2xhc3NpZmllci5JTlNUQU5DRS5jbGFzc2lmeShxdWVyeSk7CiAgICAgICAgICAgICAgICAgICAgTGlzdDxQaHJhc2U+IF9vbGQgPSBjcmZSZXQuc2VxOwoKICAgICAgICAgICAgICAgICAgICBOTFVSZXEgcmVxID0gbmV3IE5MVVJlcSgpOwogICAgICAgICAgICAgICAgICAgIE5MVVJlc3EgcmVzcSA9IG5ldyBOTFVSZXNxKCk7CiAgICAgICAgICAgICAgICAgICAgcmVxLnF1ZXJ5ID0gcXVlcnk7CiAgICAgICAgICAgICAgICAgICAgcWEucXVlcnlBbmFseXNpcyhyZXEsIHJlc3EpOwogICAgICAgICAgICAgICAgICAgIExpc3Q8UGhyYXNlPiBfbmV3ID0gdHJhbnNmZXIocmVzcS5zbG90TGlzdCk7CgogICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gc2ltID0gY29tcGFyZShfb2xkLCBfbmV3KTsKICAgICAgICAgICAgICAgICAgICBpZiAoc2ltKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXQuc2ltLmluY3JlbWVudEFuZEdldCgpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBlcnJvckluZm8gPSBxdWVyeSArICJcdCIgKyBfb2xkLnN0cmVhbSgpLm1hcChQaHJhc2U6OnRvU3RyaW5nKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygifCIpKSArICJcdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIF9uZXcuc3RyZWFtKCkubWFwKFBocmFzZTo6dG9TdHJpbmcpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCJ8IikpOwogICAgICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9zLndyaXRlKGVycm9ySW5mby5nZXRCeXRlcyhVVEZfOCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzLmFkZChlcnJvckluZm8pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMuYWRkTG9nKCJhbGxfbWVudGlvbjoiICsgc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2cuZGVidWcoIm10YWdSdWxlPT46ICIgKyB0YWcudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^前端$</last-search>
+      <last-search>浙江大学</last-search>
       <last-offset />
-      <last-pattern>^前端$</last-pattern>
+      <last-pattern>浙江大学</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -385,16 +389,10 @@
     </search>
     <history>
       <history-search>
-        <entry>高中物理老师兼职</entry>
-        <entry>安徽工程</entry>
-        <entry>sims</entry>
-        <entry>资深</entry>
-        <entry>^资深$</entry>
         <entry>term</entry>
         <entry encoding="base64">PEU+</entry>
         <entry>西安电子科技大学</entry>
         <entry>软件工程</entry>
-        <entry>北京大学</entry>
         <entry>bind</entry>
         <entry>dnn</entry>
         <entry>rnn</entry>
@@ -405,6 +403,12 @@
         <entry>高级前端$</entry>
         <entry>前端$</entry>
         <entry>^前端$</entry>
+        <entry>#</entry>
+        <entry>猫眼</entry>
+        <entry>京东集团</entry>
+        <entry>阿里巴巴集团</entry>
+        <entry>北京大学</entry>
+        <entry>浙江大学</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
@@ -421,12 +425,12 @@
         <entry>%s/QueryKind.JOB/QueryKind.J/g</entry>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>%s/FilterField/api.FilterField/g</entry>
         <entry>:help digraph-table</entry>
         <entry>set invlist</entry>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
