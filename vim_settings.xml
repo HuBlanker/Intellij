@@ -9,6 +9,9 @@
         <mark key="." line="173" column="68" />
         <mark key="^" line="173" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" timestamp="1576720371688">
+        <mark key="'" line="9298" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1575629746394">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,10 +38,6 @@
         <mark key="]" line="440" column="74" />
         <mark key="." line="440" column="58" />
         <mark key="^" line="440" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1576654479840">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1576676848327">
         <mark key="[" line="105" column="122" />
@@ -69,10 +68,11 @@
         <mark key="." line="62159" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_com_sims.txt" timestamp="1576653880381" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576719082949">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576720659133">
+        <mark key="[" line="180" column="30" />
+        <mark key="]" line="180" column="28" />
+        <mark key="." line="180" column="28" />
+        <mark key="^" line="180" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576664707467" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
@@ -117,43 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="71" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/exposure_view.py" />
-      <jump line="31" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
-      <jump line="216" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Tool.java" />
-      <jump line="41" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/rewrite/replace_whole.txt" />
-      <jump line="23" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/rewrite/replace_whole.txt" />
-      <jump line="19" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/rewrite/replace_snippet.txt" />
-      <jump line="221" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="35" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/tag/business_names.txt" />
-      <jump line="98" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/tag/business_names.txt" />
-      <jump line="80" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
-      <jump line="115" column="13" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
-      <jump line="114" column="34" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/exposures.html" />
-      <jump line="96" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/push/PushControlFlowMain.java" />
-      <jump line="405" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" />
-      <jump line="55" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="228" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
-      <jump line="234" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
-      <jump line="76" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" />
-      <jump line="34" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
-      <jump line="35" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
-      <jump line="37" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
-      <jump line="40" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
-      <jump line="41" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
-      <jump line="43" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" />
-      <jump line="178" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="179" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="62" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="184" column="65" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="82" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="41" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="165" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfDict.java" />
       <jump line="2491" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/business_names.txt" />
       <jump line="220" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" />
       <jump line="328" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/CharType.java" />
@@ -217,10 +180,47 @@
       <jump line="42" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_companies.txt" />
       <jump line="35" column="11" filename="$USER_HOME$/workspace/zp-search2/nlu_data/nlu/wordtag/tag_dict/sure_companies.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_companies.txt" />
+      <jump line="36" column="13" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="163" column="3" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="303" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="630" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="688" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="1258" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="1425" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="1608" column="5" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="2065" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="2378" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="2466" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="2536" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="2701" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="3236" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="3391" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="3849" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="4186" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="4238" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="4596" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="5311" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="5412" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="5473" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="5595" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="5623" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="5945" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="6000" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="6293" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="6411" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="6848" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="7775" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="7969" column="4" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="8206" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="8877" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="8943" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="9223" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="9247" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
+      <jump line="9298" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5BOwo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -246,10 +246,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nlu_data</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>cnn</text>
+        <text>兼职</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItdGhyZWFkcyIsIHVzYWdlID0gIlRocmlmdCBzZXJ2ZXIgdGhyZWFkcyBjb3VudCIpCiAgICBwcm90ZWN0ZWQgaW50IHRocmVhZHMgPSAxMDsK</text>
@@ -332,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cnn</last-search>
+      <last-search>兼职</last-search>
       <last-offset />
-      <last-pattern>cnn</last-pattern>
+      <last-pattern>兼职</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>市场</entry>
         <entry>^市</entry>
         <entry>user_info.geek_info.info</entry>
         <entry>免打扰</entry>
@@ -362,6 +361,7 @@
         <entry>rnn</entry>
         <entry>crnn</entry>
         <entry>cnn</entry>
+        <entry>兼职</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
