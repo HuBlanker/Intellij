@@ -22,9 +22,6 @@
       <file name="/a.dummy" timestamp="1575629746394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/service/QueryAnalyzerMainTest.java" timestamp="1576665825021">
-        <mark key="[" line="30" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/dict/big_brand.txt" timestamp="1575623033136">
         <mark key="[" line="999" column="3" />
       </file>
@@ -42,11 +39,12 @@
         <mark key="]" line="38654" column="0" />
         <mark key="." line="38654" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576725416188">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576739321461">
         <mark key="'" line="47" column="25" />
-        <mark key="[" line="174" column="23" />
-        <mark key="]" line="174" column="23" />
-        <mark key="." line="174" column="23" />
+        <mark key="[" line="176" column="23" />
+        <mark key="]" line="176" column="23" />
+        <mark key="." line="176" column="23" />
+        <mark key="^" line="176" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1576675792885">
         <mark key="[" line="440" column="74" />
@@ -79,8 +77,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_jd.txt" timestamp="1576632831757" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" timestamp="1575596572884">
-        <mark key="'" line="4816" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/slot_type.txt" timestamp="1576738434933" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" timestamp="1576739054373">
+        <mark key="'" line="17185" column="2" />
         <mark key="[" line="62159" column="0" />
         <mark key="]" line="62159" column="0" />
         <mark key="." line="62159" column="0" />
@@ -99,7 +98,12 @@
         <mark key="^" line="173" column="11" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576727905167" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576739155253">
+        <mark key="[" line="155" column="56" />
+        <mark key="]" line="155" column="56" />
+        <mark key="^" line="182" column="15" />
+        <mark key="." line="155" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1575617722688">
         <mark key="'" line="37" column="20" />
@@ -148,19 +152,14 @@
       <file name="/fragment.java" timestamp="1575516543413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576664666951">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="25" column="51" />
-        <mark key="^" line="25" column="51" />
-        <mark key="." line="25" column="51" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576738762194">
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="131" column="11" />
+        <mark key="." line="131" column="11" />
+        <mark key="^" line="131" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2378" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="2540" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="3326" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="3565" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
-      <jump line="3734" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
       <jump line="4050" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
       <jump line="4239" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
       <jump line="4240" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
@@ -256,10 +255,15 @@
       <jump line="98" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" />
+      <jump line="37" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
+      <jump line="1762" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
+      <jump line="1898" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
+      <jump line="17163" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
+      <jump line="17185" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/sure_job.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>batch</text>
+        <text>MAX_FORWARD</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -285,19 +289,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>batch</text>
+        <text>MAX_FORWARD</text>
       </register>
       <register name="/" type="4">
-        <text>兼职</text>
+        <text>^前端$</text>
       </register>
       <register name="0" type="4">
         <text>errors</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIHF1ZXJ5IDogYmF0Y2gpIHsKICAgICAgICAgICAgICAgICAgICBDcmZDbGFzc2lmaWVyLlIgY3JmUmV0ID0gQ3JmQ2xhc3NpZmllci5JTlNUQU5DRS5jbGFzc2lmeShxdWVyeSk7CiAgICAgICAgICAgICAgICAgICAgTGlzdDxQaHJhc2U+IF9vbGQgPSBjcmZSZXQuc2VxOwoKICAgICAgICAgICAgICAgICAgICBOTFVSZXEgcmVxID0gbmV3IE5MVVJlcSgpOwogICAgICAgICAgICAgICAgICAgIE5MVVJlc3EgcmVzcSA9IG5ldyBOTFVSZXNxKCk7CiAgICAgICAgICAgICAgICAgICAgcmVxLnF1ZXJ5ID0gcXVlcnk7CiAgICAgICAgICAgICAgICAgICAgcWEucXVlcnlBbmFseXNpcyhyZXEsIHJlc3EpOwogICAgICAgICAgICAgICAgICAgIExpc3Q8UGhyYXNlPiBfbmV3ID0gdHJhbnNmZXIocmVzcS5zbG90TGlzdCk7CgogICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gc2ltID0gY29tcGFyZShfb2xkLCBfbmV3KTsKICAgICAgICAgICAgICAgICAgICBpZiAoc2ltKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXQuc2ltLmluY3JlbWVudEFuZEdldCgpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBlcnJvckluZm8gPSBxdWVyeSArICJcdCIgKyBfb2xkLnN0cmVhbSgpLm1hcChQaHJhc2U6OnRvU3RyaW5nKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygifCIpKSArICJcdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIF9uZXcuc3RyZWFtKCkubWFwKFBocmFzZTo6dG9TdHJpbmcpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCJ8IikpOwogICAgICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9zLndyaXRlKGVycm9ySW5mby5nZXRCeXRlcyhVVEZfOCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzLmFkZChlcnJvckluZm8pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFnLnRhZyA9ICBtZW50aW9uRGljdC5zZWVrVHlwZSh0YWcud29yZCwgcGxhY2VUeXBlTGlzdCwgdGFnLnRhZyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -318,10 +322,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlscy53YWl0UG9vbHMocG9vbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -358,10 +362,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBiYXRjaERlYWwoZm9zLCBlcnJvcnMsIGJhdGNoKTsK</text>
+        <text encoding="base64">ICAgICAgICBVdGlscy53YWl0UG9vbHMocG9vbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIHF1ZXJ5IDogYmF0Y2gpIHsKICAgICAgICAgICAgICAgICAgICBDcmZDbGFzc2lmaWVyLlIgY3JmUmV0ID0gQ3JmQ2xhc3NpZmllci5JTlNUQU5DRS5jbGFzc2lmeShxdWVyeSk7CiAgICAgICAgICAgICAgICAgICAgTGlzdDxQaHJhc2U+IF9vbGQgPSBjcmZSZXQuc2VxOwoKICAgICAgICAgICAgICAgICAgICBOTFVSZXEgcmVxID0gbmV3IE5MVVJlcSgpOwogICAgICAgICAgICAgICAgICAgIE5MVVJlc3EgcmVzcSA9IG5ldyBOTFVSZXNxKCk7CiAgICAgICAgICAgICAgICAgICAgcmVxLnF1ZXJ5ID0gcXVlcnk7CiAgICAgICAgICAgICAgICAgICAgcWEucXVlcnlBbmFseXNpcyhyZXEsIHJlc3EpOwogICAgICAgICAgICAgICAgICAgIExpc3Q8UGhyYXNlPiBfbmV3ID0gdHJhbnNmZXIocmVzcS5zbG90TGlzdCk7CgogICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gc2ltID0gY29tcGFyZShfb2xkLCBfbmV3KTsKICAgICAgICAgICAgICAgICAgICBpZiAoc2ltKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXQuc2ltLmluY3JlbWVudEFuZEdldCgpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBlcnJvckluZm8gPSBxdWVyeSArICJcdCIgKyBfb2xkLnN0cmVhbSgpLm1hcChQaHJhc2U6OnRvU3RyaW5nKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygifCIpKSArICJcdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIF9uZXcuc3RyZWFtKCkubWFwKFBocmFzZTo6dG9TdHJpbmcpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCJ8IikpOwogICAgICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9zLndyaXRlKGVycm9ySW5mby5nZXRCeXRlcyhVVEZfOCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzLmFkZChlcnJvckluZm8pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -371,9 +375,9 @@
       </register>
     </registers>
     <search>
-      <last-search>兼职</last-search>
+      <last-search>^前端$</last-search>
       <last-offset />
-      <last-pattern>兼职</last-pattern>
+      <last-pattern>^前端$</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -381,10 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^市</entry>
-        <entry>user_info.geek_info.info</entry>
-        <entry>免打扰</entry>
-        <entry>[0-9]</entry>
         <entry>高中物理老师兼职</entry>
         <entry>安徽工程</entry>
         <entry>sims</entry>
@@ -401,6 +401,10 @@
         <entry>crnn</entry>
         <entry>cnn</entry>
         <entry>兼职</entry>
+        <entry>高级前端</entry>
+        <entry>高级前端$</entry>
+        <entry>前端$</entry>
+        <entry>^前端$</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
