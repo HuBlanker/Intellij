@@ -38,7 +38,7 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1576632721469" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryDictBuild.java" timestamp="1576822306783" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1576826650420">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1576828053367">
         <mark key="'" line="34" column="35" />
         <mark key="[" line="125" column="44" />
         <mark key="]" line="126" column="7" />
@@ -64,12 +64,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_manual_label.py" timestamp="1576810534625" />
       <file name="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" timestamp="1576664353894" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576749735051">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1576827791947">
         <mark key="'" line="29" column="13" />
-        <mark key="[" line="187" column="30" />
-        <mark key="]" line="187" column="32" />
-        <mark key="." line="187" column="32" />
-        <mark key="^" line="187" column="32" />
+        <mark key="[" line="168" column="30" />
+        <mark key="]" line="176" column="25" />
+        <mark key="." line="176" column="25" />
+        <mark key="^" line="176" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1576675792885">
         <mark key="[" line="440" column="74" />
@@ -111,11 +111,19 @@
         <mark key="." line="24" column="47" />
         <mark key="^" line="24" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" timestamp="1576828067299">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="101" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/MTagDictTest.java" timestamp="1575596523155">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="29" column="56" />
         <mark key="^" line="29" column="56" />
         <mark key="." line="29" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfTokenizer.java" timestamp="1575622863166">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/c/GeekCollector.java" timestamp="1575443215775">
         <mark key="[" line="113" column="65" />
@@ -213,11 +221,23 @@
         <mark key="." line="85" column="27" />
         <mark key="^" line="85" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-modules/zp-lexical/src/main/java/com/zhipin/lexical/tseg/Term.java" timestamp="1575646686758">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="29" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1576722086899">
         <mark key="[" line="274" column="0" />
         <mark key="]" line="349" column="5" />
         <mark key="." line="194" column="8" />
         <mark key="^" line="194" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1575365999366">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="142" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/cache_dict.txt" timestamp="1575516481699">
+        <mark key="[" line="19932" column="0" />
+        <mark key="]" line="19932" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/crf/qb/GFilterBuilderTest.java" timestamp="1575423195191">
         <mark key="[" line="19" column="44" />
@@ -332,8 +352,8 @@
       <jump line="33" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2V0PENoYXJhY3Rlcj4gc2VwYXJhdG9ycyA9IG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgnLCcsICfvvIwnLCAnLycsICfjgIEnKSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -365,7 +385,7 @@
         <text>浙江大学</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Z+65LqO6K+N5YW455qE6K+G5YirCiAgICAgKgogICAgICogQHBhcmFtIHRkYXRhCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIHB1YmxpYyBib29sZWFuIHByb2Nlc3NNZW50aW9uKFdUQnVmZiB0ZGF0YSwgTWF0Y2hNZXRob2QgbWV0aG9kKSB7CiAgICAgICAgU3RyaW5nIHF1ZXJ5ID0gdGRhdGEucXVlcnk7CiAgICAgICAgdGRhdGEudGFnRGljTGlzdC5jbGVhcigpOwoKICAgICAgICAvLyDlhajljLnphY3ojrflj5blgJnpgIkKICAgICAgICBMaXN0PFdUSW50ZXJUYWc+IG1hdGNoID0gbWF0Y2gocXVlcnksIG1ldGhvZCk7CiAgICAgICAgaWYgKG1hdGNoICE9IG51bGwgJiYgbWF0Y2guc2l6ZSgpID4gMCkgewogICAgICAgICAgICB0ZGF0YS50YWdEaWNMaXN0LmFkZEFsbChtYXRjaCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU2V0PENoYXJhY3Rlcj4gc2VwYXJhdG9ycyA9IG5ldyBIYXNoU2V0PD4oQXJyYXlzLmFzTGlzdCgnLCcsICfvvIwnLCAnLycsICfjgIEnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyDlhajljLnphY3ojrflj5blgJnpgIkKICAgICAgICBMaXN0PFdUSW50ZXJUYWc+IG1hdGNoID0gbWF0Y2gocXVlcnksIG1ldGhvZCk7CiAgICAgICAgaWYgKG1hdGNoICE9IG51bGwgJiYgbWF0Y2guc2l6ZSgpID4gMCkgewogICAgICAgICAgICB0ZGF0YS50YWdEaWNMaXN0LmFkZEFsbChtYXRjaCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
