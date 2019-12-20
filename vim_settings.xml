@@ -6,6 +6,7 @@
       <file name="/a.dummy" timestamp="1576811768154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Status.java" timestamp="1576832332459" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_manual_label.py" timestamp="1576810534625" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1576830069411">
         <mark key="'" line="50" column="0" />
@@ -59,12 +60,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576831188038">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576832495250">
         <mark key="'" line="53" column="38" />
-        <mark key="[" line="143" column="26" />
-        <mark key="]" line="143" column="33" />
-        <mark key="." line="143" column="33" />
-        <mark key="^" line="143" column="33" />
+        <mark key="[" line="150" column="34" />
+        <mark key="]" line="150" column="37" />
+        <mark key="^" line="150" column="37" />
+        <mark key="." line="150" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
       <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/UnRolling.class" timestamp="1576762493950" />
@@ -147,11 +148,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1576673567381">
         <mark key="[" line="223" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagSplitCache.java" timestamp="1576831019467">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagSplitCache.java" timestamp="1576832218765">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" timestamp="1576748126485">
         <mark key="[" line="191" column="0" />
@@ -314,7 +315,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>processCache</text>
+        <text>cache_split</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -340,19 +341,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>processCache</text>
+        <text>cache_split</text>
       </register>
       <register name="/" type="4">
         <text>北京</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRkYXRhLnRhZ0xpc3RGaW5hbC5hZGRBbGwod3RJbnRlclRhZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzLmFkZExvZygic3RhZ2VzOmNhY2hlX3NwbGl0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGFnU3BsaXRDYWNoZSBDYWNoZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzLmFkZExvZygic3RhZ2VzOmNhY2hlX3NwbGl0Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGFnU3BsaXRDYWNoZSBDYWNoZSA9IAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -376,7 +377,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -390,7 +391,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmbGFnID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -407,19 +408,19 @@
         </keys>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmbGFnID0gZmFsc2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>else {
                 tdata.tagListFinal.clear();
                 return false;
             }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRkYXRhLnRhZ0xpc3RGaW5hbC5jbGVhcigpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRkYXRhLnRhZ0xpc3RGaW5hbC5jbGVhcigpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
