@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3598</Count>
+          <Count>3599</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1561,6 +1561,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'gen_brat_sample'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'gen_brat_sample'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'grom_brat_to_txt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1598,7 +1606,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1019</Count>
+          <Count>1020</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1671,6 +1679,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'TestMajorTitle....main()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'b_query_more_10_prem...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'b_query_more_10_prem...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'function()'">
@@ -2390,7 +2406,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>405</Count>
+          <Count>406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
