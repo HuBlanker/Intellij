@@ -38,12 +38,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1576632721469" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryDictBuild.java" timestamp="1576822306783" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1576825830453">
-        <mark key="'" line="29" column="67" />
-        <mark key="[" line="30" column="96" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="31" column="11" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1576826650420">
+        <mark key="'" line="34" column="35" />
+        <mark key="[" line="125" column="44" />
+        <mark key="]" line="126" column="7" />
+        <mark key="^" line="126" column="7" />
+        <mark key="." line="126" column="7" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/b_query_more_10_premark.py" timestamp="1576813592421">
         <mark key="[" line="7" column="17" />
@@ -141,11 +141,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/slot_type.txt" timestamp="1576738434933" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_com_sims.txt" timestamp="1576653880381" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" timestamp="1576752354025">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" timestamp="1576826016415">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" timestamp="1576758887325">
         <mark key="[" line="84" column="0" />
@@ -166,11 +167,11 @@
         <mark key="^" line="173" column="11" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576824817771">
-        <mark key="[" line="127" column="11" />
-        <mark key="]" line="127" column="17" />
-        <mark key="^" line="127" column="17" />
-        <mark key="." line="127" column="17" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1576826130777">
+        <mark key="[" line="170" column="30" />
+        <mark key="]" line="170" column="30" />
+        <mark key="^" line="170" column="29" />
+        <mark key="." line="170" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_news2.txt" timestamp="1576633820732" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_brat_label.py" timestamp="1576823909001">
@@ -229,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3689" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="3688" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3687" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3686" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3685" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
@@ -329,10 +328,12 @@
       <jump line="56" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryCrfPreMark.java" />
       <jump line="24" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryCrfPreMark.java" />
       <jump line="27" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="308" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="33" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>false</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -358,19 +359,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>浙江大学</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMg5pyA57uI6L6T5Ye657uT5p6c55qE5YmN57yALCDmr5TlpoIgJy90bXAvcXVlcnlfJwogICAgZmluYWxfb3V0ID0gc3lzLmFyZ3ZbNV0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Z+65LqO6K+N5YW455qE6K+G5YirCiAgICAgKgogICAgICogQHBhcmFtIHRkYXRhCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIHB1YmxpYyBib29sZWFuIHByb2Nlc3NNZW50aW9uKFdUQnVmZiB0ZGF0YSwgTWF0Y2hNZXRob2QgbWV0aG9kKSB7CiAgICAgICAgU3RyaW5nIHF1ZXJ5ID0gdGRhdGEucXVlcnk7CiAgICAgICAgdGRhdGEudGFnRGljTGlzdC5jbGVhcigpOwoKICAgICAgICAvLyDlhajljLnphY3ojrflj5blgJnpgIkKICAgICAgICBMaXN0PFdUSW50ZXJUYWc+IG1hdGNoID0gbWF0Y2gocXVlcnksIG1ldGhvZCk7CiAgICAgICAgaWYgKG1hdGNoICE9IG51bGwgJiYgbWF0Y2guc2l6ZSgpID4gMCkgewogICAgICAgICAgICB0ZGF0YS50YWdEaWNMaXN0LmFkZEFsbChtYXRjaCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uemhpcGluLnRvb2xzLnF1ZXJ5d29yZDsKCi8qKgogKiBDcmVhdGVkIGJ5IHBmbGl1IG9uIDIwMTkvMTIvMjAuCiAqLwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlhajljLnphY3ojrflj5blgJnpgIkKICAgICAgICBMaXN0PFdUSW50ZXJUYWc+IG1hdGNoID0gbWF0Y2gocXVlcnksIG1ldGhvZCk7CiAgICAgICAgaWYgKG1hdGNoICE9IG51bGwgJiYgbWF0Y2guc2l6ZSgpID4gMCkgewogICAgICAgICAgICB0ZGF0YS50YWdEaWNMaXN0LmFkZEFsbChtYXRjaCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFF1ZXJ5Q3JmUHJlTWFyayB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZGF0YS50YWdEaWNMaXN0LmNsZWFyKCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -391,10 +392,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBjb2Rpbmc9dXRmLTgKIiIiCuaKiumihOagh+azqOeahOaVsOaNriwg55Sf5oiQYnJhdOagh+azqOW3peWFt+mcgOimgeeahOagvOW8jy4KIiIiCgojIOmihOagh+azqOeahOaVsOaNrgpQUkVfTUFSSyA9ICcvVXNlcnMvcGZsaXUvZGF0YS9vbGRfZGF0YS9pbnRlbnRpb24vcHJlX21hcmtfNV8xMC50eHQnCnRhZ19tYXBwaW5nID0geydDJzogJ0NPTVBBTlknLAogICAgICAgICAgICAgICAnSic6ICdKT0InLAogICAgICAgICAgICAgICAnTkFNRSc6ICdQRVJTT05fTkFNRScsCiAgICAgICAgICAgICAgICdTVFlQRSc6ICdTQ0hPT0xfVFlQRScsCiAgICAgICAgICAgICAgICdTQ0hPT0wnOiAnU0NIT09MJywKICAgICAgICAgICAgICAgJ01BSk9SJzogJ01BSk9SJywKICAgICAgICAgICAgICAgJ0RFR1JFRSc6ICdERUdSRUUnLAogICAgICAgICAgICAgICAnR0wnOiAnR0VFS19MRVZFTCcsCiAgICAgICAgICAgICAgICdHUCc6ICdHRUVLX1BST1AnLAogICAgICAgICAgICAgICAnSU5EJzogJ0lORFVTVFJZJywKICAgICAgICAgICAgICAgJ0NUWVBFJzogJ0NPTVBBTllfVFlQJywKICAgICAgICAgICAgICAgJ0NJVFknOiAnQ0lUWScsCiAgICAgICAgICAgICAgICdESVNUUklDVCc6ICdESVNUUklDVCcsCiAgICAgICAgICAgICAgICdCVVNJTkVTUyc6ICdCVVNJTkVTUycsCiAgICAgICAgICAgICAgICdQTEFDRSc6ICdQTEFDRScsCiAgICAgICAgICAgICAgICdKTCc6ICdKT0JfTEVWRUwnLAogICAgICAgICAgICAgICAnSlAnOiAnSk9CX1BST1AnLAogICAgICAgICAgICAgICAnU1RPUCc6ICdTVE9QJywKICAgICAgICAgICAgICAgJ1NFUEEnOiAnU0VQQScsCiAgICAgICAgICAgICAgIH0KCmFsbF9xdWVyeSA9IFtdCmFsbF9yZXQgPSB7fQpmID0gb3BlbihQUkVfTUFSSykKbGluZXMgPSBmLnJlYWRsaW5lcygpCmZvciBsaW5lIGluIGxpbmVzOgogICAgc3BsaXQgPSBsaW5lLnNwbGl0KCItPiIpCiAgICBhbGxfcXVlcnkuYXBwZW5kKHNwbGl0WzBdKQogICAgYWxsX3JldFtzcGxpdFswXV0gPSBzcGxpdFsxXQoKcHJpbnQoJyAlcyBsaW5lcy4nICUgc3RyKGxlbihsaW5lcykpKQojIOavj+S4gOS4quatpemqpOWGmeWFpeS4gOS4quaWsOeahOacrOaWhy4KZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKGFsbF9xdWVyeSksIDEwKToKICAgIHMgPSAnJwogICAgbyA9IGludChpIC8gMTApICsgMQogICAgaWYgbyA8IDEwOgogICAgICAgIHMgPSAnMDAwJyArIHN0cihvKQogICAgZWxpZiBvIDwgMTAwOgogICAgICAgIHMgPSAnMDAnICsgc3RyKG8pCiAgICBlbGlmIG8gPCAxMDAwOgogICAgICAgIHMgPSAnMCcgKyBzdHIobykKICAgIGVsc2U6CiAgICAgICAgcyA9IHN0cihvKQogICAgb3V0X3R4dCA9IG9wZW4oJy9Vc2Vycy9wZmxpdS9kYXRhL2ludGVudGlvbi9wcmVfbWFya19zcGxpdF8yL2Jvc3NfcXVlcnlfJyArIHMgKyAnLnR4dCcsICd3JykKICAgIG91dF9hbm4gPSBvcGVuKCcvVXNlcnMvcGZsaXUvZGF0YS9pbnRlbnRpb24vcHJlX21hcmtfc3BsaXRfMi9ib3NzX3F1ZXJ5XycgKyBzICsgJy5hbm4nLCAndycpCiAgICBvcCA9ICdcbicKICAgIHBlciA9IGFsbF9xdWVyeVtpOmkgKyAxMF0KICAgIHByaW50KHBlcikKICAgICMg5YaZ5YWldHh05paH5Lu255qE5YaF5a65CiAgICBhID0gb3Auam9pbihwZXIpCiAgICBvdXRfdHh0LndyaXRlKGEubG93ZXIoKSkKCiAgICBjb3VudCA9IDAKICAgIGxlbmd0aCA9IDAKICAgIF9yID0gJycKICAgIGZvciBpIGluIHJhbmdlKGxlbihwZXIpKToKCiAgICAgICAgdGFncyA9IGFsbF9yZXRbcGVyW2ldXS5zcGxpdCgnIDwrPiAnKQogICAgICAgIGZvciB0YWcgaW4gdGFnczoKICAgICAgICAgICAgX2wgPSAnVCcgKyBzdHIoY291bnQgKyAxKSArICdcdCcKICAgICAgICAgICAgdGFnX3NwbGl0ID0gdGFnLnNwbGl0KCIvIikKICAgICAgICAgICAgdHJpbV90YWcyID0gdGFnX3NwbGl0WzFdLnJlcGxhY2UoJ1xuJywgJycpCiAgICAgICAgICAgIGlmIHRyaW1fdGFnMiBub3QgaW4gdGFnX21hcHBpbmcudmFsdWVzKCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBfbCArPSB0cmltX3RhZzIgKyAnICcKICAgICAgICAgICAgZmluZCA9IHBlcltpXS5sb3dlcigpLmZpbmQodGFnX3NwbGl0WzBdKQogICAgICAgICAgICBpZiBmaW5kID09IC0xOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgX2wgKz0gc3RyKGxlbmd0aCArIGZpbmQpICsgJyAnCiAgICAgICAgICAgIF9sICs9IHN0cihsZW5ndGggKyBmaW5kICsgbGVuKHRhZ19zcGxpdFswXSkpICsgJ1x0JwogICAgICAgICAgICBfbCArPSB0YWdfc3BsaXRbMF0gKyAnXG4nCiAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgX3IgKz0gX2wKICAgICAgICAgICAgcHJpbnQoX2wpCiAgICAgICAgbGVuZ3RoICs9IGxlbihwZXJbaV0pICsgMQogICAgb3V0X2Fubi53cml0ZShfcikK</text>
+        <text encoding="base64">cGFja2FnZSBjb20uemhpcGluLnRvb2xzLnF1ZXJ5d29yZDsKCi8qKgogKiBDcmVhdGVkIGJ5IHBmbGl1IG9uIDIwMTkvMTIvMjAuCiAqLwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ08nOiAnT1RIRVInCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFF1ZXJ5Q3JmUHJlTWFyayB7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -408,7 +409,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjb2Rpbmc9dXRmLTgKIiIiCuaKiumihOagh+azqOeahOaVsOaNriwg55Sf5oiQYnJhdOagh+azqOW3peWFt+mcgOimgeeahOagvOW8jy4KIiIiCgojIOmihOagh+azqOeahOaVsOaNrgpQUkVfTUFSSyA9ICcvVXNlcnMvcGZsaXUvZGF0YS9vbGRfZGF0YS9pbnRlbnRpb24vcHJlX21hcmtfNV8xMC50eHQnCnRhZ19tYXBwaW5nID0geydDJzogJ0NPTVBBTlknLAogICAgICAgICAgICAgICAnSic6ICdKT0InLAogICAgICAgICAgICAgICAnTkFNRSc6ICdQRVJTT05fTkFNRScsCiAgICAgICAgICAgICAgICdTVFlQRSc6ICdTQ0hPT0xfVFlQRScsCiAgICAgICAgICAgICAgICdTQ0hPT0wnOiAnU0NIT09MJywKICAgICAgICAgICAgICAgJ01BSk9SJzogJ01BSk9SJywKICAgICAgICAgICAgICAgJ0RFR1JFRSc6ICdERUdSRUUnLAogICAgICAgICAgICAgICAnR0wnOiAnR0VFS19MRVZFTCcsCiAgICAgICAgICAgICAgICdHUCc6ICdHRUVLX1BST1AnLAogICAgICAgICAgICAgICAnSU5EJzogJ0lORFVTVFJZJywKICAgICAgICAgICAgICAgJ0NUWVBFJzogJ0NPTVBBTllfVFlQJywKICAgICAgICAgICAgICAgJ0NJVFknOiAnQ0lUWScsCiAgICAgICAgICAgICAgICdESVNUUklDVCc6ICdESVNUUklDVCcsCiAgICAgICAgICAgICAgICdCVVNJTkVTUyc6ICdCVVNJTkVTUycsCiAgICAgICAgICAgICAgICdQTEFDRSc6ICdQTEFDRScsCiAgICAgICAgICAgICAgICdKTCc6ICdKT0JfTEVWRUwnLAogICAgICAgICAgICAgICAnSlAnOiAnSk9CX1BST1AnLAogICAgICAgICAgICAgICAnU1RPUCc6ICdTVE9QJywKICAgICAgICAgICAgICAgJ1NFUEEnOiAnU0VQQScsCiAgICAgICAgICAgICAgIH0KCmFsbF9xdWVyeSA9IFtdCmFsbF9yZXQgPSB7fQpmID0gb3BlbihQUkVfTUFSSykKbGluZXMgPSBmLnJlYWRsaW5lcygpCmZvciBsaW5lIGluIGxpbmVzOgogICAgc3BsaXQgPSBsaW5lLnNwbGl0KCItPiIpCiAgICBhbGxfcXVlcnkuYXBwZW5kKHNwbGl0WzBdKQogICAgYWxsX3JldFtzcGxpdFswXV0gPSBzcGxpdFsxXQoKcHJpbnQoJyAlcyBsaW5lcy4nICUgc3RyKGxlbihsaW5lcykpKQojIOavj+S4gOS4quatpemqpOWGmeWFpeS4gOS4quaWsOeahOacrOaWhy4KZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKGFsbF9xdWVyeSksIDEwKToKICAgIHMgPSAnJwogICAgbyA9IGludChpIC8gMTApICsgMQogICAgaWYgbyA8IDEwOgogICAgICAgIHMgPSAnMDAwJyArIHN0cihvKQogICAgZWxpZiBvIDwgMTAwOgogICAgICAgIHMgPSAnMDAnICsgc3RyKG8pCiAgICBlbGlmIG8gPCAxMDAwOgogICAgICAgIHMgPSAnMCcgKyBzdHIobykKICAgIGVsc2U6CiAgICAgICAgcyA9IHN0cihvKQogICAgb3V0X3R4dCA9IG9wZW4oJy9Vc2Vycy9wZmxpdS9kYXRhL2ludGVudGlvbi9wcmVfbWFya19zcGxpdF8yL2Jvc3NfcXVlcnlfJyArIHMgKyAnLnR4dCcsICd3JykKICAgIG91dF9hbm4gPSBvcGVuKCcvVXNlcnMvcGZsaXUvZGF0YS9pbnRlbnRpb24vcHJlX21hcmtfc3BsaXRfMi9ib3NzX3F1ZXJ5XycgKyBzICsgJy5hbm4nLCAndycpCiAgICBvcCA9ICdcbicKICAgIHBlciA9IGFsbF9xdWVyeVtpOmkgKyAxMF0KICAgIHByaW50KHBlcikKICAgICMg5YaZ5YWldHh05paH5Lu255qE5YaF5a65CiAgICBhID0gb3Auam9pbihwZXIpCiAgICBvdXRfdHh0LndyaXRlKGEubG93ZXIoKSkKCiAgICBjb3VudCA9IDAKICAgIGxlbmd0aCA9IDAKICAgIF9yID0gJycKICAgIGZvciBpIGluIHJhbmdlKGxlbihwZXIpKToKCiAgICAgICAgdGFncyA9IGFsbF9yZXRbcGVyW2ldXS5zcGxpdCgnIDwrPiAnKQogICAgICAgIGZvciB0YWcgaW4gdGFnczoKICAgICAgICAgICAgX2wgPSAnVCcgKyBzdHIoY291bnQgKyAxKSArICdcdCcKICAgICAgICAgICAgdGFnX3NwbGl0ID0gdGFnLnNwbGl0KCIvIikKICAgICAgICAgICAgdHJpbV90YWcyID0gdGFnX3NwbGl0WzFdLnJlcGxhY2UoJ1xuJywgJycpCiAgICAgICAgICAgIGlmIHRyaW1fdGFnMiBub3QgaW4gdGFnX21hcHBpbmcudmFsdWVzKCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBfbCArPSB0cmltX3RhZzIgKyAnICcKICAgICAgICAgICAgZmluZCA9IHBlcltpXS5sb3dlcigpLmZpbmQodGFnX3NwbGl0WzBdKQogICAgICAgICAgICBpZiBmaW5kID09IC0xOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgX2wgKz0gc3RyKGxlbmd0aCArIGZpbmQpICsgJyAnCiAgICAgICAgICAgIF9sICs9IHN0cihsZW5ndGggKyBmaW5kICsgbGVuKHRhZ19zcGxpdFswXSkpICsgJ1x0JwogICAgICAgICAgICBfbCArPSB0YWdfc3BsaXRbMF0gKyAnXG4nCiAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgX3IgKz0gX2wKICAgICAgICAgICAgcHJpbnQoX2wpCiAgICAgICAgbGVuZ3RoICs9IGxlbihwZXJbaV0pICsgMQogICAgb3V0X2Fubi53cml0ZShfcikK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -425,16 +426,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KDEzMjcgLyAxMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ08nOiAnT1RIRVInCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KDEzMjcgLyAxMCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KDEzMjcgLyAxMCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIHByaW50KDEzMjcgLyAxMCkK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
