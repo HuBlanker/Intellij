@@ -38,7 +38,13 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1576632721469" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryDictBuild.java" timestamp="1576822306783" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1576675076277" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1576825830453">
+        <mark key="'" line="29" column="67" />
+        <mark key="[" line="30" column="96" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/b_query_more_10_premark.py" timestamp="1576813592421">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="74" />
@@ -223,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3690" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3689" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3688" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3687" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
@@ -323,10 +328,11 @@
       <jump line="95" column="1" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryCrfPreMark.java" />
       <jump line="56" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryCrfPreMark.java" />
       <jump line="24" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/queryword/QueryCrfPreMark.java" />
+      <jump line="27" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -352,7 +358,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
       </register>
       <register name="/" type="4">
         <text>浙江大学</text>
