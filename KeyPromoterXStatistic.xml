@@ -2121,6 +2121,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'QueryAnalyzerHttp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QueryAnalyzerHttp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'QueryAnalyzerMain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
