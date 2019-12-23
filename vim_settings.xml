@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/raw_dict_info.py" timestamp="1577072450210" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/raw_dict_info.py" timestamp="1577072811100">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="74" column="62" />
+      </file>
       <file name="/a.dummy" timestamp="1577067229053">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,7 +65,7 @@
         <mark key="." line="24" column="47" />
         <mark key="^" line="24" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1577068614552">
+      <file name="/Python Console" timestamp="1577073223986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_jd.txt" timestamp="1576632831757" />
@@ -72,6 +75,7 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/CITY.txt" timestamp="1577073598796" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_com_sims.txt" timestamp="1576653880381" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/OldNewCompare.java" timestamp="1576758887325">
         <mark key="[" line="84" column="0" />
@@ -206,12 +210,12 @@
         <mark key="^" line="173" column="11" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" timestamp="1577072520225">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-        <mark key="^" line="16" column="4" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" timestamp="1577073581147">
+        <mark key="'" line="58" column="25" />
+        <mark key="[" line="63" column="40" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="40" />
+        <mark key="^" line="51" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_brat_label.py" timestamp="1576823909001">
         <mark key="'" line="0" column="0" />
@@ -237,6 +241,7 @@
         <mark key="." line="141" column="24" />
         <mark key="^" line="82" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/SCHOOL_TYPE.txt" timestamp="1577073734958" />
       <file name="/Class.txt.ft" timestamp="1577067120637">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3683" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="3682" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3681" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3680" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3679" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
@@ -348,10 +351,12 @@
       <jump line="143" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
       <jump line="53" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
       <jump line="33" column="12" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" />
+      <jump line="48" column="11" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" />
+      <jump line="57" column="25" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>main</text>
+        <text encoding="base64">ICsgIlxuIg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -377,19 +382,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text encoding="base64">ICsgIlxuIg==</text>
       </register>
       <register name="/" type="4">
         <text>考古学</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzLmFkZExvZygic3RhZ2VzOmNhY2hlX3NwbGl0Iik7Cg==</text>
+      <register name="0" type="4">
+        <text>+ &quot;/&quot; + name.rsplit(&quot;/&quot;, 1)[-1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZnVsbCA9IHN5cy5hcmd2WzNdCiAgICBmaWxlX3N1YnRhZyA9IHN5cy5hcmd2WzRdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm9vdCwgZGlycywgZmlsZXMgaW4gb3Mud2FsayhmaWxlX2Rpcik6Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -410,10 +415,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdCA9IGRpYy5nZXQod29yZCkKICAgICAgICAgICAgbGlzdC5hcHBlbmQocGFydHNbMV0pCiAgICAgICAgICAgIGRpY1t3b3JkXSA9IGxpc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdFtwYXJ0c1swXV0uYXBwZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -444,17 +449,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGYucmVhZGxpbmVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZtdF9icmF0X2xhYmVsKGlucHV0X2RpciwgdGFnX2ZpbGUpCiAgICB0YWdfbm9ybSh0YWdfZmlsZSwgZmlsZV9mdWxsLCBpc19mdWxsID0gVHJ1ZSkKICAgIHRhZ19ub3JtKHRhZ19maWxlLCBmaWxlX3N1YnRhZywgaXNfZnVsbCA9IEZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if __name__ == '__main__':
-    main()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiMgLSotIGNvZGluZzogdXRmLTggLSotCiMKIyBDb3B5cmlnaHQgKGMpIDIwMTkgYWlib3QubWUsIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCgoiIiIKRmlsZTogMQpBdXRob3I6IGxpdXBhbmZlbmcKRGF0ZTogMjAxOS0xMi0yMwpCcmllZjogCiIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
