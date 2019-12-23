@@ -85,7 +85,7 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="/Python Console" timestamp="1576834897186">
+      <file name="/Python Console" timestamp="1577068614552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/ner_other_jd.txt" timestamp="1576632831757" />
@@ -259,11 +259,12 @@
         <mark key="^" line="173" column="11" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" timestamp="1577067937463">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="31" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" timestamp="1577068938744">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="50" column="17" />
+        <mark key="^" line="50" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_brat_label.py" timestamp="1576823909001">
         <mark key="'" line="0" column="0" />
@@ -300,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3684" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3683" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3682" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3681" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
@@ -400,10 +400,11 @@
       <jump line="119" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" />
       <jump line="143" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
       <jump line="53" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
+      <jump line="33" column="12" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_dict_from_label.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdFtwYXJ0c1swXV0uYXBwZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -429,7 +430,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f =</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>考古学</text>
@@ -438,7 +439,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzLmFkZExvZygic3RhZ2VzOmNhY2hlX3NwbGl0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGljdFtwYXJ0c1swXV0uYXBwZW5kCg==</text>
+        <text encoding="base64">ICAgIGZpbGVfZnVsbCA9IHN5cy5hcmd2WzNdCiAgICBmaWxlX3N1YnRhZyA9IHN5cy5hcmd2WzRdCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -462,10 +463,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGYucmVhZGxpbmVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdCA9IGRpYy5nZXQod29yZCkKICAgICAgICAgICAgbGlzdC5hcHBlbmQocGFydHNbMV0pCiAgICAgICAgICAgIGRpY1t3b3JkXSA9IGxpc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZtdF9icmF0X2xhYmVsKGlucHV0X2RpciwgdGFnX2ZpbGUpCiAgICB0YWdfbm9ybSh0YWdfZmlsZSwgZmlsZV9mdWxsLCBpc19mdWxsID0gVHJ1ZSkKICAgIHRhZ19ub3JtKHRhZ19maWxlLCBmaWxlX3N1YnRhZywgaXNfZnVsbCA9IEZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdFtwYXJ0c1swXV0uYXBwZW5kCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -478,9 +479,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>if __name__ == '__main__':
-    main()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -497,16 +497,17 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiMgLSotIGNvZGluZzogdXRmLTggLSotCiMKIyBDb3B5cmlnaHQgKGMpIDIwMTkgYWlib3QubWUsIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCgoiIiIKRmlsZTogMQpBdXRob3I6IGxpdXBhbmZlbmcKRGF0ZTogMjAxOS0xMi0yMwpCcmllZjogCiIiIgo=</text>
+        <text encoding="base64">ICAgIGYucmVhZGxpbmVzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRpY3RMaXN0LmFkZChuZXcgRGljdChTQ0hPT0wsICIvc3VyZV9zY2hvb2wudHh0IiwxLjBmKSk7Ci8vICAgICAgICBkaWN0TGlzdC5hZGQobmV3IERpY3QoTUFKT1IsICIvc3VyZV9tYWpvci50eHQiLDEuMGYpKTsKLy8KLy8gICAgICAgIGRpY3RMaXN0LmFkZChuZXcgRGljdChDSVRZLCAiL2NpdHlfbmFtZXMudHh0IiwxLjBmKSk7Ci8vICAgICAgICBkaWN0TGlzdC5hZGQobmV3IERpY3QoU0NIT09MX1RZUEUsICIvc2Nob29sX3R5cGVzLnR4dCIsMS4wZikpOwovLwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KENPTVBBTlksICIvc3VyZV9jb21wYW5pZXMudHh0IiwxLjBmKSk7Ci8vICAgICAgICBkaWN0TGlzdC5hZGQobmV3IERpY3QoSk9CLCAiL3N1cmVfam9iLnR4dCIsMS4wZikpOwovLwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KEJVU0lORVNTLCAiL2J1c2luZXNzX25hbWVzLnR4dCIsMS4wZikpOwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KElORFVTVFJZLCAiL2luZHVzdHJ5LnR4dCIsMS4wZikpOwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KEpPQl9MRVZFTCwgIi9qb2JfbGV2ZWwudHh0IiwxLjBmKSk7Ci8vICAgICAgICBkaWN0TGlzdC5hZGQobmV3IERpY3QoQ09NUEFOWV9UWVBFLCAiL2NvbV90eXBlcy50eHQiLDEuMGYpKTsKLy8gICAgICAgIGRpY3RMaXN0LmFkZChuZXcgRGljdChERUdSRUUsICIvZGVncmVlLnR4dCIsMS4wZikpOwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KERJU1RSSUNULCAiL2Rpc3RyaWN0X25hbWVzLnR4dCIsMS4wZikpOwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KEdFRUtfUFJPUCwgIi9nZWVrX3Byb3BlcnR5LnR4dCIsMS4wZikpOwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KEpPQl9QUk9QLCAiL2pvYl9wcm9wZXJ0eS50eHQiLDEuMGYpKTsKLy8gICAgICAgIGRpY3RMaXN0LmFkZChuZXcgRGljdChQRVJTT05fTkFNRSwgIi9wZXJzb25fbmFtZXMudHh0IiwxLjBmKSk7Ci8vICAgICAgICBkaWN0TGlzdC5hZGQobmV3IERpY3QoUExBQ0UsICIvcGxhY2VzLnR4dCIsMS4wZikpOwovLyAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KFNUT1AsICIvc3RvcF93b3Jkcy50eHQiLDEuMGYpKTsKCg==</text>
+        <text encoding="base64">ICAgIGZtdF9icmF0X2xhYmVsKGlucHV0X2RpciwgdGFnX2ZpbGUpCiAgICB0YWdfbm9ybSh0YWdfZmlsZSwgZmlsZV9mdWxsLCBpc19mdWxsID0gVHJ1ZSkKICAgIHRhZ19ub3JtKHRhZ19maWxlLCBmaWxlX3N1YnRhZywgaXNfZnVsbCA9IEZhbHNlKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZAo=</text>
+      <register name="8" type="4">
+        <text>if __name__ == '__main__':
+    main()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiMgLSotIGNvZGluZzogdXRmLTggLSotCiMKIyBDb3B5cmlnaHQgKGMpIDIwMTkgYWlib3QubWUsIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCgoiIiIKRmlsZTogMQpBdXRob3I6IGxpdXBhbmZlbmcKRGF0ZTogMjAxOS0xMi0yMwpCcmllZjogCiIiIgo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
