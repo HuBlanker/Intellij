@@ -169,12 +169,12 @@
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/dict.txt" timestamp="1576833706533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1577086066693">
-        <mark key="'" line="225" column="14" />
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="16" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1577087015473">
+        <mark key="'" line="75" column="31" />
+        <mark key="[" line="305" column="51" />
+        <mark key="]" line="305" column="56" />
+        <mark key="." line="305" column="56" />
+        <mark key="^" line="305" column="56" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/b_query_more_10_premark.py" timestamp="1576813592421">
         <mark key="[" line="7" column="17" />
@@ -250,12 +250,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/slot_type.txt" timestamp="1576738434933" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_low1k_label_full.txt" timestamp="1577066205155" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" timestamp="1577085347093">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagDisam.java" timestamp="1577087695527">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="38" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="38" />
+        <mark key="[" line="85" column="69" />
+        <mark key="]" line="86" column="11" />
+        <mark key="." line="86" column="11" />
+        <mark key="^" line="86" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1576722172578">
         <mark key="'" line="174" column="11" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3379" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3378" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3377" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="3376" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
@@ -407,10 +406,11 @@
       <jump line="34" column="18" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/tmp.py" />
       <jump line="95" column="14" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/cal_cover.py" />
       <jump line="200" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
+      <jump line="75" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LAST_NAME</text>
+        <text encoding="base64">Q29tcGFyaXNvbkNoYWluLnN0YXJ0KCkuY29tcGFyZShuZXcgQ29tcGFyYWJsZTxXVEludGVyVGFnPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIGludCBjb21wYXJlVG8oV1RJbnRlclRhZyBvKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -436,19 +436,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LAST_NAME</text>
+        <text encoding="base64">KCB0MSx0MiktPg==</text>
       </register>
       <register name="/" type="4">
         <text>大屏</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgTWFwPFN0cmluZywgRG91YmxlPiBGSUVMRF9XRUlHSFQgPSBuZXcgSW1tdXRhYmxlTWFwLkJ1aWxkZXI8U3RyaW5nLCBEb3VibGU+KCkKICAgICAgICAgICAgLnB1dChGSVJTVF9OQU1FLCAxLjApCiAgICAgICAgICAgIC5wdXQoTEFTVF9OQU1FLCAxLjApCiAgICAgICAgICAgIC5wdXQoSEVBRF9MSU5FLCA3LjApCiAgICAgICAgICAgIC5wdXQoREVTQ1JJUFRJT04sIDQuMCkKICAgICAgICAgICAgLnB1dChTQ0hPT0wsIDMuMCkKICAgICAgICAgICAgLnB1dChNQUpPUiwgMy4wKQogICAgICAgICAgICAucHV0KFNLSUxMUywgNS4wKQogICAgICAgICAgICAucHV0KFNLSUxMU19OQU1FLCA1LjApCiAgICAgICAgICAgIC5wdXQoQ0lUWSwgMS4wKQogICAgICAgICAgICAucHV0KENPTVBBTlksIDQuMCkKICAgICAgICAgICAgLnB1dChDT01QQU5ZX0ZVTEwsIDQuMCkKICAgICAgICAgICAgLnB1dChDT01QQU5ZX0xBU1QsIDUuMCkKICAgICAgICAgICAgLnB1dChDT01QQU5ZX0xBU1RfRlVMTCwgNS4wKQogICAgICAgICAgICAucHV0KFdPUktfUE9TSVRJT04sIDUuMCkKICAgICAgICAgICAgLnB1dChXT1JLX1BPU0lUSU9OX05BTUUsIDUuMCkKICAgICAgICAgICAgLnB1dChXT1JLX1BPU0lUSU9OX0xBU1QsIDcuMCkKICAgICAgICAgICAgLnB1dChXT1JLX1BPU0lUSU9OX05BTUVfTEFTVCwgNy4wKQogICAgICAgICAgICAucHV0KEVYUEVDVF9QT1NJVElPTiwgMTAuMCkKICAgICAgICAgICAgLnB1dChFWFBFQ1RfUE9TSVRJT05fTkFNRSwgMTAuMCkKICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE5MVVNsb3RUeXBlIHNsb3RUeXBlIDogZGljdHMpIHsKICAgICAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KHNsb3RUeXBlLCAiLyIgKyBzbG90VHlwZS50b1N0cmluZygpICsgIi50eHQiLCAxLjBmKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Q29tcGFyaXNvbkNoYWluLnN0YXJ0KCkuY29tcGFyZShuZXcgQ29tcGFyYWJsZTxXVEludGVyVGFnPigpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIGludCBjb21wYXJlVG8oV1RJbnRlclRhZyBvKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5kaXNhbVNjb3JlID0gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE5MVVNsb3RUeXBlIHNsb3RUeXBlIDogZGljdHMpIHsKICAgICAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KHNsb3RUeXBlLCAiLyIgKyBzbG90VHlwZS50b1N0cmluZygpICsgIi50eHQiLCAxLjBmKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -472,7 +472,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -486,7 +486,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIGNhbERpc2FtU2NvcmUoaW50ICkgewogICAgICAgIAogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljdExpc3QuYWRkKG5ldyBEaWN0KHNsb3RUeXBlLCAiLyIgKyBzbG90VHlwZS50b1N0cmluZygpICsgIi50eHQiLCAxLjBmKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -503,13 +503,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNhbERpc2FtU2NvcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBkb3VibGUgZGlzYW1TY29yZSA9IDAuMDsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRpY3RzLnNpemUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKERJQ1RfV0VJR0hUUy5zaXplKCkpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
