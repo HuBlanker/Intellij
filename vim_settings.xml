@@ -159,11 +159,11 @@
         <mark key="^" line="86" column="132" />
         <mark key="." line="86" column="132" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerHttp.java" timestamp="1577090904242">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerHttp.java" timestamp="1577095578918">
         <mark key="'" line="125" column="35" />
-        <mark key="[" line="127" column="38" />
-        <mark key="]" line="127" column="38" />
-        <mark key="." line="127" column="38" />
+        <mark key="[" line="145" column="25" />
+        <mark key="]" line="145" column="25" />
+        <mark key="." line="145" column="25" />
         <mark key="^" line="125" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/com_name_mapping.txt" timestamp="1576745205692" />
@@ -429,7 +429,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://192.168.81.16/cgi-bin/python_test/test.py?ServiceCode=aaaa</text>
+        <text>qa.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -455,7 +455,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://192.168.81.16/cgi-bin/python_test/test.py?ServiceCode=aaaa</text>
+        <text>qa.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
       </register>
       <register name="/" type="4">
         <text>jobcard</text>
