@@ -15,6 +15,13 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/label_dict/PLACE.txt" timestamp="1577157527441">
         <mark key="'" line="34" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" timestamp="1577170346052">
+        <mark key="'" line="32" column="43" />
+        <mark key="[" line="184" column="21" />
+        <mark key="]" line="184" column="40" />
+        <mark key="." line="184" column="40" />
+        <mark key="^" line="184" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1576830069411">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="158" column="0" />
@@ -49,6 +56,7 @@
         <mark key="." line="24" column="47" />
         <mark key="^" line="24" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AbstractMain.java" timestamp="1577170307684" />
       <file name="/Python Console" timestamp="1577162972677">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,7 +117,12 @@
         <mark key="." line="86" column="27" />
         <mark key="^" line="86" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/boss_query_eval.txt" timestamp="1577168446910" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/boss_query_eval.txt" timestamp="1577169818090">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1576722086899">
         <mark key="[" line="274" column="0" />
         <mark key="]" line="349" column="5" />
@@ -133,11 +146,6 @@
         <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/gen.sh" timestamp="1577090081499" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1576749610624">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/eval/manual.txt" timestamp="1577163590382">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -171,12 +179,12 @@
         <mark key="^" line="86" column="132" />
         <mark key="." line="86" column="132" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerHttp.java" timestamp="1577095578918">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerHttp.java" timestamp="1577170236481">
         <mark key="'" line="125" column="35" />
-        <mark key="[" line="145" column="25" />
-        <mark key="]" line="145" column="25" />
-        <mark key="." line="145" column="25" />
-        <mark key="^" line="125" column="55" />
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/service/QueryAnalyzerMainTest.java" timestamp="1576665825021">
         <mark key="[" line="30" column="28" />
@@ -225,16 +233,14 @@
         <mark key="." line="70" column="104" />
         <mark key="^" line="70" column="104" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/JOB_TYPE.txt" timestamp="1577169804005">
+        <mark key="'" line="45" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/label_dict/CITY.txt" timestamp="1577157518922">
         <mark key="'" line="31" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1576673567381">
         <mark key="[" line="223" column="65" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/BUSINESS.txt" timestamp="1577091452424">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_dict_from_label.py" timestamp="1577081708313">
         <mark key="[" line="69" column="0" />
@@ -297,9 +303,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/label_dict_review/BUSINESS.txt" timestamp="1577091384410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1577093790378">
-        <mark key="'" line="3456" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/SCHOOL_TYPE.txt" timestamp="1577073734958" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1577157601101">
         <mark key="'" line="87" column="21" />
@@ -315,7 +318,8 @@
       <file name="/Class.txt.ft" timestamp="1577067120637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" timestamp="1577066214510">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" timestamp="1577169783997">
+        <mark key="'" line="61776" column="21" />
         <mark key="[" line="61724" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1575516543413">
@@ -323,10 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5279" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="5278" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="5277" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="5276" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="5275" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="5274" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="5273" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
@@ -423,10 +423,14 @@
       <jump line="31" column="2" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/label_dict/CITY.txt" />
       <jump line="34" column="7" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/label_dict/PLACE.txt" />
       <jump line="87" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" />
+      <jump line="61776" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="45" column="2" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/tag_dict/JOB_TYPE.txt" />
+      <jump line="195" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" />
+      <jump line="32" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>run</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -452,19 +456,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJ1x0JyArIHN0cihpdGVtWzFdKQ==</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
-        <text>city</text>
+        <text>用户体验</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgcmFuKHB2X2ZpbGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFdmFsUUEgIGV2YWwgPSBuZXcgRXZhbFFBKCk7CiAgICAgICAgU3RyaW5nIG5sdVBhdGggPSBldmFsLmdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgibmx1IikuZ2V0UGF0aCgpOwoKICAgICAgICBpZiAoIGFyZ3YubGVuZ3RoID09IDEpIHsKICAgICAgICAgICAgbmx1UGF0aCA9IGFyZ3ZbMF07CiAgICAgICAgfQoKICAgICAgICBpZiAoISBldmFsLmxvYWQobmx1UGF0aCkpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCJsb2FkIG5sdSBkaWN0IGVycm9yISIpOwogICAgICAgIH0KCiAgICAgICAgU3RyaW5nIHJpZ2h0RmlsZSA9IG5sdVBhdGggKyAiL2Jvc3NfcXVlcnlfZXZhbC50eHQiOwogICAgICAgIFN0cmluZyBlcnJvckZpbGUgPSAgIi9Vc2Vycy93eS9EZXNrdG9wL2Jvc3NfcXVlcnlfZXJyb3IudHh0IjsKCi8vICAgICAgICBTdHJpbmcgcmlnaHRGaWxlID0gICIvVXNlcnMvd3kvd29ya3NwYWNlL3pwLXNlYXJjaDIvc2NyaXB0cy9ubHVfYnVpbGQvZGF0YXNldC9ib3NzX3F1ZXJ5X3RvcDZ3X2xhYmVsX2Z1bGwudHh0IjsKICAgICAgICBldmFsLnFhRXZhbEFDQyhyaWdodEZpbGUsIGVycm9yRmlsZSk7CgovLyAgICAgICAgZXZhbC5sYW5nUXVlcnk0TGFiZWwoIi4vYm9zc19xdWVyeV8yMDE5X2FsbF9wdi50eHQiLCAiLi9sZWZ0LnR4dCIpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -538,9 +542,9 @@
       </register>
     </registers>
     <search>
-      <last-search>city</last-search>
+      <last-search>用户体验</last-search>
       <last-offset />
-      <last-pattern>city</last-pattern>
+      <last-pattern>用户体验</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -548,7 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>兼职</entry>
         <entry>高级前端</entry>
         <entry>高级前端$</entry>
         <entry>前端$</entry>
@@ -568,6 +571,7 @@
         <entry>jobcard</entry>
         <entry>抚顺</entry>
         <entry>city</entry>
+        <entry>用户体验</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
