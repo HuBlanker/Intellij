@@ -6,10 +6,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_2019_all_pv.txt" timestamp="1576720371688">
         <mark key="'" line="9298" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/raw_dict_info.py" timestamp="1577072811100">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="62" />
-      </file>
       <file name="/a.dummy" timestamp="1577153330072">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,10 +14,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/build_dict.sh" timestamp="1577067382021" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/label_dict/PLACE.txt" timestamp="1577157527441">
         <mark key="'" line="34" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_manual_label.py" timestamp="1577067398404">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="131" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1576830069411">
         <mark key="'" line="50" column="0" />
@@ -43,10 +35,6 @@
         <mark key="." line="440" column="58" />
         <mark key="^" line="440" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/rewrite/NLURewrite.java" timestamp="1576654479840">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="58" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/boss_query_top6w_label_sub.txt" timestamp="1577066542657" />
       <file name="/Python Script.txt.ft" timestamp="1577067141236">
         <mark key="[" line="0" column="0" />
@@ -60,10 +48,6 @@
         <mark key="]" line="24" column="47" />
         <mark key="." line="24" column="47" />
         <mark key="^" line="24" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/wavely/WQueryBuilder.java" timestamp="1577085996312">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="94" column="21" />
       </file>
       <file name="/Python Console" timestamp="1577153713133">
         <mark key="[" line="0" column="0" />
@@ -158,6 +142,12 @@
         <mark key="]" line="172" column="31" />
         <mark key="." line="173" column="68" />
         <mark key="^" line="173" column="68" />
+      </file>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_eval_set.py" timestamp="1577159010211">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="43" column="21" />
+        <mark key="^" line="42" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" timestamp="1576652691829">
         <mark key="'" line="0" column="0" />
@@ -426,7 +416,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>文案(全职)</text>
+        <text>strs</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -452,19 +442,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>文案(全职)</text>
+        <text>strs</text>
       </register>
       <register name="/" type="4">
         <text>city</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHF1ZXJ5TGlzdC5hZGQoIuW5s+WuiSDor4HliLgiKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2luZy5pbmZvKGNvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJzID0gW2l0ZW1bMF0gKyAnXHQnICsgaXRlbVsxXSBmb3IgaXRlbSBpbiB2XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ci5lbmNvZGluZyA9ICd1dGYtOCcK</text>
+        <text encoding="base64">ZGVmIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CgoKcmFuKCkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -485,10 +475,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZi5yZW5kZXIoJ25sdS5odG1sJywgcmVzPXJlcywgcXVlcnk9cXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFzZXQgPSAoKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -502,7 +492,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IHVybGxpYjIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -519,16 +509,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1leHBvc3VyZV9iIiwgdHlwZT1zdHIsIGRlZmF1bHQ9IiIsIGhlbHA9ImV4cG9zdXJlIGRiIGIgc2VydmVyIikK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBvbGQgPSBnc29uLnRvSnNvbihjbGFzc2lmeSk7Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5pbmZvKGNvbnRlbnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ci5lbmNvZGluZyA9ICd1dGYtOCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENyZkNsYXNzaWZpZXIuUiBjbGFzc2lmeSA9IENyZkNsYXNzaWZpZXIuSU5TVEFOQ0UuY2xhc3NpZnkocXVlcnkpOwo=</text>
+        <text encoding="base64">c2VsZi5yZW5kZXIoJ25sdS5odG1sJywgcmVzPXJlcywgcXVlcnk9cXVlcnkpCg==</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
