@@ -90,6 +90,9 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/school_norm.txt" timestamp="1576748559583">
+        <mark key="'" line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfDict.java" timestamp="1575539910919">
         <mark key="'" line="165" column="36" />
         <mark key="[" line="175" column="0" />
@@ -206,6 +209,9 @@
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/dict.txt" timestamp="1576833706533">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" timestamp="1577177974773">
+        <mark key="'" line="63" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" timestamp="1577087015473">
         <mark key="'" line="75" column="31" />
         <mark key="[" line="305" column="51" />
@@ -224,6 +230,9 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" timestamp="1577177842219">
+        <mark key="'" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_brat_sample.py" timestamp="1576823892667">
         <mark key="'" line="64" column="17" />
@@ -327,11 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4597" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="4599" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="4600" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="4604" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
-      <jump line="4605" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="4895" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="5063" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
       <jump line="5263" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" />
@@ -427,6 +431,11 @@
       <jump line="116" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="128" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="179" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="32" column="25" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" />
+      <jump line="23" column="44" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" />
+      <jump line="57" column="34" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" />
+      <jump line="63" column="36" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -459,7 +468,7 @@
         <text>ret</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>add</text>
       </register>
       <register name="0" type="4">
         <text>eval.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
@@ -542,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -552,8 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>高级前端$</entry>
-        <entry>前端$</entry>
         <entry>^前端$</entry>
         <entry>#</entry>
         <entry>猫眼</entry>
@@ -572,6 +579,8 @@
         <entry>city</entry>
         <entry>用户体验</entry>
         <entry>1</entry>
+        <entry>path</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
