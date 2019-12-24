@@ -13,6 +13,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/label_dict/PLACE.txt" timestamp="1577157527441">
         <mark key="'" line="34" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_eval_set.py" timestamp="1577174620349">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="1" />
+        <mark key="." line="47" column="1" />
+        <mark key="^" line="47" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" timestamp="1577171403860">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="189" column="25" />
@@ -136,12 +142,11 @@
         <mark key="^" line="41" column="13" />
         <mark key="." line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1577172894026">
-        <mark key="'" line="179" column="21" />
-        <mark key="[" line="179" column="28" />
-        <mark key="]" line="179" column="29" />
-        <mark key="." line="179" column="29" />
-        <mark key="^" line="179" column="29" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1577174569171">
+        <mark key="'" line="181" column="21" />
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="0" />
+        <mark key="." line="292" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/api_debug_v2.py" timestamp="1577091005879">
         <mark key="[" line="163" column="18" />
@@ -424,7 +429,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiMgLSotIGNvZGluZzogdXRmLTggLSotCiMKIyBDb3B5cmlnaHQgKGMpIDIwMTkgYWlib3QubWUsIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCgoiIiIKRmlsZTogZ2VuX2V2YWxfc2V0LnB5CkF1dGhvcjogbGl1cGFuZmVuZwpEYXRlOiAyMDE5LTEyLTI0CkJyaWVmOiAKIiIiCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -450,7 +455,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ServiceBase</text>
+        <text>phrases</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -459,10 +464,10 @@
         <text>eval.getClass().getClassLoader().getResource(&quot;nlu&quot;).getPath();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCiMgLSotIGNvZGluZzogdXRmLTggLSotCiMKIyBDb3B5cmlnaHQgKGMpIDIwMTkgYWlib3QubWUsIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCgoiIiIKRmlsZTogZ2VuX2V2YWxfc2V0LnB5CkF1dGhvcjogbGl1cGFuZmVuZwpEYXRlOiAyMDE5LTEyLTI0CkJyaWVmOiAKIiIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5TGlzdE11bHRpbWFwCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -483,10 +488,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0LnB1dElmQWJzZW50KHR5cGUsIG5ldyBBcnJheUxpc3Q8PigpKS5hZGQocGhyYXNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItZGF0YSIsIHVzYWdlID0gImRpY3QgYW5kIGxpYiBkYXRhIikKICAgIHByb3RlY3RlZCBTdHJpbmcgZGF0YSA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldC5wdXRJZkFic2VudCh0eXBlLCBuZXcgQXJyYXlMaXN0PD4oKSkuYWRkKHBocmFzZU5vcm0pOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -500,7 +505,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAT3B0aW9uKG5hbWUgPSAiLW5sdV9kYXRhIiwgdXNhZ2UgPSAibmx1IGRpY3RzIGFuZCBtb2RlbHMiKQogICAgcHJpdmF0ZSBTdHJpbmcgbmx1RGF0YSA9ICIiOwoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -517,16 +522,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAT3B0aW9uKG5hbWUgPSAiLW5sdV9kYXRhIiwgdXNhZ2UgPSAibmx1IGRpY3RzIGFuZCBtb2RlbHMiKQogICAgcHJpdmF0ZSBTdHJpbmcgbmx1RGF0YSA9ICIiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItbmx1X2RhdGEiLCB1c2FnZSA9ICJubHUgZGljdHMgYW5kIG1vZGVscyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItbmx1X2RhdGEiLCB1c2FnZSA9ICJubHUgZGljdHMgYW5kIG1vZGVscyIpCiAgICBwcml2YXRlIFN0cmluZyBubHVEYXRhID0gIiI7CgoK</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItZGF0YSIsIHVzYWdlID0gImRpY3QgYW5kIGxpYiBkYXRhIikKICAgIHByb3RlY3RlZCBTdHJpbmcgZGF0YSA9ICIiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItbmx1X2RhdGEiLCB1c2FnZSA9ICJubHUgZGljdHMgYW5kIG1vZGVscyIpCiAgICBwcml2YXRlIFN0cmluZyBubHVEYXRhID0gIiI7Cgo=</text>
+        <text encoding="base64">CiAgICBAT3B0aW9uKG5hbWUgPSAiLW5sdV9kYXRhIiwgdXNhZ2UgPSAibmx1IGRpY3RzIGFuZCBtb2RlbHMiKQogICAgcHJpdmF0ZSBTdHJpbmcgbmx1RGF0YSA9ICIiOwoK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
