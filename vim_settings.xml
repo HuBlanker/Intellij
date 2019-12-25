@@ -85,11 +85,10 @@
         <mark key="." line="66" column="11" />
         <mark key="^" line="66" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1577244315876">
-        <mark key="[" line="141" column="22" />
-        <mark key="]" line="141" column="41" />
-        <mark key="." line="141" column="41" />
-        <mark key="^" line="141" column="41" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1577245322866">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/CharType.java" timestamp="1575597026984">
         <mark key="'" line="344" column="0" />
@@ -163,7 +162,17 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1577244146908" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1577246498148">
+        <mark key="[" line="421" column="0" />
+        <mark key="]" line="421" column="0" />
+        <mark key="." line="421" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1577245446552">
+        <mark key="[" line="80" column="88" />
+        <mark key="]" line="80" column="88" />
+        <mark key="." line="80" column="88" />
+        <mark key="^" line="55" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1576752971626">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="5" />
@@ -300,7 +309,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBxdWVyeeebtOaOpeaYr+S4qmx1Y2VucXVlcnnnmoQK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -326,7 +335,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gson.toJson</text>
+        <text>, req.filters</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -335,10 +344,10 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ3Nvbi50b0pzb24ocmVzcCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBxdWVyeeebtOaOpeaYr+S4qmx1Y2VucXVlcnnnmoQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhyaWZ0IC1nZW4gamF2YSBzY3JpcHRzL21vbWVudC50aHJpZnQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -359,10 +368,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcWlkID0gU3RyaW5nVXRpbC5pc0JsYW5rKHJlcS5xaWQpID8gVXRpbHMuZ2V0VW5pcXVlU2VxSWQoKSA6IHJlcS5xaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBtYW51YWwga3YK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -376,7 +385,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGljdCBzcGxpdCBrdgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -393,16 +402,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItZGVidWciLCB1c2FnZSA9ICJkZWJ1ZyBpbmZvICIpCiAgICBwcm90ZWN0ZWQgaW50IGRlYnVnID0gMDsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmR0YWdDb3JlKHRkYXRhLCBzdGF0dXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBubHVSZXNwLmRlYnVnKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbnRlbnRpb24tZmlsdGVy5pS55YaZCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
