@@ -43,6 +43,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/geek_search_list3.html" timestamp="1577280395146" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy6.java" timestamp="1577257581406" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1577368512111">
+        <mark key="'" line="147" column="7" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1577277542899">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="56" column="21" />
@@ -56,11 +62,14 @@
         <mark key="." line="81" column="62" />
         <mark key="^" line="81" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1577354569093">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/uniform/SlotNorm.java" timestamp="1577368078428">
         <mark key="[" line="56" column="19" />
         <mark key="]" line="56" column="25" />
         <mark key="." line="56" column="25" />
         <mark key="^" line="56" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/Centric.java" timestamp="1577256085590">
+        <mark key="'" line="39" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1577277807333">
         <mark key="[" line="284" column="59" />
@@ -76,15 +85,18 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" timestamp="1577366518907">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="49" />
-        <mark key="." line="22" column="49" />
-        <mark key="^" line="67" column="51" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" timestamp="1577368590168">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="72" column="70" />
+        <mark key="]" line="72" column="71" />
+        <mark key="." line="72" column="71" />
+        <mark key="^" line="39" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AbstractMain.java" timestamp="1577243919447" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy_v3_1.java" timestamp="1577257670745" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" timestamp="1577368661231">
+        <mark key="'" line="27808" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" timestamp="1577353279653" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Tool.java" timestamp="1577354359276">
         <mark key="[" line="66" column="5" />
@@ -94,9 +106,22 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy3.java" timestamp="1577365622185" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfDict.java" timestamp="1577365706242" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordcore/job_core.txt" timestamp="1577368577431">
+        <mark key="'" line="25936" column="6" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/OnePhrase.java" timestamp="1577355009541">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="84" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1577367921261">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WTInterTag.java" timestamp="1577355558784">
         <mark key="[" line="47" column="35" />
@@ -144,38 +169,15 @@
         <mark key="." line="466" column="9" />
         <mark key="^" line="466" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordextend/SlotExtend.java" timestamp="1577366908802">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="28" column="13" />
-        <mark key="^" line="28" column="13" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordextend/SlotExtend.java" timestamp="1577368669917">
+        <mark key="'" line="47" column="68" />
+        <mark key="[" line="47" column="69" />
+        <mark key="]" line="47" column="69" />
+        <mark key="." line="47" column="69" />
+        <mark key="^" line="47" column="68" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="24" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_eval_set.py" />
-      <jump line="13" column="9" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/gen_eval_set.py" />
-      <jump line="56" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="116" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="128" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="179" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="32" column="25" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" />
-      <jump line="23" column="44" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" />
-      <jump line="57" column="34" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" />
-      <jump line="63" column="36" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" />
-      <jump line="38" column="50" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/CRFPPJNI.java" />
-      <jump line="168" column="5" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/native/crfpp/crfpp.h" />
-      <jump line="38" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="40" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="41" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="56" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="58" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="359" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="634" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="931" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="1137" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="1256" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="1297" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
@@ -252,10 +254,34 @@
       <jump line="18" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" />
       <jump line="78" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" />
       <jump line="45" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" />
+      <jump line="127" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" />
+      <jump line="59" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
+      <jump line="26" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="828" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="1059" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="4146" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="6140" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="11159" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="11811" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="12426" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="12785" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="18601" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="102" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordcore/job_core.txt" />
+      <jump line="29579" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="38355" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="38947" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="41890" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="4128" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="15676" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="25936" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordcore/job_core.txt" />
+      <jump line="47" column="68" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordextend/SlotExtend.java" />
+      <jump line="26623" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="26865" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
+      <jump line="27808" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jobMap</text>
+        <text>,</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -281,19 +307,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jobMap</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>List3</text>
+        <text>^c++:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgam9iTWFwID0gRGljdGlvbmFyeS5sb2FkTWFwTGlzdChwYXRoK2pvYkZpbGUsICJcXHMrIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzbG90IGNvcmUKICAgICAgICBzbG90Q29yZS5wcm9jZXNzKHJlc3Euc2xvdExpc3QsIHN0YXR1cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21NYXAgPSBEaWN0aW9uYXJ5LmxvYWRNYXBMaXN0KCJzdXJlX2pvYl9zaW1zLnR4dCIsICJcXHMrIik7Cg==</text>
+        <text encoding="base64">YysrOiBjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEaWN0aW9uYXJ5LmxvYWRNYXBMaXN0KHBhdGgram9iRmlsZSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeUxpc3QuYWRkKCIiKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -314,11 +340,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgam9iTWFwID0gRGljdGlvbmFyeS5sb2FkTWFwTGlzdCgic3VyZV9qb2Jfc2ltcy50eHQiLCAiXFxzKyIpOwogICAgICAgIERpY3Rpb25hcnkubG9hZE1hcExpc3QocGF0aCtqb2JGaWxlLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsb2FkIHdvcmR0YWcKICAgICAgICBTdHJpbmcgd29yZFRhZ1BhdGggPSBjb25mUGF0aCArICIvd29yZHRhZyI7CiAgICAgICAgaWYgKCF3b3JkdGFnT2JqLmxvYWQod29yZFRhZ1BhdGgpKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigibG9hZCB3b3JkdGFnIGRpY3Q9e30gZXJyb3IhIiwgd29yZFRhZ1BhdGgpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="8">
-        <text>Set
-Set</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -331,8 +356,8 @@ Set</text>
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">U2V0PFN0cmluZz4+IGpvYk1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKU2V0PFN0cmluZz4+IGNvbU1hcCA9IG5ldyBIYXNoTWFwPD4oKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -349,16 +374,16 @@ Set</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUb29sLmxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG1wU3RyLnJlcGxhY2VBbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBkYXRhID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIGRhdGEuYWRkQWxsKHRhZ0RpY3QuZGljdExpc3QuZ2V0KHRhZ0RpY3QudHlwZURpY3RNYXAuZ2V0KE5MVVNsb3RUeXBlLkNJVFkpKS5kYXRhKTsKCiAgICAgICAgZGF0YS5hZGRBbGwodGFnRGljdC5kaWN0TGlzdC5nZXQodGFnRGljdC50eXBlRGljdE1hcC5nZXQoTkxVU2xvdFR5cGUuQlVTSU5FU1MpKS5kYXRhKTsKICAgICAgICBkYXRhLmFkZEFsbCh0YWdEaWN0LmRpY3RMaXN0LmdldCh0YWdEaWN0LnR5cGVEaWN0TWFwLmdldChOTFVTbG90VHlwZS5QTEFDRSkpLmRhdGEpOwogICAgICAgIGRhdGEuYWRkQWxsKHRhZ0RpY3QuZGljdExpc3QuZ2V0KHRhZ0RpY3QudHlwZURpY3RNYXAuZ2V0KE5MVVNsb3RUeXBlLkRJU1RSSUNUKSkuZGF0YSk7CiAgICAgICAgaGVhZERpY3QuYnVpbGRTZXQoZGF0YSk7CgogICAgICAgIC8vIOWwvuW3tAogICAgICAgIHRhaWxEaWN0LmJ1aWxkU2V0KFN0cmVhbS5vZihDT01fRU5ERElORykuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTVRhZ0RpY3QgdGFnRGljdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhQRkxJVSkgc2NvcmUg5oyH5a6a5LiA5LiLLgo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -368,9 +393,9 @@ Set</text>
       </register>
     </registers>
     <search>
-      <last-search>List3</last-search>
+      <last-search>^c++:</last-search>
       <last-offset />
-      <last-pattern>List3</last-pattern>
+      <last-pattern>^c++:</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -378,14 +403,6 @@ Set</text>
     </search>
     <history>
       <history-search>
-        <entry>考古学</entry>
-        <entry>优先录取古</entry>
-        <entry>大屏</entry>
-        <entry>gson</entry>
-        <entry>jobcard</entry>
-        <entry>抚顺</entry>
-        <entry>city</entry>
-        <entry>用户体验</entry>
         <entry>1</entry>
         <entry>path</entry>
         <entry>add</entry>
@@ -398,6 +415,14 @@ Set</text>
         <entry>flag</entry>
         <entry>moment</entry>
         <entry>List3</entry>
+        <entry>windows软件开发工程师</entry>
+        <entry>室内设计师助理</entry>
+        <entry>银行运维工程师</entry>
+        <entry>地推负责人</entry>
+        <entry>高中语文助教</entry>
+        <entry>供应链管理专员</entry>
+        <entry>c++</entry>
+        <entry>^c++:</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
