@@ -17,6 +17,11 @@
         <mark key="." line="1159" column="50" />
         <mark key="^" line="1159" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" timestamp="1577355705952">
+        <mark key="'" line="303" column="10" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="177" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SearchKafkaClient.java" timestamp="1577269766382">
         <mark key="[" line="99" column="66" />
         <mark key="]" line="99" column="66" />
@@ -46,12 +51,17 @@
         <mark key="." line="199" column="23" />
         <mark key="^" line="199" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/resume_list_eval.sh" timestamp="1577413553855">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="37" column="39" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="37" column="39" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/resume_list_eval.sh" timestamp="1577415873670">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="44" column="10" />
+        <mark key="]" line="44" column="11" />
+        <mark key="^" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1577413770219">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="58" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchReq.java" timestamp="1577257662769" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/log2db_resume_by_uuid.sh" timestamp="1577325215814" />
@@ -147,12 +157,12 @@
         <mark key="." line="291" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1577345272469" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" timestamp="1577365829534">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="80" column="24" />
-        <mark key="^" line="80" column="24" />
-        <mark key="." line="80" column="24" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" timestamp="1577414139598">
+        <mark key="'" line="310" column="49" />
+        <mark key="[" line="76" column="56" />
+        <mark key="]" line="76" column="69" />
+        <mark key="^" line="76" column="69" />
+        <mark key="." line="76" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/feed_rebuild.sh" timestamp="1577413167363" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" timestamp="1577366810271">
@@ -170,10 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1256" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="1297" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="1389" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="1482" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="1615" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="1726" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="1745" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
@@ -270,10 +276,14 @@
       <jump line="26865" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
       <jump line="27808" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/resume_list_eval.sh" />
+      <jump line="309" column="49" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
+      <jump line="41" column="44" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/resume_list_eval.sh" />
+      <jump line="26" column="18" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/resume_list_eval.sh" />
+      <jump line="30" column="18" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/resume_list_eval.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logs/recall_${DATE}.log</text>
+        <text>num</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -299,16 +309,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logs/recall_${DATE}.log</text>
+        <text>num</text>
       </register>
       <register name="/" type="4">
         <text>^c++:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3AgL2RhdGEvcHJlLW9ubGluZS96cC1yZXN1bWUzL2xvZ3MvcmVjYWxsXyR7REFURX0ubG9nICR7RElSfQo=</text>
+        <text encoding="base64">cmVjYWxsX251bT1gd2MgLWwgcmVjYWxsXyR7REFURX0ubG9nYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVjYWxsX251bT1gd2MgLWwgcmVjYWxsXyR7REFURX0ubG9nYAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -332,10 +342,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWxzZQogICAgbG9nICJvbmxpbmUgbGlzdCBhbHJlYWR5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxzZQogICAgZXhpdCAyCmZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -349,7 +359,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNobW9kICt4IHJ1bgo=</text>
+        <text encoding="base64">I2dldCBsb2dzClNFUlZFUlM9ImJ4di1ib3Nzc2VhcmNoenByZXN1bWUtMDEgYnh2LWJvc3NzZWFyY2h6cHJlc3VtZS0wMiBieHYtYm9zc3NlYXJjaHpwcmVzdW1lLTAzIGJ4LWJvc3NzZWFyY2hkYnMtMDQiClRBUkdFVD0vZGF0YS9zZWFyY2gvenAtcmVzdW1lMgpUQVJHRVRfMjQ1NDY9L2RhdGEvc2VhcmNoL3pwLXJlc3VtZTItMjQ1NDYKCmZvciBzZXJ2ZXIgaW4gJHtTRVJWRVJTfQpkbwogICAgYXBwZW5kX2xvZyAke3NlcnZlcn0gJHtUQVJHRVR9CiAgICBhcHBlbmRfbG9nICR7c2VydmVyfSAke1RBUkdFVF8yNDU0Nn0KZG9uZQpybSAtcmYgdGVtcAoKbG9nICJzdGFydCBleGVjdXRpbmciCgpqYXZhIC1EZmlsZS5lbmNvZGluZz1VVEYtOCBcCiAgICAtY3AgL2RhdGEvb2ZmbGluZS1idWlsZHMvenAtcmVzdW1lMi96cC1zZWFyY2gyLTAuMS1qYXItd2l0aC1kZXBlbmRlbmNpZXMuamFyIFwKICAgIGNvbS56aGlwaW4udG9vbHMuUmVzdW1lTG9nMkRCMiBcCiAgICAtbG9nX2ZpbGUgJHtMT0d9IFwKICAgIC1ieXV1aWRfZmlsZSBieXV1aWQvYnlfdXVpZF8ke0RBVEV9LwoK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -366,13 +376,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZyAicnVucyBkaXIgaXMgbm90IGZvdW5kIgo=</text>
+        <text encoding="base64">TE9HPSJyZWNhbGxfJERBVEUubG9nIgpybSAtcmYgJHtMT0d9CgphcHBlbmRfbG9nKCl7CiAgICBsb2NhbCBzZXJ2ZXI9JDEKICAgIGxvY2FsIHRhcmdldD0kMgoKICAgIGVjaG8gJHtzZXJ2ZXJ9CiAgICBzY3AgLVAgMTMxMjIgJHtzZXJ2ZXJ9OiR7dGFyZ2V0fS9sb2dzLyR7TE9HfSB0ZW1wIHx8CiAgICB7CiAgICAgIGVjaG8gIm5vIGxvZyBhdCAkc2VydmVyLCBza2lwICIKICAgICAgY29udGludWUKICAgIH0KICAgIGNhdCB0ZW1wID4+ICR7TE9HfQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNobW9kICt4IHJ1bgo=</text>
+        <text encoding="base64">amF2YSAtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNwICR7c2NyaXB0X2Rpcn0vcnVucy9mZWVkX3J1bi5zaCBydW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
