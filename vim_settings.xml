@@ -43,11 +43,13 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/templates/geek_search_list3.html" timestamp="1577280395146" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy6.java" timestamp="1577257581406" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1577368512111">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/com_extends.txt" timestamp="1577408689374" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1577408953855">
         <mark key="'" line="147" column="7" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+        <mark key="[" line="199" column="23" />
+        <mark key="]" line="199" column="23" />
+        <mark key="." line="199" column="23" />
+        <mark key="^" line="199" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1577277542899">
         <mark key="'" line="45" column="0" />
@@ -94,7 +96,7 @@
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AbstractMain.java" timestamp="1577243919447" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy_v3_1.java" timestamp="1577257670745" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" timestamp="1577368661231">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" timestamp="1577408949670">
         <mark key="'" line="27808" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/uniform/slot_norm/company_norm.txt" timestamp="1577353279653" />
@@ -281,7 +283,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>物业文员</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -307,7 +309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>物业文员</text>
       </register>
       <register name="/" type="4">
         <text>^c++:</text>
