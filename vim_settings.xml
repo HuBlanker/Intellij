@@ -157,12 +157,12 @@
         <mark key="." line="291" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1577345272469" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" timestamp="1577428047596">
-        <mark key="'" line="217" column="31" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="88" />
-        <mark key="^" line="201" column="43" />
-        <mark key="." line="214" column="43" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" timestamp="1577429506506">
+        <mark key="'" line="241" column="49" />
+        <mark key="[" line="65" column="39" />
+        <mark key="]" line="66" column="11" />
+        <mark key="^" line="66" column="11" />
+        <mark key="." line="66" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/feed_rebuild.sh" timestamp="1577413167363" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" timestamp="1577366810271">
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2224" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="40" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" />
       <jump line="9" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="10" column="13" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/crfpp/Tagger.java" />
@@ -283,10 +282,11 @@
       <jump line="384" column="45" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="307" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="217" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
+      <jump line="237" column="49" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItb25saW5lX2N0cl9maWxlIikKICAgIHB1YmxpYyBTdHJpbmcgY3RyRmlsZSA9ICIvVXNlcnMvcGZsaXUvZGF0YS9iX3NlYXJjaF9ldmFsL29ubGluZV9jdHJfMjAxOS0xMi0yNS50eHQiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/Users/pfliu/data/b_search_eval/pre.txt&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -312,13 +312,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>&quot;/Users/pfliu/data/b_search_eval/pre.txt&quot;</text>
       </register>
       <register name="/" type="4">
         <text>i + 1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItb25saW5lX2N0cl9maWxlIikKICAgIHB1YmxpYyBTdHJpbmcgY3RyRmlsZSA9ICIvVXNlcnMvcGZsaXUvZGF0YS9iX3NlYXJjaF9ldmFsL29ubGluZV9jdHJfMjAxOS0xMi0yNS50eHQiOwo=</text>
+      <register name="0" type="4">
+        <text>$USER_HOME$/data/b_search_eval/pre.txt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cmVjYWxsX251bT1gd2MgLWwgcmVjYWxsXyR7REFURX0ubG9nYAo=</text>
