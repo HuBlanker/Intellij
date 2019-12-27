@@ -140,12 +140,12 @@
         <mark key="^" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1577345272469" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" timestamp="1577443625256">
-        <mark key="'" line="442" column="8" />
-        <mark key="[" line="192" column="19" />
-        <mark key="]" line="192" column="21" />
-        <mark key="^" line="192" column="21" />
-        <mark key="." line="192" column="21" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" timestamp="1577447406692">
+        <mark key="'" line="50" column="48" />
+        <mark key="[" line="304" column="122" />
+        <mark key="]" line="304" column="124" />
+        <mark key="^" line="304" column="124" />
+        <mark key="." line="304" column="124" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy.java" timestamp="1577255564467">
         <mark key="[" line="41" column="9" />
@@ -158,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/Centric.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/company_rank.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/gaojiabao.md" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api_debug_v2/geek_search.py" />
@@ -258,10 +257,11 @@
       <jump line="316" column="53" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="314" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="442" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
+      <jump line="50" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW5pdAogICAgICAgICAgICBEYXRhU291cmNlIGRhdGFTb3VyY2UgPSBVdGlscy5nZXREYXRhU291cmNlKCJzZWFyY2hAcGFzc3dvcmR8amRiYzpteXNxbDovLzE5Mi4xNjguMS4yNTE6MzMyNi9zZWFyY2g/cmV3cml0ZUJhdGNoZWRTdGF0ZW1lbnRzPXRydWUmIik7Ci8vICAgICAgICAgICAgRGF0YVNvdXJjZSBkYXRhU291cmNlID0gVXRpbHMuZ2V0RGF0YVNvdXJjZShzZWFyY2hfb2ZmbGluZSk7CiAgICAgICAgICAgIENvbm5lY3Rpb24gY29uID0gZGF0YVNvdXJjZS5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgICAgIFByZXBhcmVkU3RhdGVtZW50IHBzID0gY29uLnByZXBhcmVTdGF0ZW1lbnQoaW5zZXJ0U3FsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -287,10 +287,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>online_list_${DATE}</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>奔奔科技</text>
+        <text>512</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC1vbmxpbmVfbGlzdF9maWxlIG9ubGluZV9saXN0XyR7REFURX0udHh0IFwK</text>
@@ -373,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>奔奔科技</last-search>
+      <last-search>512</last-search>
       <last-offset />
-      <last-pattern>奔奔科技</last-pattern>
+      <last-pattern>512</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -383,7 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swig</entry>
         <entry>c\t c|STOP</entry>
         <entry>c</entry>
         <entry>^c</entry>
@@ -403,6 +402,7 @@
         <entry>民大</entry>
         <entry>^民大</entry>
         <entry>奔奔科技</entry>
+        <entry>512</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
