@@ -430,7 +430,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3752</Count>
+          <Count>3757</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ResumeSearchLogEval'</Description>
-          <Count>49</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResumeSearchMain'">
@@ -1678,7 +1678,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1145</Count>
+          <Count>1156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1798,6 +1798,14 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'⌃⇧N'</ShortCut>
           <Description>Scratch File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set Value...">
+        <Item>
+          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Set Value...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2302,7 +2310,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ResumeSearchLogEval'</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ResumeSearchMain'">
@@ -2510,7 +2518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>465</Count>
+          <Count>468</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
