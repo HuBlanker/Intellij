@@ -87,12 +87,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" timestamp="1577410564231">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" timestamp="1577410703714">
         <mark key="'" line="35" column="4" />
-        <mark key="[" line="110" column="9" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="109" column="11" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="17" />
+        <mark key="." line="83" column="17" />
+        <mark key="^" line="83" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AbstractMain.java" timestamp="1577243919447" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy_v3_1.java" timestamp="1577257670745" />
@@ -282,8 +282,8 @@
       <jump line="27808" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordextend/job_extends.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAqIOWOu+aOieWJjemdoueahOWfjuW4gizlkI7pnaLnmoRg5pyJ6ZmQ5YWs5Y+4YOetiS4=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -309,7 +309,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null;</text>
+        <text encoding="base64">ICAgICAqIOWOu+aOieWJjemdoueahOWfjuW4gizlkI7pnaLnmoRg5pyJ6ZmQ5YWs5Y+4YOetiS4=</text>
       </register>
       <register name="/" type="4">
         <text>^c++:</text>
