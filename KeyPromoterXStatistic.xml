@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3803</Count>
+          <Count>3806</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -502,7 +502,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -518,7 +518,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>20</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -543,6 +543,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Module 'data-common'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'huyan-modules'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild Module 'huyan-modules'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'zp-client'">
@@ -2407,6 +2415,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'StringSimilarityTest.jaccard'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SuffixArrayTest.perf'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SuffixArrayTest.perf'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestMajorTitlePerf'">
