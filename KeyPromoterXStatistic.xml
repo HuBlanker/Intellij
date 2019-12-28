@@ -1121,6 +1121,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MTagCutRule'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MTagCutRule'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MTagDict'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1694,7 +1702,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1171</Count>
+          <Count>1172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2129,6 +2137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MTagCutRule'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MTagCutRule'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MTagDict'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2542,7 +2558,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>474</Count>
+          <Count>475</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
