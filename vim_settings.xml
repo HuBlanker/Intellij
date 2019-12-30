@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/gaojiabao.md" timestamp="1577259427350">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/tensorflow/libtensorflow/1.15.0/libtensorflow-1.15.0.jar!/org/tensorflow/NativeLibrary.class" timestamp="1577689940107" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SearchKafkaClient.java" timestamp="1577443278061">
         <mark key="[" line="3" column="66" />
         <mark key="]" line="3" column="66" />
@@ -21,7 +25,10 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1577500611349" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1577689421983" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/company_rank.txt" timestamp="1577258015223">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" timestamp="1577518071148">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="189" column="25" />
@@ -106,7 +113,10 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1577500677437">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/school_same_meaning.txt" timestamp="1577438309051">
+        <mark key="'" line="146" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1577689357681">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="50" />
         <mark key="." line="33" column="50" />
@@ -130,6 +140,9 @@
         <mark key="]" line="170" column="46" />
         <mark key="." line="170" column="0" />
       </file>
+      <file name="$USER_HOME$/study/someprogram/common-util/src/main/java/com/huyan/StringSimilarity.java" timestamp="1577349617514">
+        <mark key="'" line="152" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WTInterTag.java" timestamp="1577526101543">
         <mark key="[" line="69" column="32" />
         <mark key="]" line="69" column="43" />
@@ -142,6 +155,9 @@
         <mark key="]" line="133" column="144" />
         <mark key="." line="142" column="5" />
         <mark key="^" line="142" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1577690113886">
+        <mark key="'" line="47" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCutRule.java" timestamp="1577677239997">
         <mark key="'" line="92" column="35" />
@@ -178,6 +194,9 @@
         <mark key="^" line="38" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/boss_query_eval.txt" timestamp="1577518093525" />
+      <file name="$USER_HOME$/workspace/zp-search2/nlu_data/nlu/wordtag/cache/manual_dict.txt" timestamp="1577523904406">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1577676851701">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="148" column="20" />
@@ -195,11 +214,6 @@
         <mark key="." line="67" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/resume_search_query_uv.sh" timestamp="1577671918667" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/cache_dict.txt" timestamp="1577670455328">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/sa/SuffixArrayTest.java" timestamp="1577521970730">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="20" column="0" />
@@ -238,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="106" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="53" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" />
@@ -338,6 +350,8 @@
       <jump line="18" column="36" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/gen_brat_label.py" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCutRule.java" />
       <jump line="79" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCutRule.java" />
+      <jump line="42" column="33" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
+      <jump line="47" column="24" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -370,7 +384,7 @@
         <text>1-34kjava</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text>tensor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcnVsZVBhdGggPSBjb25mUGF0aCArICIvdGFnX3J1bGUiOwogICAgICAgIGlmICghbWVudGlvblJ1bGUubG9hZChydWxlUGF0aCkpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCJsb2FkIHJ1bGUgZGljdD17fSBlcnJvciEiLCBydWxlUGF0aCk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
@@ -453,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search>tensor</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern>tensor</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -463,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>地推负责人</entry>
         <entry>高中语文助教</entry>
         <entry>供应链管理专员</entry>
         <entry>c++</entry>
@@ -483,6 +496,7 @@
         <entry>4j</entry>
         <entry>guvaa</entry>
         <entry>guava</entry>
+        <entry>tensor</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
