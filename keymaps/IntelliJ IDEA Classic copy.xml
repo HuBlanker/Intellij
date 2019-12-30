@@ -1,0 +1,18 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+</keymap>
