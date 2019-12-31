@@ -353,8 +353,8 @@
         <mark key="." line="41" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/TFModel.java" timestamp="1577688196746" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" timestamp="1577764551556">
-        <mark key="'" line="33114" column="12" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" timestamp="1577774982967">
+        <mark key="'" line="2470" column="8" />
         <mark key="[" line="33177" column="8" />
         <mark key="]" line="33177" column="15" />
         <mark key="." line="33177" column="15" />
@@ -365,15 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="319" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="146" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_same_meaning.txt" />
-      <jump line="307" column="53" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="53" column="58" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="315" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="316" column="53" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="314" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
-      <jump line="442" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="50" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="557" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
@@ -465,6 +456,15 @@
       <jump line="63174" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="32" column="43" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/cal_cover.py" />
       <jump line="33114" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="13" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="49" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="55220" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="52" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="54425" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="5633" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="54422" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="63097" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
+      <jump line="2470" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -497,7 +497,7 @@
         <text>dep bash</text>
       </register>
       <register name="/" type="4">
-        <text>回龙观</text>
+        <text>整形外科</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciBfLCBfLCBmaWxlcyBpbiBvcy53YWxrKGRpY3RfcGF0aCk6CiAgICAgICAgZm9yIGZpbGUgaW4gZmlsZXM6CiAgICAgICAgICAgIGZvciBsaW5lIGluIG9wZW4oZGljdF9wYXRoICsgIi8iICsgZmlsZSk6CiAgICAgICAgICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICAgICAgICAgICAgICBrZXlfc2V0LmFkZChsaW5lKQo=</text>
@@ -580,9 +580,9 @@
       </register>
     </registers>
     <search>
-      <last-search>回龙观</last-search>
+      <last-search>整形外科</last-search>
       <last-offset />
-      <last-pattern>回龙观</last-pattern>
+      <last-pattern>整形外科</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">PEU+</last-substitute>
       <last-dir>1</last-dir>
@@ -590,8 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>4j</entry>
-        <entry>guvaa</entry>
         <entry>guava</entry>
         <entry>tensor</entry>
         <entry>lib</entry>
@@ -610,6 +608,8 @@
         <entry encoding="base64">XDxxdWVyeUZpbGVcPg==</entry>
         <entry>教育培训市场推广</entry>
         <entry>回龙观</entry>
+        <entry>macos</entry>
+        <entry>整形外科</entry>
       </history-search>
       <history-cmd>
         <entry>%s/PredictMain.//g</entry>
