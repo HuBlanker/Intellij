@@ -322,19 +322,18 @@
         <mark key="." line="41" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/TFModel.java" timestamp="1577688196746" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" timestamp="1577764060829">
-        <mark key="'" line="63174" column="20" />
-        <mark key="[" line="29685" column="8" />
-        <mark key="]" line="29685" column="18" />
-        <mark key="." line="29685" column="18" />
-        <mark key="^" line="29685" column="18" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" timestamp="1577764551556">
+        <mark key="'" line="33114" column="12" />
+        <mark key="[" line="33177" column="8" />
+        <mark key="]" line="33177" column="15" />
+        <mark key="." line="33177" column="15" />
+        <mark key="^" line="33177" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1577697249028">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="248" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="319" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeSearchLogEval.java" />
       <jump line="146" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/school_same_meaning.txt" />
@@ -434,10 +433,11 @@
       <jump line="20" column="7" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/dataset/eval/manual_label.txt" />
       <jump line="63174" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="32" column="43" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/cal_cover.py" />
+      <jump line="33114" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INDUSTRY</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -463,7 +463,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>INDUSTRY</text>
       </register>
       <register name="/" type="4">
         <text>回龙观</text>
