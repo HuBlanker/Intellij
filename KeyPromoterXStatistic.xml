@@ -38,7 +38,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3885</Count>
+          <Count>3887</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -694,7 +694,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'EvalModel'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'EvalQA'">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1217</Count>
+          <Count>1254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1878,7 +1878,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1356</Count>
+          <Count>1362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -1983,6 +1983,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DumpWavelyGeek4AC'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EvalModel'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'EvalModel'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EvalQA'">
@@ -2590,7 +2598,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>488</Count>
+          <Count>490</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
