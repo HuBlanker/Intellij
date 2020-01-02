@@ -237,8 +237,8 @@
         <mark key="." line="229" column="0" />
         <mark key="^" line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalModel.java" timestamp="1577929860131">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalModel.java" timestamp="1577957424700">
+        <mark key="'" line="103" column="62" />
         <mark key="[" line="110" column="45" />
         <mark key="]" line="110" column="66" />
         <mark key="." line="110" column="66" />
@@ -359,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="16" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/from_brat_to_manual_dict.py" />
       <jump line="74" column="16" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/from_brat_to_manual_dict.py" />
       <jump line="78" column="16" filename="$USER_HOME$/workspace/zp-search2/scripts/nlu_build/script/from_brat_to_manual_dict.py" />
       <jump line="111" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/from_brat_to_txt.py" />
@@ -459,6 +458,7 @@
       <jump line="91654" column="22" filename="/manual_dict.txt" />
       <jump line="92305" column="0" filename="/manual_dict.txt" />
       <jump line="55957" column="8" filename="/manual_dict.txt" />
+      <jump line="103" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -491,7 +491,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>地产投资总监</text>
+        <text>_new_1231</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KCg/PD1cXEQpfF4pWzAtOV3lubQ=</text>
@@ -570,21 +570,20 @@
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/_new_1231//g</text>
       </register>
     </registers>
     <search>
-      <last-search>地产投资总监</last-search>
+      <last-search>_new_1231</last-search>
       <last-offset />
-      <last-pattern>地产投资总监</last-pattern>
-      <last-replace>JOB_LEVEL</last-replace>
-      <last-substitute>GEEK_LEVEL</last-substitute>
+      <last-pattern>_new_1231</last-pattern>
+      <last-replace />
+      <last-substitute>_new_1231</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>回龙观</entry>
         <entry>macos</entry>
         <entry>整形外科</entry>
         <entry>快排</entry>
@@ -604,9 +603,9 @@
         <entry>雨课堂	雨课堂|COMPANY|0|3</entry>
         <entry>地产</entry>
         <entry>地产投资总监</entry>
+        <entry>_new_1231</entry>
       </history-search>
       <history-cmd>
-        <entry>reg</entry>
         <entry>%s/, /\n/g</entry>
         <entry>%s/, /\\n/g</entry>
         <entry>%s/, /\r/g</entry>
@@ -626,6 +625,7 @@
         <entry>%s/scripts/nlu_build/dataset/boss_query_top6w_label_full.txt/scripts/nlu_build/dataset/manual_label_new_1231/boss_query_top6w_label_full.txt/g</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>%s/_new_1231//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
