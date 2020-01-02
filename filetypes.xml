@@ -1,13 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="tpl" type="HTML" />
-      <mapping pattern="push" type="PLAIN_TEXT" />
-      <mapping pattern="job_welfare" type="PLAIN_TEXT" />
-      <mapping pattern="bashrc" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="def" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
