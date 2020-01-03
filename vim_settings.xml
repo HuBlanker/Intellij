@@ -132,7 +132,8 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/boss_query_eval.txt" timestamp="1577518093525" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1578039319364">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1578043961104">
+        <mark key="'" line="500" column="47" />
         <mark key="[" line="183" column="13" />
         <mark key="]" line="183" column="37" />
         <mark key="^" line="183" column="37" />
@@ -191,7 +192,7 @@
         <mark key="." line="34" column="25" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1577950943506">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1578043755899">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -259,10 +260,10 @@
       <file name="$USER_HOME$/study/someprogram/javaprogram/pom.xml" timestamp="1577523129674">
         <mark key="'" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1578032131756">
-        <mark key="[" line="122" column="26" />
-        <mark key="]" line="122" column="26" />
-        <mark key="." line="122" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1578043985718">
+        <mark key="[" line="54" column="64" />
+        <mark key="]" line="54" column="64" />
+        <mark key="." line="54" column="64" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/pom.xml" timestamp="1577523154014">
         <mark key="[" line="32" column="21" />
@@ -366,12 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63097" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="2470" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="64092" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="62134" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="56429" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
-      <jump line="62145" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="53558" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="16137" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="53564" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
@@ -466,10 +461,16 @@
       <jump line="1284" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/OTHER.txt" />
       <jump line="28" column="2" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/COMPANY.txt" />
       <jump line="219" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/gen.sh" />
+      <jump line="81" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="242" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="243" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="244" column="101" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="499" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="500" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>37246676</text>
+        <text encoding="base64">bmV3IEhhc2hNYXA8Pigp</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -495,10 +496,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>37246676</text>
+        <text encoding="base64">bmV3IEhhc2hNYXA8Pigp</text>
       </register>
       <register name="/" type="4">
-        <text>^海$</text>
+        <text>filterQuery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29weV9hbmRfcmVzdGFydDIgImJ4di1ib3Nzc2VhcmNoZ2Vla2NvbW1vbi0wMSIgJHtUQVJHRVR9CnNsZWVwIDE4MAo=</text>
@@ -581,9 +582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>^海$</last-search>
+      <last-search>filterQuery</last-search>
       <last-offset />
-      <last-pattern>^海$</last-pattern>
+      <last-pattern>filterQuery</last-pattern>
       <last-replace />
       <last-substitute>_new_1231</last-substitute>
       <last-dir>1</last-dir>
@@ -591,7 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GEEK_LEVEL</entry>
         <entry>linux kernel</entry>
         <entry>react native ios</entry>
         <entry>大润发及周边</entry>
@@ -611,6 +611,7 @@
         <entry>云</entry>
         <entry>^云$</entry>
         <entry>^海$</entry>
+        <entry>filterQuery</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\\n/g</entry>
