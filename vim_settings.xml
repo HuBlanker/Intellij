@@ -135,6 +135,12 @@
         <mark key="^" line="183" column="37" />
         <mark key="." line="183" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/COMPANY.txt" timestamp="1578037343921">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="87849" column="0" />
+        <mark key="]" line="87849" column="0" />
+        <mark key="." line="87849" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy2.java" timestamp="1577696299613" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalCrf.java" timestamp="1577710945521">
         <mark key="'" line="16" column="36" />
@@ -338,7 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5633" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="54422" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="63097" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
       <jump line="2470" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/cache/manual_dict.txt" />
@@ -438,10 +443,11 @@
       <jump line="1124" column="2" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/OTHER.txt" />
       <jump line="1192" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/OTHER.txt" />
       <jump line="1284" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/OTHER.txt" />
+      <jump line="28" column="2" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/COMPANY.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">5LqRCg==</text>
+        <text encoding="base64">5bCP5LiJCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -470,16 +476,16 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>^云$</text>
+        <text>^海$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29weV9hbmRfcmVzdGFydDIgImJ4di1ib3Nzc2VhcmNoZ2Vla2NvbW1vbi0wMSIgJHtUQVJHRVR9CnNsZWVwIDE4MAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5LqRCg==</text>
+        <text encoding="base64">5bCP5LiJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29weV9hbmRfcmVzdGFydDIgImJ4di1ib3Nzc2VhcmNoZ2Vla29tbW9uLTAyIiAke1RBUkdFVH0K</text>
+        <text encoding="base64">5rW3Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -500,10 +506,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXZfaWZfbmV3X2FuZF9jaGVjayAke05MVV9ESUNUfQo=</text>
+        <text encoding="base64">5LqRCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29weV9hbmRfcmVzdGFydDIgImJ4di1ib3Nzc2VhcmNoZ2Vla29tbW9uLTAyIiAke1RBUkdFVH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -517,7 +523,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVidWlsZF9pbmRleCgpIHsKICBqYXZhIC1YbXgxODAwbSAtWG1zMTgwMG0gLURmaWxlLmVuY29kaW5nPVVURi04IFwKICAgICAgIC1YWDorSGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgLVhYOkhlYXBEdW1wUGF0aD0uLyBcCiAgICAgICAtY3AgJEpBUiBjb20uemhpcGluLnNlYXJjaC50cGpvYi5UcEpvYlJlYnVpbGRNYWluIFwKICAgICAgIC1kaXIgJFRQSk9CX0lOREVYIFwKICAgICAgIC1zaXRlX21hcF9kaXIgJFNJVEVfTUFQX0RJUiBcCiAgICAgICAtYnJhbmRfZmlsZSAkQlJBTkRfRklMRQp9CnJlYnVpbGRfaW5kZXgK</text>
+        <text encoding="base64">bXZfaWZfbmV3X2FuZF9jaGVjayAke05MVV9ESUNUfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -534,16 +540,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VD10Y19kYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UEFUSD0vZGF0YS9qMnNkay9iaW46JFBBVEgKUlVOPXJ1bgo=</text>
+        <text encoding="base64">cmVidWlsZF9pbmRleCgpIHsKICBqYXZhIC1YbXgxODAwbSAtWG1zMTgwMG0gLURmaWxlLmVuY29kaW5nPVVURi04IFwKICAgICAgIC1YWDorSGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IgLVhYOkhlYXBEdW1wUGF0aD0uLyBcCiAgICAgICAtY3AgJEpBUiBjb20uemhpcGluLnNlYXJjaC50cGpvYi5UcEpvYlJlYnVpbGRNYWluIFwKICAgICAgIC1kaXIgJFRQSk9CX0lOREVYIFwKICAgICAgIC1zaXRlX21hcF9kaXIgJFNJVEVfTUFQX0RJUiBcCiAgICAgICAtYnJhbmRfZmlsZSAkQlJBTkRfRklMRQp9CnJlYnVpbGRfaW5kZXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VFBKT0JfSU5ERVg9dGNfZGF0YQo=</text>
+        <text encoding="base64">VD10Y19kYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VFBKT0JfREI9J2pvYnNAdUliIVdxMXVARHNVfGpkYmM6bXlzcWw6Ly92LWJvc3NzcGlkZXJkYm0tMDMvam9icycKS1pfREI9J2Jvc3Nfc2VhcmNoQDkhTEdSTmwzVEByWHxqZGJjOm15c3FsOi8va3pfZGJzZXJ2ZXJfa2Fuemh1bl9kYnNfMzMxNi5rei50d2w6MzMxNi9rYW56aHVuJwpTSVRFX01BUF9ESVI9Jy9kYXRhL29mZmxpbmUtYnVpbGRzL3RwLWpvYi9zaXRlLW1hcC8nCkJSQU5EX0ZJTEU9Jy9kYXRhL29mZmxpbmUtYnVpbGRzL3pwLWpvYjIvYnJhbmROYW1lJwo=</text>
+        <text encoding="base64">UEFUSD0vZGF0YS9qMnNkay9iaW46JFBBVEgKUlVOPXJ1bgo=</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -553,9 +559,9 @@
       </register>
     </registers>
     <search>
-      <last-search>^云$</last-search>
+      <last-search>^海$</last-search>
       <last-offset />
-      <last-pattern>^云$</last-pattern>
+      <last-pattern>^海$</last-pattern>
       <last-replace />
       <last-substitute>_new_1231</last-substitute>
       <last-dir>1</last-dir>
@@ -563,7 +569,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^兼职\t</entry>
         <entry>GEEK_LEVEL</entry>
         <entry>linux kernel</entry>
         <entry>react native ios</entry>
@@ -583,6 +588,7 @@
         <entry>ref</entry>
         <entry>云</entry>
         <entry>^云$</entry>
+        <entry>^海$</entry>
       </history-search>
       <history-cmd>
         <entry>%s/, /\\n/g</entry>
