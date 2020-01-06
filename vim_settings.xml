@@ -199,10 +199,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1578277437871">
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1578278414448">
         <mark key="'" line="59" column="24" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="99" column="21" />
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCutRule.java" timestamp="1577953332858">
         <mark key="'" line="52" column="34" />
@@ -263,6 +264,11 @@
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/NNServer.java" timestamp="1578278707149">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/filter_rule_in_query_to_review.md.py" timestamp="1577676305480">
         <mark key="[" line="42" column="24" />
@@ -326,13 +332,6 @@
         <mark key="." line="76" column="29" />
         <mark key="^" line="76" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1577703759706">
-        <mark key="'" line="181" column="43" />
-        <mark key="[" line="126" column="14" />
-        <mark key="]" line="126" column="18" />
-        <mark key="." line="126" column="18" />
-        <mark key="^" line="126" column="18" />
-      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-nlu/src/main/java/com/huyan/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1578115108914">
         <mark key="'" line="19" column="17" />
         <mark key="[" line="14" column="33" />
@@ -356,10 +355,10 @@
         <mark key="]" line="360" column="0" />
         <mark key="." line="360" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-modules/zp-ml/pom.xml" timestamp="1578115155308">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="50" column="21" />
-        <mark key="." line="49" column="25" />
+      <file name="$USER_HOME$/workspace/zp-modules/zp-ml/pom.xml" timestamp="1578278364825">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-nlu/src/main/java/com/huyan/nlu/wordseg/tseg/OffsetLength.java" timestamp="1578117688426">
         <mark key="[" line="5" column="0" />
@@ -454,10 +453,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-modules/pom.xml" timestamp="1578111283116">
-        <mark key="'" line="40" column="35" />
+      <file name="$USER_HOME$/workspace/zp-modules/pom.xml" timestamp="1578277933320">
+        <mark key="'" line="25" column="52" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1578278704898">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-nlu/src/main/java/com/huyan/nlu/wordseg/tseg/CutHook.java" timestamp="1578119629509">
         <mark key="[" line="27" column="0" />
@@ -483,6 +487,11 @@
         <mark key="]" line="1116" column="45" />
         <mark key="." line="1116" column="45" />
         <mark key="^" line="1116" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1578278558261">
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/client/ZpClientTests.java" timestamp="1578029916650">
         <mark key="[" line="2" column="0" />
@@ -573,10 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="101" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="499" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="500" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="67" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
       <jump line="175" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
       <jump line="90" column="12" filename="$USER_HOME$/workspace/zp-modules/zp-ml/src/test/java/com/zhipin/ml/crfppTest.java" />
       <jump line="191" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" />
@@ -672,11 +677,15 @@
       <jump line="42" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/JedisTest.java" />
       <jump line="16" column="0" filename="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/JedisTest.java" />
       <jump line="57" column="19" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
+      <jump line="94" column="0" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="59" column="24" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
+      <jump line="147" column="0" filename="$USER_HOME$/workspace/zp-modules/pom.xml" />
+      <jump line="30" column="52" filename="$USER_HOME$/workspace/zp-modules/pom.xml" />
+      <jump line="25" column="52" filename="$USER_HOME$/workspace/zp-modules/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL+avj+asoWFwcGVuZCAxTULnmoTlhoXlrrnvvIzlsJ3or5U1MTLmrKEK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgU3R1YjxFPiB7CiAgICAgICAgcHVibGljIGZpbmFsIEUgbWU7CiAgICAgICAgcHVibGljIGZpbmFsIEF0b21pY0ludGVnZXIgZ29pbmcgPSBuZXcgQXRvbWljSW50ZWdlcigwKTsKICAgICAgICBwdWJsaWMgZmluYWwgU3RyaW5nIHNlcnZlcjsKICAgICAgICBwdWJsaWMgZmluYWwgQXRvbWljTG9uZyBkb25lID0gbmV3IEF0b21pY0xvbmcoKTsKCiAgICAgICAgcHVibGljIFN0dWIoRSBtZSwgU3RyaW5nIHNlcnZlcikgewogICAgICAgICAgICB0aGlzLm1lID0gbWU7CiAgICAgICAgICAgIHRoaXMuc2VydmVyID0gc2VydmVyOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -702,19 +711,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>192.168.1.251</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
-        <text>tensor</text>
+        <text>ten</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIEplZGlzIGplZGlzID0gbmV3IEplZGlzKCIxOTIuMTY4LjEuMjUxIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL+avj+asoWFwcGVuZCAxTULnmoTlhoXlrrnvvIzlsJ3or5U1MTLmrKEK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgU3R1YjxFPiB7CiAgICAgICAgcHVibGljIGZpbmFsIEUgbWU7CiAgICAgICAgcHVibGljIGZpbmFsIEF0b21pY0ludGVnZXIgZ29pbmcgPSBuZXcgQXRvbWljSW50ZWdlcigwKTsKICAgICAgICBwdWJsaWMgZmluYWwgU3RyaW5nIHNlcnZlcjsKICAgICAgICBwdWJsaWMgZmluYWwgQXRvbWljTG9uZyBkb25lID0gbmV3IEF0b21pY0xvbmcoKTsKCiAgICAgICAgcHVibGljIFN0dWIoRSBtZSwgU3RyaW5nIHNlcnZlcikgewogICAgICAgICAgICB0aGlzLm1lID0gbWU7CiAgICAgICAgICAgIHRoaXMuc2VydmVyID0gc2VydmVyOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKZWRpcyBqZWRpcyA9IC5nZXRKZWRpcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IG5ldyBTZXF1ZW5jZUxhYmVsaW5nKE1BWFNFUUxFTiwgaW5PcHROYW1lLCBvdXRPcHROYW1lKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -735,10 +744,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM5a2m5ZyG5oOR6L6544CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qIENDIDQuMCBCWS1TQSDniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9teV9tb21vX2NzZG4vYXJ0aWNsZS9kZXRhaWxzLzEwMTA1NTYzOQo=</text>
+        <text encoding="base64">ICAgIFNlcXVlbmNlTGFiZWxpbmcgbW9kZWwgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL+avj+asoWFwcGVuZCAxTULnmoTlhoXlrrnvvIzlsJ3or5U1MTLmrKEK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -752,7 +761,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGlja2VyLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBKZWRpcyBqZWRpcyA9IC5nZXRKZWRpcygpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -769,16 +778,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCiAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM5a2m5ZyG5oOR6L6544CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qIENDIDQuMCBCWS1TQSDniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIKICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9teV9tb21vX2NzZG4vYXJ0aWNsZS9kZXRhaWxzLzEwMTA1NTYzOQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKZWRpcwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGlja2VyLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOWFiOS7juaWh+S7tmxvYWTvvIzlho3ku45jbGFzc3BhdGggbG9hZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>boss@boss!@#boss|jdbc:mysql://192.168.1.31:3316/boss_tag4geek</text>
@@ -788,9 +797,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tensor</last-search>
+      <last-search>ten</last-search>
       <last-offset />
-      <last-pattern>tensor</last-pattern>
+      <last-pattern>ten</last-pattern>
       <last-replace>huyan</last-replace>
       <last-substitute>zhipin</last-substitute>
       <last-dir>1</last-dir>
@@ -804,7 +813,6 @@
         <entry>google</entry>
         <entry>tensorflow</entry>
         <entry>org</entry>
-        <entry>ten</entry>
         <entry>serle</entry>
         <entry>serl</entry>
         <entry>jsp</entry>
@@ -818,6 +826,7 @@
         <entry>0</entry>
         <entry>o</entry>
         <entry>tensor</entry>
+        <entry>ten</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;, &quot;/\r/g</entry>
