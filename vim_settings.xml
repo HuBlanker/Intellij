@@ -30,6 +30,9 @@
         <mark key="." line="240" column="0" />
         <mark key="^" line="224" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1578398502118">
+        <mark key="'" line="93" column="13" />
+      </file>
       <file name="/PredictMain.java" timestamp="1578300417614" />
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1578379651855">
         <mark key="'" line="46" column="53" />
@@ -91,6 +94,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1578391448098">
         <mark key="'" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" timestamp="1578399970520" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1578293987096">
         <mark key="'" line="123" column="25" />
       </file>
@@ -100,13 +104,6 @@
         <mark key="]" line="150" column="12" />
         <mark key="^" line="150" column="12" />
         <mark key="." line="150" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" timestamp="1578390309844">
-        <mark key="[" line="228" column="39" />
-        <mark key="]" line="228" column="37" />
-        <mark key="^" line="228" column="37" />
-        <mark key="n" line="184" column="67" />
-        <mark key="." line="228" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalModel.java" timestamp="1578389565609">
         <mark key="'" line="107" column="62" />
@@ -127,6 +124,9 @@
         <mark key="]" line="63" column="28" />
         <mark key="." line="63" column="28" />
         <mark key="^" line="63" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" timestamp="1578399119133">
+        <mark key="'" line="339" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" timestamp="1578390047947">
         <mark key="[" line="72" column="67" />
@@ -172,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="21" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
-      <jump line="237" column="20" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="240" column="21" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="241" column="20" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="244" column="21" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
@@ -272,6 +270,8 @@
       <jump line="233" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" />
       <jump line="9" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="3296" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="93" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
+      <jump line="339" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -374,7 +374,7 @@
         <text>&quot;boss_search&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>= &quot;</text>
+        <text>listforbossv2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cm9vdF9wYXRoID0gL1VzZXJzL3BmbGl1L3dvcmtzcGFjZS96cC1tb2R1bGVzL3pwLW5sdS9ubHVfZGljdC8K</text>
@@ -457,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>= &quot;</last-search>
+      <last-search>listforbossv2</last-search>
       <last-offset />
-      <last-pattern>= &quot;</last-pattern>
+      <last-pattern>listforbossv2</last-pattern>
       <last-replace>huyan</last-replace>
       <last-substitute>zhipin</last-substitute>
       <last-dir>1</last-dir>
@@ -467,8 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stubIdx</entry>
-        <entry encoding="base64">XDxxdWVyeUlkc1w+</entry>
         <entry>array</entry>
         <entry>toarray</entry>
         <entry>resultIdList</entry>
@@ -487,6 +485,8 @@
         <entry>log</entry>
         <entry>debug</entry>
         <entry>= &quot;</entry>
+        <entry>recall</entry>
+        <entry>listforbossv2</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;, &quot;/\r/g</entry>
