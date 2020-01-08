@@ -22,6 +22,11 @@
         <mark key="^" line="86" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/QueryUtils.java" timestamp="1578398415207" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1578385797596">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WTTokenizer.java" timestamp="1578292562888" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1578390205367">
         <mark key="'" line="89" column="37" />
@@ -105,12 +110,32 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1578293987096">
         <mark key="'" line="123" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1578452794976">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerHttp.java" timestamp="1578300031844">
         <mark key="'" line="42" column="38" />
         <mark key="[" line="150" column="8" />
         <mark key="]" line="150" column="12" />
         <mark key="^" line="150" column="12" />
         <mark key="." line="150" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/service/QueryAnalyzerMainTest.java" timestamp="1578453367519">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/data-common/pom.xml" timestamp="1578379575964">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-modules/zp-ml/pom.xml" timestamp="1578278364825">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalModel.java" timestamp="1578389565609">
         <mark key="'" line="107" column="62" />
@@ -131,6 +156,11 @@
         <mark key="]" line="63" column="28" />
         <mark key="." line="63" column="28" />
         <mark key="^" line="63" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/mtagNNTest.java" timestamp="1578389579037">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" timestamp="1578399119133">
         <mark key="'" line="339" column="32" />
@@ -186,6 +216,7 @@
         <mark key="^" line="3729" column="28" />
         <mark key="." line="3729" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy.java" timestamp="1578452696705" />
     </filemarks>
     <jumps>
       <jump line="241" column="20" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
@@ -290,8 +321,8 @@
       <jump line="109" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZyA9IG5ldyBOTFVDb25mKCk7Ci8vICAgICAgICBpZiAoIWNvbmZpZy5sb2FkKGNvbmZQYXRoKSkgewovLyAgICAgICAgICAgIGxvZy5lcnJvcigibG9hZCBXb3JkVGFnIGNvbmY9e30gZXJyb3IhIiwgY29uZlBhdGgpOwovLyAgICAgICAgICAgIHJldHVybiBmYWxzZTsKLy8gICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>招商专员 北京 西安 阿里巴巴</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -387,7 +418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;boss_search&quot;</text>
+        <text>招商专员 北京 西安 阿里巴巴</text>
       </register>
       <register name="/" type="4">
         <text>v3</text>
