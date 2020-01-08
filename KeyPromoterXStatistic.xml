@@ -454,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4133</Count>
+          <Count>4151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1535,6 +1535,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ResumeSearchMain'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ResumeSearchMainTest.ChatCardBlockTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ResumeSearchMainTest.ChatCardBlockTest'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResumeSearchMainTest.geekCountTest'">
