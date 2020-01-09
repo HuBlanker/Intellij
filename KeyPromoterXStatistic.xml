@@ -462,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4200</Count>
+          <Count>4253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -815,6 +815,22 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FindCompanyWordTest.suffixArray'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GQueryBuilderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'GQueryBuilderTest'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GQueryBuilderTest.build'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'GQueryBuilderTest.build'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GenBiLSTMCRFSample'">
@@ -1473,6 +1489,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'QueryConverterTest.convertLuceneTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QueryConverterTest.convertLuceneTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'QueryCorrectRebuildMain'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1846,7 +1870,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1294</Count>
+          <Count>1310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2014,7 +2038,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1446</Count>
+          <Count>1450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -2143,6 +2167,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FindCompanyWord'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GQueryBuilderTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GQueryBuilderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GQueryBuilderTest.build'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GQueryBuilderTest.build'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GenBiLSTMCRFSample'">
@@ -2758,7 +2798,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>513</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
