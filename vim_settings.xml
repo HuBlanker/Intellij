@@ -33,12 +33,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" timestamp="1578465349956" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1578536956400">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1578540482211">
         <mark key="'" line="20" column="13" />
-        <mark key="[" line="237" column="76" />
-        <mark key="]" line="237" column="76" />
-        <mark key="." line="237" column="76" />
-        <mark key="^" line="238" column="30" />
+        <mark key="[" line="235" column="52" />
+        <mark key="]" line="235" column="52" />
+        <mark key="." line="235" column="52" />
+        <mark key="^" line="235" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1578470722007">
         <mark key="'" line="564" column="53" />
@@ -60,7 +60,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1578469766600">
         <mark key="'" line="164" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1578539173024">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1578540182638">
         <mark key="'" line="73" column="24" />
         <mark key="[" line="67" column="36" />
         <mark key="]" line="67" column="37" />
@@ -388,7 +388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>||</text>
+        <text>20680286</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,7 +484,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>||</text>
+        <text>20680286</text>
       </register>
       <register name="/" type="4">
         <text>chatcard</text>
@@ -493,10 +493,10 @@
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0Jsb2NrZWQgPSBhbGxMZXNzNShyZWNhbGxzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0Jsb2NrZWQgPSBhbGxMZXNzNShyZWNhbGxzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yIChTY29yZURvYyBkb2MgOiBkb2NzLnNjb3JlRG9jcykgewovLyAgICAgICAgICAgICAgICAgICAgR2Vla0l0ZW0gZ2VlayA9IHIuZ2Vla0l0ZW1BcnJheS5nZXRHZWVrKGRvYy5kb2MpOwovLyAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBDaGF0Q2FyZEJsb2NrUmVzcCByZXNwID0gY2xpZW50cy5DaGF0Q2FyZEJsb2NrKG5ldyBDaGF0Q2FyZEJsb2NrUmVxKDIwNjgwMjg2KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3AudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -517,10 +517,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgcmVjYWxsIDogcmVjYWxscykgewogICAgICAgICAgICBpZiAocmVjYWxsID4gNSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0Jsb2NrZWQgPSBhbGxMZXNzNShyZWNhbGxzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yIChTY29yZURvYyBkb2MgOiBkb2NzLnNjb3JlRG9jcykgewovLyAgICAgICAgICAgICAgICAgICAgR2Vla0l0ZW0gZ2VlayA9IHIuZ2Vla0l0ZW1BcnJheS5nZXRHZWVrKGRvYy5kb2MpOwovLyAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -534,7 +534,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgcmVjYWxsIDogcmVjYWxscykgewogICAgICAgICAgICBpZiAocmVjYWxsID4gNSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -554,13 +554,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGludCBkZWdyZWVMb3cgPSBNYXRjaGVyMi5kZWdyZWUoam9iLmRlZ3JlZSk7CiAgICAgICAgICAgIGJiLmFkZChJbnRQb2ludC5uZXdFeGFjdFF1ZXJ5KERFR1JFRSwgZGVncmVlTG93KSwgQm9vbGVhbkNsYXVzZS5PY2N1ci5NVVNUKTsKICAgICAgICAgICAgcmV0dXJuIGJiLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPiBwYXJzZUV4cGVyaWVuY2UoaW50IGV4cGVyaWVuY2UpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGludCBkZWdyZWVMb3cgPSBNYXRjaGVyMi5kZWdyZWUoam9iLmRlZ3JlZSk7CiAgICAgICAgICAgIGJiLmFkZChJbnRQb2ludC5uZXdFeGFjdFF1ZXJ5KERFR1JFRSwgZGVncmVlTG93KSwgQm9vbGVhbkNsYXVzZS5PY2N1ci5NVVNUKTsKICAgICAgICAgICAgcmV0dXJuIGJiLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
