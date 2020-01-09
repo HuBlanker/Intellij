@@ -33,7 +33,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/Helpers.java" timestamp="1578465349956" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1578540482211">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1578541348200">
         <mark key="'" line="20" column="13" />
         <mark key="[" line="235" column="52" />
         <mark key="]" line="235" column="52" />
@@ -60,12 +60,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1578469766600">
         <mark key="'" line="164" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1578540182638">
-        <mark key="'" line="73" column="24" />
-        <mark key="[" line="67" column="36" />
-        <mark key="]" line="67" column="37" />
-        <mark key="." line="67" column="37" />
-        <mark key="^" line="67" column="98" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1578542243962">
+        <mark key="'" line="41" column="43" />
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="73" column="47" />
+        <mark key="." line="73" column="47" />
+        <mark key="^" line="73" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1578291352728">
         <mark key="'" line="10" column="0" />
@@ -262,12 +262,12 @@
         <mark key="." line="72" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/c/GeekCollector.java" timestamp="1578464142509" />
-      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/JedisTest.java" timestamp="1578538797382">
+      <file name="$USER_HOME$/study/someprogram/javaprogram/src/main/java/daily/JedisTest.java" timestamp="1578542219617">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="59" column="97" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="59" column="22" />
+        <mark key="]" line="60" column="33" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/JobRecallSearchMain.java" timestamp="1578397934212" />
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/Ticker.java" timestamp="1578384025315">
@@ -285,7 +285,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy.java" timestamp="1578452696705" />
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" />
       <jump line="112" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" />
       <jump line="118" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/nntag/SequenceLabeling.java" />
@@ -384,11 +383,12 @@
       <jump line="47" column="7" filename="$USER_HOME$/workspace/zp-search2/scripts/run/search-dev.properties" />
       <jump line="58" column="13" filename="$USER_HOME$/workspace/zp-search2/scripts/run/search-qa.properties" />
       <jump line="127" column="20" filename="$USER_HOME$/workspace/zp-search2/scripts/run/search-qa.properties" />
-      <jump line="71" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
+      <jump line="71" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
+      <jump line="41" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20680286</text>
+        <text>new ChatCardBlockResp(false);</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,19 +484,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>20680286</text>
+        <text>new ChatCardBlockResp(false);</text>
       </register>
       <register name="/" type="4">
-        <text>chatcard</text>
+        <text>chatcardblock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0Jsb2NrZWQgPSBhbGxMZXNzNShyZWNhbGxzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIkNoYXRDYXJkQmxvY2ssIHVzZXJJZD17fSwgcmVzcD17fSwgdD17fSIsIHJlcS5ib3NzSWQsIHRydWUsIHRpY2tlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDaGF0Q2FyZEJsb2NrUmVzcCByZXNwID0gY2xpZW50cy5DaGF0Q2FyZEJsb2NrKG5ldyBDaGF0Q2FyZEJsb2NrUmVxKDIwNjgwMjg2KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3AudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -517,10 +517,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0Jsb2NrZWQgPSBhbGxMZXNzNShyZWNhbGxzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yIChTY29yZURvYyBkb2MgOiBkb2NzLnNjb3JlRG9jcykgewovLyAgICAgICAgICAgICAgICAgICAgR2Vla0l0ZW0gZ2VlayA9IHIuZ2Vla0l0ZW1BcnJheS5nZXRHZWVrKGRvYy5kb2MpOwovLyAgICAgICAgICAgICAgICAgICAgCi8vICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBhbGxMZXNzNShMaXN0PEludGVnZXI+IHJlY2FsbHMpIHsKICAgICAgICByZXR1cm4gcmVjYWxscy5zdHJlYW0oKS5ub25lTWF0Y2goaSAtPiBpID4gNSk7CiAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -534,7 +534,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgcmVjYWxsIDogcmVjYWxscykgewogICAgICAgICAgICBpZiAocmVjYWxsID4gNSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGlja2VyLnRpY2soInJlY2FsbCIpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -551,16 +551,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb3VudCA+IDUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiQ2hhdENhcmRCbG9jaywgdXNlcklkPXt9LCByZXNwPXt9LiB0PXt9IiwgcmVxLmJvc3NJZCwgaXNCbG9ja2VkLCB0aWNrZXIuc3VtbWFyeSgpKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IENoYXRDYXJkQmxvY2tSZXNwKHRydWUpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlc3VsdCA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJvb2xlYW4+IHJlY2FsbHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGludCBkZWdyZWVMb3cgPSBNYXRjaGVyMi5kZWdyZWUoam9iLmRlZ3JlZSk7CiAgICAgICAgICAgIGJiLmFkZChJbnRQb2ludC5uZXdFeGFjdFF1ZXJ5KERFR1JFRSwgZGVncmVlTG93KSwgQm9vbGVhbkNsYXVzZS5PY2N1ci5NVVNUKTsKICAgICAgICAgICAgcmV0dXJuIGJiLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
@@ -570,9 +570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>chatcard</last-search>
+      <last-search>chatcardblock</last-search>
       <last-offset />
-      <last-pattern>chatcard</last-pattern>
+      <last-pattern>chatcardblock</last-pattern>
       <last-replace>huyan</last-replace>
       <last-substitute>zhipin</last-substitute>
       <last-dir>-1</last-dir>
@@ -580,7 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GeekCount</entry>
         <entry>CountGeek</entry>
         <entry>welcome</entry>
         <entry>confpath</entry>
@@ -600,6 +599,7 @@
         <entry>zpcli</entry>
         <entry>zp</entry>
         <entry>chatcard</entry>
+        <entry>chatcardblock</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;, &quot;/\r/g</entry>
