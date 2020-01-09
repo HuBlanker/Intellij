@@ -57,6 +57,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/ExpectRecallHandler.java" timestamp="1578398142847" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" timestamp="1578400191021" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" timestamp="1578466329578" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/recaller/ExpectLuceneRecaller.java" timestamp="1578549000484" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1578469766600">
         <mark key="'" line="164" column="25" />
       </file>
@@ -82,6 +83,7 @@
         <mark key="^" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/QueryConverter.java" timestamp="1578447660802" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/handler/ExpectRecallHandler.java" timestamp="1578548925954" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1578389430131">
         <mark key="[" line="73" column="38" />
         <mark key="]" line="73" column="45" />
@@ -103,10 +105,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" timestamp="1578400938299" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/ExpectRecallSearchMain.java" timestamp="1578448295744" />
-      <file name="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/8.96/data-common-8.96.jar!/com/bosszhipin/common/Ticker.class" timestamp="1578384159319">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="15" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1578392447303">
         <mark key="'" line="3296" column="7" />
         <mark key="[" line="3729" column="23" />
@@ -164,14 +162,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="38" column="60" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/CountGeekHandler.java" timestamp="1578463751576">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="75" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/BgRelationDBApi.java" timestamp="1578465843201">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="95" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geek/GSearchBuff.java" timestamp="1578478340281" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/model_crf/README.md" timestamp="1578031066591">
@@ -248,13 +238,13 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" timestamp="1578399119133">
         <mark key="'" line="339" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1578548724391">
-        <mark key="'" line="231" column="44" />
-        <mark key="[" line="392" column="0" />
-        <mark key="]" line="392" column="0" />
-        <mark key="^" line="393" column="15" />
-        <mark key="." line="392" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1578549443564">
+        <mark key="[" line="438" column="37" />
+        <mark key="]" line="438" column="37" />
+        <mark key="." line="438" column="37" />
+        <mark key="^" line="438" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/recaller/RecallFactory.java" timestamp="1578548954553" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordcore/SlotCore.java" timestamp="1578390047947">
         <mark key="[" line="72" column="67" />
         <mark key="]" line="72" column="74" />
@@ -270,17 +260,9 @@
         <mark key="^" line="60" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/JobRecallSearchMain.java" timestamp="1578397934212" />
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/Ticker.java" timestamp="1578384025315">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geek/GSearchHandler.java" timestamp="1578478356153" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/UserActions.java" timestamp="1578464355043" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" timestamp="1578464340826" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/handler/F1GeekHandler.java" timestamp="1578470899106">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="250" column="29" />
-      </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/zhipin/Config.java" timestamp="1578534634147" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy.java" timestamp="1578452696705" />
     </filemarks>
@@ -387,8 +369,8 @@
       <jump line="41" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>searchAsync</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new ChatCardBlockResp(false);</text>
+        <text>searchAsync</text>
       </register>
       <register name="/" type="4">
         <text>chatcardblock</text>
