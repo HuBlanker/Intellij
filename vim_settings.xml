@@ -208,11 +208,11 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1578619404086">
-        <mark key="[" line="16" column="52" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1578619451249">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/tool/MergeManualDict.java" timestamp="1577927443250">
         <mark key="[" line="29" column="69" />
@@ -545,7 +545,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>/absolute/path/to</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -641,7 +641,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>/absolute/path/to</text>
       </register>
       <register name="/" type="4">
         <text>weight</text>
@@ -723,7 +723,7 @@
         <text>di(jevi(p</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Intention/NLUSlotType/g</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -775,10 +775,10 @@
         <entry>%s/_new_1231//g</entry>
         <entry>%s/zhipin/huyan/g</entry>
         <entry>lucene</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>%s/Phrase/NLUSlot/g</entry>
         <entry>%s/Intention/NLUSlotType/g</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
