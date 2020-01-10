@@ -3,30 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1578619916134">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="67" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GRecallReq.java" timestamp="1578623430174">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="33" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1578624931518" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1578625137087">
-        <mark key="[" line="479" column="37" />
-        <mark key="]" line="479" column="59" />
-        <mark key="." line="479" column="59" />
-        <mark key="^" line="479" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1578623522304">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1578625069789">
         <mark key="'" line="521" column="47" />
       </file>
@@ -35,9 +12,31 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1578619916134">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="67" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SearchKafkaClient.java" timestamp="1578634879989">
+        <mark key="'" line="41" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GRecallReq.java" timestamp="1578623430174">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1578625137087">
+        <mark key="[" line="479" column="37" />
+        <mark key="]" line="479" column="59" />
+        <mark key="." line="479" column="59" />
+        <mark key="^" line="479" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/resume_search_query_uv.sh" timestamp="1578634613232" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1578634984628" />
     </filemarks>
     <jumps>
-      <jump line="126" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" />
       <jump line="43" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerHttp.java" />
       <jump line="153" column="54" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/RebuildJobRecallMain.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -137,6 +136,7 @@
       <jump line="74" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/query/GQueryBuilder.java" />
       <jump line="60" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/query/GQueryBuilder.java" />
       <jump line="77" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/query/GQueryBuilder.java" />
+      <jump line="41" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/SearchKafkaClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
