@@ -217,6 +217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Query2SQLTest.query2FieldsLuceneQuery'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Query2SQLTest.query2FieldsLuceneQuery'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'QueryAnalyzerM....main()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -462,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4407</Count>
+          <Count>4410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1393,6 +1401,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Query2SQLTest.query2FieldsLuceneQuery'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Query2SQLTest.query2FieldsLuceneQuery'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'QueryAnalyzerHttp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1878,7 +1894,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1327</Count>
+          <Count>1328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
