@@ -21,10 +21,11 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1578730654976">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1578910051075">
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+        <mark key="^" line="54" column="37" />
       </file>
       <file name="/Python Script.txt.ft" timestamp="1577773048159">
         <mark key="[" line="0" column="0" />
@@ -97,11 +98,11 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1577773099183">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GRecallReq.java" timestamp="1578907216986">
-        <mark key="[" line="39" column="73" />
-        <mark key="]" line="39" column="74" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GRecallReq.java" timestamp="1578911233391">
+        <mark key="[" line="74" column="53" />
+        <mark key="]" line="74" column="54" />
         <mark key="^" line="39" column="74" />
-        <mark key="." line="39" column="74" />
+        <mark key="." line="74" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/bashrc" timestamp="1578902075143">
         <mark key="'" line="0" column="0" />
@@ -111,12 +112,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/m_b_by_l1_summary.sh" timestamp="1578901863119" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" timestamp="1578731990732">
-        <mark key="'" line="28" column="74" />
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="58" column="24" />
-        <mark key="." line="58" column="24" />
-        <mark key="^" line="58" column="24" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" timestamp="1578911223030">
+        <mark key="'" line="46" column="16" />
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GLuceneQuery.java" timestamp="1578638485070">
         <mark key="[" line="16" column="0" />
@@ -163,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="36" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/wordtag/WordTagTest.java" />
-      <jump line="69" column="21" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/wordtag/WordTagTest.java" />
       <jump line="77" column="36" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/wordtag/WordTagTest.java" />
       <jump line="78" column="21" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/wordtag/WordTagTest.java" />
       <jump line="15" column="29" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/wordtag/WordTagTest.java" />
@@ -263,10 +262,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/bashrc" />
       <jump line="53" column="289" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" />
       <jump line="65" column="25" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" />
+      <jump line="48" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
+      <jump line="46" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYW5rRG9jcyA9IG5ldyBHZWVrUmFua0l0ZW00U1tsZW5ndGhdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>field_opt1</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -362,13 +363,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rankDocs[i] = g;</text>
+        <text>field_opt1</text>
       </register>
       <register name="/" type="4">
-        <text>reexport_to_mysql</text>
+        <text>geek_level</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRzX2RhdGU9JHtkc19kYXRlLy0vfQogICAgZHNfZGF0ZT0ke2RzX2RhdGUvLS99Cg==</text>
+      <register name="0" type="4">
+        <text>intent_opt2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByYW5rRG9jcyA9IG5ldyBHZWVrUmFua0l0ZW00U1tsZW5ndGhdOwo=</text>
@@ -457,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reexport_to_mysql</last-search>
+      <last-search>geek_level</last-search>
       <last-offset />
-      <last-pattern>reexport_to_mysql</last-pattern>
+      <last-pattern>geek_level</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>Phrase</last-substitute>
       <last-dir>1</last-dir>
@@ -467,7 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recall</entry>
         <entry>listforbossv2</entry>
         <entry>bossprofile</entry>
         <entry>experience</entry>
@@ -487,6 +487,7 @@
         <entry>IntentionType</entry>
         <entry>Phrase</entry>
         <entry>reexport_to_mysql</entry>
+        <entry>geek_level</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private/public/g</entry>
