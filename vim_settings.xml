@@ -21,6 +21,12 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1578921442922">
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1578910051075">
         <mark key="[" line="54" column="29" />
         <mark key="]" line="54" column="37" />
@@ -101,7 +107,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/bashrc" timestamp="1578902075143">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRankItem4S.java" timestamp="1578908535587" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1577773073354">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,13 +154,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1578565892687">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" timestamp="1578918561414">
-        <mark key="'" line="95" column="41" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="134" column="57" />
-        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/resume_search_query_uv.sh" timestamp="1578714037482" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1578634984628" />
@@ -271,7 +269,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>高新技术企业申报</text>
+        <text encoding="base64">ICAgIHNlbGVjdCBjb3VudChpZihyZWNhbGwgPiAwLDEsTlVMTCkpICwgY291bnQoaWYoIHJlY2FsbCA+MCBhbmQgcmVjYWxsIDwgMTAsMSxOVUxMKSksIGNvdW50KCopICxwbW9kKHVpZCwgMTApLCBxdWVyeV9kYXRlLHVuaXhfdGltZXN0YW1wKENPTkNBVChxdWVyeV9kYXRlLCInJyIpLCIneXl5eU1NZGQnIikgKiAxMDAwLGZyb21fdW5peHRpbWUodW5peF90aW1lc3RhbXAoQ09OQ0FUKHF1ZXJ5X2RhdGUsIicnIiksIid5eXl5TU1kZCciKSwiJ3l5eXktTU0tZGQnIikgIGZyb20gb2RzX2Jvc3NfZXh0LmdlZWtfc2VhcmNoX2xvZ192MyB3aGVyZSBxdWVyeV9kYXRlID49IDIwMTkwMTAxIGFuZCBxdWVyeV9kYXRlIDwgMjAyMDAxMTEgZ3JvdXAgYnkgcXVlcnlfZGF0ZSwgcG1vZCh1aWQsMTApOw==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -367,7 +365,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>'${ds_date}'</text>
       </register>
       <register name="/" type="4">
         <text>DESC</text>
