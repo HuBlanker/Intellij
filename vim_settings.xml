@@ -21,11 +21,11 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1578921442922">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="17" />
-        <mark key="^" line="40" column="17" />
-        <mark key="." line="40" column="17" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1578922157428">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="31" column="7" />
+        <mark key="^" line="57" column="28" />
+        <mark key="." line="57" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1578910051075">
         <mark key="[" line="54" column="29" />
@@ -268,8 +268,8 @@
       <jump line="2062" column="11" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHNlbGVjdCBjb3VudChpZihyZWNhbGwgPiAwLDEsTlVMTCkpICwgY291bnQoaWYoIHJlY2FsbCA+MCBhbmQgcmVjYWxsIDwgMTAsMSxOVUxMKSksIGNvdW50KCopICxwbW9kKHVpZCwgMTApLCBxdWVyeV9kYXRlLHVuaXhfdGltZXN0YW1wKENPTkNBVChxdWVyeV9kYXRlLCInJyIpLCIneXl5eU1NZGQnIikgKiAxMDAwLGZyb21fdW5peHRpbWUodW5peF90aW1lc3RhbXAoQ09OQ0FUKHF1ZXJ5X2RhdGUsIicnIiksIid5eXl5TU1kZCciKSwiJ3l5eXktTU0tZGQnIikgIGZyb20gb2RzX2Jvc3NfZXh0LmdlZWtfc2VhcmNoX2xvZ192MyB3aGVyZSBxdWVyeV9kYXRlID49IDIwMTkwMTAxIGFuZCBxdWVyeV9kYXRlIDwgMjAyMDAxMTEgZ3JvdXAgYnkgcXVlcnlfZGF0ZSwgcG1vZCh1aWQsMTApOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRyb3AgdGFibGUgYGRlb25lLmJvc3Nfc2VhcmNoX25vX3JlY2FsbGA7CiAgICBjcmVhdGUgdGFibGUgYGRlb25lLmJvc3Nfc2VhcmNoX25vX3JlY2FsbGAgKAogICAgICAgIG5vX3JlY2FsbF9jb3VudCBpbnQsCiAgICAgICAgcmVjYWxsX2xlc3NfMTAgaW50LAogICAgICAgIGNvdW50IGludCwKICAgICAgICBzdWZmaXggaW50LAoKICAgICAgICBxdWVyeV9kYXRlIGludCwKICAgICAgICBxdWVyeV90aW1lICAgdGltZXN0YW1wLAogICAgICAgIGRzIHN0cmluZwoKICAgICkgOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
