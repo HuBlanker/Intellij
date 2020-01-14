@@ -182,11 +182,7 @@
         <mark key="^" line="112" column="43" />
         <mark key="." line="112" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GQueryBuilder.java" timestamp="1578993245345">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GQueryBuilder.java" timestamp="1578993245345" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1578994914772">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="26" column="39" />
@@ -218,6 +214,11 @@
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/Query2SQL.java" timestamp="1579006805903">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/recall/QueryConverterTest.java" timestamp="1578577665449">
         <mark key="[" line="56" column="41" />
@@ -567,8 +568,8 @@
       <jump line="9" column="11" filename="/Class.txt.ft" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByYW5rRG9jcyA9IG5ldyBHZWVrUmFua0l0ZW00U1tsZW5ndGhdOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -673,10 +674,10 @@
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHN1ZmZpeEdyYXkgPSBBcnJheXMuYXNMaXN0KDAsIDEsIDIsIDMsIDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5rRG9jcyA9IG5ldyBHZWVrUmFua0l0ZW00U1tsZW5ndGhdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByCiAgICAgKiBAcGFyYW0gaWdub3JlcwogICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFua0RvY3NbaV0gPSBnOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -697,10 +698,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByCiAgICAgKiBAcGFyYW0gaWdub3JlcwogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgQ2FsbGFibGU8TGlzdDxHZWVrUmVjYWxsSXRlbTRTPj4gZmV0Y2goUmVzdW1lU2VhcmNoTWFpbi5SZXNvdXJjZXMgciwgU2V0PEludGVnZXI+IGlnbm9yZXMpIHsKICAgICAgICByZXR1cm4gKCkgLT4gewogICAgICAgICAgICB0aGlzLnJlY2FsbFJlcS5zZXRJZ25vcmVzKG5ldyBBcnJheUxpc3Q8PihpZ25vcmVzKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBicAogICAgICogQHBhcmFtIHJlY2FsbFJlcQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByCiAgICAgKiBAcGFyYW0gaWdub3JlcwogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -714,7 +715,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByCiAgICAgKiBAcGFyYW0gaWdub3JlcwogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgQ2FsbGFibGU8TGlzdDxHZWVrUmVjYWxsSXRlbTRTPj4gZmV0Y2goUmVzdW1lU2VhcmNoTWFpbi5SZXNvdXJjZXMgciwgU2V0PEludGVnZXI+IGlnbm9yZXMpIHsKICAgICAgICByZXR1cm4gKCkgLT4gewogICAgICAgICAgICB0aGlzLnJlY2FsbFJlcS5zZXRJZ25vcmVzKG5ldyBBcnJheUxpc3Q8PihpZ25vcmVzKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -740,16 +741,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBicAogICAgICogQHBhcmFtIHJlY2FsbFJlcQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmbGFnID0gRmxhZ3Muc2V0KGZsYWcsIGJwLmlzQmxvY2tlZCk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhZyA9IEZsYWdzLnNldChmbGFnLCBHU2VhcmNoRmxhZ0ZpbHRlci5CTE9DS0VEXzcwOSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFJlY2FsbFBhcmFtPiBqb2IgPSB6cEpvYi5zdHJlYW0oKS5tYXAoaiAtPiBuZXcgUmVjYWxsUGFyYW0oai51c2VySWQsIGoucG9zaXRpb25Db2RlLCBqLmxvY2F0aW9uKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmbGFnID0gRmxhZ3Muc2V0KGZsYWcsIGJwLmlzQmxvY2tlZCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
