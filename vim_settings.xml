@@ -33,12 +33,12 @@
         <mark key="^" line="102" column="32" />
         <mark key="." line="102" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1578987113245">
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1578988306546">
         <mark key="'" line="2" column="10" />
-        <mark key="[" line="76" column="23" />
-        <mark key="]" line="76" column="24" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
         <mark key="^" line="2" column="10" />
-        <mark key="." line="76" column="24" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1578910051075">
         <mark key="[" line="54" column="29" />
@@ -104,12 +104,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/recall.thrift" timestamp="1578710341379" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/model/ResumePredict48.java" timestamp="1578710022401" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1578736314156">
-        <mark key="'" line="817" column="0" />
-        <mark key="[" line="199" column="68" />
-        <mark key="]" line="199" column="68" />
-        <mark key="." line="199" column="68" />
-        <mark key="^" line="198" column="95" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1578988599795">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="181" column="61" />
+        <mark key="]" line="181" column="61" />
+        <mark key="." line="181" column="61" />
+        <mark key="^" line="181" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/internal/InternalServerTest.java" timestamp="1578908002144">
         <mark key="[" line="213" column="20" />
@@ -171,12 +171,11 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/m_b_f1s_ctr_on_l1.sh" timestamp="1578901950117" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1578970712563">
-        <mark key="'" line="64" column="26" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="3" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1578988322557">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/mtagNNTest.java" timestamp="1578970323549">
         <mark key="[" line="29" column="48" />
@@ -210,8 +209,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean/CachedGeekItem.java" timestamp="1578710028685" />
     </filemarks>
     <jumps>
-      <jump line="339" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" />
-      <jump line="109" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/update_nlu_dict.sh" />
       <jump line="35" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" />
       <jump line="320" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
@@ -310,10 +307,12 @@
       <jump line="64" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" />
       <jump line="43" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/NNServer.java" />
       <jump line="48" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/NNServer.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, req={}</text>
+        <text>, 5</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -409,19 +408,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, req={}</text>
+        <text>, 5</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>suffix</text>
       </register>
       <register name="0" type="4">
         <text>192.168.1.251:4590</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFtyZXN1bWVdW3BmbGl1XSBDaGF0QmxvY2tlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItbm5fc2VydmVycyIsIHVzYWdlID0gIm5uIHNlcnZlcnMgaG9zdCBhbmQgcG9ydCIpCiAgICBwcm90ZWN0ZWQgU3RyaW5nIG5uU2VydmVycyA9ICIxOTIuMTY4LjEuMjUxOjQ1OTAiOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -442,10 +441,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBbcmVzdW1lXVtwZmxpdV0gQ2hhdEJsb2NrZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMg5pu05paw5pyA6L+RMeWkqeeahOaVsOaNrgo8PDw8PDw8IEhFQUQKICAgIGRzX2RhdGU9YGRhdGUgLWQgIi0xIGRheSIgKyVZLSVtLSVkYAo9PT09PT09Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -459,7 +458,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItbm5fc2VydmVycyIsIHVzYWdlID0gIm5uIHNlcnZlcnMgaG9zdCBhbmQgcG9ydCIpCiAgICBwdWJsaWMgU3RyaW5nIG5uU2VydmVycyA9ICIxOTIuMTY4LjEuMjUxOjQ1OTAiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -485,16 +484,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTkxVQ29uZiBjb25mOwo=</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItbm5fc2VydmVycyIsIHVzYWdlID0gIm5uIHNlcnZlcnMgaG9zdCBhbmQgcG9ydCIpCiAgICBwcm90ZWN0ZWQgU3RyaW5nIG5uU2VydmVycyA9ICIxOTIuMTY4LjEuMjUxOjQ1OTAiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb25mID0gbmx1Q29uZjsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbm5TZXJ2ZXJUZXN0ID0gIjE5Mi4xNjguMS4yNTE6NDU5MCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIk5MVUNvbmZ7IiArCiAgICAgICAgICAgICAgICAicm9vdFBhdGg9JyIgKyByb290UGF0aCArICdcJycgKwogICAgICAgICAgICAgICAgIiwgdmVyc2lvbj0nIiArIHZlcnNpb24gKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIGRlc2M9JyIgKyBkZXNjICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBtYW51YWxDYWNoZVZhbGlkPSIgKyBtYW51YWxDYWNoZVZhbGlkICsKICAgICAgICAgICAgICAgICIsIG5uTW9kZWxWYWxpZD0iICsgbm5Nb2RlbFZhbGlkICsKICAgICAgICAgICAgICAgICIsIGRlYnVnTG9nPSIgKyBkZWJ1Z0xvZyArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItbm5fc2VydmVycyIsIHVzYWdlID0gIm5uIHNlcnZlcnMgaG9zdCBhbmQgcG9ydCIpCiAgICBwdWJsaWMgU3RyaW5nIG5uU2VydmVycyA9ICIxOTIuMTY4LjEuMjUxOjQ1OTAiOwo=</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
@@ -504,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>suffix</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>suffix</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>Phrase</last-substitute>
       <last-dir>1</last-dir>
@@ -514,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>search0</entry>
         <entry>clients</entry>
         <entry>zpcli</entry>
         <entry>zp</entry>
@@ -534,6 +532,7 @@
         <entry>DESC</entry>
         <entry encoding="base64">XDxubHVQYXRoXD4=</entry>
         <entry>log</entry>
+        <entry>suffix</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private/public/g</entry>
