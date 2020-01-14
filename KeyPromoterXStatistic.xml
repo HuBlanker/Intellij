@@ -97,6 +97,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'GSearchFlagFilter'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'GSearchFlagFilter'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GenQueryCorrectSample'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -486,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4486</Count>
+          <Count>4494</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
