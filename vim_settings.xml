@@ -100,7 +100,7 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1578658756260">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1579083860083">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="11" />
         <mark key="]" line="37" column="17" />
@@ -161,11 +161,14 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1579073447087">
-        <mark key="[" line="199" column="36" />
-        <mark key="]" line="199" column="43" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1579083784802">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="237" column="24" />
         <mark key="." line="199" column="43" />
         <mark key="^" line="199" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewrite.java" timestamp="1579083619179">
+        <mark key="[" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/Query2SQL.java" timestamp="1579082282422">
         <mark key="[" line="67" column="45" />
@@ -226,7 +229,7 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1579082053386">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1579083430505">
         <mark key="'" line="249" column="39" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="43" column="5" />
@@ -290,6 +293,13 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1577773077495">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1579083417912">
+        <mark key="'" line="398" column="13" />
+        <mark key="[" line="455" column="116" />
+        <mark key="]" line="455" column="124" />
+        <mark key="^" line="455" column="124" />
+        <mark key="." line="455" column="124" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GSearchFields.java" timestamp="1578730646167">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="67" column="0" />
@@ -306,8 +316,8 @@
         <mark key="." line="77" column="54" />
         <mark key="^" line="86" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/QueryConverter.java" timestamp="1579081580417">
-        <mark key="[" line="82" column="56" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/QueryConverter.java" timestamp="1579084225739">
+        <mark key="[" line="97" column="45" />
         <mark key="]" line="83" column="70" />
         <mark key="^" line="83" column="70" />
         <mark key="." line="83" column="70" />
@@ -476,7 +486,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnAudWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2FsYXJ5MCA9IGZpbHRlcnMuZ2V0KFNBTEFSWSk7CiAgICAgICAgaW50IGxvdyA9IC0xLCBoaWdoID0gLTE7CiAgICAgICAgaWYgKHNhbGFyeTAgIT0gbnVsbCkgewogICAgICAgICAgICBmaWx0ZXJzLnJlbW92ZShTQUxBUlkpOwogICAgICAgICAgICBTdHJpbmdbXSBwYXJ0cyA9IHNhbGFyeTAuc3BsaXQoIiwiKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvdyA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMF0pOwogICAgICAgICAgICAgICAgaGlnaCA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMV0pOwogICAgICAgICAgICAgICAgaWYgKGhpZ2ggPT0gLTEpIGhpZ2ggPSAxMDAwOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGhpZ2hTYWxhcnkgPSBoaWdoOwogICAgICAgIGxvd1NhbGFyeSA9IGxvdzsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -578,7 +588,7 @@
         <text>newRangeQuery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlnKjkuIrpnaLnmoTln7rnoYDkuIrliqDkuobkuIDkuKpyYW5nZeeahOW3peS9nOW5tOmZkOetm+mAiQogICAgICAgIGZpbHRlcnMucHV0KEZpbHRlckZpZWxkLkVYUEVSSUVOQ0UsICIyLDYiKTsKICAgICAgICBSZWNhbGxRdWVyeSByZWNhbGxRdWVyeTEgPSBHUXVlcnlCdWlsZGVyLmJ1aWxkKG51bGwsIHF1ZXJ5LCBieVR5cGUsIGZpbHRlcnMsIHpwSm9iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUXVlcnlDb252ZXJ0ZXIuY29udmVydFRvTHVjZW5lKENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QocmVjYWxsUXVlcnkxKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2FsYXJ5MCA9IGZpbHRlcnMuZ2V0KFNBTEFSWSk7CiAgICAgICAgaW50IGxvdyA9IC0xLCBoaWdoID0gLTE7CiAgICAgICAgaWYgKHNhbGFyeTAgIT0gbnVsbCkgewogICAgICAgICAgICBmaWx0ZXJzLnJlbW92ZShTQUxBUlkpOwogICAgICAgICAgICBTdHJpbmdbXSBwYXJ0cyA9IHNhbGFyeTAuc3BsaXQoIiwiKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvdyA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMF0pOwogICAgICAgICAgICAgICAgaGlnaCA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMV0pOwogICAgICAgICAgICAgICAgaWYgKGhpZ2ggPT0gLTEpIGhpZ2ggPSAxMDAwOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGhpZ2hTYWxhcnkgPSBoaWdoOwogICAgICAgIGxvd1NhbGFyeSA9IGxvdzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnAudWlkKTsK</text>
