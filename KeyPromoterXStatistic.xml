@@ -502,7 +502,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4613</Count>
+          <Count>4627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -878,7 +878,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'GJobQueryBuilderTest.buildJobQuery'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GQueryBuilderTest'">
@@ -1974,7 +1974,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1442</Count>
+          <Count>1445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2150,7 +2150,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1569</Count>
+          <Count>1571</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -2286,6 +2286,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'GFilterQueryBuilderTest.buildFilter'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GJobQueryBuilderTest.buildJobQuery'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GJobQueryBuilderTest.buildJobQuery'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2934,7 +2942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>561</Count>
+          <Count>564</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
