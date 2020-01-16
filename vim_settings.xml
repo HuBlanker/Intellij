@@ -112,12 +112,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" timestamp="1579079751936">
-        <mark key="'" line="146" column="35" />
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="27" />
-        <mark key="." line="46" column="27" />
-        <mark key="^" line="46" column="27" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" timestamp="1579143187494">
+        <mark key="'" line="162" column="37" />
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="136" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GQueryUtil.java" timestamp="1579071858615">
         <mark key="[" line="23" column="4" />
@@ -455,7 +455,6 @@
       <jump line="118" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="126" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="148" column="90" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
-      <jump line="154" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="157" column="86" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="181" column="79" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="187" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
@@ -483,10 +482,11 @@
       <jump line="218" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
       <jump line="228" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
       <jump line="249" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
+      <jump line="154" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2FsYXJ5MCA9IGZpbHRlcnMuZ2V0KFNBTEFSWSk7CiAgICAgICAgaW50IGxvdyA9IC0xLCBoaWdoID0gLTE7CiAgICAgICAgaWYgKHNhbGFyeTAgIT0gbnVsbCkgewogICAgICAgICAgICBmaWx0ZXJzLnJlbW92ZShTQUxBUlkpOwogICAgICAgICAgICBTdHJpbmdbXSBwYXJ0cyA9IHNhbGFyeTAuc3BsaXQoIiwiKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvdyA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMF0pOwogICAgICAgICAgICAgICAgaGlnaCA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMV0pOwogICAgICAgICAgICAgICAgaWYgKGhpZ2ggPT0gLTEpIGhpZ2ggPSAxMDAwOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGhpZ2hTYWxhcnkgPSBoaWdoOwogICAgICAgIGxvd1NhbGFyeSA9IGxvdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlj6ropoHmnIDkvY7lt6XotYQK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -585,16 +585,16 @@
         <text encoding="base64">YnAsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>newRangeQuery</text>
+        <text>salary</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc2FsYXJ5MCA9IGZpbHRlcnMuZ2V0KFNBTEFSWSk7CiAgICAgICAgaW50IGxvdyA9IC0xLCBoaWdoID0gLTE7CiAgICAgICAgaWYgKHNhbGFyeTAgIT0gbnVsbCkgewogICAgICAgICAgICBmaWx0ZXJzLnJlbW92ZShTQUxBUlkpOwogICAgICAgICAgICBTdHJpbmdbXSBwYXJ0cyA9IHNhbGFyeTAuc3BsaXQoIiwiKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvdyA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMF0pOwogICAgICAgICAgICAgICAgaGlnaCA9IEludGVnZXIucGFyc2VJbnQocGFydHNbMV0pOwogICAgICAgICAgICAgICAgaWYgKGhpZ2ggPT0gLTEpIGhpZ2ggPSAxMDAwOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGhpZ2hTYWxhcnkgPSBoaWdoOwogICAgICAgIGxvd1NhbGFyeSA9IGxvdzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnAudWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlj6ropoHmnIDkvY7lt6XotYQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlhbPplK7or41xdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -621,10 +621,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBnZWVrCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnAudWlkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuREVHUkVFOgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDlhbPplK7or41xdWVyeQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -638,7 +638,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuREVHUkVFOgogICAgICAgICAgICAgICAgY2FzZSBHZWVrV3JhcHBlci5BR0U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBnZWVrCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -664,16 +664,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuRVhQRVJJRU5DRToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuREVHUkVFOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0xPVzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuREVHUkVFOgogICAgICAgICAgICAgICAgY2FzZSBHZWVrV3JhcHBlci5BR0U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0xPVzoKICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0xPVzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuRVhQRVJJRU5DRToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0xPVzoKICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0hJR0g6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0xPVzoK</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
@@ -683,9 +683,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newRangeQuery</last-search>
+      <last-search>salary</last-search>
       <last-offset />
-      <last-pattern>newRangeQuery</last-pattern>
+      <last-pattern>salary</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -693,7 +693,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>level</entry>
         <entry>reexport_to_mysql</entry>
         <entry>geek_level</entry>
@@ -713,6 +712,7 @@
         <entry>break</entry>
         <entry>985</entry>
         <entry>newRangeQuery</entry>
+        <entry>salary</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot; /&quot;/g</entry>
