@@ -229,8 +229,8 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1579083430505">
-        <mark key="'" line="249" column="39" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1579154282321">
+        <mark key="'" line="181" column="15" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="43" column="5" />
       </file>
@@ -384,7 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
       <jump line="65" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
       <jump line="26" column="74" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
       <jump line="213" column="1" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" />
@@ -484,6 +483,7 @@
       <jump line="249" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
       <jump line="154" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="40" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GKeywordQueryBuilder.java" />
+      <jump line="181" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -586,7 +586,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>slow</text>
+        <text>salary</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDlho3liqDkuIDkuKrlrabljobnmoTnrZvpgIkKICAgICAgICBmaWx0ZXJzLnB1dChGaWx0ZXJGaWVsZC5ERUdSRUUsICIyMDMsMjA1Iik7CiAgICAgICAgUmVjYWxsUXVlcnkgcmVjYWxsUXVlcnkyID0gR1F1ZXJ5QnVpbGRlci5idWlsZChxdWVyeSwgYnlUeXBlLCBmaWx0ZXJzLCB6cEpvYik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFF1ZXJ5Q29udmVydGVyLmNvbnZlcnRUb0x1Y2VuZShDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHJlY2FsbFF1ZXJ5MikpKTsK</text>
@@ -684,9 +684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>slow</last-search>
+      <last-search>salary</last-search>
       <last-offset />
-      <last-pattern>slow</last-pattern>
+      <last-pattern>salary</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -712,8 +712,8 @@
         <entry>break</entry>
         <entry>985</entry>
         <entry>newRangeQuery</entry>
-        <entry>salary</entry>
         <entry>slow</entry>
+        <entry>salary</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot; /&quot;/g</entry>
