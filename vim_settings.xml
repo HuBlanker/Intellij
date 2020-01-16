@@ -67,7 +67,7 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1578910051075">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1579146813616">
         <mark key="[" line="54" column="29" />
         <mark key="]" line="54" column="37" />
         <mark key="." line="54" column="37" />
@@ -310,11 +310,11 @@
         <mark key="[" line="1872" column="12" />
         <mark key="]" line="1872" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1579082301052">
-        <mark key="[" line="77" column="54" />
-        <mark key="]" line="77" column="54" />
-        <mark key="." line="77" column="54" />
-        <mark key="^" line="86" column="47" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1579146691263">
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="69" column="31" />
+        <mark key="." line="69" column="31" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/QueryConverter.java" timestamp="1579145567399">
         <mark key="[" line="88" column="0" />
@@ -357,10 +357,12 @@
         <mark key="^" line="3729" column="28" />
         <mark key="." line="3729" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GKeywordQueryBuilder.java" timestamp="1579079319333">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GKeywordQueryBuilder.java" timestamp="1579147163303">
+        <mark key="'" line="40" column="30" />
+        <mark key="[" line="245" column="32" />
+        <mark key="]" line="245" column="31" />
+        <mark key="." line="245" column="31" />
+        <mark key="^" line="245" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/test/java/com/bosszhipin/common/DataInitManagerTest.java" timestamp="1579078874129">
         <mark key="[" line="13" column="0" />
@@ -373,7 +375,7 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy.java" timestamp="1579009903908">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/SearchStrategy.java" timestamp="1579147115069">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="52" />
       </file>
@@ -382,7 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GSearchFields.java" />
       <jump line="14" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
       <jump line="65" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
       <jump line="26" column="74" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" />
@@ -482,10 +483,11 @@
       <jump line="228" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
       <jump line="249" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
       <jump line="154" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
+      <jump line="40" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GKeywordQueryBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0xPVzoKICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuRVhQRVJJRU5DRToKICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuREVHUkVFOgogICAgICAgICAgICAgICAgY2FzZSBHZWVrV3JhcHBlci5BR0U6CiAgICAgICAgICAgICAgICBjYXNlIEdlZWtXcmFwcGVyLldPUktfWUVBUjoKICAgICAgICAgICAgICAgIGNhc2UgR2Vla1dyYXBwZXIuU0FMQVJZX0hJR0g6CiAgICAgICAgICAgICAgICAgICAgZm9yIChGaWVsZFZhbHVlIGZ2IDogcS52YWx1ZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gcGFpciA9IGZ2LnYuc3BsaXQoIiwiKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhaXIubGVuZ3RoICE9IDIpIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgICAgICBRdWVyeSBfcSA9IEludFBvaW50Lm5ld1JhbmdlUXVlcnkocS5maWVsZCwgSW50ZWdlci5wYXJzZUludChwYWlyWzBdKSwgSW50ZWdlci5wYXJzZUludChwYWlyWzFdKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkUXVlcnkuYWRkKF9xLCBCb29sZWFuQ2xhdXNlLk9jY3VyLnZhbHVlT2YoZnYub2NjdXIpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>COMPANY</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -581,10 +583,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Query</text>
+        <text>COMPANY</text>
       </register>
       <register name="/" type="4">
-        <text>salary</text>
+        <text>slow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gcGFpciA9IGZ2LnYuc3BsaXQoIiwiKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBhaXIubGVuZ3RoICE9IDIpIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgICAgICBRdWVyeSBfcSA9IEludFBvaW50Lm5ld1JhbmdlUXVlcnkocS5maWVsZCwgSW50ZWdlci5wYXJzZUludChwYWlyWzBdKSwgSW50ZWdlci5wYXJzZUludChwYWlyWzFdKSk7Cg==</text>
@@ -682,9 +684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>salary</last-search>
+      <last-search>slow</last-search>
       <last-offset />
-      <last-pattern>salary</last-pattern>
+      <last-pattern>slow</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -692,7 +694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
         <entry>reexport_to_mysql</entry>
         <entry>geek_level</entry>
         <entry>DESC</entry>
@@ -712,6 +713,7 @@
         <entry>985</entry>
         <entry>newRangeQuery</entry>
         <entry>salary</entry>
+        <entry>slow</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot; /&quot;/g</entry>
