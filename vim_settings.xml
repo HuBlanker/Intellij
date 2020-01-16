@@ -294,12 +294,12 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1577773077495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1579170527280">
-        <mark key="'" line="398" column="13" />
-        <mark key="[" line="462" column="27" />
-        <mark key="]" line="462" column="34" />
-        <mark key="." line="462" column="34" />
-        <mark key="^" line="462" column="34" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1579174975465">
+        <mark key="'" line="397" column="13" />
+        <mark key="[" line="457" column="45" />
+        <mark key="]" line="457" column="51" />
+        <mark key="." line="457" column="51" />
+        <mark key="^" line="457" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1579153285371">
         <mark key="[" line="90" column="46" />
@@ -337,9 +337,10 @@
       <file name="/Dummy.txt" timestamp="1579055767427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" timestamp="1579173686762">
-        <mark key="[" line="473" column="40" />
-        <mark key="]" line="473" column="47" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" timestamp="1579174914238">
+        <mark key="'" line="471" column="0" />
+        <mark key="[" line="475" column="0" />
+        <mark key="]" line="480" column="45" />
         <mark key="^" line="473" column="47" />
         <mark key="." line="473" column="47" />
       </file>
@@ -374,8 +375,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/historypush/HistoryPushCacheB.java" timestamp="1579161429764" />
     </filemarks>
     <jumps>
-      <jump line="165" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFileterRewrite.java" />
-      <jump line="184" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFileterRewrite.java" />
       <jump line="194" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFileterRewrite.java" />
       <jump line="208" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFileterRewrite.java" />
       <jump line="14" column="21" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -474,10 +473,12 @@
       <jump line="2532" column="5" filename="$USER_HOME$/workspace/data-common/src/main/resources/boss_l3_sim_code.json" />
       <jump line="2646" column="12" filename="$USER_HOME$/workspace/data-common/src/main/resources/boss_l3_sim_code.json" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean.def" />
+      <jump line="358" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="471" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nn_vec</text>
+        <text>userId</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -573,19 +574,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nn_vec</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>cachedGeekItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0cmEucHV0KCJubl92ZWMiLCBkLmNnaS5ubl92ZWMsIDAuMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtID0gZXh0cmEuZ2V0KCk7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gdG1wID0gbmV3IEhhc2hNYXA8PihtLnNpemUoKSk7CiAgICAgICAgICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgT2JqZWN0PiBlIDogbS5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgICAgICB0bXAucHV0KGUuZ2V0S2V5KCksIGUuZ2V0VmFsdWUoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByLnB1dCgobG9uZykgZC5nZWVrLnVzZXJJZCwgdG1wKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdXN0Tk5SZWNhbGwocmVjYWxsSXRlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmEucHV0KCIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzci5kZWJ1ZyBbZGRdCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -612,10 +613,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZWNhbGxRdWVyeSBqb2JRdWVyeSA9IEdKb2JRdWVyeUJ1aWxkZXIuYnVpbGRKb2JRdWVyeSh6cEpvYiwgcXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzci5nZWVrcyA9IHJlY2FsbEl0ZW1zLnN0cmVhbSgpLmxpbWl0KDUwKS5tYXAoZyAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIENhY2hlZEdlZWtJdGVtIGNpID0gbmV3IENhY2hlZEdlZWtJdGVtKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNpLm5uX2x1Y2VuZSA9IChmbG9hdCkgZy5sdWNlbmU7CiAgICAgICAgICAgICAgICAgICAgICAgIGNpLm5uX3ZlYyA9IChmbG9hdCkgZy52ZWM7CiAgICAgICAgICAgICAgICAgICAgICAgIGNpLm5uX3RvdGFsID0gKGZsb2F0KSBnLnNjb3JlOwoKICAgICAgICAgICAgICAgICAgICAgICAgY2kuZ2Vla0lkID0gZy5nZWVrSWQ7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBjaTsKICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdXN0Rm9yTk4ocmVjYWxsSXRlbXMsIHNyKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -629,7 +630,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWZpbHRlcnMuY29udGFpbnNLZXkoRmlsdGVyRmllbGQuUE9TSVRJT04pKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqdXN0Tk5SZWNhbGwocmVjYWxsSXRlbXMpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -658,13 +659,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBqb2IK</text>
+        <text encoding="base64">ICAgICAgICBSZWNhbGxRdWVyeSBqb2JRdWVyeSA9IEdKb2JRdWVyeUJ1aWxkZXIuYnVpbGRKb2JRdWVyeSh6cEpvYiwgcXVlcnkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZWNhbGxRdWVyeSBqb2JRdWVyeSA9IG5ldyBSZWNhbGxRdWVyeSgpOwogICAgICAgIGlmICghZmlsdGVycy5jb250YWluc0tleShGaWx0ZXJGaWVsZC5QT1NJVElPTikpIHsKICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiBsM3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgaW50IGwzID0genBKb2IucG9zaXRpb25Db2RlOwogICAgICAgICAgICBsM3MuYWRkKGwzKTsKICAgICAgICAgICAgZm9yIChJbnRlZ2VyIHNsMyA6IFNpbU1hdHJpeFYyLlNJTV80Qi5jbG9zZXN0KGwzKSkgewogICAgICAgICAgICAgICAgaWYgKFNpbU1hdHJpeFYyLlNJTV80Qi5sMzIobDMsIHNsMykgPiAwLjIpIHsKICAgICAgICAgICAgICAgICAgICBsM3MuYWRkKHNsMyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgam9iUXVlcnkuc2V0T2NjdXIobXVzdE5hbWUpOwoKICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGkgOiBsM3MpIHsKICAgICAgICAgICAgICAgIFJlY2FsbFF1ZXJ5IGwzUXVlcnkgPSBHUXVlcnlVdGlsLm5ld1Rlcm1RdWVyeShHZWVrV3JhcHBlci5FWFBFQ1RfQ09ERSwgaSArICIiLCBzaG91bGROYW1lKTsKICAgICAgICAgICAgICAgIGpvYlF1ZXJ5LmFkZFRvUXVlcmllcyhsM1F1ZXJ5KTsKICAgICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWZpbHRlcnMuY29udGFpbnNLZXkoRmlsdGVyRmllbGQuUE9TSVRJT04pKSB7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
