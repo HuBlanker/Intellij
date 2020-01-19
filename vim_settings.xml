@@ -239,10 +239,10 @@
         <mark key="." line="255" column="48" />
         <mark key="^" line="255" column="48" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedisDistributedLockTest.java" timestamp="1579420784122">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedisDistributedLockTest.java" timestamp="1579424704350">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="68" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagCache.java" timestamp="1578973972561">
@@ -264,8 +264,8 @@
         <mark key="." line="54" column="37" />
         <mark key="^" line="54" column="37" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" timestamp="1579420832206">
-        <mark key="'" line="70" column="23" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" timestamp="1579424618834">
+        <mark key="'" line="117" column="47" />
         <mark key="[" line="113" column="22" />
         <mark key="]" line="113" column="22" />
         <mark key="." line="113" column="22" />
@@ -441,7 +441,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean/CachedGeekItem.java" timestamp="1578710028685" />
     </filemarks>
     <jumps>
-      <jump line="75" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GJobQueryBuilder.java" />
       <jump line="78" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GJobQueryBuilder.java" />
       <jump line="84" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="89" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
@@ -541,10 +540,11 @@
       <jump line="72" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" />
       <jump line="70" column="23" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" />
       <jump line="270" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
+      <jump line="117" column="47" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obG9ja2VyLnVuTG9jaygibG9ja19rZXkiLCAidGVzdF92YWx1ZSIpKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -645,8 +645,8 @@
       <register name="/" type="4">
         <text>degree</text>
       </register>
-      <register name="0" type="4">
-        <text>// 当通过职位搜索，且强制筛选职位薪资时候</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obG9ja2VyLnVuTG9jaygibG9ja19rZXkiLCAidGVzdF92YWx1ZSIpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIH0K</text>
