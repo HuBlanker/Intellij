@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4687</Count>
+          <Count>4689</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1673,6 +1673,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RedisDistributedLockTest.testLock'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'RedisDistributedLockTest.testLock'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RedisDistributedLockTest.testReentrant'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'RedisDistributedLockTest.testReentrant'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RedisLock'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2014,7 +2030,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1451</Count>
+          <Count>1455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2190,7 +2206,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>6</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -2198,7 +2214,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1574</Count>
+          <Count>1584</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -2745,6 +2761,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RedisDistributedLockTest.testLock'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RedisDistributedLockTest.testLock'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ResumeSearchLogEval'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2990,7 +3014,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>575</Count>
+          <Count>592</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
