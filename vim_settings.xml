@@ -41,12 +41,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" timestamp="1579525379154">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" timestamp="1579527596217">
         <mark key="'" line="167" column="32" />
-        <mark key="[" line="177" column="15" />
-        <mark key="]" line="177" column="15" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
         <mark key="^" line="147" column="20" />
-        <mark key="." line="177" column="15" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1577773099183">
         <mark key="[" line="0" column="0" />
@@ -205,6 +205,9 @@
         <mark key="]" line="45" column="49" />
         <mark key="." line="45" column="49" />
         <mark key="^" line="45" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1579527736011">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1579146813616">
         <mark key="[" line="54" column="29" />
@@ -627,8 +630,8 @@
       <jump line="167" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>execute</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -735,9 +738,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>LocalDate.parse(queryDate + &quot;&quot;, DateTimeFormatter.ofPattern(&quot;yyyyMMdd&quot;))
-                    .atTime(0, 0)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFN1ZmZpeFNsb3RDb3VudEl0ZW0gewogICAgICAgIGludCBzdWZmaXg7CiAgICAgICAgU3RyaW5nIHNsb3Q7CiAgICAgICAgaW50IGNvdW50OwogICAgICAgIGludCBxdWVyeURhdGU7CiAgICAgICAgaW50IHF1ZXJ5VGltZTsKCiAgICAgICAgcHVibGljIFN1ZmZpeFNsb3RDb3VudEl0ZW0oaW50IHN1ZmZpeCwgU3RyaW5nIHNsb3QsIGludCBjb3VudCwgaW50IHF1ZXJ5RGF0ZSwgaW50IHF1ZXJ5VGltZSkgewogICAgICAgICAgICB0aGlzLnN1ZmZpeCA9IHN1ZmZpeDsKICAgICAgICAgICAgdGhpcy5zbG90ID0gc2xvdDsKICAgICAgICAgICAgdGhpcy5jb3VudCA9IGNvdW50OwogICAgICAgICAgICB0aGlzLnF1ZXJ5RGF0ZSA9IHF1ZXJ5RGF0ZTsKICAgICAgICAgICAgdGhpcy5xdWVyeVRpbWUgPSBxdWVyeVRpbWU7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -766,8 +768,9 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>LocalDate.parse(queryDate + &quot;&quot;, DateTimeFormatter.ofPattern(&quot;yyyyMMdd&quot;))
+                    .atTime(0, 0)</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -805,16 +808,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIEludGVnZXI+IGN1cnJlbnRTdWZmeGlNYXAgPSBtYXAuZ2V0KHN1ZmZpeCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXRJZkFic2VudChzdWZmaXgsIG5ldyBIYXNoTWFwPD4oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPEludGVnZXIsIE1hcDxTdHJpbmcsIEludGVnZXI+PiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIEludGVnZXI+IGN1cnJlbnRTdWZmeGlNYXAgPSBtYXAuZ2V0KHN1ZmZpeCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8T2JqZWN0PiBhcmdzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAvLyBzdWZmaXgKICAgICAgICAgICAgICAgIGFyZ3MuYWRkKGUuZ2V0S2V5KCkpOwoKICAgICAgICAgICAgICAgIGFyZ3MuYWRkKHNsb3RDb3VudC4pCgoKCiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFyZ3Muc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgICAgICAgICBwcy5zZXRPYmplY3QoaSArIDEsIGFyZ3MuZ2V0KGkpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHBzLmFkZEJhdGNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXRJZkFic2VudChzdWZmaXgsIG5ldyBIYXNoTWFwPD4oKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
