@@ -25,8 +25,11 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
       </file>
-      <file name="/a.dummy" timestamp="1579484929691">
+      <file name="/a.dummy" timestamp="1579509699922">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1577773099183">
         <mark key="[" line="0" column="0" />
@@ -138,6 +141,9 @@
         <mark key="]" line="24" column="41" />
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_query_intention_distribution.sh" timestamp="1579507859689">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1577773073354">
         <mark key="[" line="0" column="0" />
@@ -345,11 +351,11 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedissonDistributedLockTest.java" timestamp="1579507241198">
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedissonDistributedLockTest.java" timestamp="1579509681547">
         <mark key="'" line="43" column="12" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="45" column="5" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1579251039059">
         <mark key="[" line="0" column="0" />
@@ -380,6 +386,13 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_query_distribution.sh" timestamp="1579509411600">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="6" />
+        <mark key="^" line="63" column="25" />
+        <mark key="." line="63" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1579059788579">
         <mark key="'" line="3560" column="0" />
         <mark key="[" line="3729" column="23" />
@@ -401,6 +414,7 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/resume_search_query_uv.sh" timestamp="1579508873071" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/Query2SQL.java" timestamp="1579182848257">
         <mark key="[" line="23" column="48" />
         <mark key="]" line="23" column="48" />
@@ -450,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="86" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="181" column="79" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="187" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="192" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
@@ -550,10 +563,11 @@
       <jump line="135" column="32" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" />
       <jump line="99" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedisDistributedLockTest.java" />
       <jump line="49" column="12" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedissonDistributedLockTest.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_query_distribution.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0RGlzdHJpYnV0ZWRMb2NrKCkgewogICAgICAgIENvbmZpZyBjb25maWcgPSBuZXcgQ29uZmlnKCk7Ci8vICAgICAgICBjb25maWcuc2V0VHJhbnNwb3J0TW9kZShUcmFuc3BvcnRNb2RlLkVQT0xMKTsKICAgICAgICBjb25maWcudXNlU2luZ2xlU2VydmVyKCkKICAgICAgICAgICAgICAgIC5zZXRBZGRyZXNzKCJyZWRpczovL2xvY2FsaG9zdDo2Mzc5Iik7CiAgICAgICAgUmVkaXNzb25DbGllbnQgcmVkaXNzb24gPSBSZWRpc3Nvbi5jcmVhdGUoY29uZmlnKTsKCgogICAgICAgIEludFN0cmVhbS5yYW5nZUNsb3NlZCgxLCA1KQogICAgICAgICAgICAgICAgLnBhcmFsbGVsKCkKICAgICAgICAgICAgICAgIC5mb3JFYWNoKGkgLT4gewogICAgICAgICAgICAgICAgICAgIGV4ZWN1dGVMb2NrKHJlZGlzc29uKTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICBleGVjdXRlTG9jayhyZWRpc3Nvbik7CiAgICB9CgogICAgcHVibGljIHZvaWQgZXhlY3V0ZUxvY2soUmVkaXNzb25DbGllbnQgcmVkaXNzb24pIHsKICAgICAgICBSTG9jayBsb2NrID0gcmVkaXNzb24uZ2V0TG9jaygibXlMb2NrIik7CiAgICAgICAgYm9vbGVhbiBsb2NrZWQgPSBmYWxzZTsKICAgICAgICB0cnkgewogICAgICAgICAgICBsb2NrZWQgPSBsb2NrLnRyeUxvY2soKTsKICAgICAgICAgICAgbG9nLmluZm8oImdldCBsb2NrIHJlc3VsdDp7fSwgdGhyZWFkSWQgPSB7fSIsIGxvY2tlZCwgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXRJZCgpKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGlmIChsb2NrZWQpIHsKICAgICAgICAgICAgICAgIGxvY2sudW5sb2NrKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -649,19 +663,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HOURS</text>
+        <text>boss_search_no_recall</text>
       </register>
       <register name="/" type="4">
         <text>degree</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2xlZXAoMTAwMDApOwo=</text>
+      <register name="0" type="4">
+        <text>boss_search_query_distribution</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImVudGVyIHVubG9jayIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobG9ja2VkKXsKICAgICAgICAgICAgICAgIFRpbWVVbml0LlNFQ09ORFMuc2xlZXAoMSk7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiZ2V0IGxvY2sgYW5kIGZpbmlzaCIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFJlZGlzc29uUm5lZExvY2sK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -688,10 +702,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInRyeSBsb2NrIik7Cg==</text>
+        <text encoding="base64">ICAgIGRzX2RhdGU9JHtkc19kYXRlLy0vfQogICAgZHNfZGF0ZT0ke2RzX2RhdGUvLS99Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2NrZWQgPSBsb2NrLnRyeUxvY2soMSwyLFRpbWVVbml0Lk1JTlVURVMpOwo=</text>
+        <text encoding="base64">ICAgIGRzX2RhdGU9JHtkc19kYXRlLy0vfQogICAgZHNfZGF0ZT0ke2RzX2RhdGUvLS99Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -705,7 +719,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRpc3NvbkxvY2sK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV9kYXRlIGludCwKICAgICAgICBxdWVyeV90aW1lICAgdGltZXN0YW1wLAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -729,16 +743,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJ1bldpdGgoQXJxdWlsbGlhbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV90aW1lICAgdGltZXN0YW1wLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5hcnF1aWxsaWFuLmNvbnRhaW5lci50ZXN0LmFwaS5EZXBsb3ltZW50OwppbXBvcnQgb3JnLmpib3NzLmFycXVpbGxpYW4uanVuaXQuQXJxdWlsbGlhbjsKaW1wb3J0IG9yZy5qYm9zcy5zaHJpbmt3cmFwLmFwaS5TaHJpbmtXcmFwOwppbXBvcnQgb3JnLmpib3NzLnNocmlua3dyYXAuYXBpLmFzc2V0LkVtcHR5QXNzZXQ7CmltcG9ydCBvcmcuamJvc3Muc2hyaW5rd3JhcC5hcGkuc3BlYy5KYXZhQXJjaGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeV9kYXRlIGludCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOS9nOiAhe+8mmdvNGl0CiAgICDpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzViYTRiMmNjNTE4ODI1NWM2NzJlYWNmMgogICAg5p2l5rqQ77ya5o6Y6YeRCiAgICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+        <text encoding="base64">ICAgICAgICBzdWZmaXggaW50LAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBEZXBsb3ltZW50CiAgICBwdWJsaWMgc3RhdGljIEphdmFBcmNoaXZlIGNyZWF0ZURlcGxveW1lbnQoKSB7CiAgICAgICAgcmV0dXJuIFNocmlua1dyYXAuY3JlYXRlKEphdmFBcmNoaXZlLmNsYXNzKQogICAgICAgICAgICAgICAgLmFkZENsYXNzKFJlZGlzc29uRGlzdHJpYnV0ZWRMb2NrLmNsYXNzKQogICAgICAgICAgICAgICAgLmFkZEFzTWFuaWZlc3RSZXNvdXJjZShFbXB0eUFzc2V0LklOU1RBTkNFLCAiYmVhbnMueG1sIik7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdWZmaXggaW50LAo=</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
