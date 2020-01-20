@@ -192,6 +192,9 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" timestamp="1579534880531">
+        <mark key="'" line="75" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1579518860914">
         <mark key="'" line="2" column="10" />
         <mark key="[" line="2" column="0" />
@@ -528,25 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
-      <jump line="40" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GKeywordQueryBuilder.java" />
-      <jump line="181" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
-      <jump line="77" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
-      <jump line="642" column="54" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="44" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GRecallReq.java" />
-      <jump line="264" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="668" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="669" column="54" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="670" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="671" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="672" column="58" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="675" column="59" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="676" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="677" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="33" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="665" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="664" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="399" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="395" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="386" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="363" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
@@ -628,6 +612,25 @@
       <jump line="113" column="107" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
       <jump line="153" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
       <jump line="167" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
+      <jump line="289" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="15" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="49" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="50" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="54" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="55" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="56" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="57" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="90" column="53" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="91" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="140" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="148" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="151" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="186" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="221" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="223" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="255" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="296" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
+      <jump line="75" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -730,7 +733,7 @@
         <text>execute</text>
       </register>
       <register name="/" type="4">
-        <text>[</text>
+        <text>system</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBhcmdzLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBwcy5zZXRPYmplY3QoaSArIDEsIGFyZ3MuZ2V0KGkpKTsKICAgICAgICAgICAgfQo=</text>
@@ -827,9 +830,9 @@
       </register>
     </registers>
     <search>
-      <last-search>[</last-search>
+      <last-search>system</last-search>
       <last-offset />
-      <last-pattern>[</last-pattern>
+      <last-pattern>system</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -837,9 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ChatCardBlockReq</entry>
-        <entry>filterq</entry>
-        <entry>fq</entry>
         <entry>break</entry>
         <entry>985</entry>
         <entry>newRangeQuery</entry>
@@ -857,6 +857,9 @@
         <entry>degreee</entry>
         <entry>degree</entry>
         <entry>[</entry>
+        <entry>db</entry>
+        <entry>log</entry>
+        <entry>system</entry>
       </history-search>
       <history-cmd>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>
