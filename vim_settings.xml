@@ -131,10 +131,12 @@
         <mark key="^" line="31" column="27" />
         <mark key="." line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedisDistributedLockTest.java" timestamp="1579440849921">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="37" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedisDistributedLockTest.java" timestamp="1579442003752">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="99" column="1" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalModel.java" timestamp="1578970008857">
         <mark key="'" line="107" column="62" />
@@ -194,12 +196,12 @@
         <mark key="." line="54" column="37" />
         <mark key="^" line="54" column="37" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" timestamp="1579440906829">
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" timestamp="1579442246320">
         <mark key="'" line="135" column="32" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="111" column="39" />
-        <mark key="." line="111" column="39" />
-        <mark key="^" line="111" column="39" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="220" column="5" />
+        <mark key="." line="212" column="19" />
+        <mark key="^" line="212" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" timestamp="1579182815142">
         <mark key="'" line="47" column="16" />
@@ -369,6 +371,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/model_crf/README.md" timestamp="1578031066591">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/pom.xml" timestamp="1579442583596">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="25" column="27" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1579232324481">
         <mark key="[" line="0" column="0" />
       </file>
@@ -474,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="148" column="90" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="157" column="86" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
       <jump line="181" column="79" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GFilterQueryBuilder.java" />
@@ -574,10 +581,11 @@
       <jump line="133" column="16" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" />
       <jump line="18" column="5" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" />
       <jump line="135" column="32" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/redis/RedisDistributedLock.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedisDistributedLockTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2xlZXAoMTAwMDApOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5piv5ZCm5b2T5YmN55qEa2V5LXZhbHVl5oyB5pyJ55qE6ZSBLgogICAgICogQHBhcmFtIGtleSBrZXkKICAgICAqIEBwYXJhbSB2YWx1ZSB2YWx1ZQogICAgICogQHJldHVybiDmmK/lkKbmjIHmnInplIEKICAgICAqLwogICAgcHVibGljIHN5bmNocm9uaXplZCBib29sZWFuIGlzTG9ja2luZyhTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpIHsKICAgICAgICBpZiAodmFsdWUgPT0gbnVsbCB8fCBrZXkgPT0gbnVsbCkgcmV0dXJuIGZhbHNlOwogICAgICAgIHRyeSAoSmVkaXMgamVkaXMgPSB0aGlzLmplZGlzUG9vbC5nZXRSZXNvdXJjZSgpKSB7CiAgICAgICAgICAgIFN0cmluZyBzID0gamVkaXMuZ2V0KGtleSk7CiAgICAgICAgICAgIHJldHVybiB2YWx1ZS5lcXVhbHMocyk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -768,7 +776,7 @@
         <text>di(jevi(p</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -804,8 +812,6 @@
         <entry>degree</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot; /&quot;/g</entry>
-        <entry>%s/QueryKind.JOB/QueryKind.J/g</entry>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>
         <entry>%s/FilterField/api.FilterField/g</entry>
         <entry>:help digraph-table</entry>
@@ -824,6 +830,8 @@
         <entry>%s/IntentionType/NLUSlotType/g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>set line</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
