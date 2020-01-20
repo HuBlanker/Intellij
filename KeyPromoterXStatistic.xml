@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4697</Count>
+          <Count>4703</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2783,6 +2783,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RedisDistributedLockTest.testLock'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RedissonDistributedLockTest.testDistributedLock'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RedissonDistributedLockTest.testDistributedLock'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Rerun Failed Tests'">
