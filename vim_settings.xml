@@ -166,7 +166,7 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1578988306546">
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_no_recall_rate.sh" timestamp="1579513432168">
         <mark key="'" line="2" column="10" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -386,12 +386,12 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_query_distribution.sh" timestamp="1579510758364">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="29" column="6" />
-        <mark key="^" line="63" column="25" />
-        <mark key="." line="63" column="53" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_query_distribution.sh" timestamp="1579514205759">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="22" />
+        <mark key="." line="58" column="22" />
+        <mark key="^" line="58" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1579059788579">
         <mark key="'" line="3560" column="0" />
@@ -567,7 +567,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRyb3AgdGFibGUgaWYgZXhpc3RzIGBib3NzX3NlYXJjaF9xdWVyeV9kaXN0cmlidXRpb25gOwogICAgY3JlYXRlIHRhYmxlIGBib3NzX3NlYXJjaF9xdWVyeV9kaXN0cmlidXRpb25gICgKICAgICAgICBpZCAgaW50IGF1dG9faW5jcmVtZW50IHByaW1hcnkga2V5LAogICAgICAgIHB2X2FsbCBpbnQsCiAgICAgICAgcHZfbW9yZV8xMCBpbnQsCiAgICAgICAgcHZfbW9yZV81IGludCwKICAgICAgICBwdl9tb3JlXzMgaW50LAogICAgICAgIHB2X290aGVyIGludCwKCiAgICAgICAgdXZfYWxsIGludCwKICAgICAgICB1dl9tb3JlXzEwIGludCwKICAgICAgICB1dl9tb3JlXzUgaW50LAogICAgICAgIHV2X21vcmVfMyBpbnQsCiAgICAgICAgdXZfb3RoZXIgaW50LAoKICAgICAgICBxdWVyeV90aW1lICAgdGltZXN0YW1wLAogICAgICAgIGRzIGNoYXIoMjApLAogICAgICAgIGtleSBkc19pZHgoZHMpCiAgICAgICAga2V5IHF0X2lkeChxdWVyeV90aW1lKQogICAgKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTgxOTEgREVGQVVMVCBDSEFSU0VUPXV0ZjhtYjQgOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -663,19 +663,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>boss_search_no_recall</text>
+        <text>ds_date</text>
       </register>
       <register name="/" type="4">
         <text>degree</text>
       </register>
       <register name="0" type="4">
-        <text>boss_search_query_distribution</text>
+        <text>&quot;'${ds_date}'&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0CiAgICBxdWVyeSwgY291bnQoKikgYXMgcHYsIGNvdW50KGRpc3RpbmN0IGJvc3NfaWQpIGFzIHV2LCBkcwpmcm9tCiAgICBkZW9uZS56cF9tX2Jfc2VhcmNoX2xpc3QKd2hlcmUKICAgIGRzID49ICInJHtkc19kYXRlfSciIGFuZCBxdWVyeSBpcyBub3QgbnVsbApncm91cCBieSBxdWVyeSxkcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJlZGlzc29uUm5lZExvY2sK</text>
+        <text encoding="base64">ICAgIGRzXwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -702,10 +702,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRzX2RhdGU9JHtkc19kYXRlLy0vfQogICAgZHNfZGF0ZT0ke2RzX2RhdGUvLS99Cg==</text>
+        <text encoding="base64">ICAgIGRzX2RhdGVfbW9udGhfYWdvPWBkYXRlIC1kICIzMCBkYXlzIGFnbyIgKyVZLSVtLSVkIGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRzX2RhdGU9JHtkc19kYXRlLy0vfQogICAgZHNfZGF0ZT0ke2RzX2RhdGUvLS99Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdl9vdGhlciBpbnQsCiAgICAgICAgcHZfb3RoZXIgaW50LAogICAgICAgIHB2IGludCwKICAgICAgICBwdiBpbnQsCiAgICAgICAgcHYgaW50LAogICAgICAgIHB2IGludCwKICAgICAgICBwdiBpbnQsCiAgICAgICAgcHYgaW50LAogICAgICAgIHB2IGludCwKICAgICAgICB1diBpbnQsCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -719,7 +719,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeV9kYXRlIGludCwKICAgICAgICBxdWVyeV90aW1lICAgdGltZXN0YW1wLAo=</text>
+        <text encoding="base64">ICAgICAgICB1dl9tb3JlXzEwIGludCwK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -743,16 +743,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeV90aW1lICAgdGltZXN0YW1wLAo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSB2YXJjaGFyKDUxMiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeV9kYXRlIGludCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdWZmaXggaW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAgc3RyaW5nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWZmaXggaW50LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
