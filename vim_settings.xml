@@ -250,8 +250,8 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" timestamp="1579577343018">
-        <mark key="'" line="399" column="12" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" timestamp="1579585867340">
+        <mark key="'" line="281" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/nlu.conf" timestamp="1578970599821">
         <mark key="[" line="10" column="37" />
@@ -541,7 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="363" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="63" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/GQueryBuilder.java" />
@@ -641,6 +640,7 @@
       <jump line="296" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="75" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="399" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" />
+      <jump line="281" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -743,7 +743,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>system</text>
+        <text>miss job</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBhcmdzLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBwcy5zZXRPYmplY3QoaSArIDEsIGFyZ3MuZ2V0KGkpKTsKICAgICAgICAgICAgfQo=</text>
@@ -840,9 +840,9 @@
       </register>
     </registers>
     <search>
-      <last-search>system</last-search>
+      <last-search>miss job</last-search>
       <last-offset />
-      <last-pattern>system</last-pattern>
+      <last-pattern>miss job</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry>break</entry>
         <entry>985</entry>
         <entry>newRangeQuery</entry>
         <entry>slow</entry>
@@ -870,6 +869,7 @@
         <entry>db</entry>
         <entry>log</entry>
         <entry>system</entry>
+        <entry>miss job</entry>
       </history-search>
       <history-cmd>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>
