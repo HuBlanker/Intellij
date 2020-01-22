@@ -35,12 +35,12 @@
       <file name="/Python Console" timestamp="1579600659824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/collection/DelayQueue.java" timestamp="1579674680572">
-        <mark key="'" line="153" column="4" />
-        <mark key="[" line="113" column="60" />
-        <mark key="]" line="114" column="35" />
-        <mark key="." line="114" column="35" />
-        <mark key="^" line="114" column="35" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/collection/DelayQueue.java" timestamp="1579676609033">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="23" />
+        <mark key="." line="75" column="14" />
+        <mark key="^" line="75" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/BgRelationDBApi.java" timestamp="1579665551201" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlu/wordtag/model_crf/README.md" timestamp="1578031066591">
@@ -49,6 +49,12 @@
       <file name="$USER_HOME$/study/huyan-modules/huyan-ml/pom.xml" timestamp="1579597972475" />
       <file name="/HTML File.txt.ft" timestamp="1579489544296">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/redis/RedissonDistributedLockTest.java" timestamp="1579509681547">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" timestamp="1579587481929">
         <mark key="'" line="185" column="40" />
@@ -130,11 +136,11 @@
         <mark key="^" line="457" column="51" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-spring-demo/src/main/java/com/huyan/demo/config/CheckSourceInterceptor.java" timestamp="1579599304354" />
-      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/collection/DelayQueueTest.java" timestamp="1579674702289">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/collection/DelayQueueTest.java" timestamp="1579677257059">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="66" column="5" />
+        <mark key="." line="66" column="5" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/README.md" timestamp="1579618301878">
         <mark key="[" line="3" column="0" />
@@ -192,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
-      <jump line="167" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
-      <jump line="289" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="15" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="49" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="50" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
@@ -292,10 +295,13 @@
       <jump line="21" column="15" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/collection/DelayQueue.java" />
       <jump line="46" column="20" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/collection/DelayQueue.java" />
       <jump line="144" column="4" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/collection/DelayQueue.java" />
+      <jump line="172" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/collection/DelayQueue.java" />
+      <jump line="58" column="13" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/collection/DelayQueueTest.java" />
+      <jump line="21" column="12" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/collection/DelayQueueTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEsIHF1ZXVlLmdldERlbGF5U2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBkZWxheVF1ZXVlQ29uc3VtZXIoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewoKICAgICAgICAvLyDova7or6LmtojotLnlvZPliY3lupTor6XmiafooYznmoTku7vliqEsIOaIluiAheiwg+eUqHBvcFJhbmdlRXhwaXJlc+a2iOi0ueafkOS4quaXtumXtOS5i+WJjeeahOaJgOacieS7u+WKoQogICAgICAgIGludCBub3cgPSAoaW50KSAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLyAxMDAwKTsKICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBTZXQ8VHVwbGU+IHR1cGxlcyA9IHF1ZXVlLnBvcE5vd0V4cGlyZXMoKTsKICAgICAgICAgICAgLy8g5Li656m65LyR55yg5LiA56eSCiAgICAgICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eSh0dXBsZXMpKSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAvLyDlpITnkIbkuJrliqHpgLvovpEKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkbyBzb21ldGhpbmciKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -391,19 +397,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>now</text>
+        <text>popNowExpires</text>
       </register>
       <register name="/" type="4">
-        <text>dependency</text>
+        <text>one</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEsIHF1ZXVlLmdldERlbGF5U2l6ZSgpKTsK</text>
+      <register name="0" type="4">
+        <text>popRangeExpires</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8VHVwbGU+IHZhbHVlcyA9IHJhbmdlRXhwaXJlcyhub3cpOwogICAgICAgIC8vIGRlbAogICAgICAgIGlmICh2YWx1ZXMuc2l6ZSgpID4gMCkgewogICAgICAgICAgICBkZWxEZWxheSh2YWx1ZXMuc3RyZWFtKCkubWFwKFR1cGxlOjpnZXRFbGVtZW50KS50b0FycmF5KFN0cmluZ1tdOjpuZXcpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHZhbHVlczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbm93ID0gKGludCkgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC8gMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmtojotLnmn5DkuKrml7bpl7TmiLPkuYvliY3nmoTmiYDmnInku7vliqEKICAgICAgICBpbnQgb25lSG91ckxhdGVyID0gKGludCkgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC8gMTAwMCArIDM2MDApOwogICAgICAgIHF1ZXVlLnBvcFJhbmdlRXhwaXJlcyhvbmVIb3VyTGF0ZXIpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -430,10 +436,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXREZWxheVNpemUoKSB7CiAgICB9CgoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBkZWxEZWxheSgpIHsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgcHV0RGVsYXkxKCkgewogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBwb3BOb3dFeHBpcmVzKCkgewogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCByYW5nZUV4cGlyZXMoKSB7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHJlbW92ZSgpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBwdXREZWxheSgpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -447,7 +453,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgb24K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -471,16 +477,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50YWcgPSB0YWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PERlbGF5UXVldWUuSXRlbT4gaXRlbXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBpdGVtcy5hZGQobmV3IERlbGF5UXVldWUuSXRlbSgieW91cl9tZXNzYWdlX2JvZHkiLCBub3cpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZmluYWwgU3RyaW5nIHRhZzsK</text>
+        <text encoding="base64">ICAgICAgICBxdWV1ZS5wdXREZWxheShub3csICJ5b3VyX21lc3NhZ2VfYm9keSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgb25lSG91ckxhdGVyID0gKGludCkgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC8gMTAwMCArIDM2MDApOwogICAgICAgIHF1ZXVlLnB1dERlbGF5KG9uZUhvdXJMYXRlciwgInRlc3RfMSIpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMSwgcXVldWUuZ2V0RGVsYXlTaXplKCkpOwogICAgICAgIGludCB0d29Ib3VyTGF0ZXIgPSAoaW50KSAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLyAxMDAwICsgNzIwMCk7CiAgICAgICAgcXVldWUucHV0RGVsYXkodHdvSG91ckxhdGVyLCAidGVzdF8yIik7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygyLCBxdWV1ZS5nZXREZWxheVNpemUoKSk7CiAgICAgICAgcXVldWUucG9wTm93RXhwaXJlcygpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMiwgcXVldWUuZ2V0RGVsYXlTaXplKCkpOwogICAgICAgIHF1ZXVlLnJhbmdlRXhwaXJlcyhvbmVIb3VyTGF0ZXIgKyAxMDApOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoMiwgcXVldWUuZ2V0RGVsYXlTaXplKCkpOwogICAgICAgIHF1ZXVlLmRlbERlbGF5KCJ0ZXN0XzIiKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEsIHF1ZXVlLmdldERlbGF5U2l6ZSgpKTsKICAgICAgICBxdWV1ZS5wb3BSYW5nZUV4cGlyZXMob25lSG91ckxhdGVyICsgMTAwKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDAsIHF1ZXVlLmdldERlbGF5U2l6ZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEZWxheVJlZGlzUXVldWUuY2xhc3MpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
@@ -490,9 +496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dependency</last-search>
+      <last-search>one</last-search>
       <last-offset />
-      <last-pattern>dependency</last-pattern>
+      <last-pattern>one</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -500,7 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pos</entry>
         <entry>30790047</entry>
         <entry>140302</entry>
         <entry>degreee</entry>
@@ -520,6 +525,7 @@
         <entry>web</entry>
         <entry>test</entry>
         <entry>dependency</entry>
+        <entry>one</entry>
       </history-search>
       <history-cmd>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>
