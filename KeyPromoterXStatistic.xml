@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -191,6 +191,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'JedisTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'JetCacheTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'JetCacheTest'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'JobTitleClean'">
@@ -526,7 +534,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4771</Count>
+          <Count>4779</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2102,7 +2110,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ConcurrentIntObjectMapTest'">
@@ -3163,6 +3171,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Reimport">
+        <Item>
+          <IdeaActionID>Maven.ReimportProject</IdeaActionID>
+          <Description>Reimport</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Sign in">
         <Item>
           <IdeaActionID>leetcode.LoginAction</IdeaActionID>
