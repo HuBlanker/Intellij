@@ -182,10 +182,12 @@
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/resources/boss_city_sim_code.json" timestamp="1579591178468" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/resume_search_query_uv.sh" timestamp="1579518628916" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/DelayRedisQueue.java" timestamp="1579673515048">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="101" column="5" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/DelayRedisQueue.java" timestamp="1579681371660">
+        <mark key="'" line="69" column="28" />
+        <mark key="[" line="76" column="56" />
+        <mark key="]" line="76" column="55" />
+        <mark key="^" line="76" column="55" />
+        <mark key="." line="76" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/redisson/redisson/3.11.3/redisson-3.11.3.jar!/org/redisson/RedissonLock.class" timestamp="1579502913254">
         <mark key="[" line="231" column="96" />
@@ -198,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="49" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="50" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
       <jump line="54" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
@@ -298,6 +299,7 @@
       <jump line="172" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/main/java/com/huyan/collection/DelayQueue.java" />
       <jump line="58" column="13" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/collection/DelayQueueTest.java" />
       <jump line="21" column="12" filename="$USER_HOME$/study/huyan-modules/huyan-util/src/test/java/com/huyan/collection/DelayQueueTest.java" />
+      <jump line="69" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/DelayRedisQueue.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -400,7 +402,7 @@
         <text>popNowExpires</text>
       </register>
       <register name="/" type="4">
-        <text>one</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
         <text>popRangeExpires</text>
@@ -496,9 +498,9 @@
       </register>
     </registers>
     <search>
-      <last-search>one</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>one</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -506,7 +508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>30790047</entry>
         <entry>140302</entry>
         <entry>degreee</entry>
         <entry>degree</entry>
@@ -526,6 +527,7 @@
         <entry>test</entry>
         <entry>dependency</entry>
         <entry>one</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>
