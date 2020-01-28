@@ -111,6 +111,12 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/redis/HyperLogLog.java" timestamp="1580227772370">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1577773077495">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,7 +254,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>codehole</text>
+        <text>huyanshi</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -344,7 +350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>codehole</text>
+        <text>huyanshi</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
@@ -353,10 +359,10 @@
         <text encoding="base64">ICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJ0ZXN0IikKICBwdWJsaWMgU3RyaW5nIHRlc3QoKXsKICAgIHJldHVybiBzdHVkZW50U2VydmljZS50ZXN0KCk7CiAgfQoKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9vbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEplZGlzUHViU3ViIHB1YlN1YiA9IG5ldyBKZWRpc1B1YlN1YigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk1lc3NhZ2UoU3RyaW5nIGNoYW5uZWwsIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVjZWl2ZWQgbWVzc2FnZToiICsgY2hhbm5lbCArICIgLSIgKyBtZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3Vic2NyaWJlKFN0cmluZyBjaGFubmVsLCBpbnQgc3Vic2NyaWJlZENoYW5uZWxzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3Vic2NyaWJlZCBjaGFubmVsOiIgKyBjaGFubmVsKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uVW5zdWJzY3JpYmUoU3RyaW5nIGNoYW5uZWwsIGludCBzdWJzY3JpYmVkQ2hhbm5lbHMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1bnN1YnNjcmliZSBjaGFubmVsOiIgKyBjaGFubmVsKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBMb25nIHBmYWRkID0gcG9vbC5nZXRSZXNvdXJjZSgpLnBmYWRkKCJodXlhbnNoaSIsICJpdGVtMSIsICJpdGVtMiIsICJpdGVtMyIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwZmFkZCk7CiAgICAgICAgcG9vbAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -383,10 +389,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXIub25VbnN1YnNjcmliZShjaGFubmVsLCBzdWJzY3JpYmVkQ2hhbm5lbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEplZGlzUHViU3ViIHB1YlN1YiA9IG5ldyBKZWRpc1B1YlN1YigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk1lc3NhZ2UoU3RyaW5nIGNoYW5uZWwsIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVjZWl2ZWQgbWVzc2FnZToiICsgY2hhbm5lbCArICIgLSIgKyBtZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3Vic2NyaWJlKFN0cmluZyBjaGFubmVsLCBpbnQgc3Vic2NyaWJlZENoYW5uZWxzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3Vic2NyaWJlZCBjaGFubmVsOiIgKyBjaGFubmVsKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uVW5zdWJzY3JpYmUoU3RyaW5nIGNoYW5uZWwsIGludCBzdWJzY3JpYmVkQ2hhbm5lbHMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1bnN1YnNjcmliZSBjaGFubmVsOiIgKyBjaGFubmVsKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -400,7 +406,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXIub25TdWJzY3JpYmUoY2hhbm5lbCwgc3Vic2NyaWJlZENoYW5uZWxzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -423,18 +429,18 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXIub25VbnN1YnNjcmliZShjaGFubmVsLCBzdWJzY3JpYmVkQ2hhbm5lbHMpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXIub25TdWJzY3JpYmUoY2hhbm5lbCwgc3Vic2NyaWJlZENoYW5uZWxzKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>new JedisPubSub() {
                 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICA8IS0tIHNwcmluZy1kYXRhLWpwYSAtLT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGE8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Mi4xLjIuUkVMRUFTRTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9jb20uYWxpY3AuamV0Y2FjaGUvamV0Y2FjaGUtY29yZSAtLT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxpY3AuamV0Y2FjaGU8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmpldGNhY2hlLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjIuNS4xNjwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4KCiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+Y29tLmFsaWNwLmpldGNhY2hlPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qZXRjYWNoZS1yZWRpcy1sZXR0dWNlPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4yLjUuMTY8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
