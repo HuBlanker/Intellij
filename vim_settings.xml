@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/study_avg_hyperloglog.py" timestamp="1580232506383">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="23" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="41" column="23" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1577773076374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1580147502231">
+      <file name="/Python Console" timestamp="1580231699418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/study/someprogram/demo/pom.xml" timestamp="1579712954527">
@@ -22,9 +28,6 @@
         <mark key="." line="18" column="76" />
         <mark key="^" line="18" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1579705470241">
-        <mark key="'" line="113" column="27" />
-      </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1577773099183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,9 +36,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="15" />
-      </file>
-      <file name="$USER_HOME$/study/someprogram/lucene-demo/pom.xml" timestamp="1579599535636">
-        <mark key="'" line="82" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1578022100528">
         <mark key="[" line="187" column="8" />
@@ -69,20 +69,21 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1577773073354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" timestamp="1579534880531">
-        <mark key="'" line="75" column="48" />
-      </file>
       <file name="/Dummy.txt" timestamp="1579251039059">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-modules/zp-ml/src/main/java/com/zhipin/ml/fasttext/FastText.java" timestamp="1579619358362">
-        <mark key="'" line="715" column="0" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-spring-demo/src/main/java/com/huyan/demo/controller/StudentController.java" timestamp="1579709221869">
         <mark key="[" line="33" column="43" />
         <mark key="]" line="33" column="4" />
         <mark key="^" line="18" column="21" />
         <mark key="." line="33" column="4" />
+      </file>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/study_hyperloglog.py" timestamp="1580232280117">
+        <mark key="'" line="51" column="7" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1579527736011">
         <mark key="[" line="7" column="0" />
@@ -95,9 +96,6 @@
         <mark key="]" line="24" column="16" />
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1579705482905">
-        <mark key="'" line="217" column="36" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/pom.xml" timestamp="1579712794859">
         <mark key="'" line="25" column="32" />
@@ -157,9 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/kzjob/KzJobRebuildMain.java" />
-      <jump line="399" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" />
-      <jump line="281" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" />
       <jump line="185" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" />
       <jump line="28" column="28" filename="$USER_HOME$/study/someprogram/pom.xml" />
       <jump line="116" column="0" filename="$USER_HOME$/study/someprogram/pom.xml" />
@@ -257,10 +252,13 @@
       <jump line="25" column="32" filename="$USER_HOME$/study/huyan-modules/pom.xml" />
       <jump line="188" column="18" filename="$USER_HOME$/study/huyan-modules/huyan-spring-demo/pom.xml" />
       <jump line="135" column="16" filename="$USER_HOME$/study/someprogram/demo/pom.xml" />
+      <jump line="22" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/study_hyperloglog.py" />
+      <jump line="68" column="7" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/study_hyperloglog.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/study_avg_hyperloglog.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>codehole</text>
+        <text>randint</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -356,19 +354,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>codehole</text>
+        <text>randint</text>
       </register>
       <register name="/" type="4">
-        <text>jpa</text>
+        <text>randint</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJ0ZXN0IikKICBwdWJsaWMgU3RyaW5nIHRlc3QoKXsKICAgIHJldHVybiBzdHVkZW50U2VydmljZS50ZXN0KCk7CiAgfQoKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvdGFsLCBpICsgMQo=</text>
+        <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -395,10 +393,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgdG90YWwgIT0gaSArIDE6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMTAwMCk6Cg==</text>
+        <text encoding="base64">IyDnoa7kv53lkIzkuIDkuKrmlbTmlbDooqvliIbphY3liLDlkIzkuIDkuKrmobbph4zpnaLvvIzmkZjlj5bpq5jkvY3lkI7lj5bmqKEK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -412,7 +410,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -436,16 +434,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICByZWRpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9vbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIHBmYWRkID0gcG9vbC5nZXRSZXNvdXJjZSgpLnBmYWRkKCJodXlhbnNoaSIsICJpdGVtMSIsICJpdGVtMiIsICJpdGVtMyIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwZmFkZCk7CiAgICAgICAgcG9vbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
@@ -455,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jpa</last-search>
+      <last-search>randint</last-search>
       <last-offset />
-      <last-pattern>jpa</last-pattern>
+      <last-pattern>randint</last-pattern>
       <last-replace>NLUSlotType</last-replace>
       <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
@@ -465,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[</entry>
         <entry>db</entry>
         <entry>system</entry>
         <entry>miss job</entry>
@@ -485,6 +482,7 @@
         <entry>getBossJobsAll</entry>
         <entry>log</entry>
         <entry>jpa</entry>
+        <entry>randint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>

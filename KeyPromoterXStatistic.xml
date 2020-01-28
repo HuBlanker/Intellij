@@ -542,7 +542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4802</Count>
+          <Count>4804</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -3111,6 +3111,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'resumeZZZ'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'study_hyperloglog'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'study_hyperloglog'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'wy_filter'">
