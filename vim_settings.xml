@@ -12,7 +12,7 @@
       <file name="/File Header.txt.ft" timestamp="1577773076374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1580231699418">
+      <file name="/Python Console" timestamp="1580321646267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/study/someprogram/demo/pom.xml" timestamp="1579712954527">
@@ -36,6 +36,18 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="15" />
+      </file>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/redis_bitmap.py" timestamp="1580321654354">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/redis/RedisBitMap.java" timestamp="1580320933088">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="63" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1578022100528">
         <mark key="[" line="187" column="8" />
@@ -91,11 +103,11 @@
       <file name="$USER_HOME$/study/someprogram/pom.xml" timestamp="1579712595297">
         <mark key="[" line="174" column="21" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/redis_pub_dub.py" timestamp="1580147605572">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="24" column="36" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/redis_pub_dub.py" timestamp="1580321079997">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/pom.xml" timestamp="1579712794859">
         <mark key="'" line="25" column="32" />
@@ -258,7 +270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>randint</text>
+        <text>hu</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -354,13 +366,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>randint</text>
+        <text>hu</text>
       </register>
       <register name="/" type="4">
         <text>randint</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJ0ZXN0IikKICBwdWJsaWMgU3RyaW5nIHRlc3QoKXsKICAgIHJldHVybiBzdHVkZW50U2VydmljZS50ZXN0KCk7CiAgfQoKfQo=</text>
+      <register name="0" type="4">
+        <text>huyanshi_bitmap_key</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
