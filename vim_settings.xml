@@ -109,6 +109,12 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580452632058">
+        <mark key="[" line="183" column="12" />
+        <mark key="]" line="183" column="15" />
+        <mark key="." line="183" column="15" />
+        <mark key="^" line="183" column="15" />
+      </file>
       <file name="$USER_HOME$/study/huyan-modules/pom.xml" timestamp="1579712794859">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="130" column="38" />
@@ -270,7 +276,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hu</text>
+        <text>suffixGray.contains(suffix)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -366,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hu</text>
+        <text>suffixGray.contains(suffix)</text>
       </register>
       <register name="/" type="4">
         <text>randint</text>
