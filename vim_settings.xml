@@ -44,19 +44,21 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/CountGeekHandler.java" timestamp="1580462994865" />
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/redis/RedisBitMap.java" timestamp="1580320933088">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="63" />
         <mark key="^" line="13" column="38" />
         <mark key="." line="13" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1580463033890">
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="30" column="84" />
+        <mark key="." line="30" column="84" />
+        <mark key="^" line="30" column="84" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/EvalQA.java" timestamp="1578022100528">
         <mark key="[" line="187" column="8" />
-      </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-spring-demo/src/main/java/com/huyan/demo/service/impl/UserServiceImpl.java" timestamp="1579711037586">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/hyperloglog.py" timestamp="1580230238123">
         <mark key="[" line="17" column="24" />
@@ -164,11 +166,6 @@
         <mark key="]" line="10" column="1" />
         <mark key="^" line="7" column="33" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-spring-demo/src/main/java/com/huyan/demo/model/Student.java" timestamp="1579708714238">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1579674141436">
         <mark key="[" line="0" column="0" />
@@ -278,7 +275,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>suffixGray.contains(suffix)</text>
+        <text>CountGeekHandler</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -374,7 +371,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>suffixGray.contains(suffix)</text>
+        <text>CountGeekHandler</text>
       </register>
       <register name="/" type="4">
         <text>randint</text>
