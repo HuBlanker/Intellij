@@ -39,16 +39,19 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/CountGeekHandler.java" timestamp="1580541425709">
+        <mark key="[" line="34" column="18" />
+      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/redis/RedisBitMap.java" timestamp="1580320933088">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="63" />
         <mark key="^" line="13" column="38" />
         <mark key="." line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1580463033890">
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="30" column="84" />
-        <mark key="." line="30" column="84" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1580541072866">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
         <mark key="^" line="30" column="84" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-spring-demo/src/main/resources/application-local.yaml" timestamp="1580523227164" />
@@ -101,12 +104,6 @@
         <mark key="." line="183" column="15" />
         <mark key="^" line="183" column="15" />
       </file>
-      <file name="$USER_HOME$/study/huyan-modules/pom.xml" timestamp="1579712794859">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="130" column="38" />
-        <mark key="]" line="130" column="38" />
-        <mark key="." line="130" column="38" />
-      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/redis/HyperLogLog.java" timestamp="1580228897461">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="20" column="5" />
@@ -115,12 +112,6 @@
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1577773077495">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/study/huyan-modules/huyan-spring-demo/pom.xml" timestamp="1579712810079">
-        <mark key="'" line="188" column="18" />
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
       </file>
       <file name="/Python Script.txt.ft" timestamp="1577773048159">
         <mark key="[" line="0" column="0" />
@@ -232,8 +223,8 @@
       <jump line="72" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/study_avg_hyperloglog.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CountGeekHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiYWRkczp7fSwgZXhwb3N1cmU6e30sIHZpZXdlZDp7fSIsIGFkZHMuc2l6ZSgpLCBleHBvc3VyZTdEYXkuc2l6ZSgpLCB2aWV3cy5zaXplKCkpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -338,10 +329,10 @@
         <text>huyanshi_bitmap_key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiYWRkczp7fSwgZXhwb3N1cmU6e30sIHZpZXdlZDp7fSIsIGFkZHMuc2l6ZSgpLCBleHBvc3VyZTdEYXkuc2l6ZSgpLCB2aWV3cy5zaXplKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJxdWVyeT17fSIsIGJiLmJ1aWxkKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -368,10 +359,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyDnoa7kv53lkIzkuIDkuKrmlbTmlbDooqvliIbphY3liLDlkIzkuIDkuKrmobbph4zpnaLvvIzmkZjlj5bpq5jkvY3lkI7lj5bmqKEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -409,7 +400,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyDnoa7kv53lkIzkuIDkuKrmlbTmlbDooqvliIbphY3liLDlkIzkuIDkuKrmobbph4zpnaLvvIzmkZjlj5bpq5jkvY3lkI7lj5bmqKEK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
