@@ -28,6 +28,12 @@
         <mark key="." line="18" column="76" />
         <mark key="^" line="18" column="76" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1580563035222">
+        <mark key="[" line="178" column="26" />
+        <mark key="]" line="178" column="14" />
+        <mark key="^" line="178" column="14" />
+        <mark key="." line="178" column="14" />
+      </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1577773099183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,11 +102,13 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580549740638">
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="12" />
-        <mark key="." line="62" column="12" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580563008641">
+        <mark key="[" line="203" column="10" />
+        <mark key="]" line="203" column="10" />
+        <mark key="." line="203" column="10" />
+        <mark key="^" line="203" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1580562825080" />
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/redis/HyperLogLog.java" timestamp="1580228897461">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="20" column="5" />
@@ -116,6 +124,7 @@
       <file name="/fragment.java" timestamp="1579674141436">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1580562842894" />
     </filemarks>
     <jumps>
       <jump line="185" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/dump/DumpBgRelation4SimMatrix.java" />
@@ -221,7 +230,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHJ1ZSAmJiA=</text>
+        <text>//如果有name意图和其他意图并存, 直接干掉name意图, 不然会使得boss可以变相通过名字搜人</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -317,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJ1ZSAmJiA=</text>
+        <text>//如果有name意图和其他意图并存, 直接干掉name意图, 不然会使得boss可以变相通过名字搜人</text>
       </register>
       <register name="/" type="4">
         <text>randint</text>
@@ -326,10 +335,10 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBNYXA8SW50ZW50aW9uVHlwZSwgTGlzdDxQaHJhc2U+PiBieVR5cGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHN1ZmZpeEdyYXkgPSBBcnJheXMuYXNMaXN0KDAsIDEsIDIsIDMsIDQpOwogICAgICAgIGludCBzdWZmaXggPSAoaW50KSAoYm9zc0lkICUgMTApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiYWRkczp7fSwgZXhwb3N1cmU6e30sIHZpZXdlZDp7fSIsIGFkZHMuc2l6ZSgpLCBleHBvc3VyZTdEYXkuc2l6ZSgpLCB2aWV3cy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0eQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -356,10 +365,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJxdWVyeT17fSIsIGJiLmJ1aWxkKCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmx1Q2xpZW50cyAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -373,7 +382,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHN1ZmZpeEdyYXkgPSBBcnJheXMuYXNMaXN0KDAsIDEsIDIsIDMsIDQpOwogICAgICAgIGludCBzdWZmaXggPSAoaW50KSAoYm9zc0lkICUgMTApOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -397,13 +406,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiYWRkczp7fSwgZXhwb3N1cmU6e30sIHZpZXdlZDp7fSIsIGFkZHMuc2l6ZSgpLCBleHBvc3VyZTdEYXkuc2l6ZSgpLCB2aWV3cy5zaXplKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyDnoa7kv53lkIzkuIDkuKrmlbTmlbDooqvliIbphY3liLDlkIzkuIDkuKrmobbph4zpnaLvvIzmkZjlj5bpq5jkvY3lkI7lj5bmqKEK</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJxdWVyeT17fSIsIGJiLmJ1aWxkKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
