@@ -21,6 +21,9 @@
         <mark key="." line="18" column="76" />
         <mark key="^" line="18" column="76" />
       </file>
+      <file name="/a.dummy" timestamp="1580565737089">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GQueryBuilder.java" timestamp="1580563983140">
         <mark key="[" line="341" column="0" />
         <mark key="]" line="362" column="5" />
@@ -43,6 +46,7 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="/GeekSearchReq.java" timestamp="1580564895264" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/CountGeekHandler.java" timestamp="1580541425709">
         <mark key="[" line="34" column="18" />
       </file>
@@ -94,11 +98,11 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580564591310">
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="442" column="29" />
-        <mark key="." line="442" column="29" />
-        <mark key="^" line="442" column="29" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580565007332">
+        <mark key="[" line="474" column="80" />
+        <mark key="]" line="474" column="80" />
+        <mark key="." line="474" column="80" />
+        <mark key="^" line="474" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/CrfClassifier.java" timestamp="1580562825080" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GQueryFilterRewriter.java" timestamp="1580564274678">
@@ -120,13 +124,18 @@
       <file name="/Python Script.txt.ft" timestamp="1577773048159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1579674141436">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy.java" timestamp="1580565652733">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1580565728905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1580562842894" />
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/study/someprogram/pom.xml" />
       <jump line="82" column="20" filename="$USER_HOME$/study/someprogram/pom.xml" />
       <jump line="106" column="33" filename="$USER_HOME$/study/someprogram/pom.xml" />
       <jump line="118" column="25" filename="$USER_HOME$/study/someprogram/pom.xml" />
@@ -226,10 +235,11 @@
       <jump line="122" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GQueryFilterRewriter.java" />
       <jump line="161" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GQueryFilterRewriter.java" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GQueryFilterRewriter.java" />
+      <jump line="20" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Phrase</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uY3JmLnFiLk1hcEJ1aWxkZXI7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -325,19 +335,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Phrase</text>
+        <text>IntentionType</text>
       </register>
       <register name="/" type="4">
-        <text>Phrase</text>
+        <text>IntentionType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBieVR5cGUg5oSP5Zu+6K+G5Yir57uT5p6cCiAgICAgKiBAcGFyYW0gZmlsdGVycyDov4fmu6TmnaHku7YK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBieVR5cGUg5oSP5Zu+6K+G5Yir57uT5p6cc2xvdAogICAgICogQHJldHVybiDnn63or60K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uY3JmLnFiLk1hcEJ1aWxkZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQaHJhc2UgcGhyYXNlID0gbmV3IFBocmFzZSh2LCBJbnRlbnRpb25UeXBlLkosIDFkKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uY3JmLkludGVudGlvblR5cGU7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -364,10 +374,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBmaWx0ZXJzCiAgICAgKiBAcGFyYW0gYnlUeXBlCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uY3JmLkludGVudGlvblR5cGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBxdWVyeSDnlKjmiLdxdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -381,7 +391,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB3aXRoRGVidWcKICAgICAqIEBwYXJhbSBxdWVyeQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -405,30 +415,30 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBieVR5cGUKICAgICAqIEBwYXJhbSBmaWx0ZXJzCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBieVR5cGUg5oSP5Zu+6K+G5Yir57uT5p6cc2xvdAogICAgICogQHJldHVybiDnn63or60K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQaHJhc2UgcGhyYXNlID0gbmV3IFBocmFzZSh2LCBJbnRlbnRpb25UeXBlLkosIDFkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBmaWx0ZXJzCiAgICAgKiBAcGFyYW0gYnlUeXBlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBxdWVyeSDnlKjmiLdxdWVyeQo=</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Phrase/NLUSlot/g</text>
+        <text>%s/IntentionType/NLUSlotType/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Phrase</last-search>
+      <last-search>IntentionType</last-search>
       <last-offset />
-      <last-pattern>Phrase</last-pattern>
-      <last-replace>NLUSlot</last-replace>
-      <last-substitute>Phrase</last-substitute>
+      <last-pattern>IntentionType</last-pattern>
+      <last-replace>NLUSlotType</last-replace>
+      <last-substitute>IntentionType</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -452,8 +462,8 @@
         <entry>log</entry>
         <entry>jpa</entry>
         <entry>randint</entry>
-        <entry>IntentionType</entry>
         <entry>Phrase</entry>
+        <entry>IntentionType</entry>
       </history-search>
       <history-cmd>
         <entry>%s/QueryKind.COMPANY/QueryKind.C/g</entry>
@@ -474,8 +484,8 @@
         <entry>w</entry>
         <entry>set line</entry>
         <entry>set number</entry>
-        <entry>%s/IntentionType/NLUSlotType/g</entry>
         <entry>%s/Phrase/NLUSlot/g</entry>
+        <entry>%s/IntentionType/NLUSlotType/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
