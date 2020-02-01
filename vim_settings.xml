@@ -99,6 +99,12 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580549740638">
+        <mark key="[" line="182" column="12" />
+        <mark key="]" line="182" column="12" />
+        <mark key="." line="182" column="12" />
+        <mark key="^" line="181" column="22" />
+      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/redis/HyperLogLog.java" timestamp="1580228897461">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="20" column="5" />
@@ -218,8 +224,8 @@
       <jump line="72" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/study_avg_hyperloglog.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiYWRkczp7fSwgZXhwb3N1cmU6e30sIHZpZXdlZDp7fSIsIGFkZHMuc2l6ZSgpLCBleHBvc3VyZTdEYXkuc2l6ZSgpLCB2aWV3cy5zaXplKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dHJ1ZSAmJiA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -315,19 +321,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CountGeekHandler</text>
+        <text encoding="base64">dHJ1ZSAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text>randint</text>
       </register>
-      <register name="0" type="4">
-        <text>huyanshi_bitmap_key</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBNYXA8SW50ZW50aW9uVHlwZSwgTGlzdDxQaHJhc2U+PiBieVR5cGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiYWRkczp7fSwgZXhwb3N1cmU6e30sIHZpZXdlZDp7fSIsIGFkZHMuc2l6ZSgpLCBleHBvc3VyZTdEYXkuc2l6ZSgpLCB2aWV3cy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHN1ZmZpeEdyYXkgPSBBcnJheXMuYXNMaXN0KDAsIDEsIDIsIDMsIDQpOwogICAgICAgIGludCBzdWZmaXggPSAoaW50KSAoYm9zc0lkICUgMTApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJxdWVyeT17fSIsIGJiLmJ1aWxkKCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dnZXIuaW5mbygiYWRkczp7fSwgZXhwb3N1cmU6e30sIHZpZXdlZDp7fSIsIGFkZHMuc2l6ZSgpLCBleHBvc3VyZTdEYXkuc2l6ZSgpLCB2aWV3cy5zaXplKCkpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -354,10 +360,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ2dlci5pbmZvKCJxdWVyeT17fSIsIGJiLmJ1aWxkKCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOesrAogICAgNTAKICAgIOmhtQogICAg5YWxCiAgICAyMjYKICAgIOmhtQoKClJlZGlzCua3seW6puWOhumZqTog5qC45b+D5Y6f55CG5LiO5bqU55So5a6e6Le1Cnwg6ZKx5paH5ZOBCuiRlwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -395,10 +401,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyDnoa7kv53lkIzkuIDkuKrmlbTmlbDooqvliIbphY3liLDlkIzkuIDkuKrmobbph4zpnaLvvIzmkZjlj5bpq5jkvY3lkI7lj5bmqKEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyDnoa7kv53lkIzkuIDkuKrmlbTmlbDooqvliIbphY3liLDlkIzkuIDkuKrmobbph4zpnaLvvIzmkZjlj5bpq5jkvY3lkI7lj5bmqKEK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
