@@ -542,7 +542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4835</Count>
+          <Count>4840</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -767,6 +767,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Module 'zp-search2'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'GeekItemHandler.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile 'GeekItemHandler.java'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
