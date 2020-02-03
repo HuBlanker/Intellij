@@ -39,12 +39,11 @@
         <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GRecallReq.java" timestamp="1580697877737" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/HighLight.java" timestamp="1580645416196">
-        <mark key="'" line="83" column="29" />
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="103" column="32" />
-        <mark key="." line="103" column="32" />
-        <mark key="^" line="103" column="32" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/HighLight.java" timestamp="1580727269122">
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-scripts/python/redis/redis_bitmap.py" timestamp="1580321654354">
         <mark key="[" line="16" column="36" />
@@ -226,12 +225,16 @@
       <file name="/Dummy.txt" timestamp="1579251039059">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" timestamp="1580643734670">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="153" column="69" />
-        <mark key="]" line="153" column="72" />
-        <mark key="^" line="153" column="72" />
-        <mark key="." line="153" column="72" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCutRule.java" timestamp="1580728178952">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="125" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" timestamp="1580728715951">
+        <mark key="'" line="74" column="38" />
+        <mark key="[" line="98" column="26" />
+        <mark key="]" line="98" column="26" />
+        <mark key="^" line="131" column="81" />
+        <mark key="." line="98" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GeekRecallItem4S.java" timestamp="1580706755645" />
       <file name="$USER_HOME$/study/someprogram/pom.xml" timestamp="1579712595297">
@@ -243,6 +246,7 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580727443975" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewrite.java" timestamp="1580643677900" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1580645591415">
         <mark key="[" line="8" column="0" />
@@ -272,10 +276,6 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1580723036361" />
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="147" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="36" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="767" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="583" column="63" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="243" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="241" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
@@ -372,10 +372,20 @@
       <jump line="83" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/HighLight.java" />
       <jump line="261" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
       <jump line="204" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="122" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
+      <jump line="136" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
+      <jump line="125" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
+      <jump line="77" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>else if (p.contains(&quot;应届&quot;)) {
+                            filters.put(FilterField.EXPERIENCE, &quot;0,0&quot;);
+                            return true;
+                        } else if (p.contains(&quot;在校&quot;)) {
+                            filters.put(FilterField.EXPERIENCE, &quot;-2,-2&quot;);
+                            return true;
+                        }</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -471,19 +481,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>应届生|应届|实习|在校生|</text>
       </register>
       <register name="/" type="4">
         <text>Phrase</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBzdGF0aWMgU2VhcmNoU3RyYXRlZ3kgczAgPSBuZXcgU2VhcmNoU3RyYXRlZ3kwKFNlYXJjaFN0cmF0ZWd5LkJHLkIsIDIpOwo=</text>
+      <register name="0" type="4">
+        <text>phrase.word.substring(0, 1)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>else if (p.contains(&quot;应届&quot;)) {
+                            filters.put(FilterField.EXPERIENCE, &quot;0,0&quot;);
+                            return true;
+                        } else if (p.contains(&quot;在校&quot;)) {
+                            filters.put(FilterField.EXPERIENCE, &quot;-2,-2&quot;);
+                            return true;
+                        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPY2N1cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcDxOTFVTbG90VHlwZSwgUGF0dGVybj4gdGFnUGF0dGVybiA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -510,10 +526,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAvL+aXp+eahOaEj+WbvuivhuWIqwovLyAgICAgICAgICAgIGJ5VHlwZSA9IENyZkNsYXNzaWZpZXIuSU5TVEFOQ0UuY2xhc3NpZnkocXVlcnkpLmdyb3VwQnlUeXBlKCk7CgovLyAgICAgICAgaWYgKGJ5VHlwZS5zaXplKCkgPiAxKSB7Ci8vICAgICAgICAgICAgYnlUeXBlLnJlbW92ZShOTFVTbG90VHlwZS5QRVJTT05fTkFNRSk7IC8v5aaC5p6c5pyJbmFtZeaEj+WbvuWSjOWFtuS7luaEj+WbvuW5tuWtmCwg55u05o6l5bmy5o6JbmFtZeaEj+Wbviwg5LiN54S25Lya5L2/5b6XYm9zc+WPr+S7peWPmOebuOmAmui/h+WQjeWtl+aQnOS6ugovLyAgICAgICAgfQovLyAgICAgICAgR1F1ZXJ5QnVpbGRlci5leHRyYWN0RmlsdGVycyhieVR5cGUsIGZpbHRlcnMpOwovLyAgICAgICAgR1F1ZXJ5QnVpbGRlci5yZWxlYXNlRmlsdGVycyhieVR5cGUsIGZpbHRlcnMpOwovLyAgICAgICAgcXVlcnkgPSBHUXVlcnlCdWlsZGVyLndlYkZpbHRlcjJRdWVyeShmaWx0ZXJzLCBxdWVyeSwgYnlUeXBlKTsgLy8gd2Vi56uv5pCc57Si77yM5Lyg5YWl55qE5ZyoZmlsdGVy6YeM6Z2iLiDmiorlroPmlLnliLBxdWVyeemHjOmdogo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUEZMSVUpIOS4i+acn+WBmgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gQVBQTFlfU1RBVFVTX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIuemu+iBjHzlnKjogYzogIPomZHmnLrkvJp85Zyo6IGM5pyI5YaF5Yiw5bKXIik7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -527,7 +543,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgUGF0dGVybiBTQ0hPT0xfVFlQRVNfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZSgiMjExfDk4NXznu5/mi5vmnKznp5F85Y+M5LiA5rWBIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -551,16 +567,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbi5yZWNhbGwuUmVjYWxsSXRlbTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gU0NIT09MX1RZUEVTX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIjIxMXw5ODV857uf5oub5pys56eRfOWPjOS4gOa1gSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uY3JmLnFiLkdMdWNlbmVRdWVyeTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gREVHUkVFX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIuacrOenkXznoZXlo6siKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uY3JmLnFiLlNlYXJjaFN0cmF0ZWd5Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gU0NIT09MX1RZUEVTX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIjIxMXw5ODV857uf5oub5pys56eRfOWPjOS4gOa1gSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uY3JmLnFiLlNlYXJjaFN0cmF0ZWd5Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gRVhQRVJJRU5DRV9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKCLlupTlsYrnlJ985bqU5bGKfOWunuS5oHzlnKjmoKHnlJ98KCg/PD1cXEQpfF4pWzAtOV0tWzAtOV3lubR8KCg/PD1cXEQpfF4pWzAtOV3lubQiKTsK</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
