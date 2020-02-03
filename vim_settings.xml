@@ -135,10 +135,10 @@
       <file name="/Python Script.txt.ft" timestamp="1577773048159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1580645942330">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1580734201497">
+        <mark key="[" line="452" column="0" />
+        <mark key="]" line="452" column="0" />
+        <mark key="." line="452" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy4.java" timestamp="1580644568841">
         <mark key="'" line="87" column="55" />
@@ -384,14 +384,8 @@
       <jump line="112" column="72" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else if (p.contains(&quot;应届&quot;)) {
-                            filters.put(FilterField.EXPERIENCE, &quot;0,0&quot;);
-                            return true;
-                        } else if (p.contains(&quot;在校&quot;)) {
-                            filters.put(FilterField.EXPERIENCE, &quot;-2,-2&quot;);
-                            return true;
-                        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -495,17 +489,11 @@
       <register name="0" type="4">
         <text>phrase.word.substring(0, 1)</text>
       </register>
-      <register name="1" type="4">
-        <text>else if (p.contains(&quot;应届&quot;)) {
-                            filters.put(FilterField.EXPERIENCE, &quot;0,0&quot;);
-                            return true;
-                        } else if (p.contains(&quot;在校&quot;)) {
-                            filters.put(FilterField.EXPERIENCE, &quot;-2,-2&quot;);
-                            return true;
-                        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcDxOTFVTbG90VHlwZSwgUGF0dGVybj4gdGFnUGF0dGVybiA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -531,11 +519,17 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oUEZMSVUpIOS4i+acn+WBmgo=</text>
+      <register name="3" type="4">
+        <text>else if (p.contains(&quot;应届&quot;)) {
+                            filters.put(FilterField.EXPERIENCE, &quot;0,0&quot;);
+                            return true;
+                        } else if (p.contains(&quot;在校&quot;)) {
+                            filters.put(FilterField.EXPERIENCE, &quot;-2,-2&quot;);
+                            return true;
+                        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gQVBQTFlfU1RBVFVTX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIuemu+iBjHzlnKjogYzogIPomZHmnLrkvJp85Zyo6IGM5pyI5YaF5Yiw5bKXIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcDxOTFVTbG90VHlwZSwgUGF0dGVybj4gdGFnUGF0dGVybiA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -549,7 +543,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgUGF0dGVybiBTQ0hPT0xfVFlQRVNfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZSgiMjExfDk4NXznu5/mi5vmnKznp5F85Y+M5LiA5rWBIik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oUEZMSVUpIOS4i+acn+WBmgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -573,16 +567,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gU0NIT09MX1RZUEVTX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIjIxMXw5ODV857uf5oub5pys56eRfOWPjOS4gOa1gSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gQVBQTFlfU1RBVFVTX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIuemu+iBjHzlnKjogYzogIPomZHmnLrkvJp85Zyo6IGM5pyI5YaF5Yiw5bKXIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gREVHUkVFX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIuacrOenkXznoZXlo6siKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgUGF0dGVybiBTQ0hPT0xfVFlQRVNfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZSgiMjExfDk4NXznu5/mi5vmnKznp5F85Y+M5LiA5rWBIik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gU0NIT09MX1RZUEVTX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIjIxMXw5ODV857uf5oub5pys56eRfOWPjOS4gOa1gSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gRVhQRVJJRU5DRV9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKCLlupTlsYrnlJ985bqU5bGKfOWunuS5oHzlnKjmoKHnlJ98KCg/PD1cXEQpfF4pWzAtOV0tWzAtOV3lubR8KCg/PD1cXEQpfF4pWzAtOV3lubQiKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFBhdHRlcm4gREVHUkVFX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoIuacrOenkXznoZXlo6siKTsK</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
