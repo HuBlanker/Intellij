@@ -9,11 +9,11 @@
       <file name="/a.dummy" timestamp="1580814029835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchHandler.java" timestamp="1580899762663">
-        <mark key="[" line="95" column="36" />
-        <mark key="]" line="170" column="16" />
-        <mark key="." line="170" column="16" />
-        <mark key="^" line="170" column="16" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchHandler.java" timestamp="1580909526463">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="168" column="16" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1577773099183">
         <mark key="[" line="0" column="0" />
@@ -99,6 +99,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/zhipin/zp-search2/0.1/zp-search2-0.1.jar!/com/zhipin/feature/v2/CacheLoader.class" timestamp="1580909617151" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/f2j.vm" timestamp="1580897498552">
         <mark key="'" line="134" column="31" />
         <mark key="[" line="182" column="0" />
@@ -186,6 +187,7 @@
       <file name="/fragment.java" timestamp="1580897728054">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1580909303945" />
     </filemarks>
     <jumps>
       <jump line="12" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy5.java" />
@@ -290,8 +292,8 @@
       <jump line="79" column="16" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/NNTagTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PEludGVnZXI+IGpvYklkczsKLy8gICAgICAgICAgICBqb2JJZHMgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDQ4MDkwOTg3KTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -396,10 +398,10 @@
         <text encoding="base64">ICAgICAgICBpbnRbXSBpbnQyID0gezIzLCAzMCwgMzQsIDUwfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PEludGVnZXI+IGpvYklkczsKLy8gICAgICAgICAgICBqb2JJZHMgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDQ4MDkwOTg3KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShib3NzSWQpKSBib3NzSWQgPSAiMCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -426,10 +428,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAxLTEwIDIwLTUwIDMwLTYwLDEwMC0yMDAsIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShib3NzSWQpKSBib3NzSWQgPSAiMCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnQyID0gezIzLCAzMCwgMzQsIDUwfTsK</text>
+        <text encoding="base64">ICAgICAgICAxLTEwIDIwLTUwIDMwLTYwLDEwMC0yMDAsIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -443,7 +445,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnQyID0gezIzLCAzMCwgMzQsIDUwfTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -467,16 +469,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOivhOa1i+mimOebrjI6IFNlYXJjaCBhIDJEIE1hdHJpeAovLyBXcml0ZSBhbiBlZmZpY2llbnQgYWxnb3JpdGhtIHRoYXQgc2VhcmNoZXMgZm9yIGEgdmFsdWUgaW4gYW4gbSB4IG4gbWF0cml4LiBUaGlzIG1hdHJpeCBoYXMgdGhlIGZvbGxvd2luZyBwcm9wZXJ0aWVzOgoKLy8gSW50ZWdlcnMgaW4gZWFjaCByb3cgYXJlIHNvcnRlZCBmcm9tIGxlZnQgdG8gcmlnaHQuCi8vIFRoZSBmaXJzdCBpbnRlZ2VyIG9mIGVhY2ggcm93IGlzIGdyZWF0ZXIgdGhhbiB0aGUgbGFzdCBpbnRlZ2VyIG9mIHRoZSBwcmV2aW91cyByb3cuCi8vIEZvciBleGFtcGxlLAoKLy8gQ29uc2lkZXIgdGhlIGZvbGxvd2luZyBtYXRyaXg6CgovLyBbCi8vIFsxLCAzLCA1LCA3XSwKLy8gWzEwLCAxMSwgMTYsIDIwXSwKLy8gWzIzLCAzMCwgMzQsIDUwXQovLyBdCi8vIEdpdmVuIHRhcmdldCA9IDMsIHJldHVybiB0cnVlLgovLyBHaXZlbiB0YXJnZXQgPSAxNywgcmV0dXJuIGZhbHNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8v6K+E5rWL6aKY55uuMTog5LiA5Liq5reY5a6d6K6i5Y2V77yM6IO95ZCM5pe25Lqr5Y+X5Lik5Liq5LyY5oOg562W55Wl77yMCgovLyAxLiDmiZPmipjkvJjmg6AKLy8g5b2T55So5oi355qE6K6i5Y2V6YeR6aKdID49IDIwMDDlhYPvvIzmlbTljZXlh4/lhY0xNTDlhYPvvIzlvZPnlKjmiLfnmoTorqLljZXph5Hpop0gPj0gMzAwMOWFg++8jOaVtOWNleWHj+WFjTI4MOWFg+OAggoKLy8gMi4g6Zi25qKv5LyY5oOg77yM57G75Ly85Liq5Lq65omA5b6X56iO55qE566X5rOV44CCCi8vIOW9k+eUqOaIt+eahOiuouWNlemHkeminSAwLTEwMDDvvIjlkKvvvInlhYPvvIzov5npg6jliIbph5Hpop3kuqvlj5c5NeaKmOS8mOaDoAovLyDlvZPnlKjmiLfnmoTorqLljZXph5Hpop0gMTAwMC0yMDAw77yI5ZCr77yJ5YWD77yM6L+Z6YOo5YiG6YeR6aKd5Lqr5Y+XOeaKmOS8mOaDoAovLyDlvZPnlKjmiLfnmoTorqLljZXph5Hpop0gMjAwMOWFg+S7peS4iu+8iOS4jeWQqzIwMDDvvInvvIzov5npg6jliIbph5Hpop3kuqvlj5c4NeaKmOS8mOaDoAoKLy8g6K6i5Y2V5Zyo5omn6KGM5LyY5oOg5pe277yM5Li65o+Q6auY55So5oi35L2T5qOA77yM5aSa5Liq5LyY5oOg6ZyA6KaB5bm26KGM5omn6KGMKOS4jeiAg+iZkeS8mOaDoOetlueVpeeahOS8mOWFiOe6pynmnaXliqDlv6vlk43lupTml7bpl7TjgIIKCi8vIOWumuS5ieS7peS4iueahOexu+OAgeaOpeWPo++8jOW5tuWGmeWHuua1i+ivleaWueazle+8mue7meWumuS4gOS4quiuouWNleeahOWOn+Wni+mHkemine+8jOiuoeeul+WHuuacgOe7iOS8mOaDoOWQjueahOWunumZheaUr+S7mOS7t+OAggo=</text>
+        <text encoding="base64">ICAgIC8vIOivhOa1i+mimOebrjI6IFNlYXJjaCBhIDJEIE1hdHJpeAovLyBXcml0ZSBhbiBlZmZpY2llbnQgYWxnb3JpdGhtIHRoYXQgc2VhcmNoZXMgZm9yIGEgdmFsdWUgaW4gYW4gbSB4IG4gbWF0cml4LiBUaGlzIG1hdHJpeCBoYXMgdGhlIGZvbGxvd2luZyBwcm9wZXJ0aWVzOgoKLy8gSW50ZWdlcnMgaW4gZWFjaCByb3cgYXJlIHNvcnRlZCBmcm9tIGxlZnQgdG8gcmlnaHQuCi8vIFRoZSBmaXJzdCBpbnRlZ2VyIG9mIGVhY2ggcm93IGlzIGdyZWF0ZXIgdGhhbiB0aGUgbGFzdCBpbnRlZ2VyIG9mIHRoZSBwcmV2aW91cyByb3cuCi8vIEZvciBleGFtcGxlLAoKLy8gQ29uc2lkZXIgdGhlIGZvbGxvd2luZyBtYXRyaXg6CgovLyBbCi8vIFsxLCAzLCA1LCA3XSwKLy8gWzEwLCAxMSwgMTYsIDIwXSwKLy8gWzIzLCAzMCwgMzQsIDUwXQovLyBdCi8vIEdpdmVuIHRhcmdldCA9IDMsIHJldHVybiB0cnVlLgovLyBHaXZlbiB0YXJnZXQgPSAxNywgcmV0dXJuIGZhbHNlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8v6K+E5rWL6aKY55uuMTog5LiA5Liq5reY5a6d6K6i5Y2V77yM6IO95ZCM5pe25Lqr5Y+X5Lik5Liq5LyY5oOg562W55Wl77yMCgovLyAxLiDmiZPmipjkvJjmg6AKLy8g5b2T55So5oi355qE6K6i5Y2V6YeR6aKdID49IDIwMDDlhYPvvIzmlbTljZXlh4/lhY0xNTDlhYPvvIzlvZPnlKjmiLfnmoTorqLljZXph5Hpop0gPj0gMzAwMOWFg++8jOaVtOWNleWHj+WFjTI4MOWFg+OAggoKLy8gMi4g6Zi25qKv5LyY5oOg77yM57G75Ly85Liq5Lq65omA5b6X56iO55qE566X5rOV44CCCi8vIOW9k+eUqOaIt+eahOiuouWNlemHkeminSAwLTEwMDDvvIjlkKvvvInlhYPvvIzov5npg6jliIbph5Hpop3kuqvlj5c5NeaKmOS8mOaDoAovLyDlvZPnlKjmiLfnmoTorqLljZXph5Hpop0gMTAwMC0yMDAw77yI5ZCr77yJ5YWD77yM6L+Z6YOo5YiG6YeR6aKd5Lqr5Y+XOeaKmOS8mOaDoAovLyDlvZPnlKjmiLfnmoTorqLljZXph5Hpop0gMjAwMOWFg+S7peS4iu+8iOS4jeWQqzIwMDDvvInvvIzov5npg6jliIbph5Hpop3kuqvlj5c4NeaKmOS8mOaDoAoKLy8g6K6i5Y2V5Zyo5omn6KGM5LyY5oOg5pe277yM5Li65o+Q6auY55So5oi35L2T5qOA77yM5aSa5Liq5LyY5oOg6ZyA6KaB5bm26KGM5omn6KGMKOS4jeiAg+iZkeS8mOaDoOetlueVpeeahOS8mOWFiOe6pynmnaXliqDlv6vlk43lupTml7bpl7TjgIIKCi8vIOWumuS5ieS7peS4iueahOexu+OAgeaOpeWPo++8jOW5tuWGmeWHuua1i+ivleaWueazle+8mue7meWumuS4gOS4quiuouWNleeahOWOn+Wni+mHkemine+8jOiuoeeul+WHuuacgOe7iOS8mOaDoOWQjueahOWunumZheaUr+S7mOS7t+OAggo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgW10gdG1wID0gbmV3IGludFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
