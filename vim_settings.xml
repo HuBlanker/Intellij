@@ -64,12 +64,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1579527736011">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/NLUHandler.java" timestamp="1580971817296">
-        <mark key="'" line="61" column="27" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="34" column="59" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/NLUHandler.java" timestamp="1580973048642">
+        <mark key="'" line="60" column="27" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="33" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/NLUSlotTypeOccer.java" timestamp="1580707166686">
         <mark key="[" line="27" column="0" />
@@ -316,8 +316,8 @@
       <jump line="49" column="0" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhxdWVyeSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -422,10 +422,10 @@
         <text encoding="base64">ICAgICAgICBpbnRbXSBpbnQyID0gezIzLCAzMCwgMzQsIDUwfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdlZWs+IGdlZWtzID0genBVc2VyREJBcGkuZ2V0R2Vla3MoYnVpbGRHZWVrcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhxdWVyeSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8SW50ZWdlciwgR2Vlaz4gZ2Vla3MgPSBib3NzRGJBcGkuZ2V0R2Vla0FsbEJ5SWRzKGJ1aWxkR2Vla3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEdlZWs+IGdlZWtzID0genBVc2VyREJBcGkuZ2V0R2Vla3MoYnVpbGRHZWVrcyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -452,10 +452,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWNhbGxSZXEuc2V0ZmxhZ2YK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8SW50ZWdlciwgR2Vlaz4gZ2Vla3MgPSBib3NzRGJBcGkuZ2V0R2Vla0FsbEJ5SWRzKGJ1aWxkR2Vla3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICByZWNhbGxSZXEuc2V0ZmxhZ2YK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -469,7 +469,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -493,16 +493,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNzpzcmMvbWFpbi9qYXZhL2NvbS96aGlwaW4vcmVjYWxsL3JlYnVpbGQvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL3poaXBpbi9yZWNhbGwvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQogICAgICAgICAgICBMaXN0PERvdWJsZT4gam9iVmVjcyA9IHByZWRpY3RSZXNwLnNjb3Jlcy5nZXQoTU9ERUxfVkVDX0YyQ18wMTEwKTsKPT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNzpzcmMvbWFpbi9qYXZhL2NvbS96aGlwaW4vcmVjYWxsL3JlYnVpbGQvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNzpzcmMvbWFpbi9qYXZhL2NvbS96aGlwaW4vcmVjYWxsL3JlYnVpbGQvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL3poaXBpbi9yZWNhbGwvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQogICAgICAgICAgICBMaXN0PERvdWJsZT4gam9iVmVjcyA9IHByZWRpY3RSZXNwLnNjb3Jlcy5nZXQoTU9ERUxfVkVDX0YyQ18wMTEwKTsKPT09PT09PQo=</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
