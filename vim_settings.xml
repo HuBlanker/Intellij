@@ -50,12 +50,12 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1580978604629">
-        <mark key="'" line="256" column="13" />
-        <mark key="[" line="195" column="49" />
-        <mark key="]" line="197" column="57" />
-        <mark key="." line="197" column="57" />
-        <mark key="^" line="197" column="57" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1580984823590">
+        <mark key="'" line="175" column="21" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="^" line="235" column="6" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1580959842730">
         <mark key="[" line="79" column="42" />
@@ -69,11 +69,15 @@
         <mark key="^" line="136" column="120" />
         <mark key="." line="136" column="80" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Collection.java" timestamp="1580984330254" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/thrift/GQueryBuilder.java" timestamp="1580981713206">
         <mark key="[" line="45" column="46" />
         <mark key="]" line="45" column="129" />
         <mark key="." line="45" column="129" />
         <mark key="^" line="45" column="129" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1580984212818">
+        <mark key="'" line="471" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalDangersWord.java" timestamp="1580963519861">
         <mark key="[" line="64" column="39" />
@@ -102,18 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/lucene/KeywordQueryBuilder.java" />
-      <jump line="11" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="393" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
-      <jump line="83" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/HighLight.java" />
-      <jump line="261" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
-      <jump line="204" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
-      <jump line="122" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
-      <jump line="136" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
-      <jump line="125" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
-      <jump line="77" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
-      <jump line="15" column="11" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="649" column="11" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
       <jump line="1728" column="7" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
       <jump line="2526" column="11" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
       <jump line="2921" column="7" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
@@ -202,10 +194,22 @@
       <jump line="248" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="111" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="250" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="175" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
+      <jump line="160" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="476" column="7" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="521" column="64" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="575" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="625" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="78" column="7" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="82" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="85" column="46" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="111" column="51" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="139" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="471" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>query == null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB0bXBOYW1lID0gbmV3IEFycmF5TGlzdDw+KDMpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -301,19 +305,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>query == null</text>
+        <text>strings</text>
       </register>
       <register name="/" type="4">
-        <text>only</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZGVidWctPiBubl92ZWNfZmlsdGVyUXVlcnk6IiwgUXVlcnlDb252ZXJ0ZXIuY29udmVydFRvTHVjZW5lKENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZmlsdGVyUXVlcnkpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB0bXBOYW1lID0gbmV3IEFycmF5TGlzdDw+KDMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1swXSkuc2Nob29sKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -340,10 +344,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1sxXSkuc2Nob29sKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1sxXSkuc2Nob29sKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -357,7 +361,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSAwOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCgyLCB1ZS5nZXQoaWR4c1syXSkuc2Nob29sKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -381,16 +385,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhxdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdlZWs+IGdlZWtzID0genBVc2VyREJBcGkuZ2V0R2Vla3MoYnVpbGRHZWVrcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8SW50ZWdlciwgR2Vlaz4gZ2Vla3MgPSBib3NzRGJBcGkuZ2V0R2Vla0FsbEJ5SWRzKGJ1aWxkR2Vla3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWNhbGxSZXEuc2V0ZmxhZ2YK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>di(jevi(p</text>
@@ -400,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>only</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>only</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>Phrase</last-substitute>
       <last-dir>1</last-dir>
@@ -410,8 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>J.title</entry>
-        <entry>positionCode</entry>
         <entry>position</entry>
         <entry>毛泽东</entry>
         <entry>jb</entry>
@@ -430,6 +432,8 @@
         <entry>getGeekAllByIds</entry>
         <entry>query</entry>
         <entry>only</entry>
+        <entry>linked</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
