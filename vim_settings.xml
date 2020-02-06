@@ -7,9 +7,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/RebuildJobRecallMain.java" timestamp="1580959060188">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1580814029835">
         <mark key="[" line="0" column="0" />
@@ -60,6 +60,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1577773073354">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1580964366989" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1579527736011">
         <mark key="[" line="7" column="0" />
       </file>
@@ -73,6 +74,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/zhipin/zp-search2/0.1/zp-search2-0.1.jar!/com/zhipin/feature/v2/CacheLoader.class" timestamp="1580909617151" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/service/QueryAnalyzerMain.java" timestamp="1580959842730">
         <mark key="[" line="79" column="42" />
         <mark key="]" line="79" column="48" />
@@ -81,6 +83,12 @@
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1577773077495">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/handler/ExpectUpdateHandler.java" timestamp="1580965075897">
+        <mark key="[" line="136" column="80" />
+        <mark key="]" line="136" column="80" />
+        <mark key="^" line="136" column="120" />
+        <mark key="." line="136" column="80" />
       </file>
       <file name="/Python Script.txt.ft" timestamp="1577773048159">
         <mark key="[" line="0" column="0" />
@@ -125,18 +133,31 @@
       <file name="/HTML File.txt.ft" timestamp="1579489544296">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/ExpectWrapper.java" timestamp="1580965070506">
+        <mark key="[" line="124" column="57" />
+        <mark key="]" line="124" column="56" />
+        <mark key="^" line="124" column="56" />
+        <mark key="." line="124" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1580959499553">
         <mark key="[" line="26" column="29" />
         <mark key="]" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/RebuildExpectRecallMain.java" timestamp="1580965086587">
+        <mark key="[" line="149" column="76" />
+        <mark key="]" line="149" column="76" />
+        <mark key="^" line="149" column="56" />
+        <mark key="." line="149" column="76" />
+      </file>
       <file name="/Dummy.txt" timestamp="1580897718151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/service/ExpectRecallSearchMain.java" timestamp="1580958327860">
-        <mark key="[" line="135" column="42" />
-        <mark key="]" line="135" column="42" />
-        <mark key="." line="135" column="42" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/service/ExpectRecallSearchMain.java" timestamp="1580964601487">
+        <mark key="[" line="143" column="67" />
+        <mark key="]" line="143" column="66" />
+        <mark key="." line="143" column="66" />
+        <mark key="^" line="143" column="66" />
       </file>
       <file name="$USER_HOME$/study/someprogram/pom.xml" timestamp="1579712595297">
         <mark key="[" line="174" column="21" />
@@ -158,6 +179,7 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/DBConfigs.java" timestamp="1580964595040" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1580645591415">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -177,6 +199,7 @@
       <file name="/fragment.java" timestamp="1580897728054">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1580909303945" />
     </filemarks>
     <jumps>
       <jump line="58" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy5.java" />
@@ -282,7 +305,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NLUResq</text>
+        <text>bossDbApi,</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -378,19 +401,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NLUResq</text>
+        <text>bossDbApi,</text>
       </register>
       <register name="/" type="4">
-        <text>expect</text>
+        <text>getGeekAllByIds</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnRbXSBpbnQyID0gezIzLCAzMCwgMzQsIDUwfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWNhbGxSZXEuc2V0ZmxhZ2YK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEdlZWs+IGdlZWtzID0genBVc2VyREJBcGkuZ2V0R2Vla3MoYnVpbGRHZWVrcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNYXA8SW50ZWdlciwgR2Vlaz4gZ2Vla3MgPSBib3NzRGJBcGkuZ2V0R2Vla0FsbEJ5SWRzKGJ1aWxkR2Vla3MpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -417,10 +440,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNwo=</text>
+        <text encoding="base64">ICAgICAgICByZWNhbGxSZXEuc2V0ZmxhZ2YK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -434,7 +457,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNzpzcmMvbWFpbi9qYXZhL2NvbS96aGlwaW4vcmVjYWxsL3JlYnVpbGQvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -458,13 +481,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL3poaXBpbi9yZWNhbGwvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQogICAgICAgICAgICBMaXN0PERvdWJsZT4gam9iVmVjcyA9IHByZWRpY3RSZXNwLnNjb3Jlcy5nZXQoTU9ERUxfVkVDX0YyQ18wMTEwKTsKPT09PT09PQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNzpzcmMvbWFpbi9qYXZhL2NvbS96aGlwaW4vcmVjYWxsL3JlYnVpbGQvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL3poaXBpbi9yZWNhbGwvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQogICAgICAgICAgICBpZiAocHJlZGljdFJlc3Auc2NvcmVzID09IG51bGwgfHwgcHJlZGljdFJlc3Auc2NvcmVzLmdldChNT0RFTF9WRUNfRjJDXzAxMTApID09IG51bGwpIHsKPT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL3poaXBpbi9yZWNhbGwvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQogICAgICAgICAgICBMaXN0PERvdWJsZT4gam9iVmVjcyA9IHByZWRpY3RSZXNwLnNjb3Jlcy5nZXQoTU9ERUxfVkVDX0YyQ18wMTEwKTsKPT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbHpoX2JldHRlcl9yZWNhbGxfMDExNzpzcmMvbWFpbi9qYXZhL2NvbS96aGlwaW4vcmVjYWxsL3JlYnVpbGQvUmVidWlsZEpvYlJlY2FsbE1haW4uamF2YQo=</text>
@@ -477,9 +500,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expect</last-search>
+      <last-search>getGeekAllByIds</last-search>
       <last-offset />
-      <last-pattern>expect</last-pattern>
+      <last-pattern>getGeekAllByIds</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>Phrase</last-substitute>
       <last-dir>1</last-dir>
@@ -487,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.text</entry>
         <entry>compile</entry>
         <entry>title</entry>
         <entry>J.title</entry>
@@ -507,6 +529,7 @@
         <entry>scores</entry>
         <entry>score</entry>
         <entry>expect</entry>
+        <entry>getGeekAllByIds</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
