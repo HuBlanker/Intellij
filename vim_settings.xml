@@ -38,6 +38,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" timestamp="1580992527881">
+        <mark key="'" line="132" column="78" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="145" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GRecallReq.java" timestamp="1580979096224">
         <mark key="[" line="42" column="55" />
         <mark key="]" line="42" column="56" />
@@ -106,8 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1728" column="7" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="2526" column="11" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
       <jump line="2921" column="7" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
       <jump line="4197" column="13" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
       <jump line="4247" column="8" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
@@ -206,10 +209,12 @@
       <jump line="111" column="51" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="139" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="471" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="54" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
+      <jump line="132" column="78" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB0bXBOYW1lID0gbmV3IEFycmF5TGlzdDw+KDMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBxdWVyeSA9IHJlcS5xdWVyeTsKICAgICAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNFbXB0eShxdWVyeSkpIHsKICAgICAgICAgICAgICAgICAgICBDcmZDbGFzc2lmaWVyLlIgY2xhc3NpZnkgPSBDcmZDbGFzc2lmaWVyLklOU1RBTkNFLmNsYXNzaWZ5KHF1ZXJ5KTsKICAgICAgICAgICAgICAgICAgICBmb3IgKFBocmFzZSBwaHJhc2UgOiBjbGFzc2lmeS5zZXEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudFN1ZmZ4aU1hcC5jb21wdXRlKHBocmFzZS50eXBlLm5hbWUoKSwgKGssIG9sZFYpIC0+IG9sZFYgPT0gbnVsbCA/IDEgOiBvbGRWICsgMSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -308,7 +313,7 @@
         <text>strings</text>
       </register>
       <register name="/" type="4">
-        <text>add</text>
+        <text>Class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZGVidWctPiBubl92ZWNfZmlsdGVyUXVlcnk6IiwgUXVlcnlDb252ZXJ0ZXIuY29udmVydFRvTHVjZW5lKENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZmlsdGVyUXVlcnkpKSk7Cg==</text>
@@ -404,9 +409,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add</last-search>
+      <last-search>Class</last-search>
       <last-offset />
-      <last-pattern>add</last-pattern>
+      <last-pattern>Class</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>Phrase</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>position</entry>
         <entry>毛泽东</entry>
         <entry>jb</entry>
         <entry>小骚逼</entry>
@@ -434,6 +438,7 @@
         <entry>only</entry>
         <entry>linked</entry>
         <entry>add</entry>
+        <entry>Class</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
