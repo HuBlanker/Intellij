@@ -89,6 +89,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CalJobCoverage'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'CalJobCoverage'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ChatCardBlockTest()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -879,6 +887,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BuildData'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CalJobCoverage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CalJobCoverage'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CleanQueryDict'">
@@ -2230,7 +2246,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1540</Count>
+          <Count>1541</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -3294,7 +3310,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>618</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
