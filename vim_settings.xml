@@ -71,6 +71,13 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1581052739290">
+        <mark key="'" line="1569" column="0" />
+        <mark key="[" line="1735" column="1" />
+        <mark key="]" line="1736" column="0" />
+        <mark key="^" line="1736" column="0" />
+        <mark key="." line="1736" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/DebugFlag.java" timestamp="1580975124526">
         <mark key="[" line="21" column="77" />
         <mark key="]" line="19" column="46" />
@@ -103,6 +110,17 @@
         <mark key="." line="45" column="129" />
         <mark key="^" line="45" column="129" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1581053488569">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/DataInitManager.java" timestamp="1581052112493">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalDangersWord.java" timestamp="1580963519861">
         <mark key="[" line="64" column="39" />
         <mark key="]" line="64" column="47" />
@@ -117,50 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2921" column="7" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="4197" column="13" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="4247" column="8" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="4354" column="7" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="4358" column="7" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="112" column="72" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/QueryFilterRewriter.java" />
-      <jump line="9" column="6" filename="$USER_HOME$/workspace/zp-web/src/main/resources/nlu.vm" />
-      <jump line="12" column="19" filename="$USER_HOME$/workspace/zp-web/src/main/resources/nlu.vm" />
-      <jump line="26" column="27" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/NLUHandler.java" />
-      <jump line="49" column="258" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
-      <jump line="191" column="6" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek_search.vm" />
-      <jump line="120" column="24" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="130" column="24" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="136" column="20" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="142" column="27" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="148" column="23" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="154" column="28" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="160" column="24" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="166" column="28" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="172" column="24" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="12" column="6" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/zp-web/src/main/resources/f2j.vm" />
-      <jump line="150" column="31" filename="$USER_HOME$/workspace/zp-web/src/main/resources/f2j.vm" />
-      <jump line="87" column="27" filename="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.10/zp-client-8.10.jar!/gen/dataview/JobStatic.class" />
-      <jump line="104" column="31" filename="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.10/zp-client-8.10.jar!/gen/dataview/JobStatic.class" />
-      <jump line="32" column="28" filename="$MAVEN_REPOSITORY$/com/zhipin/zp-search2/0.1/zp-search2-0.1.jar!/gen/db/ZpJob.class" />
-      <jump line="23" column="21" filename="$MAVEN_REPOSITORY$/com/zhipin/zp-search2/0.1/zp-search2-0.1.jar!/gen/db/ZpJob.class" />
-      <jump line="50" column="67" filename="$MAVEN_REPOSITORY$/com/zhipin/zp-search2/0.1/zp-search2-0.1.jar!/gen/db/ZpJob.class" />
-      <jump line="55" column="28" filename="$MAVEN_REPOSITORY$/com/zhipin/zp-search2/0.1/zp-search2-0.1.jar!/gen/db/ZpJob.class" />
-      <jump line="101" column="33" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek_search.vm" />
-      <jump line="102" column="12" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek_search.vm" />
-      <jump line="56" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagDict.java" />
-      <jump line="7" column="2" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/OTHER.txt" />
-      <jump line="4361" column="10" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/cache/manual_dict.txt" />
-      <jump line="78" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalDangersWord.java" />
-      <jump line="27" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalDangersWord.java" />
-      <jump line="76" column="2" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_build/dataset/dict_sex_politics/dict_politics_person.txt" />
-      <jump line="50" column="1" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_build/dataset/dict_sex_politics/dict_sex.txt" />
-      <jump line="176" column="1" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_build/dataset/dict_sex_politics/dict_sex.txt" />
-      <jump line="1089" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_build/dataset/dict_sex_politics/dict_sex.txt" />
-      <jump line="1372" column="1" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_build/dataset/dict_sex_politics/dict_sex.txt" />
-      <jump line="1428" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_build/dataset/dict_sex_politics/dict_sex.txt" />
-      <jump line="1436" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_build/dataset/dict_sex_politics/dict_sex.txt" />
-      <jump line="40" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/TagPronPolitics.java" />
       <jump line="13" column="1" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_pron_politics/PRON.txt" />
       <jump line="230" column="0" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_pron_politics/PRON.txt" />
       <jump line="352" column="1" filename="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_pron_politics/PRON.txt" />
@@ -217,10 +191,54 @@
       <jump line="471" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="54" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
       <jump line="132" column="78" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1683" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1696" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1699" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1703" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1711" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1714" column="10" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1718" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1725" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="2634" column="14" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="2650" column="14" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="3520" column="35" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="3548" column="50" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="3549" column="40" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1751" column="3" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1752" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1926" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1723" column="24" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="4" column="18" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="289" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="339" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="400" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="430" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="439" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="516" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="665" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="848" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="869" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="880" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="885" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1010" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1017" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1112" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1136" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1155" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1199" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1213" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1222" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1252" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1257" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1457" column="22" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1569" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>redis.stream.redis.addrs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXEuZ2V0U3VnVHlwZSgpCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -316,19 +334,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>strings</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
-        <text>Class</text>
+        <text>enum</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZGVidWctPiBubl92ZWNfZmlsdGVyUXVlcnk6IiwgUXVlcnlDb252ZXJ0ZXIuY29udmVydFRvTHVjZW5lKENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZmlsdGVyUXVlcnkpKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>ResumeSearchSugType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB0bXBOYW1lID0gbmV3IEFycmF5TGlzdDw+KDMpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXEuZ2V0U3VnVHlwZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1swXSkuc2Nob29sKTsK</text>
+        <text encoding="base64">Ci8vIDIwMjAtMDItMDc6IOmrmOaQnOaOqOiNkOexu+WeiyzlvZPliY3mmK9KT0JJROexu+WeiwplbnVtIFJlc3VtZVNlYXJjaFN1Z1R5cGV7CiAgICBOT05FID0gMCwgLy8g5LiN5o6o6I2QCiAgICBKT0IgPSAxIC8vIEpPQklE55qE5o6o6I2QCn0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -355,10 +373,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1sxXSkuc2Nob29sKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8U3RyaW5nPiB0bXBOYW1lID0gbmV3IEFycmF5TGlzdDw+KDMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1sxXSkuc2Nob29sKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1swXSkuc2Nob29sKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -372,7 +390,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCgyLCB1ZS5nZXQoaWR4c1syXSkuc2Nob29sKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1sxXSkuc2Nob29sKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -396,13 +414,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCh1ZS5nZXQoaWR4c1sxXSkuc2Nob29sKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0bXBOYW1lLmFkZCgyLCB1ZS5nZXQoaWR4c1syXSkuc2Nob29sKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Class</last-search>
+      <last-search>enum</last-search>
       <last-offset />
-      <last-pattern>Class</last-pattern>
+      <last-pattern>enum</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>Phrase</last-substitute>
       <last-dir>1</last-dir>
@@ -425,8 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>毛泽东</entry>
-        <entry>jb</entry>
         <entry>小骚逼</entry>
         <entry>骚逼</entry>
         <entry>逼</entry>
@@ -445,6 +461,8 @@
         <entry>linked</entry>
         <entry>add</entry>
         <entry>Class</entry>
+        <entry>resumesearch</entry>
+        <entry>enum</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
