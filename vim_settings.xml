@@ -116,11 +116,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1581064290216">
         <mark key="'" line="194" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_with_job_list.sh" timestamp="1581078877630">
-        <mark key="[" line="56" column="64" />
-        <mark key="]" line="56" column="65" />
-        <mark key="^" line="60" column="21" />
-        <mark key="." line="56" column="65" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_with_job_list.sh" timestamp="1581080705788">
+        <mark key="[" line="57" column="83" />
+        <mark key="]" line="57" column="68" />
+        <mark key="^" line="57" column="68" />
+        <mark key="." line="57" column="68" />
       </file>
       <file name="/Class.txt.ft" timestamp="1581059093346">
         <mark key="[" line="6" column="9" />
@@ -282,7 +282,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>boss_search_no_recall</text>
+        <text>''\</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -378,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>boss_search_no_recall</text>
+        <text>''\</text>
       </register>
       <register name="/" type="4">
         <text>req.j</text>
