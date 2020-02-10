@@ -48,10 +48,11 @@
         <mark key="^" line="74" column="37" />
         <mark key="." line="74" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek_search.vm" timestamp="1581334977492">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek_search.vm" timestamp="1581341072292">
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1581315552037">
         <mark key="[" line="0" column="0" />
@@ -196,6 +197,12 @@
       <file name="/fragment.java" timestamp="1581062814408">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/boss/jobs.vm" timestamp="1581341121782">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="71" column="42" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchHandler.java" />
@@ -300,8 +307,8 @@
       <jump line="175" column="10" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchJobActionHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlj4LmlbDlm57loasK</text>
+      <register name="&quot;" type="4">
+        <text>class=&quot;&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -397,10 +404,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>query_date</text>
+        <text>class=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>hah</text>
+        <text>ji</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5wdXQoInN0YXJ0Iiwgb2ZmLnN0YXJ0KTsK</text>
@@ -496,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hah</last-search>
+      <last-search>ji</last-search>
       <last-offset />
-      <last-pattern>hah</last-pattern>
+      <last-pattern>ji</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>qa</last-substitute>
       <last-dir>1</last-dir>
@@ -506,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>奶子</entry>
         <entry>_workEdu</entry>
         <entry>salary</entry>
         <entry>feature</entry>
@@ -526,6 +532,7 @@
         <entry>QuerySuggest4BResp</entry>
         <entry>if</entry>
         <entry>hah</entry>
+        <entry>ji</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
