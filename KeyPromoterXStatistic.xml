@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'EvalJobSug'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'EvalJobSug'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FastTextDemo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -598,7 +606,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5114</Count>
+          <Count>5127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -983,6 +991,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'EvalDangersWord'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'EvalJobSug'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'EvalJobSug'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'EvalModel'">
@@ -2262,7 +2278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1555</Count>
+          <Count>1556</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2454,7 +2470,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1663</Count>
+          <Count>1666</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -2567,6 +2583,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'EvalDangersWord'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EvalJobSug'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'EvalJobSug'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EvalModel'">
@@ -3326,7 +3350,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>626</Count>
+          <Count>627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
