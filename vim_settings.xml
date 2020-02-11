@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1581326802426">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1581425543237">
         <mark key="'" line="48" column="21" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="140" />
@@ -91,6 +91,9 @@
         <mark key="^" line="83" column="54" />
         <mark key="." line="83" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1581425533464">
+        <mark key="'" line="182" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/NLUHandler.java" timestamp="1580973048642">
         <mark key="'" line="60" column="27" />
         <mark key="[" line="31" column="0" />
@@ -149,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="175" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" />
       <jump line="160" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="476" column="7" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
@@ -249,6 +251,7 @@
       <jump line="186" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/jobsug/eval/EvalJobSug.java" />
       <jump line="320" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/jobsug/eval/EvalJobSug.java" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/jobsug/eval/EvalJobSug.java" />
+      <jump line="182" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -351,7 +354,7 @@
         <text>$USER_HOME$/data/sugJob</text>
       </register>
       <register name="/" type="4">
-        <text>listTpCompanies</text>
+        <text>consumer5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZGF0YVBhdGggPSAiL1VzZXJzL3BmbGl1L2RhdGEvc3VnSm9iIjsK</text>
@@ -455,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>listTpCompanies</last-search>
+      <last-search>consumer5</last-search>
       <last-offset />
-      <last-pattern>listTpCompanies</last-pattern>
+      <last-pattern>consumer5</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>qa</last-substitute>
       <last-dir>1</last-dir>
@@ -465,8 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scores</entry>
-        <entry>score</entry>
         <entry>expect</entry>
         <entry>getGeekAllByIds</entry>
         <entry>query</entry>
@@ -485,6 +486,8 @@
         <entry>jobByaddr</entry>
         <entry>listtp</entry>
         <entry>listTpCompanies</entry>
+        <entry>stream5</entry>
+        <entry>consumer5</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
