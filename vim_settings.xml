@@ -10,12 +10,12 @@
         <mark key="^" line="198" column="61" />
         <mark key="." line="198" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1581416525694">
+      <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1581418399051">
         <mark key="'" line="0" column="17" />
-        <mark key="[" line="123" column="13" />
-        <mark key="]" line="123" column="88" />
-        <mark key="." line="123" column="88" />
-        <mark key="^" line="123" column="88" />
+        <mark key="[" line="113" column="23" />
+        <mark key="]" line="113" column="30" />
+        <mark key="." line="113" column="30" />
+        <mark key="^" line="113" column="30" />
       </file>
       <file name="/a.dummy" timestamp="1581339602907">
         <mark key="[" line="0" column="0" />
@@ -262,7 +262,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TpLinksReq</text>
+        <text>dbType</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -358,7 +358,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TpLinksReq</text>
+        <text>dbType</text>
       </register>
       <register name="/" type="4">
         <text>listTpCompanies</text>
