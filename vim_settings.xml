@@ -99,8 +99,8 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1581559913352">
-        <mark key="'" line="2781" column="23" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1581563872727">
+        <mark key="'" line="435" column="5" />
         <mark key="[" line="1778" column="6" />
         <mark key="]" line="1783" column="25" />
         <mark key="^" line="1783" column="25" />
@@ -117,7 +117,7 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1581563170927" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1581564499842" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1580984823590">
         <mark key="'" line="175" column="21" />
         <mark key="[" line="239" column="0" />
@@ -147,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="27" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="471" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="54" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
       <jump line="132" column="78" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
@@ -247,6 +246,7 @@
       <jump line="3620" column="47" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="2766" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="2781" column="23" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="435" column="5" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -349,7 +349,7 @@
         <text encoding="base64">PC9mb250Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>v3resp</text>
+        <text>position</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZGF0YVBhdGggPSAiL1VzZXJzL3BmbGl1L2RhdGEvc3VnSm9iIjsK</text>
@@ -453,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>v3resp</last-search>
+      <last-search>position</last-search>
       <last-offset />
-      <last-pattern>v3resp</last-pattern>
+      <last-pattern>position</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>qa</last-substitute>
       <last-dir>1</last-dir>
@@ -463,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>query</entry>
         <entry>only</entry>
         <entry>linked</entry>
         <entry>add</entry>
@@ -483,6 +482,7 @@
         <entry>batch</entry>
         <entry>listTpCompanies</entry>
         <entry>v3resp</entry>
+        <entry>position</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
