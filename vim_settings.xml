@@ -25,18 +25,8 @@
         <mark key="." line="113" column="23" />
         <mark key="^" line="113" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1581663834459">
-        <mark key="[" line="185" column="39" />
-        <mark key="]" line="187" column="136" />
-        <mark key="^" line="187" column="136" />
-        <mark key="." line="187" column="136" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" timestamp="1581662526425">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="483" column="30" />
-        <mark key="]" line="483" column="50" />
-        <mark key="^" line="481" column="26" />
-        <mark key="." line="483" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpJobSearchHandler.java" timestamp="1581650836700">
         <mark key="[" line="240" column="0" />
@@ -118,8 +108,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1581580567172">
-        <mark key="'" line="435" column="5" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1581666316617">
+        <mark key="'" line="516" column="10" />
+        <mark key="[" line="516" column="15" />
+        <mark key="]" line="516" column="10" />
+        <mark key="." line="516" column="10" />
+        <mark key="^" line="516" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_sug_job_list.sh" timestamp="1581077466033">
         <mark key="'" line="81" column="0" />
@@ -151,6 +145,7 @@
         <mark key="." line="64" column="47" />
         <mark key="^" line="64" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/FacetedCounter.java" timestamp="1581665916282" />
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/TcJobDBApi.java" timestamp="1581661985565">
         <mark key="'" line="14" column="13" />
       </file>
@@ -178,7 +173,6 @@
       <jump line="400" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="430" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="439" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="516" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="665" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="848" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="869" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -256,10 +250,11 @@
       <jump line="23" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ListForBossV2Test.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
       <jump line="14" column="13" filename="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/TcJobDBApi.java" />
+      <jump line="516" column="10" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuc2UK</text>
+        <text encoding="base64">ICAgIC8vIOWbnuaYvueahEpPQklELgogICAgSk9CCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -358,16 +353,16 @@
         <text>19943279</text>
       </register>
       <register name="/" type="4">
-        <text>loadl0</text>
+        <text>(1</text>
       </register>
       <register name="0" type="4">
         <text>seo_company_info_new</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuc2UK</text>
+        <text encoding="base64">ICAgIC8vIOWbnuaYvueahEpPQklELgogICAgSk9CCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2UK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -394,10 +389,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFRwQ29tcGFueT4gbGlzdFRwQ29tcGFuaWVzKFRpY2tlciB0aWNrZXIpIHsKICAgICAgICB0cnkgKEplZGlzIGplZGlzID0gci50cENvbUxpc3RSZWRpcy5nZXRSZXNvdXJjZSgpKSB7CiAgICAgICAgICAgIExvY2FsRGF0ZSB0b2RheSA9IExvY2FsRGF0ZS5ub3coKTsKICAgICAgICAgICAgaWYgKCFqZWRpcy5leGlzdHMoUkFORE9NX1RQX0NPTV9MSVNUX1BSRUZJWCArIHRvZGF5LnRvU3RyaW5nKCkpKSB7CiAgICAgICAgICAgICAgICByYW5kb21EYXRhKCk7CiAgICAgICAgICAgICAgICB0aWNrZXIudGljaygiZGIiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRpY2tlci50aWNrKCJjYWNoZSIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBuZXcgQXJyYXlMaXN0PD4obG9hZChqZWRpcy5nZXQoUkFORE9NX1RQX0NPTV9MSVNUX1BSRUZJWCArIHRvZGF5LnRvU3RyaW5nKCkpKSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJsaXN0VHBDb21wYW5pZXMgZXJyb3I6IiwgZSk7CiAgICAgICAgICAgIHJldHVybiBlbXB0eVRwQ29tTGlzdDsKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHJhbmRvbURhdGEoKSB7CiAgICAgICAgdHJ5IChKZWRpcyBqZWRpcyA9IHIudHBDb21MaXN0UmVkaXMuZ2V0UmVzb3VyY2UoKSkgewogICAgICAgICAgICBMaXN0PFRwQ29tcGFueT4gcmV0ID0gbmV3IEFycmF5TGlzdDw+KDIwMCk7CiAgICAgICAgICAgIFN0cmluZyBzID0gamVkaXMuZ2V0KEwwX0xBU1RfSUQpOwogICAgICAgICAgICBpbnQgbGFzdElkID0gcyA9PSBudWxsID8gMCA6IEludGVnZXIudmFsdWVPZihzKTsKICAgICAgICAgICAgTGlzdDxnZW4uZGIuVHBDb21wYW55PiB0cENvbXBhbmllcyA9IHIudGNKb2JEYkFwaS5sb2FkTDBDb20obGFzdElkLCBGRVRDSF9MSU1JVCk7CiAgICAgICAgICAgIGplZGlzLnNldChMMF9MQVNUX0lELCB0cENvbXBhbmllcy5nZXQoRkVUQ0hfTElNSVQgLSAxKS5pZCArICIiKTsKICAgICAgICAgICAgU3RyaW5nIHMxID0gamVkaXMuZ2V0KEwxX0xBU1RfSUQpOwogICAgICAgICAgICBpbnQgbGFzdElkMSA9IHMxID09IG51bGwgPyAwIDogSW50ZWdlci52YWx1ZU9mKHMxKTsKICAgICAgICAgICAgTGlzdDxnZW4uZGIuVHBDb21wYW55PiB0cENvbXBhbmllczEgPSByLnRjSm9iRGJBcGkubG9hZEwxQ29tKGxhc3RJZDEsIEZFVENIX0xJTUlUKTsKICAgICAgICAgICAgamVkaXMuc2V0KEwxX0xBU1RfSUQsIHRwQ29tcGFuaWVzMS5nZXQoRkVUQ0hfTElNSVQgLSAxKS5pZCArICIiKTsKCiAgICAgICAgICAgIFJhbmRvbSByID0gbmV3IFJhbmRvbShjb20uemhpcGluLlV0aWxzLmdldFRzKDAsIDAsIDAsIDApKTsKICAgICAgICAgICAgaW50IGkgPSAwOwogICAgICAgICAgICB3aGlsZSAoaSA8IFBFUl9UQUJMRV9MSU1JVCkgewogICAgICAgICAgICAgICAgcmV0LmFkZChnZW4odHBDb21wYW5pZXMuZ2V0KHIubmV4dEludChGRVRDSF9MSU1JVCkpLCBwcmVmaXgpKTsKICAgICAgICAgICAgICAgIHJldC5hZGQoZ2VuKHRwQ29tcGFuaWVzMS5nZXQoci5uZXh0SW50KEZFVENIX0xJTUlUKSksIHByZWZpeF9sZXZlbDIpKTsKICAgICAgICAgICAgICAgICsraTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHJpbmcga2V5ID0gUkFORE9NX1RQX0NPTV9MSVNUX1BSRUZJWCArIExvY2FsRGF0ZS5ub3coKS50b1N0cmluZygpOwogICAgICAgICAgICBqZWRpcy5zZXRueChrZXksIGNvbWJDYWNoZShyZXQpKTsKICAgICAgICAgICAgamVkaXMuZXhwaXJlKGtleSwgRmxhZ3MuREFZMV9UUyk7CgogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigicmFuZG9tIGVycm9yLCIsIGUpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -411,7 +406,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFRwQ29tcGFueT4gbGlzdFRwQ29tcGFuaWVzKFRpY2tlciB0aWNrZXIpIHsKICAgICAgICB0cnkgKEplZGlzIGplZGlzID0gci50cENvbUxpc3RSZWRpcy5nZXRSZXNvdXJjZSgpKSB7CiAgICAgICAgICAgIExvY2FsRGF0ZSB0b2RheSA9IExvY2FsRGF0ZS5ub3coKTsKICAgICAgICAgICAgaWYgKCFqZWRpcy5leGlzdHMoUkFORE9NX1RQX0NPTV9MSVNUX1BSRUZJWCArIHRvZGF5LnRvU3RyaW5nKCkpKSB7CiAgICAgICAgICAgICAgICByYW5kb21EYXRhKCk7CiAgICAgICAgICAgICAgICB0aWNrZXIudGljaygiZGIiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRpY2tlci50aWNrKCJjYWNoZSIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBuZXcgQXJyYXlMaXN0PD4obG9hZChqZWRpcy5nZXQoUkFORE9NX1RQX0NPTV9MSVNUX1BSRUZJWCArIHRvZGF5LnRvU3RyaW5nKCkpKSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJsaXN0VHBDb21wYW5pZXMgZXJyb3I6IiwgZSk7CiAgICAgICAgICAgIHJldHVybiBlbXB0eVRwQ29tTGlzdDsKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHJhbmRvbURhdGEoKSB7CiAgICAgICAgdHJ5IChKZWRpcyBqZWRpcyA9IHIudHBDb21MaXN0UmVkaXMuZ2V0UmVzb3VyY2UoKSkgewogICAgICAgICAgICBMaXN0PFRwQ29tcGFueT4gcmV0ID0gbmV3IEFycmF5TGlzdDw+KDIwMCk7CiAgICAgICAgICAgIFN0cmluZyBzID0gamVkaXMuZ2V0KEwwX0xBU1RfSUQpOwogICAgICAgICAgICBpbnQgbGFzdElkID0gcyA9PSBudWxsID8gMCA6IEludGVnZXIudmFsdWVPZihzKTsKICAgICAgICAgICAgTGlzdDxnZW4uZGIuVHBDb21wYW55PiB0cENvbXBhbmllcyA9IHIudGNKb2JEYkFwaS5sb2FkTDBDb20obGFzdElkLCBGRVRDSF9MSU1JVCk7CiAgICAgICAgICAgIGplZGlzLnNldChMMF9MQVNUX0lELCB0cENvbXBhbmllcy5nZXQoRkVUQ0hfTElNSVQgLSAxKS5pZCArICIiKTsKICAgICAgICAgICAgU3RyaW5nIHMxID0gamVkaXMuZ2V0KEwxX0xBU1RfSUQpOwogICAgICAgICAgICBpbnQgbGFzdElkMSA9IHMxID09IG51bGwgPyAwIDogSW50ZWdlci52YWx1ZU9mKHMxKTsKICAgICAgICAgICAgTGlzdDxnZW4uZGIuVHBDb21wYW55PiB0cENvbXBhbmllczEgPSByLnRjSm9iRGJBcGkubG9hZEwxQ29tKGxhc3RJZDEsIEZFVENIX0xJTUlUKTsKICAgICAgICAgICAgamVkaXMuc2V0KEwxX0xBU1RfSUQsIHRwQ29tcGFuaWVzMS5nZXQoRkVUQ0hfTElNSVQgLSAxKS5pZCArICIiKTsKCiAgICAgICAgICAgIFJhbmRvbSByID0gbmV3IFJhbmRvbShjb20uemhpcGluLlV0aWxzLmdldFRzKDAsIDAsIDAsIDApKTsKICAgICAgICAgICAgaW50IGkgPSAwOwogICAgICAgICAgICB3aGlsZSAoaSA8IFBFUl9UQUJMRV9MSU1JVCkgewogICAgICAgICAgICAgICAgcmV0LmFkZChnZW4odHBDb21wYW5pZXMuZ2V0KHIubmV4dEludChGRVRDSF9MSU1JVCkpLCBwcmVmaXgpKTsKICAgICAgICAgICAgICAgIHJldC5hZGQoZ2VuKHRwQ29tcGFuaWVzMS5nZXQoci5uZXh0SW50KEZFVENIX0xJTUlUKSksIHByZWZpeF9sZXZlbDIpKTsKICAgICAgICAgICAgICAgICsraTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHJpbmcga2V5ID0gUkFORE9NX1RQX0NPTV9MSVNUX1BSRUZJWCArIExvY2FsRGF0ZS5ub3coKS50b1N0cmluZygpOwogICAgICAgICAgICBqZWRpcy5zZXRueChrZXksIGNvbWJDYWNoZShyZXQpKTsKICAgICAgICAgICAgamVkaXMuZXhwaXJlKGtleSwgRmxhZ3MuREFZMV9UUyk7CgogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigicmFuZG9tIGVycm9yLCIsIGUpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -435,16 +430,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXEKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgVEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXEKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgVEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOi/meS4quaWueazleWcqEpvYlNlYXJjaE1haW7ph4zpnaLlrp7njrAsIOS9huaYr3NlcnZlcue7hOeUqFRQ5p2l6LCD55SoLCDmiYDku6Xov5nph4zkuZ/lo7DmmI7kuIDkuKouCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlpoLmnpzmkJzntKLluKbkuoZqb2JJZCwg5Zue5pi+CiAgICAgICAgaWYgKG9yaWdpbkpvYklkID4gMCkgewogICAgICAgICAgICBmaWx0ZXJzLnB1dElmQWJzZW50KEZpbHRlckZpZWxkLkpPQiwgb3JpZ2luSm9iSWQgKyAiIik7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJhZGQgam9iSWQ6e30iLCBvcmlnaW5Kb2JJZCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIOi/meS4quaWueazleWcqEpvYlNlYXJjaE1haW7ph4zpnaLlrp7njrAsIOS9huaYr3NlcnZlcue7hOeUqFRQ5p2l6LCD55SoLCDmiYDku6Xov5nph4zkuZ/lo7DmmI7kuIDkuKouCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -462,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loadl0</last-search>
+      <last-search>(1</last-search>
       <last-offset />
-      <last-pattern>loadl0</last-pattern>
+      <last-pattern>(1</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>qa</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
         <entry>Class</entry>
         <entry>resumesearch</entry>
         <entry>enum</entry>
@@ -492,6 +486,7 @@
         <entry>position</entry>
         <entry>load</entry>
         <entry>loadl0</entry>
+        <entry>(1</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
