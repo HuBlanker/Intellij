@@ -108,12 +108,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1581667844653">
-        <mark key="'" line="3306" column="28" />
-        <mark key="[" line="516" column="15" />
-        <mark key="]" line="516" column="10" />
-        <mark key="." line="516" column="10" />
-        <mark key="^" line="516" column="10" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1581669260563">
+        <mark key="'" line="227" column="6" />
+        <mark key="[" line="2375" column="25" />
+        <mark key="]" line="227" column="6" />
+        <mark key="." line="227" column="6" />
+        <mark key="^" line="227" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_sug_job_list.sh" timestamp="1581077466033">
         <mark key="'" line="81" column="0" />
@@ -151,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1711" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="1714" column="10" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="1718" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="1725" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="2634" column="14" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -251,6 +249,8 @@
       <jump line="14" column="13" filename="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/TcJobDBApi.java" />
       <jump line="516" column="10" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3306" column="28" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="548" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="227" column="6" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -353,7 +353,7 @@
         <text>19943279</text>
       </register>
       <register name="/" type="4">
-        <text>filterfield</text>
+        <text>ItemGeekListReq</text>
       </register>
       <register name="0" type="4">
         <text>seo_company_info_new</text>
@@ -457,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filterfield</last-search>
+      <last-search>ItemGeekListReq</last-search>
       <last-offset />
-      <last-pattern>filterfield</last-pattern>
+      <last-pattern>ItemGeekListReq</last-pattern>
       <last-replace>NLUSlot</last-replace>
       <last-substitute>qa</last-substitute>
       <last-dir>1</last-dir>
@@ -467,8 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resumesearch</entry>
-        <entry>enum</entry>
         <entry>qa</entry>
         <entry>req.j</entry>
         <entry>QuerySuggest4BResp</entry>
@@ -487,6 +485,8 @@
         <entry>loadl0</entry>
         <entry>(1</entry>
         <entry>filterfield</entry>
+        <entry>geek</entry>
+        <entry>ItemGeekListReq</entry>
       </history-search>
       <history-cmd>
         <entry>:help digraph-table</entry>
