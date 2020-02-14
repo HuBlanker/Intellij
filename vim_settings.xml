@@ -52,12 +52,12 @@
         <mark key="." line="125" column="62" />
         <mark key="^" line="125" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1581677007856">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1581680554900">
         <mark key="'" line="17" column="13" />
-        <mark key="[" line="114" column="68" />
-        <mark key="]" line="114" column="67" />
-        <mark key="^" line="114" column="67" />
-        <mark key="." line="114" column="67" />
+        <mark key="[" line="115" column="48" />
+        <mark key="]" line="115" column="48" />
+        <mark key="^" line="115" column="47" />
+        <mark key="." line="115" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs_job_action.vm" timestamp="1581339534813">
         <mark key="'" line="82" column="6" />
@@ -244,8 +244,8 @@
       <jump line="40" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpListCompanyHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXEKICAgICAqIEBwYXJhbSByZXRJZHMKICAgICAqIEBwYXJhbSB0aWNrZXIK</text>
+      <register name="&quot;" type="4">
+        <text>devClientsClients</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -341,13 +341,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, Ticker ticker</text>
+        <text>devClientsClients</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
       </register>
-      <register name="0" type="4">
-        <text>batchTpCompanies</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBUcEpvYkNsaWVudHMgY2xpZW50cyA9IG5ldyBUcEpvYkNsaWVudHMoIjE5Mi4xNjguMS4yNTE6MjY2NjYiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSByZXEKICAgICAqIEBwYXJhbSByZXRJZHMKICAgICAqIEBwYXJhbSB0aWNrZXIK</text>
