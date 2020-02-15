@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5226</Count>
+          <Count>5227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2241,6 +2241,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'WordTagTest.isAllSingleStop'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'WordTagTest.isAllSingleStop'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'WordTagTest.shortQueryStop'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2342,7 +2350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1575</Count>
+          <Count>1576</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
