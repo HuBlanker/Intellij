@@ -10,6 +10,7 @@
         <mark key="^" line="42" column="51" />
         <mark key="." line="42" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/NoopServer.java" timestamp="1581775873163" />
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1581675611196">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="112" column="23" />
@@ -88,6 +89,12 @@
         <mark key="." line="175" column="83" />
         <mark key="^" line="175" column="83" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1581776569033">
+        <mark key="[" line="249" column="87" />
+        <mark key="]" line="241" column="0" />
+        <mark key="^" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/NLUHandler.java" timestamp="1580973048642">
         <mark key="'" line="60" column="27" />
         <mark key="[" line="31" column="0" />
@@ -109,16 +116,21 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ListForBossV2Test.java" timestamp="1581653059017">
         <mark key="'" line="23" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1581663637135">
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1581776960994">
+        <mark key="[" line="261" column="42" />
+        <mark key="]" line="261" column="42" />
+        <mark key="." line="261" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/zp_nlu.sh" timestamp="1581735142617">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="40" />
         <mark key="^" line="18" column="40" />
         <mark key="." line="18" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/wordtag/WordTagTest.java" timestamp="1581684152582">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/conf/NLUConf.java" timestamp="1581734361816">
         <mark key="'" line="71" column="4" />
@@ -136,11 +148,6 @@
         <mark key="^" line="24" column="6" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagNN.java" timestamp="1581684082098">
-        <mark key="[" line="50" column="53" />
-        <mark key="]" line="50" column="64" />
-        <mark key="." line="50" column="53" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs_job_action.vm" timestamp="1581339534813">
         <mark key="'" line="82" column="6" />
         <mark key="[" line="16" column="18" />
@@ -150,11 +157,6 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1581663719816">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/WordTag.java" timestamp="1581684091312">
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="44" />
-        <mark key="." line="70" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchJobActionHandler.java" timestamp="1581339800173">
         <mark key="'" line="174" column="10" />
@@ -329,7 +331,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>qaClients</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -425,7 +427,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>qaClients</text>
       </register>
       <register name="/" type="4">
         <text>华为技术有限公司</text>
