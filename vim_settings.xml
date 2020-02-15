@@ -93,11 +93,11 @@
         <mark key="^" line="33" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/BrandJobReq.java" timestamp="1581663712495" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1581768180667">
-        <mark key="[" line="120" column="42" />
-        <mark key="]" line="120" column="43" />
-        <mark key="." line="120" column="43" />
-        <mark key="^" line="121" column="42" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1581769821945">
+        <mark key="[" line="81" column="69" />
+        <mark key="]" line="81" column="69" />
+        <mark key="." line="81" column="69" />
+        <mark key="^" line="81" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/FacetedCounter.java" timestamp="1581665916282" />
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/TcJobDBApi.java" timestamp="1581661985565">
@@ -185,12 +185,12 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1581768610508">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1581769874558">
         <mark key="'" line="196" column="66" />
-        <mark key="[" line="217" column="54" />
-        <mark key="]" line="217" column="54" />
-        <mark key="^" line="285" column="28" />
-        <mark key="." line="217" column="54" />
+        <mark key="[" line="300" column="81" />
+        <mark key="]" line="300" column="81" />
+        <mark key="^" line="300" column="102" />
+        <mark key="." line="300" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1580984823590">
         <mark key="'" line="175" column="21" />
@@ -323,7 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, filters</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -419,7 +419,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, filters</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>华为技术有限公司</text>
@@ -431,7 +431,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBiYWRRdWVyeUNoZWNrKFF1ZXJ5QW5hbHl6ZVJlc3AgcXIpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -458,10 +458,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQmFkUXVlcnkocmVxMCwgYmkpKSByZXR1cm4gRmxhZ3MuRU1QVFlfUkVTVU1FX1NFQVJDSDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBiYWRRdWVyeUNoZWNrKFF1ZXJ5QW5hbHl6ZVJlc3AgcXIpIHsKICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -494,7 +494,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKChyZXEsIGJpKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNyZWF0ZUVtcHR5UmVzcChyZXEpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQmFkUXVlcnkocmVxMCwgYmkpKSByZXR1cm4gRmxhZ3MuRU1QVFlfUkVTVU1FX1NFQVJDSDsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -518,16 +518,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKChyZXEsIGJpKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNyZWF0ZUVtcHR5UmVzcChyZXEpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgcSA6IHF1ZXJpZXMpIHsKICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGIgOiBiYWRzKSB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
