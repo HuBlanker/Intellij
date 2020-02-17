@@ -13,6 +13,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ListForBossV2Test.java" timestamp="1581653059017">
         <mark key="'" line="23" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/subscribe/SubscribeMain.java" timestamp="1581927324696">
+        <mark key="[" line="320" column="8" />
+        <mark key="]" line="320" column="18" />
+        <mark key="^" line="320" column="18" />
+        <mark key="." line="320" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1581911028651">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1651" column="0" />
@@ -108,12 +114,12 @@
         <mark key="^" line="33" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeChecker.java" timestamp="1581921283522" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" timestamp="1581925832244">
-        <mark key="'" line="250" column="4" />
-        <mark key="[" line="87" column="56" />
-        <mark key="]" line="268" column="26" />
-        <mark key="^" line="268" column="26" />
-        <mark key="." line="268" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" timestamp="1581928140742">
+        <mark key="'" line="255" column="4" />
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="75" column="41" />
+        <mark key="^" line="75" column="83" />
+        <mark key="." line="75" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/boss_search/b_search_sug_job_list.sh" timestamp="1581077466033">
         <mark key="'" line="81" column="0" />
@@ -135,6 +141,10 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" timestamp="1581925968729">
         <mark key="'" line="895" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1581927406344">
+        <mark key="'" line="279" column="26" />
+        <mark key="[" line="950" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1581924060816">
         <mark key="[" line="240" column="0" />
@@ -170,7 +180,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/RebuildMain.java" timestamp="1581919560526" />
     </filemarks>
     <jumps>
-      <jump line="66" column="107" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
       <jump line="81" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
       <jump line="113" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
@@ -270,10 +279,11 @@
       <jump line="204" column="0" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" />
       <jump line="891" column="11" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" />
       <jump line="895" column="11" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" />
+      <jump line="279" column="26" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2F1c2VkIGJ5OiBqYXZhLmxhbmcuQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbjogZ2VuLnRocmlmdC5GZWVkU2VhcmNoUmVxCg==</text>
+      <register name="&quot;" type="4">
+        <text>Positions2</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -369,7 +379,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text>Positions2</text>
       </register>
       <register name="/" type="4">
         <text>feedsea</text>
@@ -377,11 +387,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZG9jLmFkZChuZXcgWkZpZWxkKEwzX0NJVFksIGwzY2l0eShwb3MubDFjb2RlLCBleHBlY3QubG9jYXRpb24pICsgIiIsIElOREVYX05PX0FOQUxZU0UpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Q2F1c2VkIGJ5OiBqYXZhLmxhbmcuQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbjogZ2VuLnRocmlmdC5GZWVkU2VhcmNoUmVxCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">RHNGcm9tWmsoREJDb25maWdzLkRCX1pLX0JPU1MsIGFnZW50KTsKICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2F1c2VkIGJ5OiBqYXZhLmxhbmcuQ2xhc3NOb3RGb3VuZEV4Y2VwdGlvbjogZ2VuLnRocmlmdC5GZWVkU2VhcmNoUmVxCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -408,10 +418,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItZGlyIikKICAgIHByb3RlY3RlZCBTdHJpbmcgZGlyID0gImRhdGEiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEZpbmRlckdlZWsoKTsK</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItZGlyIikKICAgIHByb3RlY3RlZCBTdHJpbmcgZGlyID0gImRhdGEiOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -444,7 +454,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEZpbmRlckdlZWsoKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -468,16 +478,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jLmFkZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLmFkZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jLmFkZChuZXcgWkZpZWxkKEwzX0NJVFksIGwzY2l0eShwMC5sM2NvZGUsIGUubG9jYXRpb24pLCBJTkRFWF9OT19BTkFMWVNFKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLmFkZChuZXcgWkZpZWxkKEwzX0NJVFksIGwzY2l0eShwMC5sM2NvZGUsIGUubG9jYXRpb24pLCBJTkRFWF9OT19BTkFMWVNFKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
