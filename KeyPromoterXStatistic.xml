@@ -161,6 +161,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FinderGeekRebuildMain'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FinderGeekRebuildMain'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GSearchFlagFilter'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -646,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5348</Count>
+          <Count>5361</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -766,6 +774,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild '...ipin.recall.rebuild'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild 'com.zhipin.f2pushv2'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild 'com.zhipin.f2pushv2'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2374,6 +2390,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'ConcurrentIntObjectMapTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FinderGeekRebu....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'FinderGeekRebu....main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
