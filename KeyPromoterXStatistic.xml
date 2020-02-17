@@ -169,6 +169,30 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FinderGeekSear....main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'FinderGeekSear....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'FinderGeekSearchMain'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FinderGeekSearchMain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'FinderGeekSearchMainTest.finderListGeek'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FinderGeekSearchMainTest.finderListGeek'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GSearchFlagFilter'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -654,7 +678,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5367</Count>
+          <Count>5377</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1119,6 +1143,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FindCompanyWordTest.suffixArray'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FinderGeekSearchMainTest.finderListGeek'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FinderGeekSearchMainTest.finderListGeek'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GFilterQueryBuilderTest.buildFilter'">
