@@ -10,12 +10,20 @@
         <mark key="^" line="42" column="51" />
         <mark key="." line="42" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/finder2/FinderResp.java" timestamp="1581931138270">
+        <mark key="'" line="118" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/BuildStatMain.java" timestamp="1581922616226" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderJobRebuildMain.java" timestamp="1581925870788">
         <mark key="[" line="93" column="47" />
         <mark key="]" line="93" column="47" />
         <mark key="." line="93" column="47" />
         <mark key="^" line="93" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1581931632741">
+        <mark key="'" line="157" column="31" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="222" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderJobSearchMain.java" timestamp="1581929283130">
         <mark key="[" line="27" column="0" />
@@ -25,11 +33,11 @@
         <mark key="[" line="127" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/model/GeekItem.java" timestamp="1581922149565" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/handler/FinderGeekHandler.java" timestamp="1581929437258">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/handler/FinderGeekHandler.java" timestamp="1581931135082">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="42" />
+        <mark key="^" line="31" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_zp_user.def" timestamp="1581911080733">
         <mark key="'" line="155" column="0" />
@@ -116,11 +124,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" timestamp="1581929548884">
-        <mark key="[" line="58" column="32" />
-        <mark key="]" line="58" column="40" />
-        <mark key="^" line="58" column="40" />
-        <mark key="." line="58" column="40" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" timestamp="1581930733794">
+        <mark key="'" line="53" column="33" />
+        <mark key="[" line="127" column="51" />
+        <mark key="]" line="127" column="71" />
+        <mark key="." line="127" column="71" />
+        <mark key="^" line="127" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/conf/NLUConf.java" timestamp="1581734361816">
         <mark key="'" line="73" column="4" />
@@ -208,11 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
-      <jump line="81" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
-      <jump line="101" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
-      <jump line="84" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
       <jump line="65" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
       <jump line="110" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/CalJobCoverage.java" />
       <jump line="194" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" />
@@ -308,10 +312,15 @@
       <jump line="891" column="11" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" />
       <jump line="895" column="11" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" />
       <jump line="279" column="26" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
+      <jump line="91" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" />
+      <jump line="127" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" />
+      <jump line="53" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" />
+      <jump line="118" column="2" filename="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/finder2/FinderResp.java" />
+      <jump line="157" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jobId2Gid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBFWFBFUklFTkNFOgogICAgICAgICAgICAgICAgU3RyaW5nW10gZXBhcnRzID0gZS5nZXRWYWx1ZSgpLnNwbGl0KCIsIik7CiAgICAgICAgICAgICAgICBpZiAoZXBhcnRzLmxlbmd0aCA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgaW50IGxvdyA9IEludGVnZXIucGFyc2VJbnQoZXBhcnRzWzBdKSwgaGlnaCA9IEludGVnZXIucGFyc2VJbnQoZXBhcnRzWzFdKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAobG93ID09IDEgJiYgaGlnaCA9PSAxKSBsb3cgPSAwOwogICAgICAgICAgICAgICAgICAgIGlmIChsb3cgIT0gLTEgJiYgaGlnaCAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAvL2xvd+WSjGhpZ2jnmoTlkIjms5Xlj5blgLzkuLogLTLmiJY+PTDnmoTlgLwsIC0y5Luj6KGo5Zyo5qCh55SfLCAw5Luj6KGo5bqU5bGK55SfCiAgICAgICAgICAgICAgICAgICAgICAgIGludCBoeSA9IGhpZ2ggPj0gMTAgPyAxMDAgOiBoaWdoOwogICAgICAgICAgICAgICAgICAgICAgICBpbnQgbHkgPSBsb3cgPj0gMTAgPyAxMCA6IGxvdzsKICAgICAgICAgICAgICAgICAgICAgICAgUXVlcnkgd3kgPSBJbnRQb2ludC5uZXdSYW5nZVF1ZXJ5KFdPUktfWUVBUiwgbHksIGh5KTsKICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlci5hZGQod3ksIEZJTFRFUik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -407,16 +416,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jobId2Gid</text>
+        <text>req.filters.get(FilterField.L3_BUCKET).get(0)</text>
       </register>
       <register name="/" type="4">
-        <text>feedsea</text>
+        <text>experience</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBAT3B0aW9uKG5hbWUgPSAiLWRpciIpCiAgICBwcm90ZWN0ZWQgU3RyaW5nIGRpciA9ICJkYXRhIjsKICAgIEBPcHRpb24obmFtZSA9ICItc2VydmVyX3RocmVhZHMiLCB1c2FnZSA9ICJUaHJpZnQgc2VydmVyIHRocmVhZHMgY291bnQiKQogICAgcHJvdGVjdGVkIGludCBzZXJ2ZXJUaHJlYWRzID0gMTA7CgogICAgQE9wdGlvbihuYW1lID0gIi1zZWFyY2hlcl90aHJlYWRzIiwgdXNhZ2UgPSAibHVjZW5lIGluZGV4IHJlYWRlciB0aHJlYWRzIGNvdW50IikKICAgIHByb3RlY3RlZCBpbnQgc2VhcmNoZXJUaHJlYWRzID0gMjA7CgogICAgQE9wdGlvbihuYW1lID0gIi1kYl90aHJlYWRzIiwgdXNhZ2UgPSAiZGIgdGhyZWFkcyBjb3VudCIpCiAgICBwcm90ZWN0ZWQgaW50IGRiVGhyZWFkcyA9IDEwOwoKICAgIHByaXZhdGUgU3RyaW5nIEpPQl9JTkRFWCA9ICJmaW5kZXJfam9iX2RhdGEiOwogICAgcHJvdGVjdGVkIHN0YXRpYyBmaW5hbCBTdHJpbmcgQl9LRVlXT1JEX0lOVEVSTiA9ICJmaW5kZXJfYl9rZXl3b3JkX2ludGVybi50eHQiOwogICAgcHJvdGVjdGVkIHN0YXRpYyBmaW5hbCBTdHJpbmcgSk9CX0lURU0gPSAiam9iX3Byb3BlcnRpZXMiOwoKCiAgICBwcml2YXRlIEZpbmRlckpvYkhhbmRsZXIgZmluZGVySm9iSGFuZGxlcjsKICAgIHByaXZhdGUgQXRvbWljUmVmZXJlbmNlPEluZGV4U2VhcmNoZXI+IHNlYXJjaGVyOwogICAgcHJpdmF0ZSBFeGVjdXRvclNlcnZpY2UgZGJQb29sID0gY29tLmJvc3N6aGlwaW4uY29tbW9uLlV0aWxzLm5ld1Bvb2woZGJUaHJlYWRzLCBkYlRocmVhZHMsICJkYiIpOwogICAgcHJpdmF0ZSBFeGVjdXRvclNlcnZpY2UgbHVjZW5lUG9vbCA9IGNvbS5ib3NzemhpcGluLmNvbW1vbi5VdGlscy5uZXdQb29sKHNlYXJjaGVyVGhyZWFkcywgc2VhcmNoZXJUaHJlYWRzLCAibHVjZW5lIik7CgoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEluZGV4U2VhcmNoZXIgc2VhcmNoZXIgPSBsb2FkSm9iSW5kZXgobHVjZW5lUG9vbCk7CiAgICAgICAgICAgIHRoaXMuc2VhcmNoZXIgPSBuZXcgQXRvbWljUmVmZXJlbmNlPD4obG9hZEpvYkluZGV4KGx1Y2VuZVBvb2wpKTsKICAgICAgICAgICAgUmVzb3VyY2VzIHJlc291cmNlcyA9IG5ldyBSZXNvdXJjZXMoc2VhcmNoZXIpOwogICAgICAgICAgICB0aGlzLmZpbmRlckpvYkhhbmRsZXIgPSBuZXcgRmluZGVySm9iSGFuZGxlcihyZXNvdXJjZXMpOwoKCiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUuZ2V0TWVzc2FnZSgpLCBlKTsKICAgICAgICB9CgoKICAgIH0KCiAgICBwdWJsaWMgY2xhc3MgUmVzb3VyY2VzIHsKICAgICAgICBwdWJsaWMgZmluYWwgU3RyaW5nSW50ZXJuUmVhZGVyIGtleXdvcmRJZHI7CiAgICAgICAgcHVibGljIGZpbmFsIEZpbmRlckpvYltdIGpvYnM7CiAgICAgICAgcHVibGljIGZpbmFsIEludEhhc2hNYXAgam9iSWQyR2lkOwoKCiAgICAgICAgcHJpdmF0ZSBSZXNvdXJjZXMoSW5kZXhTZWFyY2hlciBzZWFyY2hlcikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgICAgdGhpcy5rZXl3b3JkSWRyID0gU3RyaW5nSW50ZXJuUmVhZGVyLmxvYWRGaWxlKGRpciArICIvIiArIEJfS0VZV09SRF9JTlRFUk4pOwogICAgICAgICAgICBGaWxlUmVhZGVyPEZpbmRlckpvYj4gam9iUmVhZGVyID0gbmV3IEZpbGVSZWFkZXI8PihkaXIgKyAiLyIgKyBKT0JfSVRFTSwgRmluZGVySm9iLlNJRywgRmluZGVySm9iOjpyZWFkKTsKICAgICAgICAgICAgaW50IG1heEdpZCA9IDAsIG1heEppZCA9IDA7CiAgICAgICAgICAgIGludCBtYXggPSBzZWFyY2hlci5nZXRJbmRleFJlYWRlcigpLm1heERvYygpOwogICAgICAgICAgICB0aGlzLmpvYnMgPSBuZXcgRmluZGVySm9iW21heCArIDEwMDAwMF07CiAgICAgICAgICAgIHRoaXMuam9iSWQyR2lkID0gbmV3IEludEhhc2hNYXAobWF4ICsgMTAwMDApOwogICAgICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICAgICAgRmluZGVySm9iIGogPSBqb2JSZWFkZXIubmV4dCgpOwogICAgICAgICAgICAgICAgaWYgKGogPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgbWF4R2lkID0gTWF0aC5tYXgobWF4R2lkLCBqLmdpZCk7CiAgICAgICAgICAgICAgICBtYXhKaWQgPSBNYXRoLm1heChtYXhKaWQsIGouam9iSWQpOwogICAgICAgICAgICAgICAgYWRkSm9iKGopOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJsb2FkIGpvYnMge30sIG1heCBqaWQge30sIG1heCBnaWQge30iLCBqb2JzLmxlbmd0aCwgbWF4SmlkLCBtYXhHaWQpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN5bmNocm9uaXplZCBib29sZWFuIGFkZEpvYihGaW5kZXJKb2IgaXRlbSkgewogICAgICAgICAgICBpZiAoaXRlbS5naWQgPCBqb2JzLmxlbmd0aCkgewogICAgICAgICAgICAgICAgam9ic1tpdGVtLmdpZF0gPSBpdGVtOwogICAgICAgICAgICAgICAgam9iSWQyR2lkLnB1dChpdGVtLmpvYklkLCBpdGVtLmdpZCk7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiRVJST1IsIGdpZCB7fSBleGNlZWRzIGpvYnMubGVuZ3RoIHt9IiwgaXRlbS5naWQsIGpvYnMubGVuZ3RoKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHVibGljIEZpbmRlckpvYiBnZXRKb2IoaW50IGdpZCkgewogICAgICAgICAgICByZXR1cm4gam9ic1tnaWRdOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIEZpbmRlckpvYiBnZXRCeUpvYklkKGludCBqaWQpIHsKICAgICAgICAgICAgaW50IGlkeCA9IGpvYklkMkdpZC5nZXQoamlkKTsKICAgICAgICAgICAgcmV0dXJuIGpvYnNbaWR4XTsKICAgICAgICB9CgogICAgfQoKICAgIHB1YmxpYyBJbmRleFNlYXJjaGVyIGxvYWRKb2JJbmRleChFeGVjdXRvclNlcnZpY2UgbHVjZW5lUG9vbCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICBNTWFwRGlyZWN0b3J5IGRpciA9IG5ldyBNTWFwRGlyZWN0b3J5KFBhdGhzLmdldCh0aGlzLmRpciArICIvIiArIEpPQl9JTkRFWCkpOwogICAgICAgIEluZGV4U2VhcmNoZXIgaW5kZXhTZWFyY2hlciA9IG5ldyBJbmRleFNlYXJjaGVyKERpcmVjdG9yeVJlYWRlci5vcGVuKGRpciksIGx1Y2VuZVBvb2wpOwogICAgICAgIGluZGV4U2VhcmNoZXIuc2V0U2ltaWxhcml0eShuZXcgSm9iU2ltaWxhcml0eSgpKTsKICAgICAgICBJbmRleFJlYWRlciByZWFkZXIgPSBpbmRleFNlYXJjaGVyLmdldEluZGV4UmVhZGVyKCk7CiAgICAgICAgVXRpbHMud2FybVJlYWRlcihyZWFkZXIsIGx1Y2VuZVBvb2wpOwogICAgICAgIGxvZ2dlci5pbmZvKCJ7fSBqb2IsIHt9IHNlZ21lbnRzOiBbe31dIiwKICAgICAgICAgICAgICAgIHJlYWRlci5tYXhEb2MoKSwKICAgICAgICAgICAgICAgIHJlYWRlci5sZWF2ZXMoKS5zaXplKCksCiAgICAgICAgICAgICAgICByZWFkZXIubGVhdmVzKCkuc3RyZWFtKCkubWFwVG9JbnQobCAtPiBsLnJlYWRlcigpLm1heERvYygpKS5ib3hlZCgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwogICAgICAgIHJldHVybiBpbmRleFNlYXJjaGVyOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBuZXcgRmluZGVySm9iUmVidWlsZE1haW4oKS5wYXJzZUFyZ3NBbmRSdW4oYXJncyk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBFWFBFUklFTkNFOgogICAgICAgICAgICAgICAgU3RyaW5nW10gZXBhcnRzID0gZS5nZXRWYWx1ZSgpLnNwbGl0KCIsIik7CiAgICAgICAgICAgICAgICBpZiAoZXBhcnRzLmxlbmd0aCA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgaW50IGxvdyA9IEludGVnZXIucGFyc2VJbnQoZXBhcnRzWzBdKSwgaGlnaCA9IEludGVnZXIucGFyc2VJbnQoZXBhcnRzWzFdKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAobG93ID09IDEgJiYgaGlnaCA9PSAxKSBsb3cgPSAwOwogICAgICAgICAgICAgICAgICAgIGlmIChsb3cgIT0gLTEgJiYgaGlnaCAhPSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAvL2xvd+WSjGhpZ2jnmoTlkIjms5Xlj5blgLzkuLogLTLmiJY+PTDnmoTlgLwsIC0y5Luj6KGo5Zyo5qCh55SfLCAw5Luj6KGo5bqU5bGK55SfCiAgICAgICAgICAgICAgICAgICAgICAgIGludCBoeSA9IGhpZ2ggPj0gMTAgPyAxMDAgOiBoaWdoOwogICAgICAgICAgICAgICAgICAgICAgICBpbnQgbHkgPSBsb3cgPj0gMTAgPyAxMCA6IGxvdzsKICAgICAgICAgICAgICAgICAgICAgICAgUXVlcnkgd3kgPSBJbnRQb2ludC5uZXdSYW5nZVF1ZXJ5KFdPUktfWUVBUiwgbHksIGh5KTsKICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlci5hZGQod3ksIEZJTFRFUik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZmluYWwgU3RyaW5nSW50ZXJuUmVhZGVyIGtleXdvcmRJZHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -446,10 +455,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -482,7 +491,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZmluYWwgU3RyaW5nIEpPQl9JVEVNID0gImpvYl9wcm9wZXJ0aWVzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -506,16 +515,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZmluYWwgU3RyaW5nIEJfS0VZV09SRF9JTlRFUk4gPSAiZmluZGVyX2Jfa2V5d29yZF9pbnRlcm4udHh0IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwgKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIEpPQl9JTkRFWCA9ICJmaW5kZXJfam9iX2RhdGEiOwo=</text>
+        <text encoding="base64">ICAgICAgICBRdWVyeSBxdWVyeSA9IG5ldyBUZXJtUXVlcnkobmV3IFRlcm0oR2Vla1dyYXBwZXIuRVhQRUNUX0NPREUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcnVuKCkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnIucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5kZXhTZWFyY2hlciBzZWFyY2hlciA9IGxvYWRKb2JJbmRleChsdWNlbmVQb29sKTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -529,22 +538,20 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/FinderJob/FinderGeek/g</text>
       </register>
     </registers>
     <search>
-      <last-search>feedsea</last-search>
+      <last-search>experience</last-search>
       <last-offset />
-      <last-pattern>feedsea</last-pattern>
-      <last-replace>NLUSlot</last-replace>
-      <last-substitute>qa</last-substitute>
+      <last-pattern>experience</last-pattern>
+      <last-replace>FinderGeek</last-replace>
+      <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>batch</entry>
-        <entry>listTpCompanies</entry>
         <entry>v3resp</entry>
         <entry>position</entry>
         <entry>load</entry>
@@ -563,9 +570,10 @@
         <entry>feed</entry>
         <entry>feeds</entry>
         <entry>feedsea</entry>
+        <entry>FinderJob</entry>
+        <entry>experience</entry>
       </history-search>
       <history-cmd>
-        <entry>:help digraph-table</entry>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
         <entry>set invlist</entry>
         <entry>%s/GEEK_LEVEL/JOB_LEVEL/g</entry>
@@ -585,6 +593,7 @@
         <entry>%s/IntentionType/NLUSlotType/g</entry>
         <entry>%s/Phrase/NLUSlot/g</entry>
         <entry>w</entry>
+        <entry>%s/FinderJob/FinderGeek/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
