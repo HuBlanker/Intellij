@@ -8,8 +8,12 @@
         <mark key="]" line="445" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" timestamp="1582037708029" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582093777183">
-        <mark key="'" line="220" column="32" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582101072640">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="218" column="50" />
+        <mark key="]" line="218" column="108" />
+        <mark key="." line="218" column="108" />
+        <mark key="^" line="218" column="108" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1582079996159" />
       <file name="/a.dummy" timestamp="1582037012807">
@@ -26,15 +30,12 @@
         <mark key="^" line="41" column="30" />
         <mark key="." line="41" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" timestamp="1582033220144">
-        <mark key="'" line="2" column="66" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossW2v.java" timestamp="1582101225550">
+        <mark key="'" line="435" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/FinderJobCol.java" timestamp="1582033985318">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="42" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/finder_geek.vm" timestamp="1582036457560">
-        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/col/NewGeekCollector2.java" timestamp="1582038309681">
         <mark key="[" line="73" column="0" />
@@ -96,9 +97,6 @@
         <mark key="." line="80" column="38" />
         <mark key="^" line="80" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1582033469100">
-        <mark key="'" line="507" column="83" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1582084974563">
         <mark key="'" line="3384" column="7" />
         <mark key="[" line="3722" column="50" />
@@ -134,8 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2781" column="23" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="435" column="5" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="240" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpJobSearchHandler.java" />
       <jump line="117" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/TpJobSearchMain.java" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/TpJobSearchMain.java" />
@@ -234,10 +230,12 @@
       <jump line="754" column="52" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3384" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="220" column="32" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
+      <jump line="27" column="28" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
+      <jump line="435" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossW2v.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>docs</text>
+        <text>qaClients</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -333,7 +331,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>docs</text>
+        <text>qaClients</text>
       </register>
       <register name="/" type="4">
         <text>querysuggest</text>
