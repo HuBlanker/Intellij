@@ -10,19 +10,10 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" timestamp="1582037708029" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582093777183">
         <mark key="'" line="220" column="32" />
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1582079996159" />
       <file name="/a.dummy" timestamp="1582037012807">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchHandler.java" timestamp="1582036146812">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/finder/resume/ResumeHandler.java" timestamp="1582026444453">
         <mark key="[" line="88" column="0" />
@@ -56,11 +47,6 @@
         <mark key="." line="20" column="76" />
         <mark key="^" line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-finder/src/main/java/com/zhipin/utils/CountMap.java" timestamp="1582025874118">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="69" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/finder_job.vm" timestamp="1582023440752">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="20" />
@@ -80,14 +66,18 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpListCompanyHandler.java" timestamp="1582080114262">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1582098339841">
-        <mark key="'" line="25" column="13" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/col/F1Geek4TouristCol.java" timestamp="1582099456566" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/module/finder_l3_city.vm" timestamp="1582031465110">
         <mark key="[" line="120" column="57" />
         <mark key="]" line="120" column="58" />
         <mark key="^" line="116" column="64" />
         <mark key="." line="120" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1582099423765">
+        <mark key="[" line="77" column="40" />
+        <mark key="]" line="77" column="50" />
+        <mark key="^" line="77" column="50" />
+        <mark key="." line="77" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek_search.vm" timestamp="1582036484061">
         <mark key="[" line="18" column="0" />
@@ -116,8 +106,8 @@
         <mark key="." line="3722" column="49" />
         <mark key="^" line="3722" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/col/ChatCardCollector.java" timestamp="1582039083325">
-        <mark key="[" line="34" column="8" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/col/ChatCardCollector.java" timestamp="1582099464789">
+        <mark key="[" line="34" column="28" />
         <mark key="]" line="34" column="37" />
         <mark key="." line="34" column="37" />
         <mark key="^" line="34" column="37" />
@@ -247,7 +237,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>26666</text>
+        <text>docs</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -343,7 +333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>26666</text>
+        <text>docs</text>
       </register>
       <register name="/" type="4">
         <text>querysuggest</text>
