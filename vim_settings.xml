@@ -8,12 +8,12 @@
         <mark key="]" line="445" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" timestamp="1582037708029" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582101072640">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582105526140">
         <mark key="'" line="25" column="28" />
-        <mark key="[" line="218" column="50" />
-        <mark key="]" line="218" column="108" />
-        <mark key="." line="218" column="108" />
-        <mark key="^" line="218" column="108" />
+        <mark key="[" line="215" column="42" />
+        <mark key="]" line="215" column="42" />
+        <mark key="." line="215" column="42" />
+        <mark key="^" line="215" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1582079996159" />
       <file name="/a.dummy" timestamp="1582037012807">
@@ -235,7 +235,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>qaClients</text>
+        <text>preRouter</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -331,7 +331,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qaClients</text>
+        <text>preRouter</text>
       </register>
       <register name="/" type="4">
         <text>querysuggest</text>
