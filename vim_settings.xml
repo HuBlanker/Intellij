@@ -148,6 +148,13 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="26" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1582207659101">
+        <mark key="'" line="66" column="51" />
+        <mark key="[" line="341" column="12" />
+        <mark key="]" line="341" column="24" />
+        <mark key="^" line="341" column="24" />
+        <mark key="." line="341" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.21-SNAPSHOT/zp-client-8.21-SNAPSHOT-sources.jar!/gen/dataview/GeekStatic.java" timestamp="1582123209671" />
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.27/zp-client-8.27-sources.jar!/gen/thrift/GeekCard.java" timestamp="1582201040572" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/QueryBuilder.java" timestamp="1582169412929">
@@ -170,8 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" />
-      <jump line="106" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" />
       <jump line="140" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" />
       <jump line="273" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" />
@@ -270,10 +275,12 @@
       <jump line="296" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="17" column="51" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" />
       <jump line="42" column="23" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" />
+      <jump line="327" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="64" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>geekInfo.Works</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -369,7 +376,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>comName</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>geekInfo.Works</text>
