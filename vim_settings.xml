@@ -20,27 +20,9 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1582201488146">
         <mark key="'" line="296" column="16" />
       </file>
-      <file name="/GeekSearchReq.java" timestamp="1582275636617" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderJobSearchMain.java" timestamp="1582256874569">
-        <mark key="[" line="79" column="79" />
-        <mark key="]" line="79" column="94" />
-        <mark key="." line="79" column="94" />
-        <mark key="^" line="79" column="94" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/util/FinderStatUtil.java" timestamp="1582167935116">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-      </file>
+      <file name="/GeekSearchReq.java" timestamp="1582277116408" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/public/style.css" timestamp="1582196304391">
         <mark key="'" line="149" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/finder_job.vm" timestamp="1582252591830">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/module/finder_l3_city.vm" timestamp="1582118690337">
         <mark key="'" line="74" column="23" />
@@ -75,6 +57,9 @@
         <mark key="^" line="113" column="31" />
         <mark key="." line="113" column="31" />
       </file>
+      <file name="/GeekSearchHandler.java" timestamp="1582276627303">
+        <mark key="'" line="332" column="72" />
+      </file>
       <file name="/GeekNNRecallReq.java" timestamp="1582275342005" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" timestamp="1582268135535">
         <mark key="'" line="234" column="0" />
@@ -94,6 +79,8 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" timestamp="1582107237120" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/UserActionsUtil.java" timestamp="1582161137853" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/thrift/GQueryBuilder.java" timestamp="1582277592634" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1582277033140" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/ReqSource.java" timestamp="1582275229310" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderJobHandler.java" timestamp="1582116503563" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/cf_models2/finder_geek_stat.sh" timestamp="1582255853957" />
@@ -107,18 +94,6 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" timestamp="1582201978941">
         <mark key="'" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" timestamp="1582265500502">
-        <mark key="[" line="77" column="68" />
-        <mark key="]" line="78" column="96" />
-        <mark key="." line="78" column="96" />
-        <mark key="^" line="78" column="96" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/finder_geek.vm" timestamp="1582165195565">
-        <mark key="[" line="17" column="100" />
-        <mark key="]" line="17" column="108" />
-        <mark key="." line="17" column="108" />
-        <mark key="^" line="17" column="108" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/FinderGeekCollector.java" timestamp="1582115496091">
         <mark key="'" line="27" column="17" />
         <mark key="[" line="23" column="0" />
@@ -129,6 +104,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1582166536817">
         <mark key="'" line="38" column="13" />
       </file>
+      <file name="/HistoryDbTest.java" timestamp="1582277602313" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1582039013911">
         <mark key="'" line="0" column="0" />
       </file>
@@ -151,38 +127,21 @@
         <mark key="]" line="13" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/finder_build_stat.sh" timestamp="1582272060263" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1582275514066">
-        <mark key="'" line="161" column="43" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1582277940644">
+        <mark key="'" line="333" column="25" />
         <mark key="[" line="625" column="0" />
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/JobWrapper.java" timestamp="1582265598774">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="51" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1582277483094" />
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.21-SNAPSHOT/zp-client-8.21-SNAPSHOT-sources.jar!/gen/dataview/GeekStatic.java" timestamp="1582123209671" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/finder2.thrift" timestamp="1582252948175">
+        <mark key="'" line="31" column="7" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.27/zp-client-8.27-sources.jar!/gen/thrift/GeekCard.java" timestamp="1582201040572" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/QueryBuilder.java" timestamp="1582253739017">
-        <mark key="[" line="94" column="17" />
-        <mark key="]" line="94" column="30" />
-        <mark key="^" line="94" column="30" />
-        <mark key="." line="94" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/boss/jobs.vm" timestamp="1582195859518">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="87" />
-        <mark key="^" line="24" column="86" />
-        <mark key="." line="24" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GeekNNRecallReq.java" timestamp="1582275374311" />
     </filemarks>
     <jumps>
-      <jump line="53" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" />
-      <jump line="118" column="2" filename="$USER_HOME$/workspace/zp-client/gen-java/gen/thrift/finder2/FinderResp.java" />
-      <jump line="157" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/finder2.thrift" />
       <jump line="53" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/handler/FinderGeekHandler.java" />
       <jump line="137" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" />
@@ -280,6 +239,9 @@
       <jump line="181" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="161" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="247" column="12" filename="/GeekRanker4S.java" />
+      <jump line="208" column="40" filename="/GeekSearchHandler.java" />
+      <jump line="332" column="72" filename="/GeekSearchHandler.java" />
+      <jump line="333" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -382,7 +344,7 @@
         <text>java</text>
       </register>
       <register name="/" type="4">
-        <text>回传</text>
+        <text>参数</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyDph43lkK9C56uv5pyN5YqhCiNzdG9wX3NlcnZpY2UyICR7SE9TVH0gJHtCX0RJUn0KI3NsZWVwIDEKI3NzaCAtcCAxMzEyMiAtdCAke0hPU1R9ICJybSAtcmYgJHtCX0RJUn0vJHtCX0lOREVYfSIKI3NjcCAtUCAxMzEyMiAtbCA0NjAwMDAgLXIgJHtKQVJ9ICR7Ql9JTkRFWH0gJHtIT1NUfToke0JfRElSfQojc2NwIC1QIDEzMTIyIHpwX2ZpbmRlcl9yZXN1bWVfcnVuLnNoICR7SE9TVH06JHtCX0RJUn0vcnVuCiNydW5zdGFydF9zZXJ2aWNlMiAke0hPU1R9ICR7Ql9ESVJ9CgojIOmihOWPkeWFiOi/meS5iOaQngpjcCAtciAke0JfSU5ERVh9IC9kYXRhL3ByZS1vbmxpbmUvZmluZGVyL2dlZWsvCmJhc2ggL2RhdGEvcHJlLW9ubGluZS9maW5kZXIvZ2Vlay9ydW4uc2gK</text>
@@ -507,9 +469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>回传</last-search>
+      <last-search>参数</last-search>
       <last-offset />
-      <last-pattern>回传</last-pattern>
+      <last-pattern>参数</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -517,9 +479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finderlist</entry>
-        <entry encoding="base64">IG1heCBqaWQ=</entry>
-        <entry>datain</entry>
         <entry>agent</entry>
         <entry>port</entry>
         <entry>pages</entry>
@@ -537,6 +496,9 @@
         <entry>card.setwork</entry>
         <entry>geekInfo.Works</entry>
         <entry>回传</entry>
+        <entry>bi</entry>
+        <entry>回填</entry>
+        <entry>参数</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
