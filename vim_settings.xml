@@ -10,12 +10,12 @@
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/BuildStatMain.java" timestamp="1582267887402">
-        <mark key="'" line="136" column="21" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="122" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="74" column="23" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/BuildStatMain.java" timestamp="1582269901219">
+        <mark key="'" line="72" column="16" />
+        <mark key="[" line="103" column="66" />
+        <mark key="]" line="103" column="75" />
+        <mark key="." line="103" column="75" />
+        <mark key="^" line="103" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderJobRebuildMain.java" timestamp="1582167883893">
         <mark key="[" line="87" column="0" />
@@ -141,13 +141,14 @@
         <mark key="." line="36" column="77" />
         <mark key="^" line="36" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/Flags.java" timestamp="1582256852609">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/Flags.java" timestamp="1582269700900">
         <mark key="[" line="21" column="58" />
         <mark key="]" line="21" column="59" />
         <mark key="." line="21" column="59" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/idg/StringInternGenerator.java" timestamp="1582266741860">
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/idg/StringInternGenerator.java" timestamp="1582269560033">
+        <mark key="'" line="21" column="18" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="73" column="41" />
@@ -194,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="891" column="11" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" />
-      <jump line="895" column="11" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.24-SNAPSHOT/data-common-9.24-20200215.031041-3.jar!/com/bosszhipin/common/AHandler.class" />
       <jump line="279" column="26" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
       <jump line="91" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" />
       <jump line="127" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" />
@@ -294,10 +293,12 @@
       <jump line="136" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/BuildStatMain.java" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/v-bosssearchbuilder-01/finder_build_stat.sh" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/v-bosssearchbuilder-01/finder_build_stat.sh" />
+      <jump line="21" column="18" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/idg/StringInternGenerator.java" />
+      <jump line="72" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/BuildStatMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>geek</text>
+        <text>handle_geek</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -393,7 +394,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>geek</text>
+        <text>handle_geek</text>
       </register>
       <register name="/" type="4">
         <text>geekInfo.Works</text>
