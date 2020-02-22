@@ -32,10 +32,6 @@
         <mark key="." line="120" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" timestamp="1582205654955" />
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek_search.vm" timestamp="1582124765475">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="29" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/handler/FinderGeekHandler.java" timestamp="1582252674036">
         <mark key="'" line="55" column="49" />
         <mark key="[" line="55" column="61" />
@@ -70,10 +66,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.21-SNAPSHOT/zp-client-8.21-SNAPSHOT-sources.jar!/gen/dataview/GeekAction.java" timestamp="1582123322502" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/GeekCardWrapper.java" timestamp="1582119317942" />
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/f2j.vm" timestamp="1582196290958">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="102" column="29" />
-      </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1582179748885">
         <mark key="'" line="939" column="0" />
       </file>
@@ -121,10 +113,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="^" line="73" column="41" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/cf_models2/finder_job_stat.sh" timestamp="1582267258366">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="13" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/finder_build_stat.sh" timestamp="1582272060263" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1582277940644">
@@ -244,8 +232,8 @@
       <jump line="333" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>qaClients</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -341,7 +329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>java</text>
+        <text>qaClients</text>
       </register>
       <register name="/" type="4">
         <text>参数</text>
