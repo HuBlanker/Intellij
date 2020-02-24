@@ -50,6 +50,9 @@
         <mark key="'" line="495" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" timestamp="1582205654955" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/db_zp_user.def" timestamp="1582552207056">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/GeekWrapper.java" timestamp="1582265581662">
         <mark key="'" line="37" column="170" />
         <mark key="[" line="86" column="31" />
@@ -84,8 +87,8 @@
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1582532426647">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1582552189012">
+        <mark key="'" line="538" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" timestamp="1582201978941">
         <mark key="'" line="32" column="23" />
@@ -303,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3392" column="21" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3395" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3617" column="41" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="754" column="52" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3384" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -403,6 +404,8 @@
       <jump line="104" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="132" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="133" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
+      <jump line="538" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db_zp_user.def" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -505,7 +508,7 @@
         <text>FreshGraduate.INTERN:</text>
       </register>
       <register name="/" type="4">
-        <text>jobtype</text>
+        <text>user_profile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBpbnRlcm47Cg==</text>
@@ -628,9 +631,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jobtype</last-search>
+      <last-search>user_profile</last-search>
       <last-offset />
-      <last-pattern>jobtype</last-pattern>
+      <last-pattern>user_profile</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -638,7 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>card.setword</entry>
         <entry>card.setwork</entry>
         <entry>geekInfo.Works</entry>
         <entry>回传</entry>
@@ -658,6 +660,7 @@
         <entry>== 1</entry>
         <entry>expectType</entry>
         <entry>jobtype</entry>
+        <entry>user_profile</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
