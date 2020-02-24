@@ -90,6 +90,12 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" timestamp="1582201978941">
         <mark key="'" line="32" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1582543165806">
+        <mark key="[" line="536" column="8" />
+        <mark key="]" line="536" column="7" />
+        <mark key="." line="536" column="7" />
+        <mark key="^" line="536" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1582039013911">
         <mark key="'" line="0" column="0" />
       </file>
@@ -391,8 +397,8 @@
       <jump line="36" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/jobsug/JobSugEval.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBpZiAobG93ID09IDEgJiYgaGlnaCA9PSAxKSBsb3cgPSAwOwo=</text>
+      <register name="&quot;" type="4">
+        <text>intern</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -488,13 +494,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IDE=</text>
+        <text>intern</text>
       </register>
       <register name="/" type="4">
         <text>== 1</text>
       </register>
-      <register name="0" type="4">
-        <text>companyProxyId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBpbnRlcm47Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBpZiAobG93ID09IDEgJiYgaGlnaCA9PSAxKSBsb3cgPSAwOwo=</text>
