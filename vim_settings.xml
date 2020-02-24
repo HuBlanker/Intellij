@@ -70,11 +70,11 @@
         <mark key="'" line="939" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/JobExpectMatcher.java" timestamp="1582369202066" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/FreshGraduate.java" timestamp="1582536966095">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/FreshGraduate.java" timestamp="1582543451342">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/ReqSource.java" timestamp="1582275229310" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" timestamp="1582533380401">
@@ -90,11 +90,12 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" timestamp="1582201978941">
         <mark key="'" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1582543165806">
-        <mark key="[" line="536" column="8" />
-        <mark key="]" line="536" column="7" />
-        <mark key="." line="536" column="7" />
-        <mark key="^" line="536" column="7" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1582544223170">
+        <mark key="'" line="439" column="39" />
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="534" column="21" />
+        <mark key="." line="534" column="21" />
+        <mark key="^" line="534" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1582039013911">
         <mark key="'" line="0" column="0" />
@@ -295,10 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="20" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" />
-      <jump line="3382" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="3697" column="16" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpListCompanyHandler.java" />
       <jump line="3725" column="30" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="3385" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
@@ -395,10 +392,14 @@
       <jump line="137" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" />
       <jump line="498" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchResult.java" />
       <jump line="36" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/jobsug/JobSugEval.java" />
+      <jump line="544" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
+      <jump line="651" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
+      <jump line="671" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
+      <jump line="439" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>intern</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -494,19 +495,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>intern</text>
+        <text>FreshGraduate.INTERN:</text>
       </register>
       <register name="/" type="4">
-        <text>== 1</text>
+        <text>expectType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBpbnRlcm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBpZiAobG93ID09IDEgJiYgaGlnaCA9PSAxKSBsb3cgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJuKSB7CiAgICAgICAgICAgIHd5ID0gLTI7IC8vLTLku6PooajlnKjmoKHnlJ8KICAgICAgICB9IGVsc2UgaWYgKHdvcmtZZWFycyA9PSAwKSB7CiAgICAgICAgICAgIHd5ID0gMDsgLy8w55qE5piv5bqU5bGK55SfCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgd3kgPSB3b3JrWWVhcnM7CiAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -533,10 +534,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLndvcmtZZWFycyA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgd3kgPSAwOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICB3eSA9IHRoaXMud29ya1llYXJzOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -569,7 +570,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtLmpvYnMuYWRkKHRoaXMucmVxLmpvYik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBpZiAobG93ID09IDEgJiYgaGlnaCA9PSAxKSBsb3cgPSAwOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -593,16 +594,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">QFNsZjRqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtLmpvYnMuYWRkKHRoaXMucmVxLmpvYik7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -620,9 +621,9 @@
       </register>
     </registers>
     <search>
-      <last-search>== 1</last-search>
+      <last-search>expectType</last-search>
       <last-offset />
-      <last-pattern>== 1</last-pattern>
+      <last-pattern>expectType</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -630,7 +631,6 @@
     </search>
     <history>
       <history-search>
-        <entry>feedsea</entry>
         <entry>skills</entry>
         <entry>card.setword</entry>
         <entry>card.setwork</entry>
@@ -650,6 +650,7 @@
         <entry>param.jobs.add(this.req.job);</entry>
         <entry>job.proxyJob == 1</entry>
         <entry>== 1</entry>
+        <entry>expectType</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
