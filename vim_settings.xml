@@ -6,9 +6,6 @@
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1582179946276">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1582250239806">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/Wrapper.java" timestamp="1582253318898">
         <mark key="'" line="45" column="40" />
         <mark key="[" line="51" column="60" />
@@ -25,9 +22,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossW2v.java" timestamp="1582101225550">
         <mark key="'" line="435" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GJobQueryBuilderTest.java" timestamp="1582534171745">
-        <mark key="[" line="54" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/public/style.css" timestamp="1582196304391">
         <mark key="'" line="149" column="0" />
@@ -82,6 +76,12 @@
         <mark key="]" line="18" column="95" />
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/c/GeekCollector2.java" timestamp="1582629901042">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="66" column="18" />
+        <mark key="^" line="66" column="18" />
+        <mark key="." line="66" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582621394611">
         <mark key="'" line="19" column="6" />
@@ -221,9 +221,6 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderJobHandler.java" timestamp="1582116503563" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/cf_models2/finder_geek_stat.sh" timestamp="1582255853957" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1582524984697" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1582534195983">
-        <mark key="[" line="59" column="17" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" timestamp="1582265500502">
         <mark key="[" line="77" column="68" />
         <mark key="]" line="78" column="96" />
@@ -260,9 +257,6 @@
         <mark key="'" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/ExpectWrapper.java" timestamp="1582616588593" />
-      <file name="/Dummy.txt" timestamp="1582164745674">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/idg/StringInternGenerator.java" timestamp="1582269560033">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="74" column="0" />
@@ -295,9 +289,6 @@
         <mark key="]" line="24" column="87" />
         <mark key="^" line="24" column="86" />
         <mark key="." line="24" column="57" />
-      </file>
-      <file name="/fragment.java" timestamp="1582250253084">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -404,7 +395,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b_exposure_db</text>
+        <text>retunr</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -500,7 +491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIiI=</text>
+        <text>retunr</text>
       </register>
       <register name="/" type="4">
         <text>-3</text>
