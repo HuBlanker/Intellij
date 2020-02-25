@@ -92,8 +92,12 @@
         <mark key="." line="18" column="95" />
         <mark key="^" line="18" column="95" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582599738020">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1582615881766">
         <mark key="'" line="24" column="0" />
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="22" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" timestamp="1582201978941">
         <mark key="'" line="32" column="23" />
@@ -409,8 +413,8 @@
       <jump line="44" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygie30iLCByZXNwLmZpbHRlcnMuZ2V0KEZpbHRlckZpZWxkLkpPQikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>qaClients</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -506,7 +510,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6454776</text>
+        <text>qaClients</text>
       </register>
       <register name="/" type="4">
         <text>experience</text>
