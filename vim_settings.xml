@@ -139,6 +139,10 @@
         <mark key="." line="94" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GeekNNRecallReq.java" timestamp="1582275374311" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1582625982593">
+        <mark key="[" line="100" column="41" />
+        <mark key="]" line="100" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" timestamp="1582275572030" />
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/ZpJob.java" timestamp="1582532419554">
         <mark key="[" line="61" column="22" />
@@ -283,6 +287,9 @@
         <mark key="'" line="35" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.21-SNAPSHOT/zp-client-8.21-SNAPSHOT-sources.jar!/gen/dataview/GeekStatic.java" timestamp="1582123209671" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" timestamp="1582626240655">
+        <mark key="'" line="23" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/boss/jobs.vm" timestamp="1582195859518">
         <mark key="[" line="24" column="43" />
         <mark key="]" line="24" column="87" />
@@ -294,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="296" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="17" column="51" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" />
       <jump line="42" column="23" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" />
@@ -394,10 +400,11 @@
       <jump line="72" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/db_zp_geek.def" />
       <jump line="74" column="12" filename="$USER_HOME$/workspace/zp-search2/scripts/db_zp_geek.def" />
       <jump line="388" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGx5IDw9IDApIGx5ID0gLTM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>b_exposure_db</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -498,8 +505,8 @@
       <register name="/" type="4">
         <text>-3</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5rWL6K+V6auY5pCc55qESk9CSUTlm57loasKICAgICAqLwogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RSZXN1bWVTZWFyY2hWM0pvYlBhcmFtQmFjaygpIHRocm93cyBDbGllbnRFeGNlcHRpb24gewogICAgICAgIFJlc3VtZVNlYXJjaFJlcVYyIHJlcSA9IG5ldyBSZXN1bWVTZWFyY2hSZXFWMigiamF2YSIsIDE1LCAwKTsKICAgICAgICByZXEuc2V0Qm9zc0lkKDY0NTc2MDgpOwogICAgICAgIHJlcS5zZXRTb3VyY2UoImJvc3MiKTsKICAgICAgICByZXEuc2V0Sm9iSWQoMTA0MTExMzY0OSk7CiAgICAgICAgUmVzdW1lU2VhcmNoVjNSZXNwIHJlc3AgPSBjbGllbnRzLlJlc3VtZVNlYXJjaFYzKHJlcSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygxMDQxMTEzNjQ5ICsgIiIsIHJlc3AuZmlsdGVycy5nZXQoRmlsdGVyRmllbGQuSk9CKSk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>b_exposure_db</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGx5IDw9IDApIGx5ID0gLTM7Cg==</text>
