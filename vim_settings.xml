@@ -123,8 +123,8 @@
         <mark key="." line="26" column="51" />
         <mark key="^" line="26" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1582551278909">
-        <mark key="'" line="133" column="30" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1582614210433">
+        <mark key="'" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/finder2.thrift" timestamp="1582252948175">
         <mark key="'" line="31" column="7" />
@@ -307,10 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="48" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
-      <jump line="31" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/finder2.thrift" />
-      <jump line="74" column="23" filename="$USER_HOME$/workspace/zp-web/src/main/resources/module/finder_l3_city.vm" />
-      <jump line="15" column="62" filename="$USER_HOME$/workspace/zp-web/src/main/resources/finder_geek.vm" />
       <jump line="93" column="49" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderGeekHandler.java" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderGeekHandler.java" />
       <jump line="124" column="12" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderGeekHandler.java" />
@@ -407,6 +403,10 @@
       <jump line="155" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="237" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
+      <jump line="165" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
+      <jump line="242" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
+      <jump line="346" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
+      <jump line="44" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -509,7 +509,7 @@
         <text>6454776</text>
       </register>
       <register name="/" type="4">
-        <text>回</text>
+        <text>experience</text>
       </register>
       <register name="0" type="4">
         <text>resp.filters.get(FilterField.JOB)</text>
@@ -632,9 +632,9 @@
       </register>
     </registers>
     <search>
-      <last-search>回</last-search>
+      <last-search>experience</last-search>
       <last-offset />
-      <last-pattern>回</last-pattern>
+      <last-pattern>experience</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geekInfo.Works</entry>
         <entry>回传</entry>
         <entry>bi</entry>
         <entry>回填</entry>
@@ -662,6 +661,7 @@
         <entry>jobtype</entry>
         <entry>user_profile</entry>
         <entry>回</entry>
+        <entry>experience</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
