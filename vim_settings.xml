@@ -9,11 +9,12 @@
         <mark key="^" line="47" column="119" />
         <mark key="." line="47" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" timestamp="1582718321907">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" timestamp="1582719880826">
+        <mark key="'" line="17" column="30" />
         <mark key="[" line="50" column="5" />
-        <mark key="]" line="44" column="19" />
-        <mark key="." line="44" column="19" />
-        <mark key="^" line="44" column="19" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/job.thrift" timestamp="1582179946276">
         <mark key="'" line="0" column="0" />
@@ -120,6 +121,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1582699733596">
         <mark key="'" line="25" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1582720719703">
+        <mark key="[" line="123" column="36" />
+        <mark key="]" line="133" column="22" />
+        <mark key="^" line="133" column="22" />
+        <mark key="." line="133" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek_card.vm" timestamp="1582201978941">
         <mark key="'" line="32" column="23" />
       </file>
@@ -156,10 +163,10 @@
         <mark key="^" line="26" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1582718001303">
-        <mark key="'" line="228" column="27" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="'" line="261" column="27" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
         <mark key="^" line="30" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/finder2.thrift" timestamp="1582252948175">
@@ -282,6 +289,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1582534195983">
         <mark key="[" line="59" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1582720447979">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="102" column="38" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekSearchMain.java" timestamp="1582265500502">
         <mark key="[" line="77" column="68" />
         <mark key="]" line="78" column="96" />
@@ -365,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="678" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" />
       <jump line="137" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" />
       <jump line="498" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchResult.java" />
       <jump line="36" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/jobsug/JobSugEval.java" />
@@ -465,10 +477,11 @@
       <jump line="416" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
       <jump line="449" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="261" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
+      <jump line="17" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8RmlsdGVyRmllbGQsIFN0cmluZz4gZmllbGRzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -564,7 +577,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>24646</text>
+        <text>Web</text>
       </register>
       <register name="/" type="4">
         <text>dubbo</text>
@@ -573,10 +586,10 @@
         <text encoding="base64">ICAgIHByaXZhdGUgUmVidWlsZE1haW4uU3RhdENvdW50IHN0YXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8RmlsdGVyRmllbGQsIFN0cmluZz4gZmllbGRzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCcmFuZEpvYlJlcSByZXEgPSBuZXcgQnJhbmRKb2JSZXEoKTsKICAgICAgICByZXEuc2V0R2Vla0lkKDU0Mzg4NTkxKTsKICAgICAgICByZXEuc2V0QnJhbmRJZCgzMzY4ODAwKTsKICAgICAgICByZXEuc2V0U3RhcnQoMCk7CiAgICAgICAgcmVxLnNldExpbWl0KDE1KTsKCiAgICAgICAgSm9iQ2FyZExpc3QgcmVzcCA9IENMSUVOVFMuQnJhbmRKb2JWMihyZXEpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNwKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0RmllbGRzKGZpZWxkcyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -603,10 +616,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcS5zZXRJcChpcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMucHV0KEZpbHRlckZpZWxkLkVYUEVSSUVOQ0UsICIxMDgiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElEID0gImlkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpJRCA9ICJqaWQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgVElUTEUgPSAidGl0bGUiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ09NUEFOWSA9ICJjb21wYW55IjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDT01fSU5URVJOQUxfSUQgPSAiX2NpZCI7IC8vIOWGhemDqOeahOWFrOWPuElE44CCIOeUqOS6juagueaNruWFrOWPuOWQje+8jOaJvuWIsOi/meS4quWFrOWPuOeahOaJgOacieiBjOS9jQoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJSQU5EX0lEID0gImJyYW5kX2lkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFU0NSSVBUSU9OID0gImRlc2MiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQk9TU19OQU1FID0gR2Vla1dyYXBwZXIuTkFNRTsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBERUdSRUUgPSAiZGVncmVlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVYUEVSSUVOQ0UgPSAiZXhwIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNDQUxFID0gInNjYWxlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElORFVTVFJZID0gImluZCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTQUxBUlkgPSAic2FsYXJ5IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUQUdFID0gInN0YWdlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpPQl9UWVBFID0gImpvYl90eXBlIjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBUkVBX0lEID0gImFyZWFfaWQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVJFQSA9ICJhcmVhIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJVU0lORVNTID0gImJ1c2luZXNzIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNVQldBWV9MSU5FID0gInN1YndheV9sIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNVQldBWV9TVEFUSU9OID0gInN1YndheV9zIjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDSVRZID0gImNpdHkiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUE9TSVRJT04gPSAicG9zaXRpb24iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTDNfQ0lUWSA9ICJsM2NpdHkiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTDIgPSAibDIiOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVQREFURV9UUyA9ICJ1cGRhdGVfdHMiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTE9DQVRJT04gPSAibG9jYXRpb24iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVTVCA9ICJyZXN0IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -639,7 +652,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">ICAgICAgICBCcmFuZEpvYlJlcSByZXEgPSBuZXcgQnJhbmRKb2JSZXEoKTsKICAgICAgICByZXEuc2V0R2Vla0lkKDU0Mzg4NTkxKTsKICAgICAgICByZXEuc2V0QnJhbmRJZCgzMzY4ODAwKTsKICAgICAgICByZXEuc2V0U3RhcnQoMCk7CiAgICAgICAgcmVxLnNldExpbWl0KDE1KTsKCiAgICAgICAgSm9iQ2FyZExpc3QgcmVzcCA9IENMSUVOVFMuQnJhbmRKb2JWMihyZXEpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNwKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -663,16 +676,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcS5zZXRJcChpcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElEID0gImlkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpJRCA9ICJqaWQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgVElUTEUgPSAidGl0bGUiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ09NUEFOWSA9ICJjb21wYW55IjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDT01fSU5URVJOQUxfSUQgPSAiX2NpZCI7IC8vIOWGhemDqOeahOWFrOWPuElE44CCIOeUqOS6juagueaNruWFrOWPuOWQje+8jOaJvuWIsOi/meS4quWFrOWPuOeahOaJgOacieiBjOS9jQoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJSQU5EX0lEID0gImJyYW5kX2lkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFU0NSSVBUSU9OID0gImRlc2MiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQk9TU19OQU1FID0gR2Vla1dyYXBwZXIuTkFNRTsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBERUdSRUUgPSAiZGVncmVlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVYUEVSSUVOQ0UgPSAiZXhwIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNDQUxFID0gInNjYWxlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElORFVTVFJZID0gImluZCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTQUxBUlkgPSAic2FsYXJ5IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUQUdFID0gInN0YWdlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEpPQl9UWVBFID0gImpvYl90eXBlIjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBUkVBX0lEID0gImFyZWFfaWQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVJFQSA9ICJhcmVhIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJVU0lORVNTID0gImJ1c2luZXNzIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNVQldBWV9MSU5FID0gInN1YndheV9sIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNVQldBWV9TVEFUSU9OID0gInN1YndheV9zIjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDSVRZID0gImNpdHkiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUE9TSVRJT04gPSAicG9zaXRpb24iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTDNfQ0lUWSA9ICJsM2NpdHkiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTDIgPSAibDIiOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVQREFURV9UUyA9ICJ1cGRhdGVfdHMiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTE9DQVRJT04gPSAibG9jYXRpb24iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVTVCA9ICJyZXN0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCIiKTsK</text>
+        <text encoding="base64">QFNsZjRqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBidWlsZEJhdGNoRHpKb2JzKExpc3Q8TG9uZz4gam9iSWRzKSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAvLwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
