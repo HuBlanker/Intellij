@@ -26,12 +26,12 @@
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" timestamp="1582726925566">
-        <mark key="'" line="169" column="0" />
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="50" />
-        <mark key="^" line="71" column="50" />
-        <mark key="." line="71" column="50" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" timestamp="1582732325229">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="78" column="54" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Flags.java" timestamp="1582695708310">
         <mark key="'" line="577" column="3" />
@@ -426,8 +426,8 @@
       <jump line="201" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>description</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoKCnNlbGVjdCBqLiosCiAgICAgICBuLm5ld19wb3NpdGlvbl9jb2RlLAogICAgICAgbnBjLm5hbWUKZnJvbSAoCiAgICAgICAgIHNlbGVjdCBqLmlkLAogICAgICAgICAgICAgICAgai5wb3NpdGlvbiwKICAgICAgICAgICAgICAgIGoucG9zaXRpb25fbmFtZSwKICAgICAgICAgICAgICAgIGouYWRkX3RpbWUsCiAgICAgICAgICAgICAgICBwYy5uYW1lCiAgICAgICAgIGZyb20gam9iIGoKICAgICAgICAgICAgICAgICAgam9pbiBwb3NpdGlvbl9jb25maWcgcGMgb24gcGMuY29kZSA9IGoucG9zaXRpb24KICAgICAgICAgd2hlcmUgai5qb2JfdHlwZSA9IDQKICAgICAgICAgb3JkZXIgYnkgai5pZCBkZXNjCiAgICAgICAgIGxpbWl0IDUwMAogICAgICkgagogICAgICAgICBsZWZ0IGpvaW4gYm9zcy5uZXdfcG9zaXRpb25fY29kZV9tYXBwaW5nIG4gb24gbi5sZXZlbDNfcG9zaXRpb25fY29kZSA9IGoucG9zaXRpb24KICAgICAgICAgbGVmdCBqb2luIGJvc3MubmV3X3Bvc2l0aW9uX2NvZGVfY29uZmlnIG5wYyBvbiBucGMuY29kZSA9IG4ubmV3X3Bvc2l0aW9uX2NvZGUKb3JkZXIgYnkgai5pZAogICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -523,19 +523,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>p0.l3code</text>
       </register>
       <register name="/" type="4">
-        <text>dubbo</text>
+        <text>address</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGaWVsZCBmMSA9IGY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKCnNlbGVjdCBqLiosCiAgICAgICBuLm5ld19wb3NpdGlvbl9jb2RlLAogICAgICAgbnBjLm5hbWUKZnJvbSAoCiAgICAgICAgIHNlbGVjdCBqLmlkLAogICAgICAgICAgICAgICAgai5wb3NpdGlvbiwKICAgICAgICAgICAgICAgIGoucG9zaXRpb25fbmFtZSwKICAgICAgICAgICAgICAgIGouYWRkX3RpbWUsCiAgICAgICAgICAgICAgICBwYy5uYW1lCiAgICAgICAgIGZyb20gam9iIGoKICAgICAgICAgICAgICAgICAgam9pbiBwb3NpdGlvbl9jb25maWcgcGMgb24gcGMuY29kZSA9IGoucG9zaXRpb24KICAgICAgICAgd2hlcmUgai5qb2JfdHlwZSA9IDQKICAgICAgICAgb3JkZXIgYnkgai5pZCBkZXNjCiAgICAgICAgIGxpbWl0IDUwMAogICAgICkgagogICAgICAgICBsZWZ0IGpvaW4gYm9zcy5uZXdfcG9zaXRpb25fY29kZV9tYXBwaW5nIG4gb24gbi5sZXZlbDNfcG9zaXRpb25fY29kZSA9IGoucG9zaXRpb24KICAgICAgICAgbGVmdCBqb2luIGJvc3MubmV3X3Bvc2l0aW9uX2NvZGVfY29uZmlnIG5wYyBvbiBucGMuY29kZSA9IG4ubmV3X3Bvc2l0aW9uX2NvZGUKb3JkZXIgYnkgai5pZAogICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKCnNlbGVjdCBqLiosCiAgICAgICBuLm5ld19wb3NpdGlvbl9jb2RlLAogICAgICAgbnBjLm5hbWUKZnJvbSAoCiAgICAgICAgIHNlbGVjdCBqLmlkLAogICAgICAgICAgICAgICAgai5wb3NpdGlvbiwKICAgICAgICAgICAgICAgIGoucG9zaXRpb25fbmFtZSwKICAgICAgICAgICAgICAgIGouYWRkX3RpbWUsCiAgICAgICAgICAgICAgICBwYy5uYW1lCiAgICAgICAgIGZyb20gam9iIGoKICAgICAgICAgICAgICAgICAgam9pbiBwb3NpdGlvbl9jb25maWcgcGMgb24gcGMuY29kZSA9IGoucG9zaXRpb24KICAgICAgICAgd2hlcmUgai5qb2JfdHlwZSA9IDQKICAgICAgICAgb3JkZXIgYnkgai5pZCBkZXNjCiAgICAgICAgIGxpbWl0IDUwMAogICAgICkgagogICAgICAgICBsZWZ0IGpvaW4gYm9zcy5uZXdfcG9zaXRpb25fY29kZV9tYXBwaW5nIG4gb24gbi5sZXZlbDNfcG9zaXRpb25fY29kZSA9IGoucG9zaXRpb24KICAgICAgICAgbGVmdCBqb2luIGJvc3MubmV3X3Bvc2l0aW9uX2NvZGVfY29uZmlnIG5wYyBvbiBucGMuY29kZSA9IG4ubmV3X3Bvc2l0aW9uX2NvZGUKb3JkZXIgYnkgai5pZAogICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -562,10 +562,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2MuYWRkKG5ldyBaRmllbGQoUE9TSVRJT04sIHAwLmwxY29kZSArICIiLCBJTkRFWF9OT19BTkFMWVNFKSk7IC8vIHdlYuaQnOe0ou+8jOS4gOe6p+iBjOS9jQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -598,7 +598,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0FjdGl2ZSgpIHsKICAgICAgICBpZiAobGFzdEFjdGl2ZSA+IEZsYWdzLkRBWTEwX0FHT19UUykgcmV0dXJuIHRydWU7CiAgICAgICAgcmV0dXJuIGpvYi5hZGRUaW1lLmdldFRpbWUoKSAvIDEwMDAgPiBGbGFncy5EQVkxMF9BR09fVFM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -622,16 +622,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIFBvc2l0aW9uczIuUG9zIHAwID0gUG9zaXRpb25zMi5nZXQodGhpcy5wb3NpdGlvbik7CiAgICAgICAgICAgIGlmIChwMC5sM2NvZGUgPiAwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2xlYW4gaXNBY3RpdmUoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2MuYWRkKG5ldyBaRmllbGQoQ0lUWSwgam9iLmxvY2F0aW9uICsgIiIsIElOREVYX05PX0FOQUxZU0UpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVV0aWxzLmVtcHR5U3RyKGpvYi5hZGRyZXNzKSkgeyAvLyDmnIkwLjEl5aSa5LiA54K555qE5rWB6YeP77yM5Lya5pCc57Si5Zyw5Z2A77yM5q+U5aaC5Yag5o235aSn5Y6mCiAgICAgICAgICAgIGRlc2MgKz0gIiAiICsgam9iLmFkZHJlc3M7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoam9iLnNraWxscyAhPSBudWxsICYmICFqb2Iuc2tpbGxzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBkZXNjICs9ICIgIiArIFN0cmluZy5qb2luKCIgIiwgam9iLnNraWxscy5zcGxpdChGbGFncy5XRV9TRVApKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -649,9 +649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dubbo</last-search>
+      <last-search>address</last-search>
       <last-offset />
-      <last-pattern>dubbo</last-pattern>
+      <last-pattern>address</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -659,8 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GeekIds</entry>
-        <entry>4push</entry>
         <entry>companyProxyId</entry>
         <entry>param.jobs.add(this.req.job);</entry>
         <entry>job.proxyJob == 1</entry>
@@ -679,6 +677,8 @@
         <entry>job</entry>
         <entry>dz</entry>
         <entry>dubbo</entry>
+        <entry>skill</entry>
+        <entry>address</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
