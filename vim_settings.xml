@@ -287,11 +287,11 @@
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/CommonConfigs.java" timestamp="1582805011525" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderJobHandler.java" timestamp="1582116503563" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/cf_models2/finder_geek_stat.sh" timestamp="1582255853957" />
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/DzCommonConfigs.java" timestamp="1582806295303">
-        <mark key="[" line="45" column="40" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="38" column="26" />
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/DzCommonConfigs.java" timestamp="1582807327834">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="71" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1582524984697" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1582534195983">
@@ -495,8 +495,8 @@
       <jump line="37" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAxMjAwMSDmmoLml6AKICAgICAgICAxMjAwMiAxIOW5tOS7peWGhQogICAgICAgIDEyMDAzIDEg5bm0CiAgICAgICAgMTIwMDQgMiDlubQKICAgICAgICAxMjAwNSAzIOW5tAogICAgICAgIDEyMDA2IDQg5bm0CiAgICAgICAgMTIwMDcgNSDlubQKICAgICAgICAxMjAwOCA2IOW5tAogICAgICAgIDEyMDA5IDcg5bm0CiAgICAgICAgMTIwMTAgOCDlubQKICAgICAgICAxMjAxMSA5IOW5tAogICAgICAgIDEyMDEyIDEwIOW5tAogICAgICAgIDEyMDEzIDEwIOW5tOS7peS4igo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -592,31 +592,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>10年以上</text>
       </register>
       <register name="/" type="4">
         <text>boss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQmlNYXA8SW50ZWdlciwgU3RyaW5nPiBEWl9ERUdSRUUgPSBIYXNoQmlNYXAuY3JlYXRlKDEwKTsK</text>
+        <text encoding="base64">ICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAxMiwgIjEw5bm0Iik7Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>)
-)
-)
-)
-)
-)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAxMjAwMSDmmoLml6AKICAgICAgICAxMjAwMiAxIOW5tOS7peWGhQogICAgICAgIDEyMDAzIDEg5bm0CiAgICAgICAgMTIwMDQgMiDlubQKICAgICAgICAxMjAwNSAzIOW5tAogICAgICAgIDEyMDA2IDQg5bm0CiAgICAgICAgMTIwMDcgNSDlubQKICAgICAgICAxMjAwOCA2IOW5tAogICAgICAgIDEyMDA5IDcg5bm0CiAgICAgICAgMTIwMTAgOCDlubQKICAgICAgICAxMjAxMSA5IOW5tAogICAgICAgIDEyMDEyIDEwIOW5tAogICAgICAgIDEyMDEzIDEwIOW5tOS7peS4igo=</text>
       </register>
-      <register name="2" type="8">
-        <text>, 0
-, 0
-, 0
-, 0
-, 0
-, 0
-, 0
-, 0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwMywgIjHlubQiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwMywgIjHlubQiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwMywgIjHlubQiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwMywgIjHlubQiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwMywgIjHlubQiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwNSwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTIwMDYsICIxMOW5tOS7peS4iiIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEyMDA3LCAiMTDlubTku6XkuIoiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwOCwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTIwMDksICIxMOW5tOS7peS4iiIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEyMDEwLCAiMTDlubTku6XkuIoiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAxMSwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTIwMTIsICIxMOW5tOS7peS4iiIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEyMDEzLCAiMTDlubTku6XkuIoiKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -642,25 +630,11 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="3" type="8">
-        <text>new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMjAwNCwgIjIiKTsK</text>
       </register>
-      <register name="4" type="8">
-        <text>add
-add
-add
-add
-add
-add
-add
-add</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAxMTAwMSDkuI3pmZAKICAgICAgICAxMTAwMiDml6AKICAgICAgICAxMTAwMyAxIOW5tOS7peWGhQogICAgICAgIDExMDA0IDEgLSAzIOW5tAogICAgICAgIDExMDA1IDMgLSA1IOW5tAogICAgICAgIDExMDA2IDUgLSAxMCDlubQKICAgICAgICAxMTAwNyAxMCDlubTku6XkuIoK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -692,14 +666,8 @@ add</text>
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text>)
-)
-)
-)
-)
-)
-)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAxMTAwMSDkuI3pmZAKICAgICAgICAxMTAwMiDml6AKICAgICAgICAxMTAwMyAxIOW5tOS7peWGhQogICAgICAgIDExMDA0IDEgLSAzIOW5tAogICAgICAgIDExMDA1IDMgLSA1IOW5tAogICAgICAgIDExMDA2IDUgLSAxMCDlubQKICAgICAgICAxMTAwNyAxMCDlubTku6XkuIoK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -722,44 +690,22 @@ add</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="8">
-        <text>);
-);
-);
-);
-);
-);
-);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMDAxMiwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTAwMTIsICIxMOW5tOS7peS4iiIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEwMDEyLCAiMTDlubTku6XkuIoiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMDAxMiwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTAwMTIsICIxMOW5tOS7peS4iiIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEwMDEyLCAiMTDlubTku6XkuIoiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMDAxMiwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTAwMTIsICIxMOW5tOS7peS4iiIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEwMDEyLCAiMTDlubTku6XkuIoiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMDAxMiwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTAwMTIsICIxMOW5tOS7peS4iiIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEwMDEyLCAiMTDlubTku6XkuIoiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMDAxMiwgIjEw5bm05Lul5LiKIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTAwMTIsICIxMOW5tOS7peS4iiIpOwo=</text>
       </register>
-      <register name="7" type="8">
-        <text>0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAxMDAwMSDml6AKICAgICAgICAxMDAwMiAxIOW5tAogICAgICAgIDEwMDAzIDIg5bm0CiAgICAgICAgMTAwMDQgMyDlubQKICAgICAgICAxMDAwNSA0IOW5tAogICAgICAgIDEwMDA2IDUg5bm0CiAgICAgICAgMTAwMDcgNiDlubQKICAgICAgICAxMDAwOCA3IOW5tAogICAgICAgIDEwMDA5IDgg5bm0CiAgICAgICAgMTAwMTAgOSDlubQKICAgICAgICAxMDAxMSAxMCDlubQKICAgICAgICAxMDAxMiAxMCDlubTku6XkuIoK</text>
       </register>
-      <register name="8" type="8">
-        <text>,0,
-,0,
-,0,
-,0,
-,0,
-,0,
-,0,
-,0,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMDAwNCwgIuS4reS4kyIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEwMDA1LCAi5aSn5LiTIik7CiAgICAgICAgRFpfRVhQRVJJRU5DRS5wdXQoMTAwMDYsICLmnKznp5EiKTsKICAgICAgICBEWl9FWFBFUklFTkNFLnB1dCgxMDAwNywgIuehleWjqyIpOwogICAgICAgIERaX0VYUEVSSUVOQ0UucHV0KDEwMDA4LCAi5Yid5Lit5Lul5LiLIik7Cg==</text>
       </register>
       <register name="9" type="8">
-        <text>new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(
-new CodeName(</text>
+        <text>)
+)
+)
+)
+)
+)</text>
       </register>
       <register name="y" type="4">
         <keys>
