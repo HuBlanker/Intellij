@@ -161,9 +161,6 @@
         <mark key="." line="12" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.27/zp-client-8.27-sources.jar!/gen/thrift/GeekCard.java" timestamp="1582201040572" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/internal/InternalServerTest.java" timestamp="1582722923295">
-        <mark key="^" line="33" column="79" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/QueryBuilder.java" timestamp="1582253739017">
         <mark key="[" line="94" column="17" />
         <mark key="]" line="94" column="30" />
@@ -287,8 +284,15 @@
         <mark key="." line="153" column="49" />
         <mark key="^" line="153" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/CommonConfigs.java" timestamp="1582805011525" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderJobHandler.java" timestamp="1582116503563" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/cf_models2/finder_geek_stat.sh" timestamp="1582255853957" />
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/DzCommonConfigs.java" timestamp="1582806295303">
+        <mark key="[" line="45" column="40" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="38" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1582524984697" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1582534195983">
         <mark key="[" line="59" column="17" />
@@ -491,8 +495,8 @@
       <jump line="37" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -594,13 +598,25 @@
         <text>boss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5a2m5Y6G57+76K+RCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgaW50IGRlZ3JlZVQoaW50IGRlZ3JlZSkgewogICAgICAgIHJldHVybiAwOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgQmlNYXA8SW50ZWdlciwgU3RyaW5nPiBEWl9ERUdSRUUgPSBIYXNoQmlNYXAuY3JlYXRlKDEwKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>)
+)
+)
+)
+)
+)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOeul+S4gOWghmZsYWcK</text>
+      <register name="2" type="8">
+        <text>, 0
+, 0
+, 0
+, 0
+, 0
+, 0
+, 0
+, 0</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -626,11 +642,25 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="8">
+        <text>new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="4" type="8">
+        <text>add
+add
+add
+add
+add
+add
+add
+add</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -662,8 +692,14 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>)
+)
+)
+)
+)
+)
+)</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -686,17 +722,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>);
+);
+);
+);
+);
+);
+);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb2MuYWRkKG5ldyBaRmllbGQoQlJBTkRfSUQsIGpvYi5nZXREekpvYlNob3AoKS5nZXRVc2VyQm9zc1Nob3BJZCgpICsgIiIsIElOREVYX05PX0FOQUxZU0UpKTsK</text>
+      <register name="7" type="8">
+        <text>0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbXBhbnlOYW1lID0gam9iLmdldER6Sm9iVXNlcigpLmdldENvbXBhbnlOYW1lKCk7CiAgICAgICAgICAgIGlmIChicmFuZHMubm90SW4xMDAoY29tcGFueU5hbWUpKSB7CiAgICAgICAgICAgICAgICBpbnQgaW50ZXJuYWxJZDIgPSBicmFuZHMuY29tSW50ZXJuLnB1dChjb21wYW55TmFtZSk7CiAgICAgICAgICAgICAgICBpZiAoaW50ZXJuYWxJZDIgIT0gaW50ZXJuYWxJZCkgewogICAgICAgICAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChDT01fSU5URVJOQUxfSUQsIGludGVybmFsSWQyICsgIiIsIElOREVYX05PX0FOQUxZU0UpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      <register name="8" type="8">
+        <text>,0,
+,0,
+,0,
+,0,
+,0,
+,0,
+,0,
+,0,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNob3BOYW1lID0gam9iLmdldER6Sm9iU2hvcCgpLmdldFNob3BOYW1lKCk7CiAgICAgICAgICAgIGlmIChicmFuZHMubm90SW4xMDAoc2hvcE5hbWUpKSB7CiAgICAgICAgICAgICAgICBpbnRlcm5hbElkID0gYnJhbmRzLmNvbUludGVybi5wdXQoc2hvcE5hbWUpOwogICAgICAgICAgICAgICAgZG9jLmFkZChuZXcgWkZpZWxkKENPTV9JTlRFUk5BTF9JRCwgaW50ZXJuYWxJZCArICIiLCBJTkRFWF9OT19BTkFMWVNFKSk7CiAgICAgICAgICAgIH0K</text>
+      <register name="9" type="8">
+        <text>new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(
+new CodeName(</text>
       </register>
       <register name="y" type="4">
         <keys>
