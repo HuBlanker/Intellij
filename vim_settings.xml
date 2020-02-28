@@ -191,10 +191,10 @@
         <mark key="[" line="109" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GeekNNRecallReq.java" timestamp="1582275374311" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1582857928139">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1582884004089">
         <mark key="'" line="216" column="36" />
-        <mark key="[" line="216" column="65" />
-        <mark key="]" line="216" column="84" />
+        <mark key="[" line="212" column="45" />
+        <mark key="]" line="212" column="56" />
         <mark key="." line="216" column="84" />
         <mark key="^" line="216" column="84" />
       </file>
@@ -221,11 +221,11 @@
         <mark key="^" line="47" column="37" />
         <mark key="." line="47" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1582881528711">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1582882508870">
         <mark key="'" line="434" column="34" />
-        <mark key="[" line="429" column="90" />
-        <mark key="]" line="434" column="34" />
-        <mark key="." line="434" column="34" />
+        <mark key="[" line="513" column="19" />
+        <mark key="]" line="513" column="19" />
+        <mark key="." line="513" column="19" />
         <mark key="^" line="434" column="34" />
       </file>
       <file name="/GeekSearchReq.java" timestamp="1582277116408" />
@@ -247,7 +247,7 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1582529818016" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1582883338156" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/finder_job.vm" timestamp="1582252591830">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="20" column="17" />
@@ -492,7 +492,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>dz_zk_server</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -588,13 +588,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>38758</text>
       </register>
       <register name="/" type="4">
         <text>dz</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEdWJib0NvbmZpZyBjb25maWcgPSBuZXcgRHViYm9Db25maWcuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuc2V0WmtBZGRyZXNzKCIxOTIuMTY4LjEuMzc6MjE4MSIpCiAgICAgICAgICAgICAgICAuc2V0QXBwTmFtZSgiam9iX3NlYXJjaCIpCiAgICAgICAgICAgICAgICAuc2V0R3JvdXAoImR1YmJvIikuc2V0UmVmR3JvdXAoImJsdWUtZmFjYWRlIikKICAgICAgICAgICAgICAgIC5zZXRWZXJzaW9uKCIxLjAuMCIpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBacFJlZmVyZW5jZUNvbmY8RHpKb2JBcGk+IHJlZmVyZW5jZUNvbmYgPSBuZXcgWnBSZWZlcmVuY2VDb25mPD4oY29uZmlnLCBEekpvYkFwaS5jbGFzcyk7Cg==</text>
+      <register name="0" type="4">
+        <text>dz_zk_server</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBEdWJib0NvbmZpZyBjMSA9IG5ldyBEdWJib0NvbmZpZy5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXRaa0FkZHJlc3MoIjE5Mi4xNjguMS4zNzoyMTgxIikKICAgICAgICAgICAgICAgIC5zZXRBcHBOYW1lKCJqb2Jfc2VhcmNoIikKICAgICAgICAgICAgICAgIC5zZXRHcm91cCgiZHViYm8iKS5zZXRSZWZHcm91cCgiYmx1ZS1mYWNhZGUiKQogICAgICAgICAgICAgICAgLnNldFZlcnNpb24oIjEuMC4wIikKICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgIFpwUmVmZXJlbmNlQ29uZjxEekpvYkFwaT4gcjEgPSBuZXcgWnBSZWZlcmVuY2VDb25mPD4oY29uZmlnLCBEekpvYkFwaS5jbGFzcyk7CiAgICAgICAgdGhpcy5kekpvYkFwaSA9IHIxLmdldCgpOwo=</text>
