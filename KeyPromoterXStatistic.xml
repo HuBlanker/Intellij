@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BlueFacadeClientTest.testListJobIds'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'BlueFacadeClientTest.testListJobIds'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BrandJobV2Test.testQa1'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'JobRebuildMain'</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'JobTitleClean'">
@@ -718,7 +726,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5812</Count>
+          <Count>5822</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1398,7 +1406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'JobRebuildMain'</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JobSearchMain'">
@@ -2481,14 +2489,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Resume Program">
-        <Item>
-          <IdeaActionID>Resume</IdeaActionID>
-          <ShortCut>'F9'</ShortCut>
-          <Description>Resume Program</Description>
-          <Count>1627</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
@@ -2942,7 +2942,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JobRebuildMain'</Description>
-          <Count>9</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'JobSearchMain'">
@@ -3622,7 +3622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>663</Count>
+          <Count>667</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -3667,10 +3667,24 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Mute Breakpoints">
+        <Item>
+          <IdeaActionID>XDebugger.MuteBreakpoints</IdeaActionID>
+          <Description>Mute Breakpoints</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Reimport">
         <Item>
           <IdeaActionID>Maven.ReimportProject</IdeaActionID>
           <Description>Reimport</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>1629</Count>
         </Item>
       </Statistic>
       <Statistic Action="Sign in">
