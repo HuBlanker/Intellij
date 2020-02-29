@@ -9,12 +9,12 @@
         <mark key="^" line="47" column="119" />
         <mark key="." line="47" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" timestamp="1582861020881">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="94" column="4" />
-        <mark key="]" line="94" column="9" />
-        <mark key="." line="94" column="9" />
-        <mark key="^" line="94" column="9" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" timestamp="1582959723252">
+        <mark key="'" line="28" column="30" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="120" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/pom.xml" timestamp="1582711584955">
         <mark key="'" line="95" column="24" />
@@ -39,12 +39,12 @@
         <mark key="^" line="486" column="89" />
         <mark key="." line="486" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" timestamp="1582958923281">
-        <mark key="'" line="51" column="46" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="44" />
-        <mark key="^" line="64" column="46" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" timestamp="1582959762410">
+        <mark key="'" line="78" column="46" />
+        <mark key="[" line="134" column="13" />
+        <mark key="]" line="134" column="13" />
+        <mark key="^" line="134" column="10" />
+        <mark key="." line="134" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" timestamp="1582788918095">
         <mark key="'" line="46" column="44" />
@@ -316,12 +316,12 @@
         <mark key="^" line="529" column="9" />
         <mark key="." line="529" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1582958633872">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1582959729390">
         <mark key="'" line="130" column="12" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="71" />
-        <mark key="^" line="247" column="38" />
-        <mark key="." line="247" column="38" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="^" line="239" column="38" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/QueryBuilder.java" timestamp="1582253739017">
         <mark key="[" line="94" column="17" />
@@ -338,7 +338,7 @@
         <mark key="^" line="24" column="86" />
         <mark key="." line="24" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1582889490677">
+      <file name="/fragment.java" timestamp="1582959712003">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -446,7 +446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>address</text>
+        <text>,</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -542,19 +542,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>address</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>nega</text>
       </register>
-      <register name="0" type="4">
-        <text>dz_zk_server</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIUNvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGpvYlN1YndheXMpKSB7CiAgICAgICAgICAgIGZvciAoSm9iU3Vid2F5IGpzIDogam9iU3Vid2F5cykgewogICAgICAgICAgICAgICAgaWYgKGpzLnN1YndheV9saW5lX2lkID4gMCkgewogICAgICAgICAgICAgICAgICAgIGRvYy5hZGQobmV3IEludFBvaW50KFNVQldBWV9MSU5FLCBqcy5zdWJ3YXlfbGluZV9pZCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGpzLnN1YndheV9zdGF0aW9uX2lkID4gMCkgewogICAgICAgICAgICAgICAgICAgIGRvYy5hZGQobmV3IEludFBvaW50KFNVQldBWV9TVEFUSU9OLCBqcy5zdWJ3YXlfc3RhdGlvbl9pZCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBKb2JBcmVhcy5Kb2JBcmVhIGFyZWEgPSBKb2JBcmVhcy5nZXQoYXJlYUlkKTsKICAgICAgICBpZiAoYXJlYSAhPSBudWxsKSB7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChDSVRZLCBhcmVhLmNpdHksIElOREVYX05PX0FOQUxZU0UpKTsKICAgICAgICAgICAgLy8g5ZWG5ZyICiAgICAgICAgICAgIGRvYy5hZGQobmV3IEludFBvaW50KEFSRUFfSUQsIGFyZWEuaWQpKTsKICAgICAgICAgICAgZG9jLmFkZChuZXcgWkZpZWxkKEFSRUEsIGFyZWEuYnVzaW5lc3NOYW1lLCBJTkRFWF9OT19BTkFMWVNFKSk7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChBUkVBLCBhcmVhLmRpc3RyaWN0Q29kZSArICIiLCBJTkRFWF9OT19BTkFMWVNFKSk7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChCVVNJTkVTUywgYXJlYS5kaXN0cmljdCwgSU5ERVhfTk9fQU5BTFlTRSkpOwogICAgICAgICAgICBkb2MuYWRkKG5ldyBaRmllbGQoQlVTSU5FU1MsIGFyZWEuaWQgKyAiIiwgSU5ERVhfTk9fQU5BTFlTRSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcGFnZVNpemUgPSAzMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXJlYSAhPSBudWxsKSB7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChDSVRZLCBhcmVhLmNpdHksIElOREVYX05PX0FOQUxZU0UpKTsKICAgICAgICAgICAgLy8g5ZWG5ZyICiAgICAgICAgICAgIGRvYy5hZGQobmV3IEludFBvaW50KEFSRUFfSUQsIGFyZWEuaWQpKTsKICAgICAgICAgICAgZG9jLmFkZChuZXcgWkZpZWxkKEFSRUEsIGFyZWEuYnVzaW5lc3NOYW1lLCBJTkRFWF9OT19BTkFMWVNFKSk7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChBUkVBLCBhcmVhLmRpc3RyaWN0Q29kZSArICIiLCBJTkRFWF9OT19BTkFMWVNFKSk7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChCVVNJTkVTUywgYXJlYS5kaXN0cmljdCwgSU5ERVhfTk9fQU5BTFlTRSkpOwogICAgICAgICAgICBkb2MuYWRkKG5ldyBaRmllbGQoQlVTSU5FU1MsIGFyZWEuaWQgKyAiIiwgSU5ERVhfTk9fQU5BTFlTRSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lQnVpbGQuc2V0KHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -581,10 +581,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWdub3Jlcy5jb250YWlucygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -617,7 +617,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEdWJib0NvbmZpZyBjMSA9IG5ldyBEdWJib0NvbmZpZy5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXRaa0FkZHJlc3MoIjE5Mi4xNjguMS4zNzoyMTgxIikKICAgICAgICAgICAgICAgIC5zZXRBcHBOYW1lKCJqb2Jfc2VhcmNoIikKICAgICAgICAgICAgICAgIC5zZXRHcm91cCgiZHViYm8iKS5zZXRSZWZHcm91cCgiYmx1ZS1mYWNhZGUiKQogICAgICAgICAgICAgICAgLnNldFZlcnNpb24oIjEuMC4wIikKICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgIFpwUmVmZXJlbmNlQ29uZjxEekpvYkFwaT4gcjEgPSBuZXcgWnBSZWZlcmVuY2VDb25mPD4oY29uZmlnLCBEekpvYkFwaS5jbGFzcyk7CiAgICAgICAgdGhpcy5kekpvYkFwaSA9IHIxLmdldCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBidWlsZEFyZWEoRG9jdW1lbnQgZG9jLCBKb2JBcmVhcy5Kb2JBcmVhIGFyZWEpIHsKICAgICAgICBpZiAoYXJlYSAhPSBudWxsKSB7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChDSVRZLCBhcmVhLmNpdHksIElOREVYX05PX0FOQUxZU0UpKTsKICAgICAgICAgICAgLy8g5ZWG5ZyICiAgICAgICAgICAgIGRvYy5hZGQobmV3IEludFBvaW50KEFSRUFfSUQsIGFyZWEuaWQpKTsKICAgICAgICAgICAgZG9jLmFkZChuZXcgWkZpZWxkKEFSRUEsIGFyZWEuYnVzaW5lc3NOYW1lLCBJTkRFWF9OT19BTkFMWVNFKSk7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChBUkVBLCBhcmVhLmRpc3RyaWN0Q29kZSArICIiLCBJTkRFWF9OT19BTkFMWVNFKSk7CiAgICAgICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChCVVNJTkVTUywgYXJlYS5kaXN0cmljdCwgSU5ERVhfTk9fQU5BTFlTRSkpOwogICAgICAgICAgICBkb2MuYWRkKG5ldyBaRmllbGQoQlVTSU5FU1MsIGFyZWEuaWQgKyAiIiwgSU5ERVhfTk9fQU5BTFlTRSkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -641,16 +641,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmR6Sm9iQXBpID0gcmVmZXJlbmNlQ29uZi5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChKb2JTdWJ3YXkganMgOiBqb2JTdWJ3YXlzKSB7CiAgICAgICAgICAgICAgICBpZiAoanMuc3Vid2F5X2xpbmVfaWQgPiAwKSB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoanMuc3Vid2F5X3N0YXRpb25faWQgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgZG9jLmFkZChuZXcgSW50UG9pbnQoU1VCV0FZX1NUQVRJT04sIGpzLnN1YndheV9zdGF0aW9uX2lkKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInNjYW4gZHogam9iIHt9L3t9LCByZXN1bHRfc2l6ZT17fSIsIHBhZ2UgKiBwYWdlU2l6ZSwgcGFnZVNpemUsICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChKb2JTdWJ3YXkganMgOiBqb2JTdWJ3YXlzKSB7CiAgICAgICAgICAgICAgICBpZiAoanMuc3Vid2F5X2xpbmVfaWQgPiAwKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9uZUJ1aWxkLnNldCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRvYy5hZGQobmV3IFpGaWVsZChQT1NJVElPTiwgdGhpcy5qb2IuZ2V0Sm9iUG9zaXRpb25OYW1lKCkgKyAiIiwgSU5ERVhfTk9fQU5BTFlTRSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChKb2JTdWJ3YXkganMgOiBqb2JTdWJ3YXlzKSB7CiAgICAgICAgICAgICAgICBpZiAoanMuc3Vid2F5X2xpbmVfaWQgPiAwKSB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoanMuc3Vid2F5X3N0YXRpb25faWQgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgZG9jLmFkZChuZXcgSW50UG9pbnQoU1VCV0FZX1NUQVRJT04sIGpzLnN1YndheV9zdGF0aW9uX2lkKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <keys>
