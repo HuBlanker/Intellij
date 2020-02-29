@@ -34,6 +34,9 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="163" column="109" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchListHandler.java" timestamp="1582969380384">
+        <mark key="'" line="42" column="37" />
+      </file>
       <file name="/a.dummy" timestamp="1582963902954">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,11 +216,6 @@
         <mark key="." line="1195" column="42" />
         <mark key="^" line="1195" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/c/GeekCollector2.java" timestamp="1582888926244">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/DzCommonConfigs.java" timestamp="1582808316695">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="110" column="5" />
@@ -278,6 +276,9 @@
         <mark key="]" line="268" column="17" />
         <mark key="^" line="269" column="16" />
         <mark key="." line="268" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gsl.vm" timestamp="1582969441773">
+        <mark key="'" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/DZBossJobTranslateTest.java" timestamp="1582855232673">
         <mark key="[" line="30" column="25" />
@@ -364,8 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" />
-      <jump line="100" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" />
       <jump line="102" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" />
       <jump line="110" column="83" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" />
       <jump line="111" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper4Dz.java" />
@@ -464,6 +463,8 @@
       <jump line="187" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
       <jump line="93" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
       <jump line="43" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
+      <jump line="42" column="37" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchListHandler.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/zp-web/src/main/resources/gsl.vm" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -566,7 +567,7 @@
         <text>uniqBrand</text>
       </register>
       <register name="/" type="4">
-        <text>areaid</text>
+        <text>total</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSGFzaFNldDxTdHJpbmc+IHVuaXFCcmFuZDsK</text>
@@ -694,9 +695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>areaid</last-search>
+      <last-search>total</last-search>
       <last-offset />
-      <last-pattern>areaid</last-pattern>
+      <last-pattern>total</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -704,8 +705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>code</entry>
-        <entry>type</entry>
         <entry>age</entry>
         <entry>degree</entry>
         <entry>desc</entry>
@@ -724,6 +723,8 @@
         <entry>(int)</entry>
         <entry>1000</entry>
         <entry>areaid</entry>
+        <entry>resp</entry>
+        <entry>total</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
