@@ -225,6 +225,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'GeekItemArrayCountTest.countTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'GeekItemArrayCountTest.countTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GenQueryCorrectSample'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -726,7 +734,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5884</Count>
+          <Count>5885</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
