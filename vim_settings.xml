@@ -29,6 +29,7 @@
         <mark key="'" line="125" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1583159099282" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" timestamp="1583216271257" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1582896360103">
         <mark key="'" line="530" column="34" />
       </file>
@@ -69,12 +70,12 @@
         <mark key="^" line="627" column="193" />
         <mark key="." line="627" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/GeekItemArrayCountTest.java" timestamp="1583149405763">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/GeekItemArrayCountTest.java" timestamp="1583216589026">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="18" />
-        <mark key="." line="44" column="18" />
-        <mark key="^" line="41" column="7" />
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/RebuildMain.java" timestamp="1582785738451">
         <mark key="[" line="109" column="64" />
@@ -187,7 +188,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CommonInstance.</text>
+        <text>.key(100101, 101010100);</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -283,7 +284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CommonInstance.</text>
+        <text>.key(100101, 101010100);</text>
       </register>
       <register name="/" type="4">
         <text>join user</text>
