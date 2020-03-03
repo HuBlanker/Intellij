@@ -63,12 +63,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1582964274324">
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1583158168609">
-        <mark key="'" line="625" column="134" />
-        <mark key="[" line="625" column="155" />
-        <mark key="]" line="625" column="137" />
-        <mark key="^" line="625" column="137" />
-        <mark key="." line="625" column="137" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1583196781986">
+        <mark key="'" line="627" column="11" />
+        <mark key="[" line="627" column="113" />
+        <mark key="]" line="627" column="113" />
+        <mark key="^" line="627" column="193" />
+        <mark key="." line="627" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/GeekItemArrayCountTest.java" timestamp="1583149405763">
         <mark key="'" line="0" column="0" />
@@ -85,7 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="301" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="0" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="57" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
@@ -185,10 +184,11 @@
       <jump line="9" column="24" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/GeekItemArrayCountTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/GeekItemArrayCountTest.java" />
       <jump line="625" column="134" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="627" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dzDataVersion</text>
+        <text>CommonInstance.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -284,7 +284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dzDataVersion</text>
+        <text>CommonInstance.</text>
       </register>
       <register name="/" type="4">
         <text>total</text>
