@@ -32,12 +32,16 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1582896360103">
         <mark key="'" line="530" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean/Notice.java" timestamp="1583229466280">
+        <mark key="'" line="128" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DubboUtils.java" timestamp="1583226715219">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/DebugInfo.java" timestamp="1583229247203" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GQueryBuilderTest.java" timestamp="1582534195983">
         <mark key="[" line="59" column="17" />
       </file>
@@ -47,7 +51,7 @@
         <mark key="]" line="207" column="46" />
         <mark key="." line="207" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1583228046659">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1583229429809">
         <mark key="[" line="14" column="73" />
         <mark key="]" line="14" column="101" />
         <mark key="." line="14" column="101" />
@@ -97,7 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="71" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="126" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="127" column="64" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
       <jump line="134" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
@@ -197,6 +200,7 @@
       <jump line="153" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="151" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="146" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
+      <jump line="128" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean/Notice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -299,7 +303,7 @@
         <text>3000</text>
       </register>
       <register name="/" type="4">
-        <text>join user</text>
+        <text>b2c_act_a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFQ+IFQgZ2V0RHViYm9TZXJ2ZXIoQ2xhc3M8VD4gdENsYXNzLCBTdHJpbmcgc2VydmVyLCBTdHJpbmcgYXBwTmFtZSwgU3RyaW5nIGdyb3VwLCBTdHJpbmcgdmVyc2lvbiwgU3RyaW5nIHJlZkdyb3VwLCBib29sZWFuIGNoZWNrLCBpbnQgdGltZW91dCkgewo=</text>
@@ -422,9 +426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>join user</last-search>
+      <last-search>b2c_act_a</last-search>
       <last-offset />
-      <last-pattern>join user</last-pattern>
+      <last-pattern>b2c_act_a</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rcd</entry>
         <entry>jobitem</entry>
         <entry>name</entry>
         <entry>city</entry>
@@ -452,6 +455,7 @@
         <entry>user</entry>
         <entry>FROM user_info ui   JOIN user</entry>
         <entry>join user</entry>
+        <entry>b2c_act_a</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
