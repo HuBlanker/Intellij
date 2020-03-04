@@ -21,10 +21,11 @@
         <mark key="^" line="576" column="43" />
         <mark key="." line="576" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1583333715269">
-        <mark key="[" line="515" column="0" />
-        <mark key="]" line="515" column="0" />
-        <mark key="." line="515" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1583335962389">
+        <mark key="[" line="507" column="17" />
+        <mark key="]" line="508" column="37" />
+        <mark key="." line="508" column="37" />
+        <mark key="^" line="508" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/recall/query/GJobQueryBuilderTest.java" timestamp="1582534171745">
         <mark key="[" line="54" column="17" />
@@ -97,11 +98,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/DzUserLogHandler.java" timestamp="1583316623502" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/handler/HotTerm4BHandler.java" timestamp="1583135548120">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="165" column="50" />
-        <mark key="." line="162" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1583196781986">
         <mark key="'" line="627" column="11" />
         <mark key="[" line="627" column="113" />
@@ -226,8 +222,8 @@
       <jump line="1001" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>indexPool</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -323,7 +319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZl</text>
+        <text>indexPool</text>
       </register>
       <register name="/" type="4">
         <text>e.uid</text>
