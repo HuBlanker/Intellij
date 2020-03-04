@@ -81,6 +81,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BlueFacadeClientTest.batchGetDzJob'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'BlueFacadeClientTest.batchGetDzJob'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BlueFacadeClientTest.testBatchDzJob'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -734,7 +742,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5963</Count>
+          <Count>5964</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2614,6 +2622,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'b_query_more_10_prem...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'batchGetDzJob()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'batchGetDzJob()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
