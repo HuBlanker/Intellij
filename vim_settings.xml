@@ -69,11 +69,11 @@
         <mark key="]" line="207" column="46" />
         <mark key="." line="207" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583339881072">
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="53" />
-        <mark key="^" line="37" column="51" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583341348970">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="41" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParserMain4DzUserLog.java" timestamp="1583316852769" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/CountGeekHandler.java" timestamp="1583143807851">
@@ -228,8 +228,8 @@
       <jump line="1001" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiYWRkLWZyaWVuZCIsIERFVEFJTF9HRUVLX0FEREZSSUVORCkK</text>
+      <register name="&quot;" type="4">
+        <text>fake-add-friend</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -325,13 +325,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DETAIL_F_GEEK</text>
+        <text>fake-add-friend</text>
       </register>
       <register name="/" type="4">
         <text>e.uid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiYWRkLWZyaWVuZCIsIERFVEFJTF9HRUVLX0FEREZSSUVORCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiZmFrZS1hZGQtZnJpZW5kIiwgREVUQUlMX0dFRUtfQURERlJJRU5EKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiZmFrZS12aWV3IiwgREVUQUlMX0ZfR0VFSykK</text>
