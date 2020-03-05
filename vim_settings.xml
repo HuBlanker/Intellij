@@ -168,12 +168,12 @@
         <mark key="^" line="232" column="47" />
         <mark key="." line="232" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583417630016">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583420997740">
         <mark key="'" line="87" column="30" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="124" column="22" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="44" />
+        <mark key="^" line="136" column="58" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1583414819197">
         <mark key="[" line="202" column="38" />
@@ -236,12 +236,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1583397785476">
         <mark key="[" line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" timestamp="1583418155569">
+      <file name="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" timestamp="1583419923790">
         <mark key="'" line="163" column="15" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="^" line="212" column="23" />
-        <mark key="." line="220" column="0" />
+        <mark key="[" line="157" column="4" />
+        <mark key="]" line="157" column="4" />
+        <mark key="^" line="157" column="4" />
+        <mark key="." line="157" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1582860160813">
         <mark key="'" line="39" column="0" />
@@ -380,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBEWl9CT1NTX1NFQVJDSF9QQVJUX0ZJTFRFUjoK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -476,19 +476,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>114</text>
+        <text>actionp7</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IHRvRHpJZChTdHJpbmcgaWQpIHsKICAgICAgICByZXR1cm4gLU51bWJlclV0aWxzLnRvSW50KGlkKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0UGFnZShOdW1iZXJVdGlscy50b1Nob3J0KGUuYWN0aW9ucDcpKTsKICAgICAgICAgICAgICAgIGl0ZW0uc2V0Sm9iSWQodG9EeklkKGUuYWN0aW9ucDMpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBEWl9CT1NTX1NFQVJDSF9QQVJUX0ZJTFRFUjoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8v6IGM5L2N6K+m5oOFCiAgICBEWl9KT0JfREVUQUlMPTE0MQogICAgLy/lupfplb/or6bmg4UKICAgIERaX0JPU1NfREVUQUlMPTE0MgogICAgLy/nlLPor7fpnaLor5UKICAgIERaX0FQUExZID0xNDMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0UGFnZShOdW1iZXJVdGlscy50b1Nob3J0KGUuYWN0aW9ucDcpKTsKICAgICAgICAgICAgICAgIGl0ZW0uc2V0Sm9iSWQodG9EeklkKGUuYWN0aW9ucDMpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -515,10 +515,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBEWl9CT1NTX1NFQVJDSF9QQVJUX0ZJTFRFUjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBEWl9CT1NTX1NFQVJDSF9HRUVLX0ZJTFRFUjoK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -551,7 +551,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgLy/ogYrlpKkt5Zu+54mHCiAgICBEWl9DSEFUX1BJQyA9IDE0MQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -575,16 +575,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGJvc3Pngrnlh7vmn6XnnIvniZvkuroK</text>
+        <text encoding="base64">ICAgIC8v6IGM5L2N6K+m5oOFCiAgICBEWl9KT0JfREVUQUlMPTE0MQogICAgLy/lupfplb/or6bmg4UKICAgIERaX0JPU1NfREVUQUlMPTE0MgogICAgLy/nlLPor7fpnaLor5UKICAgIERaX0FQUExZID0xNDMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvc3Mtbm90aWNlLXZpZXctbGlzdAogICAgYm9zcy1ub3RpY2UtbmV3LWxpc3QKICAgIG5pY2VfbmljZV9wYWdlCiAgICBib3NzLW5vdGljZS1mb2xsb3ctbGlzdAogICAgbmljZV9jb2xsZWN0aW9uX3BhZ2UKICAgIGJvc3Mtc2VhcmNoLXBhcnQtZmlsdGVyCiAgICBib3NzLXNlYXJjaC1nZWVrLWZpbHRlcgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBEWl9HRUVLX0xJU1RfTElLRU1FOgo=</text>
+        <text encoding="base64">ICAgLy/ogYrlpKkt5Zu+54mHCiAgICBEWl9DSEFUX1BJQyA9IDE0MQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
