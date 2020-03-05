@@ -80,6 +80,7 @@
         <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DzDubboClient.java" timestamp="1583157890679" />
+      <file name="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" timestamp="1583386820908" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1583338898704">
         <mark key="[" line="69" column="44" />
         <mark key="]" line="69" column="44" />
@@ -111,21 +112,21 @@
         <mark key="[" line="59" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2NewJobHandler.java" timestamp="1583236598538" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583381442010">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583389758713">
         <mark key="'" line="44" column="25" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="52" column="45" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="137" column="17" />
+        <mark key="]" line="137" column="33" />
+        <mark key="^" line="137" column="33" />
+        <mark key="." line="137" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1583147515880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/DzUserLogHandler.java" timestamp="1583316623502" />
-      <file name="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" timestamp="1583380116732">
+      <file name="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" timestamp="1583390070896">
         <mark key="'" line="200" column="0" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
+        <mark key="[" line="173" column="7" />
+        <mark key="]" line="173" column="16" />
         <mark key="." line="243" column="0" />
         <mark key="^" line="165" column="6" />
       </file>
@@ -236,8 +237,8 @@
       <jump line="44" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6L6+5oiQ5piO5aSp5pCeLgo=</text>
+      <register name="&quot;" type="4">
+        <text>DZ_CHAT_AUDIO</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -333,19 +334,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EX_PH_BT_CLK</text>
+        <text>DZ_CHAT_AUDIO</text>
       </register>
       <register name="/" type="4">
         <text>actiondz</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiY2hhdCIsIERaX0NIQVQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBEWl9DSEFUX0FVRElPOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6L6+5oiQ5piO5aSp5pCeLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgZHoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiY2hhdCIsIERaX0NIQVQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6L6+5oiQ5piO5aSp5pCeLgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -371,14 +372,14 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="3" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiY2hhdCIsIERaX0NIQVQpCg==</text>
+      </register>
+      <register name="4" type="8">
         <text>dz_
 dz_
 dz_
 dz_</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAvLyDlupfplb/nmoRhY3Rpb24KICAgIDI4OiBvcHRpb25hbCBBY3Rpb25EeiBhY3Rpb25Eego=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -411,7 +412,7 @@ dz_</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">CiAgICAvLyDlupfplb/nmoRhY3Rpb24KICAgIDI4OiBvcHRpb25hbCBBY3Rpb25EeiBhY3Rpb25Eego=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -435,16 +436,16 @@ dz_</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIG1hcmstY2xpY2sK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERaX0dFRUtfREVUQUlMID0gMTE0CiAgICBEWl9HRUVLX0RFVEFJTCA9IDExNAo=</text>
+        <text encoding="base64">ICAgIC8vIG1hcmstY2xpY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW51bSBBY3Rpb25EeiB7CiAgICAvLyBsaXN0CgogICAgLy8gZGV0YWlsCgogICAgLy8gY2hhdAoKICAgIC8vIGFjCn0K</text>
+        <text encoding="base64">ICAgIERaX0dFRUtfREVUQUlMID0gMTE0CiAgICBEWl9HRUVLX0RFVEFJTCA9IDExNAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiZmFrZS12aWV3IiwgREVUQUlMX0ZfR0VFSykK</text>
+        <text encoding="base64">ZW51bSBBY3Rpb25EeiB7CiAgICAvLyBsaXN0CgogICAgLy8gZGV0YWlsCgogICAgLy8gY2hhdAoKICAgIC8vIGFjCn0K</text>
       </register>
       <register name="y" type="4">
         <keys>
