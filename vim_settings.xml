@@ -112,37 +112,29 @@
         <mark key="[" line="59" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2NewJobHandler.java" timestamp="1583236598538" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583389758713">
-        <mark key="'" line="44" column="25" />
-        <mark key="[" line="137" column="17" />
-        <mark key="]" line="137" column="33" />
-        <mark key="^" line="137" column="33" />
-        <mark key="." line="137" column="33" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583393162584">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="159" column="49" />
+        <mark key="]" line="159" column="48" />
+        <mark key="." line="159" column="48" />
+        <mark key="^" line="159" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1583147515880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/DzUserLogHandler.java" timestamp="1583316623502" />
-      <file name="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" timestamp="1583390070896">
-        <mark key="'" line="200" column="0" />
-        <mark key="[" line="173" column="7" />
-        <mark key="]" line="173" column="16" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="165" column="6" />
+      <file name="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" timestamp="1583392428898">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="193" column="6" />
       </file>
       <file name="/fragment.java" timestamp="1583291162908">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
-      <jump line="154" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
-      <jump line="104" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
-      <jump line="147" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
-      <jump line="176" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
-      <jump line="209" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
-      <jump line="61" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" />
-      <jump line="212" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
       <jump line="211" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
       <jump line="149" column="77" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" />
@@ -235,10 +227,18 @@
       <jump line="200" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
       <jump line="33" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
       <jump line="44" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
+      <jump line="28" column="26" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
+      <jump line="18" column="16" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
+      <jump line="22" column="20" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
+      <jump line="25" column="21" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
+      <jump line="27" column="16" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
+      <jump line="13" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
+      <jump line="158" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DZ_CHAT_AUDIO</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -334,19 +334,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DZ_CHAT_AUDIO</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>actiondz</text>
+        <text>accept</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBEWl9DSEFUX0FVRElPOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgZHoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6L6+5oiQ5piO5aSp5pCeLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -373,13 +373,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiY2hhdCIsIERaX0NIQVQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="8">
-        <text>dz_
-dz_
-dz_
-dz_</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIOaJi+acuuWPt+i+vuaIkAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -412,7 +409,7 @@ dz_</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyDlupfplb/nmoRhY3Rpb24KICAgIDI4OiBvcHRpb25hbCBBY3Rpb25EeiBhY3Rpb25Eego=</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -436,16 +433,16 @@ dz_</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIGludGVydmlld19hZ3JlZV9iCiAgICBpbnRlcnZpZXdfcHJvbWlzZV9iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIG1hcmstY2xpY2sK</text>
+        <text encoding="base64">ICAgIGludGVydmlld19hZ3JlZV9iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERaX0dFRUtfREVUQUlMID0gMTE0CiAgICBEWl9HRUVLX0RFVEFJTCA9IDExNAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/memHjOaYr+WvueaWuWlkLCDkuI3kuIDlrprmmK9nZWVrLiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW51bSBBY3Rpb25EeiB7CiAgICAvLyBsaXN0CgogICAgLy8gZGV0YWlsCgogICAgLy8gY2hhdAoKICAgIC8vIGFjCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgZHoK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -463,9 +460,9 @@ dz_</text>
       </register>
     </registers>
     <search>
-      <last-search>actiondz</last-search>
+      <last-search>accept</last-search>
       <last-offset />
-      <last-pattern>actiondz</last-pattern>
+      <last-pattern>accept</last-pattern>
       <last-replace>FinderGeek</last-replace>
       <last-substitute>FinderJob</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +470,6 @@ dz_</text>
     </search>
     <history>
       <history-search>
-        <entry>flag</entry>
         <entry>nega</entry>
         <entry>build</entry>
         <entry>salary</entry>
@@ -493,6 +489,7 @@ dz_</text>
         <entry>setbossid</entry>
         <entry>e.uid</entry>
         <entry>actiondz</entry>
+        <entry>accept</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPEU+Ly9n</entry>
