@@ -76,11 +76,12 @@
         <mark key="." line="55" column="68" />
         <mark key="^" line="55" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1583462641239">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1583465145420">
+        <mark key="'" line="31" column="112" />
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="51" />
+        <mark key="^" line="31" column="51" />
+        <mark key="." line="31" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/GeekWrapper.java" timestamp="1582265581662">
         <mark key="'" line="37" column="170" />
@@ -179,12 +180,12 @@
         <mark key="^" line="232" column="47" />
         <mark key="." line="232" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583420997740">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583464890281">
         <mark key="'" line="87" column="30" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="44" />
-        <mark key="^" line="136" column="58" />
-        <mark key="." line="132" column="0" />
+        <mark key="[" line="83" column="51" />
+        <mark key="]" line="83" column="51" />
+        <mark key="^" line="80" column="52" />
+        <mark key="." line="83" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1583414819197">
         <mark key="[" line="202" column="38" />
@@ -244,6 +245,11 @@
         <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobRankItem4F2.java" timestamp="1583413629499" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1583465126154">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" timestamp="1583419923790">
         <mark key="'" line="163" column="15" />
         <mark key="[" line="157" column="4" />
@@ -278,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="627" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="27" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="67" column="9" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
@@ -378,10 +383,11 @@
       <jump line="163" column="15" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
       <jump line="125" column="8" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="181" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
+      <jump line="31" column="112" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text encoding="base64">IF9zKCJkel9rYWZrYTRiZ19hY3Rpb24iLCAiMTkyLjE2OC4xLjcxOjkwOTYsMTkyLjE2OC4xLjcyOjkwOTYsMTkyLjE2OC4xLjczOjkwOTYiKTs=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -477,7 +483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">IF9zKCJkel9rYWZrYTRiZ19hY3Rpb24iLCAiMTkyLjE2OC4xLjcxOjkwOTYsMTkyLjE2OC4xLjcyOjkwOTYsMTkyLjE2OC4xLjczOjkwOTYiKTs=</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
