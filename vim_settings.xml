@@ -27,8 +27,11 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
+        <mark key="'" line="462" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1583746732282" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1583754274270">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1583757385889">
         <mark key="'" line="172" column="0" />
         <mark key="[" line="441" column="16" />
         <mark key="]" line="441" column="16" />
@@ -52,7 +55,7 @@
         <mark key="^" line="44" column="143" />
         <mark key="." line="44" column="143" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1583746786623">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1583755290434">
         <mark key="'" line="31" column="112" />
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="83" />
@@ -145,10 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="425" column="5" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
-      <jump line="871" column="7" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
-      <jump line="873" column="12" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
-      <jump line="1372" column="9" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="1562" column="17" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="1563" column="17" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="104" column="9" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
@@ -245,6 +244,10 @@
       <jump line="200" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobItemArray.java" />
       <jump line="246" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
+      <jump line="76" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
+      <jump line="246" column="59" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
+      <jump line="267" column="59" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
+      <jump line="462" column="47" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,7 +350,7 @@
         <text>jobItems</text>
       </register>
       <register name="/" type="4">
-        <text>dubbo.dzdata.group</text>
+        <text>thread</text>
       </register>
       <register name="0" type="4">
         <text>dubbo.dzdata.zk.address</text>
@@ -470,9 +473,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dubbo.dzdata.group</last-search>
+      <last-search>thread</last-search>
       <last-offset />
-      <last-pattern>dubbo.dzdata.group</last-pattern>
+      <last-pattern>thread</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -480,7 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FROM user_info ui   JOIN user</entry>
         <entry>join user</entry>
         <entry>b2c_act_a</entry>
         <entry>user_source</entry>
@@ -500,6 +502,7 @@
         <entry>dz</entry>
         <entry>14</entry>
         <entry>dubbo.dzdata.group</entry>
+        <entry>thread</entry>
       </history-search>
       <history-cmd>
         <entry>set invlist</entry>
