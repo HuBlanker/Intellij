@@ -78,12 +78,12 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" timestamp="1583808953550">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" timestamp="1583810416008">
         <mark key="'" line="52" column="106" />
-        <mark key="[" line="139" column="82" />
-        <mark key="]" line="139" column="70" />
-        <mark key="." line="139" column="70" />
-        <mark key="^" line="139" column="70" />
+        <mark key="[" line="143" column="45" />
+        <mark key="]" line="143" column="45" />
+        <mark key="." line="143" column="45" />
+        <mark key="^" line="142" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchDebugFlags.java" timestamp="1583232383557">
         <mark key="[" line="24" column="34" />
@@ -253,8 +253,8 @@
       <jump line="52" column="106" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcCkK</text>
+      <register name="&quot;" type="4">
+        <text>getStart</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -350,13 +350,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dzUserGeekIdsRespApiResponseData</text>
+        <text>getStart</text>
       </register>
       <register name="/" type="4">
         <text>jobitem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFQ+IFQgZ2V0RHViYm9TZXJ2ZXIoQ2xhc3M8VD4gdENsYXNzLCBTdHJpbmcgc2VydmVyLCBTdHJpbmcgYXBwTmFtZSwgU3RyaW5nIGdyb3VwLCBTdHJpbmcgdmVyc2lvbiwgU3RyaW5nIHJlZkdyb3VwLCBib29sZWFuIGNoZWNrLCBpbnQgdGltZW91dCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEFwcGxpY2F0aW9uQ29uZmlnIGFwcGxpY2F0aW9uID0gbmV3IEFwcGxpY2F0aW9uQ29uZmlnKCk7CiAgICAgICAgICAgIGFwcGxpY2F0aW9uLnNldE5hbWUoYXBwTmFtZSk7CiAgICAgICAgICAgIFJlZ2lzdHJ5Q29uZmlnIHJlZ2lzdHJ5ID0gbmV3IFJlZ2lzdHJ5Q29uZmlnKCk7CiAgICAgICAgICAgIHJlZ2lzdHJ5LnNldEFkZHJlc3Moc2VydmVyKTsKICAgICAgICAgICAgcmVnaXN0cnkuc2V0UHJvdG9jb2woInpvb2tlZXBlciIpOwogICAgICAgICAgICByZWdpc3RyeS5zZXRHcm91cChncm91cCk7CiAgICAgICAgICAgIFJlZmVyZW5jZUNvbmZpZzxUPiByZWZlcmVuY2VDb25maWcgPSBuZXcgUmVmZXJlbmNlQ29uZmlnPD4oKTsKICAgICAgICAgICAgcmVmZXJlbmNlQ29uZmlnLnNldEFwcGxpY2F0aW9uKGFwcGxpY2F0aW9uKTsKICAgICAgICAgICAgcmVmZXJlbmNlQ29uZmlnLnNldFJlZ2lzdHJ5KHJlZ2lzdHJ5KTsKICAgICAgICAgICAgcmVmZXJlbmNlQ29uZmlnLnNldFZlcnNpb24odmVyc2lvbik7CiAgICAgICAgICAgIHJlZmVyZW5jZUNvbmZpZy5zZXRSZXRyaWVzKDEpOwogICAgICAgICAgICByZWZlcmVuY2VDb25maWcuc2V0VGltZW91dCh0aW1lb3V0KTsKICAgICAgICAgICAgcmVmZXJlbmNlQ29uZmlnLnNldEdyb3VwKHJlZkdyb3VwKTsKICAgICAgICAgICAgcmVmZXJlbmNlQ29uZmlnLnNldEludGVyZmFjZSh0Q2xhc3MpOwogICAgICAgICAgICByZWZlcmVuY2VDb25maWcuc2V0Q2hlY2soY2hlY2spOwogICAgICAgICAgICBsb2dnZXIuaW5mbygiaW5pdCB7fSBzdWNjZXNzLCBzZXJ2ZXI6e30sIGFwcDp7fSwgZ3JvdXA6e30sIFZFUlNJT046e30sIENIRUNLOnt9IiwgdENsYXNzLmdldE5hbWUoKSwgc2VydmVyLCBhcHBOYW1lLCBncm91cCArICIvIiArIHJlZkdyb3VwLCB2ZXJzaW9uLCBjaGVjayk7CiAgICAgICAgICAgIFQgdCA9IHJlZmVyZW5jZUNvbmZpZy5nZXQoKTsKICAgICAgICAgICAgcmVmZXJlbmNlQ29uZmlnLmRlc3Ryb3koKTsKICAgICAgICAgICAgcmV0dXJuIHQ7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJpbml0IHt9IGZhaWwsIHNlcnZlcjp7fSwgYXBwOnt9LCBncm91cDp7fSwgVkVSU0lPTjp7fSwgQ0hFQ0s6e30sIGNhdXNlIGJ5Ont9IiwgdENsYXNzLmdldE5hbWUoKSwgc2VydmVyLCBhcHBOYW1lLCBncm91cCArICIvIiArIHJlZkdyb3VwLCB2ZXJzaW9uLCBjaGVjaywgVGhyb3dhYmxlcy5nZXRTdGFja1RyYWNlQXNTdHJpbmcoZSkpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0U3RhcnQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAocmVzcCkK</text>
