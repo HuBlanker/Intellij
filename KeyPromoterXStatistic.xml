@@ -1065,6 +1065,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BlueFacadeClientTest.testGeekInterface'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'BlueFacadeClientTest.testGeekInterface'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BrandJobV2Test.test2'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2782,6 +2790,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BiLSTMCRFDictory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BlueFacadeClientTest.testGeekInterface'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BlueFacadeClientTest.testGeekInterface'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

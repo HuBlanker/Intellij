@@ -78,12 +78,12 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" timestamp="1583810416008">
-        <mark key="'" line="52" column="106" />
-        <mark key="[" line="143" column="45" />
-        <mark key="]" line="143" column="45" />
-        <mark key="." line="143" column="45" />
-        <mark key="^" line="142" column="54" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" timestamp="1583819992760">
+        <mark key="'" line="32" column="5" />
+        <mark key="[" line="153" column="65" />
+        <mark key="]" line="154" column="140" />
+        <mark key="." line="154" column="140" />
+        <mark key="^" line="154" column="140" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchDebugFlags.java" timestamp="1583232383557">
         <mark key="[" line="24" column="34" />
@@ -151,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="75" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
-      <jump line="208" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="194" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="185" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="183" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
@@ -251,10 +249,12 @@
       <jump line="598" column="13" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="35" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" />
       <jump line="52" column="106" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" />
+      <jump line="32" column="5" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getStart</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -359,10 +359,10 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0U3RhcnQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -389,7 +389,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmR6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -425,7 +425,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmV4aXQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcGlSZXNwb25zZURhdGE8RHpVc2VyR2Vla0lkc1Jlc3A+IHJlc3AgPSB0aGlzLmR6VXNlckFwaS5saXN0VXNlckdlZWtJZHMoMzAwKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5PSygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNDb2RlKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNwLmdldFJlc0RhdGEoKS5nZXRTdGFydCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0TmV4dCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0VXNlcklkcygpKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -449,16 +449,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVCB0ID0gcmVmZXJlbmNlQ29uZmlnLmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBcGlSZXNwb25zZURhdGE8RHpVc2VyR2Vla0lkc1Jlc3A+IHJlc3AgPSB0aGlzLmR6VXNlckFwaS5saXN0VXNlckdlZWtJZHMoMzAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJlbmNlQ29uZmlnLmRlc3Ryb3koKTsKICAgICAgICAgICAgcmV0dXJuIHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXRvbWljcmUK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc3VtZXJDb25maWcgYyA9IG5ldyBDb25zdW1lckNvbmZpZygpOwogICAgICAgICAgICByZWZlcmVuY2VDb25maWcuc2V0Q29uc3VtZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmR6Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
