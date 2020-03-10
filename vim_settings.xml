@@ -111,6 +111,13 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_pre_run.sh" timestamp="1583835905887">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="1" />
+        <mark key="." line="47" column="1" />
+        <mark key="^" line="47" column="1" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
         <mark key="'" line="15" column="13" />
       </file>
@@ -123,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="181" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="166" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="162" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
@@ -223,16 +229,56 @@
       <jump line="32" column="5" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" />
       <jump line="213" column="23" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_job2_rebuild.sh" />
       <jump line="16" column="44" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_pre_run.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pre_run=internal_pre_run.sh
-if [ -f ${script_dir}/runs/internal_pre_run.sh ]; then
-    cp ${script_dir}/runs/${pre_run} ${pre_run}
-    chmod +x ${pre_run}
+        <text>#!/usr/bin/env bash
+
+
+log() {
+    echo &quot;`/usr/bin/date &quot;+%Y-%m-%d %H:%M:%S&quot;` INFO -- $@&quot;
+}
+
+UPDATE=false
+JAR=zp-search2-0.1-jar-with-dependencies.jar
+
+# jar.new
+new_jar=zp-search2-0.1-jar-with-dependencies.jar.new
+job_pro_new=data/job_properties.new
+geek_pro_new=data/geek_properties.new
+job_pro=data/job_properties
+geek_pro=data/geek_properties
+
+if [[ -f ${new_jar} ]]; then
+        log &quot;update jar file&quot;
+
+        UPDATE=true
+        date10=`date &quot;+%Y%m%d%H&quot;`
+        backup_dir=&quot;backup${date10}&quot;
+
+        mkdir -p ${backup_dir}
+        mkdir -p ${backup_dir}/data
+
+        # job_properties.new
+        if [[ -f ${job_pro_new} ]];then
+            mv data/job_properties ${backup_dir}/data
+            cp ${job_pro_new} ${job_pro}
+            rm ${job_pro_new}
+        fi
+
+        # geek_properties.new
+        if [[ -f ${geek_pro_new} ]]; then
+            mv data/geek_properties ${backup_dir}/data
+            cp ${geek_pro_new} ${geek_pro}
+            rm ${geek_pro_new}
+        fi
+
+        mv ${JAR} ${backup_dir}
+        cp ${new_jar} ${JAR}
+        rm ${new_jar}
 else
-    log &quot;pre_run file  not found&quot;
-    exit 2
+        log &quot;no update&quot;
 fi</text>
       </register>
       <register name="d" type="4">
@@ -338,6 +384,55 @@ fi</text>
         <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
       <register name="1" type="4">
+        <text>#!/usr/bin/env bash
+
+
+log() {
+    echo &quot;`/usr/bin/date &quot;+%Y-%m-%d %H:%M:%S&quot;` INFO -- $@&quot;
+}
+
+UPDATE=false
+JAR=zp-search2-0.1-jar-with-dependencies.jar
+
+# jar.new
+new_jar=zp-search2-0.1-jar-with-dependencies.jar.new
+job_pro_new=data/job_properties.new
+geek_pro_new=data/geek_properties.new
+job_pro=data/job_properties
+geek_pro=data/geek_properties
+
+if [[ -f ${new_jar} ]]; then
+        log &quot;update jar file&quot;
+
+        UPDATE=true
+        date10=`date &quot;+%Y%m%d%H&quot;`
+        backup_dir=&quot;backup${date10}&quot;
+
+        mkdir -p ${backup_dir}
+        mkdir -p ${backup_dir}/data
+
+        # job_properties.new
+        if [[ -f ${job_pro_new} ]];then
+            mv data/job_properties ${backup_dir}/data
+            cp ${job_pro_new} ${job_pro}
+            rm ${job_pro_new}
+        fi
+
+        # geek_properties.new
+        if [[ -f ${geek_pro_new} ]]; then
+            mv data/geek_properties ${backup_dir}/data
+            cp ${geek_pro_new} ${geek_pro}
+            rm ${geek_pro_new}
+        fi
+
+        mv ${JAR} ${backup_dir}
+        cp ${new_jar} ${JAR}
+        rm ${new_jar}
+else
+        log &quot;no update&quot;
+fi</text>
+      </register>
+      <register name="2" type="4">
         <text>pre_run=internal_pre_run.sh
 if [ -f ${script_dir}/runs/internal_pre_run.sh ]; then
     cp ${script_dir}/runs/${pre_run} ${pre_run}
@@ -346,9 +441,6 @@ else
     log &quot;pre_run file  not found&quot;
     exit 2
 fi</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -375,10 +467,10 @@ fi</text>
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUT0RPIGl0ZW0yc3RyZWFtIHB1c2gKaWYgJFVQREFURTsgdGhlbgogICAgbG9nICJ1cGRhdGUgamFyIHJlc3RhcnQgSm9iSXRlbTJTdHJlYW0uIgogICAgcmVzdGFydF9qb2JpdGVtMnN0cmVhbSAidi1ib3Nzc2VhcmNoLTE0IiAiL3NlcnZpY2Uvam9iaXRlbTJzdHJlYW0iCmZpCg==</text>
+        <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNDb2RlKCkpOwo=</text>
+        <text encoding="base64">IyBUT0RPIGl0ZW0yc3RyZWFtIHB1c2gKaWYgJFVQREFURTsgdGhlbgogICAgbG9nICJ1cGRhdGUgamFyIHJlc3RhcnQgSm9iSXRlbTJTdHJlYW0uIgogICAgcmVzdGFydF9qb2JpdGVtMnN0cmVhbSAidi1ib3Nzc2VhcmNoLTE0IiAiL3NlcnZpY2Uvam9iaXRlbTJzdHJlYW0iCmZpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -411,7 +503,7 @@ fi</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5PSygpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNDb2RlKCkpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -435,16 +527,16 @@ fi</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0VXNlcklkcygpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5PSygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0TmV4dCgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0VXNlcklkcygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0TmV4dCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
