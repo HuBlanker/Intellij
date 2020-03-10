@@ -23,12 +23,12 @@
         <mark key="^" line="232" column="47" />
         <mark key="." line="232" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583852812975">
-        <mark key="'" line="81" column="53" />
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="81" column="53" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583854016030">
+        <mark key="'" line="90" column="53" />
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="40" />
+        <mark key="^" line="35" column="40" />
+        <mark key="." line="35" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" timestamp="1583473947998">
         <mark key="[" line="91" column="0" />
@@ -89,7 +89,7 @@
         <mark key="^" line="157" column="4" />
         <mark key="." line="157" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.33/zp-client-8.33.jar!/logdb/thrift/Action.class" timestamp="1583852995219" />
+      <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.33/zp-client-8.33.jar!/logdb/thrift/Action.class" timestamp="1583853656198" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1583769671305">
         <mark key="'" line="598" column="13" />
       </file>
@@ -233,7 +233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>DZ_NICE_COLLECTION_PAGE</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -329,13 +329,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>DZ_NICE_COLLECTION_PAGE</text>
       </register>
       <register name="/" type="4">
         <text>action_table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2xlZXAgMzAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgibmljZV9jb2xsZWN0aW9uX3BhZ2UiLCBEWl9OSUNFX0NPTExFQ1RJT05fUEFHRSkK</text>
       </register>
       <register name="1" type="4">
         <text>#!/usr/bin/env bash
