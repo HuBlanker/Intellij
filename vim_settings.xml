@@ -9,6 +9,13 @@
         <mark key="." line="114" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobItemHandler.java" timestamp="1583769468332" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" timestamp="1583848364719">
+        <mark key="'" line="340" column="38" />
+        <mark key="[" line="56" column="93" />
+        <mark key="]" line="56" column="93" />
+        <mark key="^" line="52" column="90" />
+        <mark key="." line="56" column="93" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2NewJobHandler.java" timestamp="1583413900529">
         <mark key="'" line="224" column="16" />
         <mark key="[" line="232" column="32" />
@@ -97,6 +104,9 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" timestamp="1583847476565">
+        <mark key="'" line="378" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1583767559020">
         <mark key="'" line="246" column="27" />
         <mark key="[" line="98" column="0" />
@@ -128,16 +138,9 @@
         <mark key="." line="242" column="23" />
         <mark key="^" line="242" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1583841291187" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1583847258900" />
     </filemarks>
     <jumps>
-      <jump line="181" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
-      <jump line="146" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2NewGeekHandler.java" />
       <jump line="128" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean/Notice.java" />
       <jump line="23" column="50" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/DebugFlag.java" />
       <jump line="183" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
@@ -231,56 +234,17 @@
       <jump line="213" column="23" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_job2_rebuild.sh" />
       <jump line="16" column="44" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_pre_run.sh" />
+      <jump line="340" column="38" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" />
+      <jump line="164" column="27" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
+      <jump line="153" column="12" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
+      <jump line="329" column="21" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
+      <jump line="388" column="21" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
+      <jump line="401" column="5" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
+      <jump line="378" column="24" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#!/usr/bin/env bash
-
-
-log() {
-    echo &quot;`/usr/bin/date &quot;+%Y-%m-%d %H:%M:%S&quot;` INFO -- $@&quot;
-}
-
-UPDATE=false
-JAR=zp-search2-0.1-jar-with-dependencies.jar
-
-# jar.new
-new_jar=zp-search2-0.1-jar-with-dependencies.jar.new
-job_pro_new=data/job_properties.new
-geek_pro_new=data/geek_properties.new
-job_pro=data/job_properties
-geek_pro=data/geek_properties
-
-if [[ -f ${new_jar} ]]; then
-        log &quot;update jar file&quot;
-
-        UPDATE=true
-        date10=`date &quot;+%Y%m%d%H&quot;`
-        backup_dir=&quot;backup${date10}&quot;
-
-        mkdir -p ${backup_dir}
-        mkdir -p ${backup_dir}/data
-
-        # job_properties.new
-        if [[ -f ${job_pro_new} ]];then
-            mv data/job_properties ${backup_dir}/data
-            cp ${job_pro_new} ${job_pro}
-            rm ${job_pro_new}
-        fi
-
-        # geek_properties.new
-        if [[ -f ${geek_pro_new} ]]; then
-            mv data/geek_properties ${backup_dir}/data
-            cp ${geek_pro_new} ${geek_pro}
-            rm ${geek_pro_new}
-        fi
-
-        mv ${JAR} ${backup_dir}
-        cp ${new_jar} ${JAR}
-        rm ${new_jar}
-else
-        log &quot;no update&quot;
-fi</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -376,10 +340,10 @@ fi</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>push</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>jobitem</text>
+        <text>action_table</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2xlZXAgMzAK</text>
@@ -555,9 +519,9 @@ fi</text>
       </register>
     </registers>
     <search>
-      <last-search>jobitem</last-search>
+      <last-search>action_table</last-search>
       <last-offset />
-      <last-pattern>jobitem</last-pattern>
+      <last-pattern>action_table</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -565,7 +529,6 @@ fi</text>
     </search>
     <history>
       <history-search>
-        <entry>user_source</entry>
         <entry>detail_geek</entry>
         <entry>setbossid</entry>
         <entry>e.uid</entry>
@@ -585,6 +548,7 @@ fi</text>
         <entry>thread</entry>
         <entry>urls</entry>
         <entry>jobitem</entry>
+        <entry>action_table</entry>
       </history-search>
       <history-cmd>
         <entry>set invlist</entry>
