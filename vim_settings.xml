@@ -16,12 +16,12 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="52" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583895489281">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583920541347">
         <mark key="'" line="90" column="53" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="40" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="141" column="19" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DzDubboClient.java" timestamp="1583909059264">
         <mark key="'" line="22" column="13" />
@@ -226,7 +226,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -322,7 +322,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#end</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>action_table</text>
@@ -331,10 +331,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygie30iLCBjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGpvYlN0YXRpYykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0Sm9iSWQodG9EeklkKGUuYWN0aW9ucDMpKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -361,9 +361,66 @@
         </keys>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjbGllbnQuYm9zc0RhdGFEekFwaQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="u" type="4">
+        <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="6" type="4">
         <text>#!/usr/bin/env bash
 
 
@@ -412,37 +469,7 @@ else
         log &quot;no update&quot;
 fi</text>
       </register>
-      <register name="t" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-        </keys>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>pre_run=internal_pre_run.sh
 if [ -f ${script_dir}/runs/internal_pre_run.sh ]; then
     cp ${script_dir}/runs/${pre_run} ${pre_run}
@@ -452,38 +479,11 @@ else
     exit 2
 fi</text>
       </register>
-      <register name="u" type="4">
-        <keys>
-          <key char="118" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBUT0RPIGl0ZW0yc3RyZWFtIHB1c2gKaWYgJFVQREFURTsgdGhlbgogICAgbG9nICJ1cGRhdGUgamFyIHJlc3RhcnQgSm9iSXRlbTJTdHJlYW0uIgogICAgcmVzdGFydF9qb2JpdGVtMnN0cmVhbSAidi1ib3Nzc2VhcmNoLTE0IiAiL3NlcnZpY2Uvam9iaXRlbTJzdHJlYW0iCmZpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNDb2RlKCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5PSygpKTsK</text>
+        <text encoding="base64">IyBUT0RPIGl0ZW0yc3RyZWFtIHB1c2gKaWYgJFVQREFURTsgdGhlbgogICAgbG9nICJ1cGRhdGUgamFyIHJlc3RhcnQgSm9iSXRlbTJTdHJlYW0uIgogICAgcmVzdGFydF9qb2JpdGVtMnN0cmVhbSAidi1ib3Nzc2VhcmNoLTE0IiAiL3NlcnZpY2Uvam9iaXRlbTJzdHJlYW0iCmZpCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
