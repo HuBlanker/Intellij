@@ -9,14 +9,14 @@
         <mark key="." line="114" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobItemHandler.java" timestamp="1583769468332" />
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" timestamp="1583848364719">
-        <mark key="'" line="340" column="38" />
-        <mark key="[" line="56" column="93" />
-        <mark key="]" line="56" column="93" />
-        <mark key="^" line="52" column="90" />
-        <mark key="." line="56" column="93" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" timestamp="1583897132336">
+        <mark key="'" line="52" column="57" />
+        <mark key="[" line="52" column="50" />
+        <mark key="]" line="52" column="50" />
+        <mark key="^" line="52" column="52" />
+        <mark key="." line="52" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583854912290">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583895489281">
         <mark key="'" line="90" column="53" />
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="40" />
@@ -73,7 +73,13 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1583769671305">
         <mark key="'" line="598" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1583892222605" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1583897721567">
+        <mark key="'" line="216" column="63" />
+        <mark key="[" line="216" column="59" />
+        <mark key="]" line="216" column="63" />
+        <mark key="." line="216" column="63" />
+        <mark key="^" line="216" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" timestamp="1583847476565">
         <mark key="'" line="378" column="24" />
       </file>
@@ -111,10 +117,6 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1583847258900" />
     </filemarks>
     <jumps>
-      <jump line="128" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean/Notice.java" />
-      <jump line="23" column="50" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/DebugFlag.java" />
-      <jump line="183" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
-      <jump line="20" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Flags.java" />
       <jump line="200" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="65" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
       <jump line="79" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
@@ -211,10 +213,14 @@
       <jump line="388" column="21" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
       <jump line="401" column="5" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
       <jump line="378" column="24" filename="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" />
+      <jump line="52" column="57" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" />
+      <jump line="541" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="533" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="216" column="63" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DZ_NICE_COLLECTION_PAGE</text>
+        <text>-6426575</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -310,13 +316,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DZ_NICE_COLLECTION_PAGE</text>
+        <text>-6426575</text>
       </register>
       <register name="/" type="4">
         <text>action_table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgibmljZV9jb2xsZWN0aW9uX3BhZ2UiLCBEWl9OSUNFX0NPTExFQ1RJT05fUEFHRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygie30iLCBjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGpvYlN0YXRpYykpOwo=</text>
       </register>
       <register name="1" type="4">
         <text>#!/usr/bin/env bash
