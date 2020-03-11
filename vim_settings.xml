@@ -17,11 +17,17 @@
         <mark key="." line="52" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" timestamp="1583895489281">
-        <mark key="'" line="90" column="53" />
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="40" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="35" column="40" />
+        <mark key="'" line="81" column="53" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DzDubboClient.java" timestamp="1583909059264">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/dz/JobWrapper4Dz.java" timestamp="1583473947998">
         <mark key="[" line="91" column="0" />
@@ -30,6 +36,12 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.33/zp-client-8.33.jar!/com/dubbo/client/DubboUtils.class" timestamp="1583761991271">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="57" column="11" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="57" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1583746732282" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/internal/InternalMain.java" timestamp="1583768640357" />
@@ -57,7 +69,12 @@
         <mark key="^" line="31" column="51" />
         <mark key="." line="31" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/DzUserLogHandler.java" timestamp="1583855770628" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/BlueFacadeClientTest.java" timestamp="1583909286518">
+        <mark key="[" line="154" column="55" />
+        <mark key="]" line="154" column="108" />
+        <mark key="^" line="154" column="108" />
+        <mark key="." line="154" column="108" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/internal_server_restart.sh" timestamp="1583834281201">
         <mark key="[" line="31" column="0" />
       </file>
@@ -73,7 +90,13 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1583769671305">
         <mark key="'" line="598" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1583897721567">
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DubboUtils.java" timestamp="1583765067574">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1583909005565">
         <mark key="'" line="216" column="63" />
         <mark key="[" line="216" column="59" />
         <mark key="]" line="216" column="63" />
@@ -117,7 +140,6 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1583847258900" />
     </filemarks>
     <jumps>
-      <jump line="200" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="65" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
       <jump line="79" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
       <jump line="1113" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
@@ -217,10 +239,11 @@
       <jump line="541" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
       <jump line="533" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
       <jump line="216" column="63" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DzDubboClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#end</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -324,7 +347,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygie30iLCBjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGpvYlN0YXRpYykpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="101" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuYm9zc0RhdGFEekFwaQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>#!/usr/bin/env bash
 
 
@@ -373,46 +429,6 @@ else
         log &quot;no update&quot;
 fi</text>
       </register>
-      <register name="2" type="4">
-        <text>pre_run=internal_pre_run.sh
-if [ -f ${script_dir}/runs/internal_pre_run.sh ]; then
-    cp ${script_dir}/runs/${pre_run} ${pre_run}
-    chmod +x ${pre_run}
-else
-    log &quot;pre_run file  not found&quot;
-    exit 2
-fi</text>
-      </register>
-      <register name="r" type="4">
-        <keys>
-          <key char="118" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-          <key char="101" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-        </keys>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2xlZXAgMzAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPIGl0ZW0yc3RyZWFtIHB1c2gKaWYgJFVQREFURTsgdGhlbgogICAgbG9nICJ1cGRhdGUgamFyIHJlc3RhcnQgSm9iSXRlbTJTdHJlYW0uIgogICAgcmVzdGFydF9qb2JpdGVtMnN0cmVhbSAidi1ib3Nzc2VhcmNoLTE0IiAiL3NlcnZpY2Uvam9iaXRlbTJzdHJlYW0iCmZpCg==</text>
-      </register>
       <register name="t" type="4">
         <keys>
           <key char="105" code="0" mods="0" />
@@ -443,8 +459,15 @@ fi</text>
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNDb2RlKCkpOwo=</text>
+      <register name="5" type="4">
+        <text>pre_run=internal_pre_run.sh
+if [ -f ${script_dir}/runs/internal_pre_run.sh ]; then
+    cp ${script_dir}/runs/${pre_run} ${pre_run}
+    chmod +x ${pre_run}
+else
+    log &quot;pre_run file  not found&quot;
+    exit 2
+fi</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -468,16 +491,16 @@ fi</text>
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5PSygpKTsK</text>
+        <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0VXNlcklkcygpKTsK</text>
+        <text encoding="base64">IyBUT0RPIGl0ZW0yc3RyZWFtIHB1c2gKaWYgJFVQREFURTsgdGhlbgogICAgbG9nICJ1cGRhdGUgamFyIHJlc3RhcnQgSm9iSXRlbTJTdHJlYW0uIgogICAgcmVzdGFydF9qb2JpdGVtMnN0cmVhbSAidi1ib3Nzc2VhcmNoLTE0IiAiL3NlcnZpY2Uvam9iaXRlbTJzdHJlYW0iCmZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNEYXRhKCkuZ2V0TmV4dCgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5nZXRSZXNDb2RlKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzcC5PSygpKTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
