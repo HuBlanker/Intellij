@@ -29,7 +29,12 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1584009159409" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1584009985354">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="186" column="50" />
+        <mark key="^" line="186" column="50" />
+        <mark key="." line="186" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" timestamp="1583911336347">
         <mark key="[" line="197" column="6" />
         <mark key="]" line="197" column="7" />
@@ -234,8 +239,8 @@
       <jump line="44" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PositionNew.getL2ByL3(rcode).</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -331,7 +336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>freshGraduate == UserProfile.FRESH_GRADUATE || freshGraduate == 2</text>
+        <text>PositionNew.getL2ByL3(rcode).</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
