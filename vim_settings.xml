@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1583767549043">
+        <mark key="[" line="114" column="36" />
+        <mark key="]" line="114" column="36" />
+        <mark key="." line="114" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobItemHandler.java" timestamp="1583769468332" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" timestamp="1583979017679">
         <mark key="[" line="52" column="0" />
@@ -24,6 +29,11 @@
         <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/internal/InternalMain.java" timestamp="1583768640357" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1583998012456">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/qb/GFilterBuilder.java" timestamp="1583985164703" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" timestamp="1583911336347">
         <mark key="[" line="197" column="6" />
@@ -39,6 +49,18 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
         <mark key="'" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DubboUtils.java" timestamp="1583765067574">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/FreshGraduate.java" timestamp="1583997942583">
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1583995944609" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
@@ -71,9 +93,20 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.33/zp-client-8.33.jar!/com/dubbo/client/DubboUtils.class" timestamp="1583761991271">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="57" column="11" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="57" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParserMain4DzUserLog.java" timestamp="1583927009238" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1583746732282" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/DzUserLogHandler.java" timestamp="1583918742281" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1583841396323">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="37" />
+        <mark key="." line="54" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/Kafka2StreamMain.java" timestamp="1583940051916" />
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.33/zp-client-8.33.jar!/logdb/thrift/Action.class" timestamp="1583853656198" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1583985143750" />
@@ -303,19 +336,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>freshGraduate == UserProfile.FRESH_GRADUATE || freshGraduate == 2</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygie30iLCBjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGpvYlN0YXRpYykpOwo=</text>
+        <text encoding="base64">ICAgICAqIDxwPiAxLCAyIOaYr+iAgeeJiOacrOeahOW6lOWxiueUn+WSjOWunuS5oOeUnywg6YO95piv5a2m55SfPC9wPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSm9iSW5mbyBnZXQgPSByLmpvYlN0YXRpYy5HZXQobmV3IEtleSgtMTA0OTEwOCArICIiLCBMb25nLk1BWF9WQUxVRSkpOwogICAgICAgICAgICBMaXN0PEludGVnZXI+IGNvbGxlY3QgPSBpdGVtcy5zdHJlYW0oKS5maWx0ZXIoaSAtPiBpLmpvYklkIDwgMCkubWFwKGkgLT4gaS5qb2JJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -342,10 +375,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0Sm9iSWQodG9EeklkKGUuYWN0aW9ucDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQuZXF1YWxzKFlJTkdKSUUpIHx8IGlucHV0LmVxdWFscyhJTlRFUk4pIHx8IGlucHV0LmUpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -378,7 +411,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -405,66 +438,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuYm9zc0RhdGFEekFwaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSm9iSW5mbyBnZXQgPSByLmpvYlN0YXRpYy5HZXQobmV3IEtleSgtMTA0OTEwOCArICIiLCBMb25nLk1BWF9WQUxVRSkpOwogICAgICAgICAgICBMaXN0PEludGVnZXI+IGNvbGxlY3QgPSBpdGVtcy5zdHJlYW0oKS5maWx0ZXIoaSAtPiBpLmpvYklkIDwgMCkubWFwKGkgLT4gaS5qb2JJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>#!/usr/bin/env bash
-
-
-log() {
-    echo &quot;`/usr/bin/date &quot;+%Y-%m-%d %H:%M:%S&quot;` INFO -- $@&quot;
-}
-
-UPDATE=false
-JAR=zp-search2-0.1-jar-with-dependencies.jar
-
-# jar.new
-new_jar=zp-search2-0.1-jar-with-dependencies.jar.new
-job_pro_new=data/job_properties.new
-geek_pro_new=data/geek_properties.new
-job_pro=data/job_properties
-geek_pro=data/geek_properties
-
-if [[ -f ${new_jar} ]]; then
-        log &quot;update jar file&quot;
-
-        UPDATE=true
-        date10=`date &quot;+%Y%m%d%H&quot;`
-        backup_dir=&quot;backup${date10}&quot;
-
-        mkdir -p ${backup_dir}
-        mkdir -p ${backup_dir}/data
-
-        # job_properties.new
-        if [[ -f ${job_pro_new} ]];then
-            mv data/job_properties ${backup_dir}/data
-            cp ${job_pro_new} ${job_pro}
-            rm ${job_pro_new}
-        fi
-
-        # geek_properties.new
-        if [[ -f ${geek_pro_new} ]]; then
-            mv data/geek_properties ${backup_dir}/data
-            cp ${geek_pro_new} ${geek_pro}
-            rm ${geek_pro_new}
-        fi
-
-        mv ${JAR} ${backup_dir}
-        cp ${new_jar} ${JAR}
-        rm ${new_jar}
-else
-        log &quot;no update&quot;
-fi</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>pre_run=internal_pre_run.sh
-if [ -f ${script_dir}/runs/internal_pre_run.sh ]; then
-    cp ${script_dir}/runs/${pre_run} ${pre_run}
-    chmod +x ${pre_run}
-else
-    log &quot;pre_run file  not found&quot;
-    exit 2
-fi</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0Sm9iSWQodG9EeklkKGUuYWN0aW9ucDMpKTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
