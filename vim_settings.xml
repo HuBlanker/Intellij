@@ -32,12 +32,11 @@
         <mark key="." line="31" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" timestamp="1584015874319" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1584014525549">
-        <mark key="'" line="445" column="79" />
-        <mark key="[" line="417" column="79" />
-        <mark key="]" line="418" column="52" />
-        <mark key="." line="418" column="52" />
-        <mark key="^" line="418" column="52" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1584017223688">
+        <mark key="[" line="418" column="51" />
+        <mark key="]" line="418" column="51" />
+        <mark key="^" line="417" column="25" />
+        <mark key="." line="418" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
         <mark key="'" line="16" column="44" />
@@ -230,7 +229,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>max, folder, w2vStorageB</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -326,19 +325,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>max, folder, w2vStorageB</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ieUZlYXR1cmUgPSBieWY7CiAgICAgICAgICAgIHRoaXMuYnlVc2VyID0gYnl1OwogICAgICAgICAgICB0aGlzLmJ5RmVhdHVyZUpvYiA9IGJ5Zmo7CiAgICAgICAgICAgIHRoaXMuYnlKb2IgPSBieWo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZWVrSXRlbUFycmF5ID0gbmV3IEdlZWtJdGVtQXJyYXkobWF4LCBmb2xkZXIsIHcydlN0b3JhZ2VCKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ieUZlYXR1cmUgPSBieWY7CiAgICAgICAgICAgIHRoaXMuYnlVc2VyID0gYnl1OwogICAgICAgICAgICB0aGlzLmJ5RmVhdHVyZUpvYiA9IGJ5Zmo7CiAgICAgICAgICAgIHRoaXMuYnlKb2IgPSBieWo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZWVrSXRlbUFycmF5ID0gbmV3IEdlZWtJdGVtQXJyYXkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ieUZlYXR1cmUgPSBieWY7CiAgICAgICAgICAgIHRoaXMuYnlVc2VyID0gYnl1OwogICAgICAgICAgICB0aGlzLmJ5RmVhdHVyZUpvYiA9IGJ5Zmo7CiAgICAgICAgICAgIHRoaXMuYnlKb2IgPSBieWo7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -365,10 +364,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -401,7 +400,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQuZXF1YWxzKFlJTkdKSUUpIHx8IGlucHV0LmVxdWFscyhJTlRFUk4pIHx8IGlucHV0LmUpCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -425,16 +424,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5wdXQuZXF1YWxzKFlJTkdKSUUpIHx8IGlucHV0LmVxdWFscyhJTlRFUk4pIHx8IGlucHV0LmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSm9iSW5mbyBnZXQgPSByLmpvYlN0YXRpYy5HZXQobmV3IEtleSgtMTA0OTEwOCArICIiLCBMb25nLk1BWF9WQUxVRSkpOwogICAgICAgICAgICBMaXN0PEludGVnZXI+IGNvbGxlY3QgPSBpdGVtcy5zdHJlYW0oKS5maWx0ZXIoaSAtPiBpLmpvYklkIDwgMCkubWFwKGkgLT4gaS5qb2JJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSm9iSW5mbyBnZXQgPSByLmpvYlN0YXRpYy5HZXQobmV3IEtleSgtMTA0OTEwOCArICIiLCBMb25nLk1BWF9WQUxVRSkpOwogICAgICAgICAgICBMaXN0PEludGVnZXI+IGNvbGxlY3QgPSBpdGVtcy5zdHJlYW0oKS5maWx0ZXIoaSAtPiBpLmpvYklkIDwgMCkubWFwKGkgLT4gaS5qb2JJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
