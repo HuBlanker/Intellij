@@ -9,12 +9,10 @@
         <mark key="." line="114" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobItemHandler.java" timestamp="1583769468332" />
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" timestamp="1583900355811">
-        <mark key="'" line="52" column="57" />
-        <mark key="[" line="52" column="50" />
-        <mark key="]" line="52" column="50" />
-        <mark key="^" line="52" column="52" />
-        <mark key="." line="52" column="50" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" timestamp="1583979017679">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DzDubboClient.java" timestamp="1583909059264">
         <mark key="'" line="22" column="13" />
@@ -31,18 +29,6 @@
         <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/internal/InternalMain.java" timestamp="1583768640357" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1583765528646">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="0" />
-        <mark key="." line="257" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1583744667585">
-        <mark key="'" line="155" column="26" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" timestamp="1583911336347">
         <mark key="[" line="197" column="6" />
         <mark key="]" line="197" column="7" />
@@ -110,15 +96,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" timestamp="1583901512910">
         <mark key="'" line="378" column="24" />
-        <mark key="[" line="189" column="35" />
-        <mark key="]" line="189" column="35" />
-        <mark key="." line="189" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1583767559020">
-        <mark key="'" line="246" column="27" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1583412281085">
         <mark key="[" line="51" column="0" />
@@ -234,7 +211,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -339,10 +316,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygie30iLCBjb20uemhpcGluLlV0aWxzLmdzb24udG9Kc29uKGpvYlN0YXRpYykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0Sm9iSWQodG9EeklkKGUuYWN0aW9ucDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSm9iSW5mbyBnZXQgPSByLmpvYlN0YXRpYy5HZXQobmV3IEtleSgtMTA0OTEwOCArICIiLCBMb25nLk1BWF9WQUxVRSkpOwogICAgICAgICAgICBMaXN0PEludGVnZXI+IGNvbGxlY3QgPSBpdGVtcy5zdHJlYW0oKS5maWx0ZXIoaSAtPiBpLmpvYklkIDwgMCkubWFwKGkgLT4gaS5qb2JJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -369,10 +346,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0Sm9iSWQodG9EeklkKGUuYWN0aW9ucDMpKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -405,7 +382,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuYm9zc0RhdGFEekFwaQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -428,7 +405,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQuYm9zc0RhdGFEekFwaQo=</text>
+      </register>
+      <register name="8" type="4">
         <text>#!/usr/bin/env bash
 
 
@@ -477,7 +460,7 @@ else
         log &quot;no update&quot;
 fi</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>pre_run=internal_pre_run.sh
 if [ -f ${script_dir}/runs/internal_pre_run.sh ]; then
     cp ${script_dir}/runs/${pre_run} ${pre_run}
@@ -486,12 +469,6 @@ else
     log &quot;pre_run file  not found&quot;
     exit 2
 fi</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2xlZXAgMzAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBUT0RPIGl0ZW0yc3RyZWFtIHB1c2gKaWYgJFVQREFURTsgdGhlbgogICAgbG9nICJ1cGRhdGUgamFyIHJlc3RhcnQgSm9iSXRlbTJTdHJlYW0uIgogICAgcmVzdGFydF9qb2JpdGVtMnN0cmVhbSAidi1ib3Nzc2VhcmNoLTE0IiAiL3NlcnZpY2Uvam9iaXRlbTJzdHJlYW0iCmZpCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
