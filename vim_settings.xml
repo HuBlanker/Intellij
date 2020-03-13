@@ -15,6 +15,9 @@
         <mark key="^" line="54" column="52" />
         <mark key="." line="54" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchListHandler.java" timestamp="1584112224902">
+        <mark key="'" line="82" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1583940206917">
         <mark key="'" line="71" column="29" />
       </file>
@@ -129,7 +132,6 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1584093890718" />
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobItemArray.java" />
       <jump line="246" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
       <jump line="76" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
@@ -229,6 +231,7 @@
       <jump line="64" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
       <jump line="337" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
       <jump line="109" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
+      <jump line="82" column="39" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchListHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -331,7 +334,7 @@
         <text>dzJobTsMap</text>
       </register>
       <register name="/" type="4">
-        <text>geekInfo</text>
+        <text>querytypes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8Sm9iU3RhdGljPiBiYXRjaGVzID0gbmV3IEFycmF5TGlzdDw+KGR6Sm9icy5zaXplKCkpOwo=</text>
@@ -454,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>geekInfo</last-search>
+      <last-search>querytypes</last-search>
       <last-offset />
-      <last-pattern>geekInfo</last-pattern>
+      <last-pattern>querytypes</last-pattern>
       <last-replace>geek</last-replace>
       <last-substitute>geekInfo</last-substitute>
       <last-dir>1</last-dir>
@@ -464,7 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>todzid</entry>
         <entry>-</entry>
         <entry>dianzhang</entry>
         <entry>System</entry>
@@ -484,6 +486,7 @@
         <entry>geekData</entry>
         <entry>dbGeek</entry>
         <entry>geekInfo</entry>
+        <entry>querytypes</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
