@@ -3,10 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1583767549043">
-        <mark key="[" line="114" column="36" />
-        <mark key="]" line="114" column="36" />
-        <mark key="." line="114" column="36" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1584081265243">
+        <mark key="[" line="172" column="42" />
+        <mark key="]" line="172" column="55" />
+        <mark key="." line="172" column="41" />
+        <mark key="^" line="172" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/DzJobImporter.java" timestamp="1584082933903">
+        <mark key="'" line="137" column="22" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1583940206917">
         <mark key="'" line="71" column="29" />
@@ -20,10 +28,12 @@
         <mark key="^" line="57" column="11" />
         <mark key="." line="57" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1583998012456">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/BaseImporter.java" timestamp="1584083354500">
+        <mark key="'" line="66" column="18" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="10" />
+        <mark key="^" line="37" column="10" />
+        <mark key="." line="37" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" timestamp="1584069724286">
         <mark key="'" line="100" column="0" />
@@ -43,11 +53,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
         <mark key="'" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1583841396323">
-        <mark key="[" line="54" column="37" />
-        <mark key="]" line="54" column="37" />
-        <mark key="." line="54" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1583912290686">
         <mark key="'" line="173" column="7" />
       </file>
@@ -60,14 +65,20 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1584079911926">
-        <mark key="'" line="99" column="20" />
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="575" column="5" />
-        <mark key="." line="572" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1584083460284">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="107" column="13" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" timestamp="1583901512910">
         <mark key="'" line="378" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/GeekImport.java" timestamp="1584083421765">
+        <mark key="[" line="80" column="69" />
+        <mark key="]" line="78" column="84" />
+        <mark key="^" line="78" column="84" />
+        <mark key="." line="80" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/FreshGraduate.java" timestamp="1583997942583">
         <mark key="[" line="53" column="27" />
@@ -77,6 +88,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
         <mark key="'" line="48" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/DzGeekImporter.java" timestamp="1584083492278">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1584078623394">
         <mark key="[" line="223" column="0" />
@@ -88,40 +105,18 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" timestamp="1583942642958">
         <mark key="'" line="44" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" timestamp="1584082704444">
+        <mark key="'" line="103" column="44" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1584065673438">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="658" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
-      <jump line="1001" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
-      <jump line="165" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="166" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="200" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="33" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="44" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="28" column="26" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="18" column="16" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="22" column="20" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="25" column="21" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="27" column="16" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="13" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
-      <jump line="158" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="23" column="22" filename="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/GsonTest.java" />
-      <jump line="51" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/BgActionEvent4Dz.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="218" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
-      <jump line="224" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2NewJobHandler.java" />
-      <jump line="93" column="0" filename="/LogItemDzParser.java" />
-      <jump line="94" column="22" filename="/LogItemDzParser.java" />
-      <jump line="180" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="142" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="223" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="87" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemDzParser.java" />
-      <jump line="157" column="8" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
       <jump line="158" column="8" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
       <jump line="160" column="22" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
       <jump line="162" column="20" filename="$USER_HOME$/workspace/zp-client/scripts/logdb_logitem.thrift" />
@@ -193,10 +188,39 @@
       <jump line="100" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
       <jump line="589" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
       <jump line="95" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="150" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="646" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="635" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="641" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="57" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="626" column="53" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="617" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="655" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="622" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="138" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="588" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="603" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="586" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="637" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="593" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="100" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="34" column="94" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/BaseImporter.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
+      <jump line="56" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/BaseImporter.java" />
+      <jump line="137" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/DzJobImporter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaW1wb3J0RHpHZWVrcygpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">CgoKCgoKCgoKCgogICAgcHJpdmF0ZSB2b2lkIGltcG9ydER6R2Vla3MoKSB7CgogICAgfQoKCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -292,7 +316,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>equals</text>
+        <text>logger_s</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -301,10 +325,10 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kelVzZXJBcGkgPSBEdWJib1V0aWxzLmdldER1YmJvU2VydmVyKER6VXNlckFwaS5jbGFzcywKICAgICAgICAgICAgICAgICAgICBkekRhdGFaa0FkZHIsCiAgICAgICAgICAgICAgICAgICAgInJlc3VtZV9idWlsZCIsCiAgICAgICAgICAgICAgICAgICAgRFpfSk9CX0FQSV9aS19HUk9VUCwKICAgICAgICAgICAgICAgICAgICBEWl9KT0JfQVBJX1ZFUlNJT04sCiAgICAgICAgICAgICAgICAgICAgRFpfSk9CX0FQSV9SRUZfR1JPVVAsCiAgICAgICAgICAgICAgICAgICAgdHJ1ZSk7CiAgICAgICAgICAgIHRoaXMuZ2Vla0RhdGFSY2RJZHhBcGkgPSBEdWJib1V0aWxzLmdldER1YmJvU2VydmVyKEdlZWtEYXRhUmNkSWR4QXBpLmNsYXNzLCBkekRhdGFaa0FkZHIsICJzZWFyY2gtZ2V0LWRhdGUiLCAiL3pwX2R1YmJvL2RhdGEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaW1wb3J0RHpHZWVrcygpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">CgoKCgoKCgoKCgogICAgcHJpdmF0ZSB2b2lkIGltcG9ydER6R2Vla3MoKSB7CgogICAgfQoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzX2pvYikgewovLyAgICAgICAgICAgICAgICBpbXBvcnRKb2JzKGJvc3NEcyk7CiAgICAgICAgICAgICAgICAvLyDlupfplb8KICAgICAgICAgICAgICAgIGltcG9ydER6Sm9icygpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaW1wb3J0R2Vla3MoenBHZWVrRHMpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbXBvcnREekdlZWtzKCkgewoKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -331,10 +355,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBHZWVrU3RhdGljIGJ1aWxkR2Vla1N0YXRpYyhacEdlZWtJbmZvIGdlZWtJbmZvLCBHZWVrIGRiR2VlaywgTGlzdDxHZWVrRXhwZWN0QWxsPiBleHBlY3RzLCBMaXN0PFVzZXJXb3JrPiB3b3JrcywgTGlzdDxVc2VyRWR1QWxsPiBlZHVzLCBMaXN0PFVzZXJQcm9qZWN0RXhwPiBwcm9qZWN0RXhwcykgewogICAgICAgIEdlZWtTdGF0aWMgZ2Vla0RhdGEgPSBuZXcgR2Vla1N0YXRpYyhnZWVrSW5mby51c2VySWQpOwogICAgICAgIGlmIChkYkdlZWsgIT0gbnVsbCkgewogICAgICAgICAgICBnZWVrRGF0YS5zZXRHZW5kZXIoKGJ5dGUpIGRiR2Vlay5nZW5kZXIpOwogICAgICAgICAgICBnZWVrRGF0YS5zZXRDaGFubmVsKGRiR2Vlay5jaGFubmVsKTsKICAgICAgICAgICAgZ2Vla0RhdGEuc2V0VXNlclN0YXR1cyhkYkdlZWsudXNlclN0YXR1cyk7CiAgICAgICAgICAgIGdlZWtEYXRhLnNldEFkZFRzKGRiR2Vlay5hZGRUaW1lLmdldFRpbWUoKSAvIDEwMDApOwogICAgICAgIH0KICAgICAgICAvLyBnZWVrRGF0YS5zZXRBZ2UoKGJ5dGUpIEdlZWtXcmFwcGVyLmNvbXB1dGVBZ2UoZ2Vla0luZm8uYmlydGhkYXkpKTsKICAgICAgICBnZWVrRGF0YS5zZXREZWdyZWUoZ2Vla0luZm8uZGVncmVlKTsKICAgICAgICBnZWVrRGF0YS5zZXRGcmVzaEdyYWR1YXRlKGdlZWtJbmZvLmZyZXNoR3JhZHVhdGUpOwogICAgICAgIGdlZWtEYXRhLnNldEJpcnRoZGF5KGdlZWtJbmZvLmJpcnRoZGF5KTsKICAgICAgICBnZWVrRGF0YS5zZXRXb3JrRGF0OChnZWVrSW5mby53b3JrRGF0ZTgpOwogICAgICAgIC8vIGludCBmaXhXeSA9IENvbXBhdGlibGVVdGlsLndvcmtEYXRlOFRvV29ya1llYXJWMihnZWVrSW5mby53b3JrRGF0ZTgsIDApOwogICAgICAgIC8vIGdlZWtEYXRhLnNldFdvcmtZZWFycyhHZWVrV3JhcHBlci5yZUNvbXB1dGVyV29ya1llYXJzKHdvcmtzLCBmaXhXeSkpOwogICAgICAgIGdlZWtEYXRhLnNldERlc2MoZ2Vla0luZm8uZGVzY3JpcHRpb24pOwogICAgICAgIGdlZWtEYXRhLnNldEV4dHJhU3RhdHVzKGdlZWtJbmZvLmV4dHJhU3RhdHVzKTsKICAgICAgICBnZWVrRGF0YS5zZXRSZXN1bWVTdGF0dXMoZ2Vla0luZm8ucmVzdW1lU3RhdHVzKTsKICAgICAgICBnZWVrRGF0YS5zZXRBcHBseVN0YXR1cyhnZWVrSW5mby5hcHBseVN0YXR1cyk7CgogICAgICAgIHdvcmtzID0gUmVzdW1lSGVscGVycy5zb3J0V29ya3Mod29ya3MpOwogICAgICAgIGVkdXMgPSBSZXN1bWVIZWxwZXJzLnNvcnRFZHVBbGwoZWR1cyk7CgogICAgICAgIC8vIGV4cGVjdHMKICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoZXhwZWN0cykpIHsKICAgICAgICAgICAgTGlzdDxFeHBlY3RJbmZvPiBleHBlY3RJbmZvcyA9IG5ldyBBcnJheUxpc3Q8PihleHBlY3RzLnNpemUoKSk7CiAgICAgICAgICAgIGZvciAoR2Vla0V4cGVjdEFsbCBleHBlY3QgOiBleHBlY3RzKSB7CiAgICAgICAgICAgICAgICBFeHBlY3RJbmZvIGUgPSBuZXcgRXhwZWN0SW5mbyhleHBlY3QuaWQpOwogICAgICAgICAgICAgICAgZS5zZXRQb3NpdGlvbihleHBlY3QucG9zaXRpb24pOwogICAgICAgICAgICAgICAgZS5zZXRMb2NhdGlvbihleHBlY3QubG9jYXRpb24pOwogICAgICAgICAgICAgICAgZS5zZXRMb3dTYWxhcnkoZXhwZWN0Lmxvd1NhbGFyeSk7CiAgICAgICAgICAgICAgICBlLnNldEhpZ2hTYWxhcnkoZXhwZWN0LmhpZ2hTYWxhcnkpOwogICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoZXhwZWN0LmluZHVzdHJ5X2NvZGVzKSkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZ1tdIGlkdXMgPSBleHBlY3QuaW5kdXN0cnlfY29kZXMuc3BsaXQoIiwiKTsKICAgICAgICAgICAgICAgICAgICAgICAgZS5zZXRJbmR1c3RyaWVzKEFycmF5cy5zdHJlYW0oaWR1cykubWFwKEludGVnZXI6OnZhbHVlT2YpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXJfcy53YXJuKCJpbmR1cyBlcnJvciB7fSAiLCBleHBlY3QuaW5kdXN0cnlfY29kZXMsIGV4KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlLnNldEV4cGVjdFR5cGUoZXhwZWN0LmV4cGVjdFR5cGUpOwogICAgICAgICAgICAgICAgZS5zZXRDdXN0b21Qb3NpdGlvbihleHBlY3QuY3VzdG9tUG9zaXRpb24pOwogICAgICAgICAgICAgICAgZS5zZXRBZGRUcyhleHBlY3QuYWRkVGltZS5nZXRUaW1lKCkgLyAxMDAwKTsKICAgICAgICAgICAgICAgIGUuc2V0RGVsZXRlZCgoYnl0ZSkgZXhwZWN0LmRlbGV0ZWQpOwogICAgICAgICAgICAgICAgZXhwZWN0SW5mb3MuYWRkKGUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGdlZWtEYXRhLnNldEV4cGVjdHMoZXhwZWN0SW5mb3MpOwogICAgICAgIH0KCiAgICAgICAgLy8gd29ya3MKICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkod29ya3MpKSB7CiAgICAgICAgICAgIExpc3Q8V29ya0luZm8+IHdvcmtJbmZvcyA9IG5ldyBBcnJheUxpc3Q8Pih3b3Jrcy5zaXplKCkpOwogICAgICAgICAgICBmb3IgKFVzZXJXb3JrIHdvcmsgOiB3b3JrcykgewogICAgICAgICAgICAgICAgV29ya0luZm8gdyA9IG5ldyBXb3JrSW5mbygpOwogICAgICAgICAgICAgICAgdy5zZXRDb21JZCgoaW50KSB3b3JrLmNvbXBhbnlJZCk7CiAgICAgICAgICAgICAgICB3LnNldENvbU5hbWUod29yay5jb21wYW55KTsKICAgICAgICAgICAgICAgIHcuc2V0SW5kdXN0cnkod29yay5pbmR1c3RyeUNvZGUpOwogICAgICAgICAgICAgICAgdy5zZXRQb3NpdGlvbih3b3JrLnBvc2l0aW9uKTsKICAgICAgICAgICAgICAgIHcuc2V0UG9zaXRpb25OYW1lKHdvcmsucG9zaXRpb25OYW1lKTsKICAgICAgICAgICAgICAgIHcuc2V0SXNQdWIod29yay5pc1B1YmxpYyA9PSAwKTsgLy8g6K+l5p2h57uP6aqM5a+56K+l5YWs5Y+45piv5ZCm5YWs5byAIDA65YWs5byALDE65LiN5YWs5byACiAgICAgICAgICAgICAgICB3LnNldERlcGFydG1lbnQod29yay5kZXBhcnRtZW50KTsKICAgICAgICAgICAgICAgIHcuc2V0U3RhcnREYXRlKHdvcmsuc3RhcnREYXRlKTsKICAgICAgICAgICAgICAgIHcuc2V0RW5kRGF0ZSh3b3JrLmVuZERhdGUpOwogICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90Qmxhbmsod29yay53b3JrRW1waGFzaXMpKSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gc2tpbGxzID0gd29yay53b3JrRW1waGFzaXMuc3BsaXQoRmxhZ3MuV0VfU0VQKTsKICAgICAgICAgICAgICAgICAgICB3LnNldFNraWxscyhBcnJheXMuc3RyZWFtKHNraWxscykuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB3LnNldFBlcmZvcm1hbmNlKHdvcmsud29ya1BlcmZvcm1hbmNlKTsKICAgICAgICAgICAgICAgIHcuc2V0UmVzcG9uc2liaWxpdHkod29yay5yZXNwb25zaWJpbGl0eSk7CiAgICAgICAgICAgICAgICB3LnNldENlcnRTdGF0dXMod29yay5jZXJ0U3RhdHVzKTsKICAgICAgICAgICAgICAgIHdvcmtJbmZvcy5hZGQodyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZ2Vla0RhdGEuc2V0V29ya3Mod29ya0luZm9zKTsKICAgICAgICB9CgogICAgICAgIC8vIHByb2plY3QKICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkocHJvamVjdEV4cHMpKSB7CiAgICAgICAgICAgIExpc3Q8UHJvamVjdEluZm8+IHByb2plY3RJbmZvcyA9IG5ldyBBcnJheUxpc3Q8Pihwcm9qZWN0RXhwcy5zaXplKCkpOwogICAgICAgICAgICBmb3IgKFVzZXJQcm9qZWN0RXhwIHByb2plY3QgOiBwcm9qZWN0RXhwcykgewogICAgICAgICAgICAgICAgUHJvamVjdEluZm8gcCA9IG5ldyBQcm9qZWN0SW5mbygpOwogICAgICAgICAgICAgICAgcC5zZXRQcm9qZWN0TmFtZShwcm9qZWN0Lm5hbWUpOwogICAgICAgICAgICAgICAgcC5zZXREZXNjKHByb2plY3QuZGVzY3JpcHRpb24pOwogICAgICAgICAgICAgICAgcC5zZXRQZXJmb3JtYW5jZShwcm9qZWN0LnBlcmZvcm1hbmNlKTsKICAgICAgICAgICAgICAgIHAuc2V0Um9sZU5hbWUocHJvamVjdC5yb2xlTmFtZSk7CiAgICAgICAgICAgICAgICBwLnNldFN0YXJ0RGF0ZShwcm9qZWN0LnN0YXJ0RGF0ZSk7CiAgICAgICAgICAgICAgICBwLnNldEVuZERhdGUocHJvamVjdC5lbmREYXRlKTsKICAgICAgICAgICAgICAgIHByb2plY3RJbmZvcy5hZGQocCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZ2Vla0RhdGEuc2V0UHJvamVjdHMocHJvamVjdEluZm9zKTsKICAgICAgICB9CgogICAgICAgIC8vIGVkdXMKICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoZWR1cykpIHsKICAgICAgICAgICAgTGlzdDxFZHVJbmZvPiBlZHVJbmZvcyA9IG5ldyBBcnJheUxpc3Q8PihlZHVzLnNpemUoKSk7CiAgICAgICAgICAgIGZvciAoVXNlckVkdUFsbCBlZHUgOiBlZHVzKSB7CiAgICAgICAgICAgICAgICBFZHVJbmZvIGUgPSBuZXcgRWR1SW5mbygpOwogICAgICAgICAgICAgICAgZS5zZXRTY2hvb2xJZChlZHUuc2Nob29sSWQpOwogICAgICAgICAgICAgICAgZS5zZXRTY2hvb2xOYW1lKGVkdS5zY2hvb2wpOwogICAgICAgICAgICAgICAgZS5zZXRFZHVUeXBlKChieXRlKSBlZHUuZWR1VHlwZSk7CiAgICAgICAgICAgICAgICBlLnNldERlZ3JlZShlZHUuZGVncmVlKTsKICAgICAgICAgICAgICAgIGUuc2V0TWFqb3IoZWR1Lm1ham9yKTsKICAgICAgICAgICAgICAgIGUuc2V0U3RhcnREYXRlKGVkdS5zdGFydERhdGUpOwogICAgICAgICAgICAgICAgZS5zZXRFbmREYXRlKGVkdS5lbmREYXRlKTsKICAgICAgICAgICAgICAgIGUuc2V0RGVzYyhlZHUuZWR1RGVzY3JpcHRpb24pOwogICAgICAgICAgICAgICAgZS5zZXRBZGRUcyhlZHUuYWRkVGltZS5nZXRUaW1lKCkgLyAxMDAwKTsKICAgICAgICAgICAgICAgIGVkdUluZm9zLmFkZChlKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBnZWVrRGF0YS5zZXRFZHVzKGVkdUluZm9zKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGdlZWtEYXRhOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxHZWVrU3RhdGljPiBpbnNlcnRHZWVrMkRiKFRTZXJpYWxpemVyIHNlcmlhbGl6ZXIsIExpc3Q8R2Vla1N0YXRpYz4gYmF0Y2hlcykgdGhyb3dzIENsaWVudEV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGJhdGNoZXMuc2l6ZSgpID4gMCkgewogICAgICAgICAgICBMaXN0PEl0ZW0+IGl0ZW1zID0gc2VyaWFsaXplRGF0YShzZXJpYWxpemVyLCBiYXRjaGVzLCBnIC0+IEtFWV9QUkVfR0VFS19TVEFUSUMgKyBnLmlkLCBnIC0+IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICAgICAgaGlzdG9yeURiLkluc2VydChpdGVtcyk7CiAgICAgICAgICAgIHN0YXRDb3VudC5hZGRBbmRHZXQoImluc2VydCIsIGl0ZW1zLnNpemUoKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgQXJyYXlMaXN0PD4oMjAwKTsKICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -367,7 +391,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5bqX6ZW/Z2Vlawo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbXBvcnRSYW5nZUdlZWtzKGludCBzdGFydElkLCBpbnQgbWF4SWQpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBmaW5hbCBUU2VyaWFsaXplciBzZXJpYWxpemVyID0gbmV3IFRTZXJpYWxpemVyKG5ldyBUQ29tcGFjdFByb3RvY29sLkZhY3RvcnkoKSk7CgogICAgICAgICAgICBpbnQgbWluSWQgPSBzdGFydElkOwogICAgICAgICAgICBpbnQgbGltaXQgPSAxODAwOwogICAgICAgICAgICBib29sZWFuIGZpbmlzaGVkID0gZmFsc2U7CiAgICAgICAgICAgIHdoaWxlICghZmluaXNoZWQpIHsKICAgICAgICAgICAgICAgIExpc3Q8WnBHZWVrSW5mbz4gZ2Vla3MgPSB6cEdlZWtEQkFwaS5nZXRacEdlZWtJbmZvQWxsKG1pbklkLCBtYXhJZCwgbGltaXQpOwogICAgICAgICAgICAgICAgaWYgKGdlZWtzLmlzRW1wdHkoKSkgYnJlYWs7CgogICAgICAgICAgICAgICAgU2V0PEludGVnZXI+IGdlZWtTZXQgPSBuZXcgSGFzaFNldDw+KGdlZWtzLnNpemUoKSk7CiAgICAgICAgICAgICAgICBmb3IgKFpwR2Vla0luZm8gZ2VlayA6IGdlZWtzKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGdlZWsudXNlcklkID4gbWF4SWQpIGZpbmlzaGVkID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICBlbHNlIG1pbklkID0gTWF0aC5tYXgoZ2Vlay51c2VySWQsIG1pbklkKTsKICAgICAgICAgICAgICAgICAgICBnZWVrU2V0LmFkZChnZWVrLnVzZXJJZCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiBnZWVrSWRzID0gbmV3IEFycmF5TGlzdDw+KGdlZWtTZXQpOwogICAgICAgICAgICAgICAgTWFwPEludGVnZXIsIEdlZWs+IGRiR2Vla3MgPSB6cFVzZXJEQkFwaS5nZXRHZWVrQWxsQnlJZHMoZ2Vla0lkcyk7CiAgICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgTGlzdDxHZWVrRXhwZWN0QWxsPj4gdXNlcnNFeHBlY3RzID0gU3BsaXREYi5sb2FkVXNlcnNFeHBlY3RBbGwoenBHZWVrREJBcGksIGdlZWtJZHMpOwogICAgICAgICAgICAgICAgTWFwPEludGVnZXIsIExpc3Q8VXNlcldvcms+PiB1c2VyV29ya3MgPSBTcGxpdERiLmdldFVzZXJXb3Jrcyh6cEdlZWtEQkFwaSwgZ2Vla0lkcyk7CiAgICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgTGlzdDxVc2VyRWR1QWxsPj4gdXNlckVkdXMgPSB6cEdlZWtEQkFwaS5nZXRVc2VyRWR1c0FsbChnZWVrSWRzKTsKICAgICAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBMaXN0PFVzZXJQcm9qZWN0RXhwPj4gdXNlclByb2plY3RFeHBzID0genBHZWVrREJBcGkuZ2V0VXNlclByb2plY3RFeHAoZ2Vla0lkcyk7CgogICAgICAgICAgICAgICAgTGlzdDxHZWVrU3RhdGljPiBiYXRjaGVzID0gbmV3IEFycmF5TGlzdDw+KDIwMCk7CiAgICAgICAgICAgICAgICBmb3IgKFpwR2Vla0luZm8gZ2VlayA6IGdlZWtzKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHN0YXRDb3VudC5pbmNyQW5kR2V0KCJ0b3RhbCIpICUgMTAwMDAwID09IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oInt9IHN0YXQ6IHt9IiwgbW9kZSwgc3RhdENvdW50KTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChiYXRjaGVzLnNpemUoKSA+PSBCQVRDSF9TSVpFKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJhdGNoZXMgPSBpbnNlcnRHZWVrMkRiKHNlcmlhbGl6ZXIsIGJhdGNoZXMpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgR2VlayBkYkdlZWsgPSBkYkdlZWtzLmdldChnZWVrLnVzZXJJZCk7CiAgICAgICAgICAgICAgICAgICAgTGlzdDxHZWVrRXhwZWN0QWxsPiBleHBlY3RzID0gdXNlcnNFeHBlY3RzLmdldChnZWVrLnVzZXJJZCk7CiAgICAgICAgICAgICAgICAgICAgTGlzdDxVc2VyV29yaz4gd29ya3MgPSB1c2VyV29ya3MuZ2V0KGdlZWsudXNlcklkKTsKICAgICAgICAgICAgICAgICAgICBMaXN0PFVzZXJFZHVBbGw+IGVkdXMgPSB1c2VyRWR1cy5nZXQoZ2Vlay51c2VySWQpOwogICAgICAgICAgICAgICAgICAgIExpc3Q8VXNlclByb2plY3RFeHA+IHByb2plY3RFeHBzID0gdXNlclByb2plY3RFeHBzLmdldChnZWVrLnVzZXJJZCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGRiR2VlayA9PSBudWxsKSBzdGF0Q291bnQuaW5jckFuZEdldCgiZW1wdHlfZ2VlayIpOwogICAgICAgICAgICAgICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShleHBlY3RzKSkgc3RhdENvdW50LmluY3JBbmRHZXQoImVtcHR5X2V4cGVjdCIpOwogICAgICAgICAgICAgICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eSh3b3JrcykpIHN0YXRDb3VudC5pbmNyQW5kR2V0KCJlbXB0eV93b3JrIik7CiAgICAgICAgICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGVkdXMpKSBzdGF0Q291bnQuaW5jckFuZEdldCgiZW1wdHlfZWR1Iik7CiAgICAgICAgICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHByb2plY3RFeHBzKSkgc3RhdENvdW50LmluY3JBbmRHZXQoImVtcHR5X3Byb2plY3QiKTsKICAgICAgICAgICAgICAgICAgICBiYXRjaGVzLmFkZChidWlsZEdlZWtTdGF0aWMoZ2VlaywgZGJHZWVrLCBleHBlY3RzLCB3b3JrcywgZWR1cywgcHJvamVjdEV4cHMpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGluc2VydEdlZWsyRGIoc2VyaWFsaXplciwgYmF0Y2hlcyk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoImltcG9ydCByYW5nZSBnZWVrcyBlcnJvciAiLCBlKTsKICAgICAgICB9CiAgICAgICAgbG9nZ2VyLmluZm8oInJhbmdlIGdlZWtzIFt7fSx7fV0gZW5kLCB7fSIsIHN0YXJ0SWQsIG1heElkLCBzdGF0Q291bnQpOwogICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -391,16 +415,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kelVzZXJBcGkgPSAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbXBvcnRHZWVrcyhEYXRhU291cmNlIHpwR2Vla0RzKSB7CiAgICAgICAgdHJ5IChDb25uZWN0aW9uIGNvbiA9IHpwR2Vla0RzLmdldENvbm5lY3Rpb24oKSkgewogICAgICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBwcyA9IGNvbi5wcmVwYXJlU3RhdGVtZW50KCJzZWxlY3QgdXNlcl9pZCBmcm9tIGdlZWtfZXh0cmEgb3JkZXIgYnkgdXNlcl9pZCBkZXNjIGxpbWl0IDEiKTsKICAgICAgICAgICAgUmVzdWx0U2V0IHJzID0gcHMuZXhlY3V0ZVF1ZXJ5KCk7CiAgICAgICAgICAgIGlmIChycy5uZXh0KCkpIHsKICAgICAgICAgICAgICAgIGludCBtYXhJZCA9IHJzLmdldEludCgxKTsKICAgICAgICAgICAgICAgIGZpbmFsIGludCBsaW1pdCA9IDQwMDAwMDsKICAgICAgICAgICAgICAgIGludCBzdGFydCA9IHN0YXJ0SWQsIGVuZCA9IHN0YXJ0ICsgbGltaXQ7CiAgICAgICAgICAgICAgICB3aGlsZSAoZW5kIDw9IG1heElkKSB7CiAgICAgICAgICAgICAgICAgICAgaW50IGZpbmFsU3RhcnQgPSBzdGFydCwgZmluYWxFbmQgPSBlbmQ7CiAgICAgICAgICAgICAgICAgICAgd29yay5zdWJtaXQoKCkgLT4gaW1wb3J0UmFuZ2VHZWVrcyhmaW5hbFN0YXJ0LCBmaW5hbEVuZCkpOwogICAgICAgICAgICAgICAgICAgIHN0YXJ0ID0gZW5kOwogICAgICAgICAgICAgICAgICAgIGVuZCA9IHN0YXJ0ICsgbGltaXQ7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2dnZXIuZXJyb3IoImltcG9ydCBnZWVrcyBlcnJvciAiLCBlKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBKb2JTdGF0aWMgYnVpbGRKb2JTdGF0aWM0RHooSm9iQ2FyZERhdGFCTyBqb2IsIEJyYW5kSW5mb0JPIGR6QnJhbmRJbmZvLCBEekJvc3NJbmZvQk8gZHpCb3NzSW5mbykgewogICAgICAgIC8vIOi0n+aVsAogICAgICAgIGxvbmcgam9iSWQgPSBqb2IuZ2V0Sm9iSWQoKTsKICAgICAgICBKb2JTdGF0aWMgam9iRGF0YSA9IG5ldyBKb2JTdGF0aWMoam9iSWQgPiAwID8gLWpvYklkIDogam9iSWQpOwogICAgICAgIGpvYkRhdGEuc2V0VGl0bGUoam9iLmdldEpvYk5hbWUoKSk7CiAgICAgICAgam9iRGF0YS5zZXREZWdyZWUoam9iLmdldEpvYkRlZ3JlZUNvZGUoKSk7CiAgICAgICAgam9iRGF0YS5zZXRQb3NpdGlvbihqb2IuZ2V0Sm9iUG9zaXRpb25Db2RlKCkpOwogICAgICAgIGpvYkRhdGEuc2V0TG9jYXRpb24oam9iLmdldEpvYkNpdHlDb2RlKCkpOwogICAgICAgIGpvYkRhdGEuc2V0RXhwZXJpZW5jZShqb2IuZ2V0Sm9iRXhwZXJpZW5jZUNvZGUoKSk7CiAgICAgICAgam9iRGF0YS5zZXRMb3dTYWxhcnkoam9iLmdldEpvYkxvd1NhbGFyeSgpKTsKICAgICAgICBqb2JEYXRhLnNldEhpZ2hTYWxhcnkoam9iLmdldEpvYkhpZ2hTYWxhcnkoKSk7CiAgICAgICAgam9iRGF0YS5zZXRKb2JUeXBlKChieXRlKSBqb2IuZ2V0Sm9iVHlwZSgpKTsKICAgICAgICBqb2JEYXRhLnNldEFyZWFJZCgoaW50KSBqb2IuZ2V0Sm9iQXJlYUlkKCkpOwogICAgICAgIGpvYkRhdGEuc2V0TGF0aXR1ZGUoam9iLmdldEpvYkxhdGl0dWRlKCkpOwogICAgICAgIGpvYkRhdGEuc2V0TG9uZ2l0dWRlKGpvYi5nZXRKb2JMb25naXR1ZGUoKSk7CiAgICAgICAgU3RyaW5nIHNraWxscyA9IGpvYi5nZXRKb2JTa2lsbHMoKTsKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShza2lsbHMpICYmICEibnVsbCIuZXF1YWxzKHNraWxscykpIHsKICAgICAgICAgICAgam9iRGF0YS5zZXRTa2lsbHMoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChza2lsbHMpKTsKICAgICAgICB9CiAgICAgICAgam9iRGF0YS5zZXREZXNjKGpvYi5nZXRKb2JQb3N0RGVzY3JpcHRpb24oKSk7CiAgICAgICAgam9iRGF0YS5zZXRTYWxhcnlNb250aCgoYnl0ZSkgam9iLmdldFNhbGFyeU1vbnRoKCkpOwovLyAgICAgICAgam9iRGF0YS5zZXRQZXJmb3JtYW5jZShqb2IuKTsKICAgICAgICBqb2JEYXRhLnNldEpvYlN0YXR1cyhqb2IuZ2V0Sm9iU3RhdHVzKCkpOwogICAgICAgIGpvYkRhdGEuc2V0RGVsZXRlZChqb2IuaXNKb2JEZWxldGVkKCkgPyAxIDogMCk7CiAgICAgICAgam9iRGF0YS5zZXRBdWRpdFN0YXR1cyhqb2IuZ2V0Sm9iQXVkaXRTdGF0dXMoKSk7CiAgICAgICAgam9iRGF0YS5zZXRBZGRUcyhqb2IuZ2V0Sm9iQWRkVGltZSgpLmdldFRpbWUoKSAvIDEwMDApOwogICAgICAgIGpvYkRhdGEuc2V0RGF5c1BlcldlZWsoKGJ5dGUpIGpvYi5nZXRQcmFjdGljZURheXNQZXJXZWVrKCkpOwogICAgICAgIGpvYkRhdGEuc2V0TGVhc3RNb250aCgoYnl0ZSkgam9iLmdldFByYWN0aWNlTGVhc3RNb250aCgpKTsKICAgICAgICAvLyBUT0RPIOW6l+mVv+eahOaYr+WQpueUqGJyYW5k5L+h5oGvCiAgICAgICAgQnJhbmRJbmZvIGJyYW5kRGF0YSA9IG5ldyBCcmFuZEluZm8oKGludCkgam9iLmdldEpvYkJyYW5kSWQoKSk7CiAgICAgICAgaWYgKGR6QnJhbmRJbmZvICE9IG51bGwpIHsKICAgICAgICAgICAgQnJhbmRCTyBkekJyYW5kID0gZHpCcmFuZEluZm8uZ2V0QnJhbmQoKTsKICAgICAgICAgICAgYnJhbmREYXRhLnNldE5hbWUoZHpCcmFuZC5nZXROYW1lKCkpOwogICAgICAgICAgICBicmFuZERhdGEuc2V0SW50cm9kdWNlKGR6QnJhbmQuZ2V0SW50cm9kdWNlKCkpOwogICAgICAgICAgICBicmFuZERhdGEuc2V0U2NhbGUoZHpCcmFuZC5nZXRTY2FsZSgpKTsKICAgICAgICAgICAgYnJhbmREYXRhLnNldFN0YWdlKGR6QnJhbmQuZ2V0U3RhZ2UoKSk7CiAgICAgICAgICAgIGJyYW5kRGF0YS5zZXRJbmR1c3RyeShkekJyYW5kLmdldEluZHVzdHJ5KCkpOwogICAgICAgICAgICBicmFuZERhdGEuc2V0Q2VydGlmaWNhdGUoZHpCcmFuZC5nZXRDZXJ0aWZpY2F0ZSgpKTsKICAgICAgICAgICAgYnJhbmREYXRhLnNldENvbXBsZXRlKGR6QnJhbmQuaXNDb21wbGV0ZSgpID8gMSA6IDApOwogICAgICAgICAgICBicmFuZERhdGEuc2V0RWRpdFN0YXR1cyhkekJyYW5kLmdldEVkaXRTdGF0dXMoKSk7CiAgICAgICAgICAgIExpc3Q8QnJhbmRXZWxmYXJlQk8+IHdlbGZhcmVMaXN0ID0gZHpCcmFuZEluZm8uZ2V0QnJhbmRXZWxmYXJlTGlzdCgpOwogICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkod2VsZmFyZUxpc3QpKSB7CiAgICAgICAgICAgICAgICBicmFuZERhdGEuc2V0V2VsZmFyZXMod2VsZmFyZUxpc3Quc3RyZWFtKCkubWFwKEJyYW5kV2VsZmFyZUJPOjpnZXRUaXRsZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgQnJhbmRXb3JrVGltZUJPIHdvcmtUaW1lID0gZHpCcmFuZEluZm8uZ2V0QnJhbmRXb3JrVGltZSgpOwogICAgICAgICAgICBpZiAod29ya1RpbWUgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgYnJhbmREYXRhLnNldFJlc2V0KHdvcmtUaW1lLmdldFJlc3QoKSk7CiAgICAgICAgICAgICAgICBicmFuZERhdGEuc2V0T3ZlclRpbWUod29ya1RpbWUuZ2V0T3ZlclRpbWUoKSk7CiAgICAgICAgICAgICAgICBicmFuZERhdGEuc2V0V29ya1N0YXJ0VGltZSh3b3JrVGltZS5nZXRTdGFydFRpbWUoKSk7CiAgICAgICAgICAgICAgICBicmFuZERhdGEuc2V0V29ya0VuZFRpbWUod29ya1RpbWUuZ2V0RW5kVGltZSgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBqb2JEYXRhLnNldEJyYW5kKGJyYW5kRGF0YSk7CiAgICAgICAgLy8KICAgICAgICBCb3NzSW5mbyBib3NzRGF0YSA9IG5ldyBCb3NzSW5mbygoaW50KSBqb2IuZ2V0Qm9zc0lkKCkpOwogICAgICAgIGlmIChkekJvc3NJbmZvICE9IG51bGwpIHsKICAgICAgICAgICAgYm9zc0RhdGEuc2V0VGl0bGUoZHpCb3NzSW5mby5nZXRUaXRsZSgpKTsKLy8gICAgICAgICAgICBib3NzRGF0YS5zZXRDb21JZChqb2IuZ2V0Q29tSWQoKSk7CiAgICAgICAgICAgIGJvc3NEYXRhLnNldENvbU5hbWUoZHpCb3NzSW5mby5nZXRDb21wYW55TmFtZSgpKTsKLy8gICAgICAgICAgICBib3NzRGF0YS5zZXRQdWJKb2IoZHpCb3NzSW5mby5qb2IpOwogICAgICAgICAgICBib3NzRGF0YS5zZXRFeHRyYVN0YXR1cyhkekJvc3NJbmZvLmdldFN0YXR1cygpKTsKLy8gICAgICAgICAgICBib3NzRGF0YS5zZXREZXNjKGR6Qm9zc0luZm8uZGVzKTsKICAgICAgICB9CiAgICAgICAgam9iRGF0YS5zZXRCb3NzKGJvc3NEYXRhKTsKCiAgICAgICAgcmV0dXJuIGpvYkRhdGE7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0aGlzLmdlZWtJdGVtQXJyYXkgPSBuZXcgR2Vla0l0ZW1BcnJheSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbXBvcnREekpvYnMoKSB7CgogICAgICAgIGZpbmFsIFRTZXJpYWxpemVyIHNlcmlhbGl6ZXIgPSBuZXcgVFNlcmlhbGl6ZXIobmV3IFRDb21wYWN0UHJvdG9jb2wuRmFjdG9yeSgpKTsKICAgICAgICBsb25nIG1pbklkID0gMDsKICAgICAgICBMaXN0PEpvYlN0YXRpYz4gYmF0Y2hlcyA9IG5ldyBBcnJheUxpc3Q8PihCQVRDSF9TSVpFKTsKICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgQXBpUmVzcG9uc2VEYXRhPER6Sm9iSWRzUmVzcFYyPiByZXNwID0gZHpKb2JBcGkuYmF0Y2hHZXRKb2JJZHMobWluSWQsIDMwMCk7CiAgICAgICAgICAgICAgICBpZiAocmVzcC5ub3RPSygpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJsaXN0IGR6IGpvYiBlcnJvciwge30iLCByZXNwKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChyZXNwLk9LKCkgJiYgIXJlc3AuZ2V0UmVzRGF0YSgpLmlzSGFzTW9yZSgpKSBicmVhazsKCiAgICAgICAgICAgICAgICBtaW5JZCA9IHJlc3AuZ2V0UmVzRGF0YSgpLmdldExhc3RKb2JJZCgpOwogICAgICAgICAgICAgICAgTGlzdDxMb25nPiBqb2JJZHMgPSByZXNwLmdldFJlc0RhdGEoKS5nZXRKb2JJZHMoKTsKICAgICAgICAgICAgICAgIFJlc3VsdDxMaXN0PEpvYkNhcmREYXRhQk8+PiBkekpvYkNhcmRMaXN0ID0gYm9zc0RhdGFEekFwaS5nZXREekpvYkNhcmRMaXN0KGpvYklkcyk7CiAgICAgICAgICAgICAgICBMaXN0PEpvYkNhcmREYXRhQk8+IGpvYnMgPSBkekpvYkNhcmRMaXN0LnN1Y2Nlc3MoKSA/IGR6Sm9iQ2FyZExpc3QuZ2V0RGF0YSgpIDogQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCk7CiAgICAgICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoam9icykpIGNvbnRpbnVlOwoKICAgICAgICAgICAgICAgIExpc3Q8TG9uZz4gYm9zc0lkcyA9IGpvYnMuc3RyZWFtKCkubWFwKEpvYkNhcmREYXRhQk86OmdldEJvc3NJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgICAgIFJlc3VsdDxMaXN0PER6Qm9zc0luZm9CTz4+IGJvc3NMaXN0RGF0YSA9IGJvc3NEYXRhRHpBcGkuZ2V0RHpCb3NzTGlzdChib3NzSWRzKTsKICAgICAgICAgICAgICAgIExpc3Q8RHpCb3NzSW5mb0JPPiBib3NzTGlzdCA9IGJvc3NMaXN0RGF0YS5nZXREYXRhKCk7CiAgICAgICAgICAgICAgICBNYXA8TG9uZywgRHpCb3NzSW5mb0JPPiBib3NzTWFwID0gQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoYm9zc0xpc3QpID8gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKSA6IGJvc3NMaXN0LnN0cmVhbSgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChEekJvc3NJbmZvQk86OmdldElkLCB2IC0+IHYpKTsKICAgICAgICAgICAgICAgIGZvciAoSm9iQ2FyZERhdGFCTyBkekpvYiA6IGpvYnMpIHsKICAgICAgICAgICAgICAgICAgICBSZXN1bHQ8QnJhbmRJbmZvQk8+IGR6QnJhbmRJbmZvID0gYm9zc0RhdGFEekFwaS5nZXREekJyYW5kSW5mb0J5Sm9iSWQoZHpKb2IuZ2V0Sm9iQnJhbmRJZCgpKTsKICAgICAgICAgICAgICAgICAgICBEekJvc3NJbmZvQk8gZHpCb3NzSW5mbyA9IGJvc3NNYXAuZ2V0KGR6Sm9iLmdldEJvc3NJZCgpKTsKCiAgICAgICAgICAgICAgICAgICAgLy8gc3RhdAogICAgICAgICAgICAgICAgICAgIGlmIChzdGF0Q291bnQuaW5jckFuZEdldCgiZHotdG90YWwiKSAlIDEwMCA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJ7fSBpZDoge30sIHN0YXQ6IHt9IiwgbW9kZSwgbWluSWQsIHN0YXRDb3VudCk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAoYmF0Y2hlcy5zaXplKCkgPj0gQkFUQ0hfU0laRSkgewogICAgICAgICAgICAgICAgICAgICAgICBiYXRjaGVzID0gaW5zZXJ0Sm9iMkRiKHNlcmlhbGl6ZXIsIGJhdGNoZXMpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgSm9iU3RhdGljIGpvYlN0YXRpYyA9IGJ1aWxkSm9iU3RhdGljNER6KGR6Sm9iLCBkekJyYW5kSW5mby5nZXREYXRhKCksIGR6Qm9zc0luZm8pOwogICAgICAgICAgICAgICAgICAgIGJhdGNoZXMuYWRkKGpvYlN0YXRpYyk7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oInt9IiwgY29tLnpoaXBpbi5VdGlscy5nc29uLnRvSnNvbihqb2JTdGF0aWMpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiZHogam9iIGVycm9yICIsIGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGlmIChiYXRjaGVzLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGluc2VydEpvYjJEYihzZXJpYWxpemVyLCBiYXRjaGVzKTsKICAgICAgICAgICAgfSBjYXRjaCAoQ2xpZW50RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiaW5zZXJ0IGpvYiBlcnJvciAiLCBlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oImR6IGpvYiBtaW5JZDoge30gZW5kLCB7fSIsIG1pbklkLCBzdGF0Q291bnQpOwogICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
