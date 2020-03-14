@@ -19,10 +19,10 @@
         <mark key="'" line="82" column="39" />
         <mark key="[" line="96" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebUtils.java" timestamp="1584173306307">
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebUtils.java" timestamp="1584175205491">
         <mark key="'" line="29" column="8" />
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="47" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="59" column="0" />
         <mark key="." line="58" column="47" />
         <mark key="^" line="58" column="47" />
       </file>
@@ -36,12 +36,6 @@
         <mark key="]" line="284" column="17" />
         <mark key="." line="284" column="17" />
         <mark key="^" line="284" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1583940206917">
-        <mark key="'" line="71" column="29" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
-        <mark key="'" line="462" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/8.33/zp-client-8.33.jar!/com/dubbo/client/DubboUtils.class" timestamp="1583761991271">
         <mark key="[" line="56" column="44" />
@@ -96,15 +90,9 @@
         <mark key="^" line="61" column="60" />
         <mark key="." line="61" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1584096556404">
-        <mark key="'" line="465" column="58" />
-      </file>
       <file name="$USER_HOME$/workspace/data-common/src/test/java/com/bosszhipin/common/PositionNewTest.java" timestamp="1584174137593">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="96" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
-        <mark key="'" line="16" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1584156929281">
         <mark key="[" line="56" column="79" />
@@ -118,12 +106,6 @@
         <mark key="]" line="102" column="51" />
         <mark key="." line="102" column="51" />
         <mark key="^" line="102" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1584090465373">
-        <mark key="'" line="548" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" timestamp="1584011315957">
-        <mark key="'" line="212" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/JobLog2DB2.java" timestamp="1584155618534">
         <mark key="[" line="159" column="0" />
@@ -152,9 +134,6 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="70" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/actions.vm" timestamp="1583901512910">
-        <mark key="'" line="378" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/GeekImport.java" timestamp="1584083421765">
         <mark key="[" line="80" column="69" />
         <mark key="]" line="78" column="84" />
@@ -167,21 +146,12 @@
         <mark key="." line="53" column="27" />
         <mark key="^" line="53" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
-        <mark key="'" line="48" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/DzGeekImporter.java" timestamp="1584100242471">
         <mark key="'" line="145" column="55" />
         <mark key="[" line="90" column="11" />
         <mark key="]" line="90" column="10" />
         <mark key="." line="90" column="10" />
         <mark key="^" line="90" column="10" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
-        <mark key="'" line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" timestamp="1583942642958">
-        <mark key="'" line="44" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1584097590988">
         <mark key="[" line="0" column="0" />
@@ -297,8 +267,8 @@
       <jump line="98" column="8" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJvdygxMzEwNzIsICJKT0IiKSwKICAgICAgICAgICAgbmV3IFJvdygyMDQ4LCAiQ09NUEFOWSIpLAogICAgICAgICAgICBuZXcgUm93KDEwNDg1NzYsICJKT0JfREVTQyIpLAogICAgICAgICAgICBuZXcgUm93KDEwMjQsICJJTkRVU1RSWSIpLAogICAgICAgICAgICBuZXcgUm93KDQsICJTQ0hPT0wiKSwKICAgICAgICAgICAgbmV3IFJvdygxMzIwOTYsICJJTkRVU1RSWS1KT0IiKSwKICAgICAgICAgICAgbmV3IFJvdyg1MTIsICJTS0lMTCIpLAogICAgICAgICAgICBuZXcgUm93KDExNzk2NDgsICJKT0ItSk9CX0RFU0MiKSwKICAgICAgICAgICAgbmV3IFJvdyg1MzY4NzA5MTIsICJPVEhFUiIpLAogICAgICAgICAgICBuZXcgUm93KDEsICJQRVJTT05fTkFNRSIpLAogICAgICAgICAgICBuZXcgUm93KDE2Mzg0LCAiRElTVFJJQ1QiKSwKICAgICAgICAgICAgbmV3IFJvdyg0MDk2LCAiQ09NUEFOWV9UWVBFIiksCiAgICAgICAgICAgIG5ldyBSb3coMzM1NTQ0MzIsICJTVE9QIiksCiAgICAgICAgICAgIG5ldyBSb3coMTMzMTIwLCAiQ09NUEFOWS1KT0IiKSwKICAgICAgICAgICAgbmV3IFJvdygxMzUxNjgsICJDT01QQU5ZX1RZUEUtSk9CIiksCiAgICAgICAgICAgIG5ldyBSb3coODE5MiwgIkNJVFkiKSwKICAgICAgICAgICAgbmV3IFJvdyg4LCAiTUFKT1IiKSwKICAgICAgICAgICAgbmV3IFJvdygxMDQ5NjAwLCAiSU5EVVNUUlktSk9CX0RFU0MiKSwKICAgICAgICAgICAgbmV3IFJvdygzOTMyMTYsICJKT0ItSk9CX1RZUEUiKSwKICAgICAgICAgICAgbmV3IFJvdyg2NTUzNjAsICJKT0ItSk9CX0xFVkVMIiksCiAgICAgICAgICAgIG5ldyBSb3coNjU2Mzg0LCAiSU5EVVNUUlktSk9CLUpPQl9MRVZFTCIpLAogICAgICAgICAgICBuZXcgUm93KDEyOCwgIkdFRUtfUFJPUCIpLAogICAgICAgICAgICBuZXcgUm93KDEzMTU4NCwgIlNLSUxMLUpPQiIpLAogICAgICAgICAgICBuZXcgUm93KDEwNTA2MjQsICJDT01QQU5ZLUpPQl9ERVNDIiksCiAgICAgICAgICAgIG5ldyBSb3coMTcwMzkzNiwgIkpPQi1KT0JfTEVWRUwtSk9CX0RFU0MiKSwKICAgICAgICAgICAgbmV3IFJvdygzMjc2OCwgIkJVU0lORVNTIiksCiAgICAgICAgICAgIG5ldyBSb3coMTA0OTA4OCwgIlNLSUxMLUpPQl9ERVNDIiksCiAgICAgICAgICAgIG5ldyBSb3coMTA1MjY3MiwgIkNPTVBBTllfVFlQRS1KT0JfREVTQyIpLAogICAgICAgICAgICBuZXcgUm93KDIsICJTQ0hPT0xfVFlQRSIpLAogICAgICAgICAgICBuZXcgUm93KDYzMTY4LCAiSU5EVVNUUlktSk9CX1RZUEUiKSk7Cgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
