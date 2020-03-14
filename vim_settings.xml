@@ -19,10 +19,11 @@
         <mark key="'" line="82" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebUtils.java" timestamp="1584113318832" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" timestamp="1584156127199">
-        <mark key="[" line="269" column="13" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" timestamp="1584158575619">
+        <mark key="[" line="287" column="70" />
+        <mark key="]" line="287" column="61" />
+        <mark key="." line="287" column="73" />
+        <mark key="^" line="287" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1583940206917">
         <mark key="'" line="71" column="29" />
@@ -56,11 +57,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
         <mark key="'" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1584156161527">
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1584156929281">
         <mark key="[" line="56" column="79" />
-        <mark key="]" line="56" column="38" />
-        <mark key="." line="56" column="38" />
-        <mark key="^" line="56" column="38" />
+        <mark key="]" line="56" column="79" />
+        <mark key="." line="56" column="79" />
+        <mark key="^" line="56" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/dubbo/client/DubboUtils.java" timestamp="1583765067574">
         <mark key="[" line="84" column="0" />
@@ -81,11 +82,6 @@
         <mark key="'" line="44" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy.java" timestamp="1584090623355" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1584085761628">
-        <mark key="[" line="211" column="64" />
-        <mark key="]" line="211" column="64" />
-        <mark key="." line="211" column="64" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
       </file>
@@ -275,7 +271,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/data/offline-builds/zp-resume2/</text>
+        <text>p.word + p.tag + p.score</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -371,7 +367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/data/offline-builds/zp-resume2/</text>
+        <text>p.word + p.tag + p.score</text>
       </register>
       <register name="/" type="4">
         <text>crf</text>
