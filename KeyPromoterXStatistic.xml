@@ -233,6 +233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'GSLOptionalGenerator'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'GSLOptionalGenerator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GSearchFlagFilter'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1351,6 +1359,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'GQueryBuilderTest.build1'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GSLOptionalGenerator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'GSLOptionalGenerator'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GeekItemArrayCountTest.countTest'">

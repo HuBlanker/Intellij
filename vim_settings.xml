@@ -95,11 +95,11 @@
         <mark key="." line="56" column="79" />
         <mark key="^" line="56" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/GSLOptionalGenerator.java" timestamp="1584166224422">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/GSLOptionalGenerator.java" timestamp="1584167767004">
+        <mark key="'" line="35" column="3" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1584090465373">
         <mark key="'" line="548" column="13" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="246" column="59" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="267" column="59" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
       <jump line="462" column="47" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" />
@@ -269,10 +268,11 @@
       <jump line="82" column="39" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchListHandler.java" />
       <jump line="191" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
       <jump line="245" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ResumeLog2DB2.java" />
+      <jump line="34" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/GSLOptionalGenerator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -368,19 +368,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>crf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldFF1ZXJ5VHlwZShNYXA8SW50ZW50aW9uVHlwZSwgTGlzdDxQaHJhc2U+PiBieVR5cGUpIHsKICAgICAgICBpbnQgciA9IDA7CiAgICAgICAgZm9yIChJbnRlbnRpb25UeXBlIHR5cGUgOiBJbnRlbnRpb25UeXBlLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChieVR5cGUuY29udGFpbnNLZXkodHlwZSkpIHsKICAgICAgICAgICAgICAgIHIgKz0gMSA8PCB0eXBlLnZhbHVlOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiByOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItdXZfZmlsZSIsIHVzYWdlID0gInF1ZXJ5X3V2IGZpbGUiKQogICAgcHJvdGVjdGVkIFN0cmluZyB1dkZpbGUgPSAiIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm9uZToge30iLCBhcmdzLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmlmbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -407,10 +407,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcWFSZXNwLgo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHF1ZXJ5VXYgPSBEaWN0aW9uYXJ5LmxvYWQodXZGaWxlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -443,7 +443,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JmQ2xhc3NpZmllci5SIHIgPSBDcmZDbGFzc2lmaWVyLklOU1RBTkNFLmNsYXNzaWZ5KHJlcS5xdWVyeSk7CiAgICAgICAgICAgIGZvciAoUGhyYXNlIHBocmFzZSA6IHIuc2VxKSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -467,16 +467,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlT3V0cHV0U3RyZWFtIGZvcyA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKG5ldyBGaWxlKHJlc3VsdEZpbGUpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ5VHlwZS5jb21wdXRlSWZBYnNlbnQocGhyYXNlLnR5cGUsIGsgLT4gbmV3IEFycmF5TGlzdDw+KCkpLmFkZChwaHJhc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPEludGVudGlvblR5cGUsIExpc3Q8UGhyYXNlPj4gYnlUeXBlID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcgo=</text>
+        <text encoding="base64">ICAgICAgICBSRVNVTFQucHV0KCkK</text>
       </register>
       <register name="y" type="4">
         <keys>
