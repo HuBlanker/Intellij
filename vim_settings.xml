@@ -45,6 +45,19 @@
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/F2GeekHandler.java" timestamp="1584367880198">
+        <mark key="[" line="79" column="89" />
+        <mark key="]" line="79" column="30" />
+        <mark key="." line="79" column="30" />
+        <mark key="^" line="79" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" timestamp="1584100533424">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="356" column="52" />
+        <mark key="]" line="356" column="64" />
+        <mark key="^" line="356" column="64" />
+        <mark key="." line="356" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" timestamp="1584019857219">
         <mark key="[" line="61" column="55" />
         <mark key="]" line="61" column="60" />
@@ -136,6 +149,13 @@
         <mark key="^" line="141" column="111" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/ActionUpdater.java" timestamp="1584326783076" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/BaseImporter.java" timestamp="1584368485443">
+        <mark key="'" line="73" column="18" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="60" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="54" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/api/NLUSlotType.java" timestamp="1584150208135">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="5" />
@@ -179,6 +199,14 @@
         <mark key="." line="159" column="27" />
         <mark key="^" line="159" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/GeekImporter.java" timestamp="1584092459437">
+        <mark key="'" line="103" column="28" />
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="53" column="40" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1584368428895" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1584353551482">
         <mark key="'" line="25" column="13" />
       </file>
@@ -195,6 +223,13 @@
         <mark key="]" line="13" column="22" />
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/DzGeekImporter.java" timestamp="1584100242471">
+        <mark key="'" line="145" column="55" />
+        <mark key="[" line="90" column="11" />
+        <mark key="]" line="90" column="10" />
+        <mark key="." line="90" column="10" />
+        <mark key="^" line="90" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
         <mark key="'" line="15" column="13" />
@@ -326,7 +361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdENvdW50LmFkZEFuZEdldCgiaW5zZXJ0IiwgaXRlbXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -422,7 +457,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onlyBlueGray</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>jobType</text>
@@ -431,10 +466,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzID0gZHpHZWVrSWQgKyAiXG4iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdENvdW50LmFkZEFuZEdldCgiaW5zZXJ0IiwgaXRlbXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdENvdW50LmFkZEFuZEdldCgiaW5zZXJ0IiwgaXRlbXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -461,10 +496,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgb25seUJsdWVHcmF5ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -497,7 +532,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -521,16 +556,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIOagoeWbreaLm+iBmAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgb25seUJsdWVHcmF5ID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOiBjOS9jeexu+WeiwogICAgSk9CX1RZUEUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIOagoeWbreaLm+iBmAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIOiBjOS9jeexu+WeiwogICAgSk9CX1RZUEUK</text>
       </register>
       <register name="y" type="4">
         <keys>
