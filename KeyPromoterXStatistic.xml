@@ -774,7 +774,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6423</Count>
+          <Count>6426</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1119,6 +1119,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BrandJobV2Test.test2'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BrandJobV2Test.testJobs'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'BrandJobV2Test.testJobs'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BrandJobV2Test.testQa1'">
