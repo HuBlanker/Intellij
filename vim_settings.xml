@@ -143,6 +143,9 @@
         <mark key="." line="36" column="5" />
         <mark key="^" line="36" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/db_hunter.def" timestamp="1584414853543">
+        <mark key="'" line="30" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1584353504741">
         <mark key="[" line="57" column="25" />
         <mark key="]" line="57" column="33" />
@@ -219,10 +222,6 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekSearchListHandler.java" timestamp="1584174371979">
-        <mark key="'" line="82" column="39" />
-        <mark key="[" line="96" column="70" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebUtils.java" timestamp="1584179162552">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="29" column="24" />
@@ -285,9 +284,8 @@
         <mark key="^" line="54" column="84" />
         <mark key="." line="54" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1584438964042">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1584439752928">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1584353301687">
         <mark key="[" line="552" column="21" />
@@ -429,8 +427,8 @@
       <jump line="64" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/FilterUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmcgW10gYXJncyl7CiAgICAgICAgU3RyaW5nIHMgPSBGSUxURVJfRklFTERfTUFQLmdldChKT0JfVFlQRSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwogICAgICAgIAogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -526,7 +524,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;a&quot;;</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>bad</text>
