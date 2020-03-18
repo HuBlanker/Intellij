@@ -149,11 +149,12 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy4.java" timestamp="1584524997679">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="50" column="64" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy4.java" timestamp="1584539955536">
+        <mark key="'" line="52" column="86" />
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+        <mark key="^" line="56" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/DzBossActionSave.java" timestamp="1584180482975">
         <mark key="[" line="26" column="0" />
@@ -263,6 +264,11 @@
         <mark key="." line="113" column="32" />
         <mark key="^" line="113" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1584539379826">
+        <mark key="[" line="179" column="144" />
+        <mark key="]" line="66" column="63" />
+        <mark key="." line="66" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1584090465373">
         <mark key="'" line="548" column="13" />
       </file>
@@ -338,7 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="7" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="361" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="163" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
       <jump line="47" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" />
@@ -438,10 +443,11 @@
       <jump line="36" column="24" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/nlu_data.thrift" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update_nlp_rec_tag_system.sh" />
+      <jump line="50" column="86" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/strategy/SearchStrategy4.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IHBocmFzZS53b3JkU3luLnNpemUoKSwgU3RyaW5nLmpvaW4oIiwiLCBwaHJhc2Uud29yZFN5bi5rZXlTZXQoKSk=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -537,13 +543,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IHBocmFzZS53b3JkU3luLnNpemUoKSwgU3RyaW5nLmpvaW4oIiwiLCBwaHJhc2Uud29yZFN5bi5rZXlTZXQoKSk=</text>
       </register>
       <register name="/" type="4">
         <text>bad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8amFja3Nvbi52ZXJzaW9uPjIuOS4yPC9qYWNrc29uLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImJ1aWxkIHN5biBjb21wYW51Ont9LHt9IiwgcGhyYXNlLndvcmRTeW4uc2l6ZSgpLCBTdHJpbmcuam9pbigiLCIsIHBocmFzZS53b3JkU3luLmtleVNldCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXVwZGF0ZSAK</text>
