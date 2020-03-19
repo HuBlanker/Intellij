@@ -66,11 +66,11 @@
         <mark key="'" line="44" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nlp_rec_tag.txt" timestamp="1584523437784" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1584517305860">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="152" column="33" />
-        <mark key="]" line="152" column="38" />
-        <mark key="." line="152" column="38" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1584598155706">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="149" column="53" />
+        <mark key="]" line="149" column="54" />
+        <mark key="." line="149" column="54" />
         <mark key="^" line="152" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1584518287637">
@@ -82,8 +82,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update_nlp_rec_tag_system.sh" timestamp="1584587824228">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update_nlp_rec_tag_system.sh" timestamp="1584598136995">
+        <mark key="'" line="48" column="11" />
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/GroupBrandHandler.java" timestamp="1584517907489">
         <mark key="[" line="141" column="112" />
@@ -136,8 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="55" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" />
       <jump line="108" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" />
       <jump line="173" column="63" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" />
       <jump line="179" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" />
@@ -236,6 +237,8 @@
       <jump line="72" column="33" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update _nlp_rec_tag_system_new.sh" />
       <jump line="40" column="22" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update _nlp_rec_tag_system_new.sh" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update _nlp_rec_tag_system_new.sh" />
+      <jump line="48" column="11" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update_nlp_rec_tag_system.sh" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
