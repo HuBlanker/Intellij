@@ -12,12 +12,7 @@
       <file name="$USER_HOME$/workspace/zp-client/pom.xml" timestamp="1584687557630">
         <mark key="[" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" timestamp="1584676826105">
-        <mark key="[" line="210" column="42" />
-        <mark key="]" line="215" column="7" />
-        <mark key="^" line="215" column="7" />
-        <mark key="." line="215" column="7" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/EvalQA.java" timestamp="1584676826105" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/FeedPredictMain.java" timestamp="1584675995845" />
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/thrift_demo/server/Server.java" timestamp="1584698784174">
         <mark key="[" line="24" column="33" />
@@ -26,8 +21,12 @@
         <mark key="^" line="24" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.38/zp-client-9.38.jar!/com/zhipin/client/NlpClients.class" timestamp="1584609773743" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1584610983673">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1584701124621">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="149" column="57" />
+        <mark key="]" line="149" column="58" />
         <mark key="^" line="74" column="57" />
+        <mark key="." line="149" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1584518287637">
         <mark key="[" line="240" column="8" />
@@ -35,6 +34,7 @@
         <mark key="^" line="240" column="12" />
         <mark key="." line="240" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/FeedBuilders.java" timestamp="1584701163336" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update_nlp_rec_tag_system.sh" timestamp="1584613591817">
         <mark key="[" line="67" column="15" />
         <mark key="]" line="67" column="15" />
@@ -53,11 +53,23 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1584523761809">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/api.thrift" timestamp="1584687615181">
         <mark key="[" line="550" column="12" />
         <mark key="]" line="551" column="6" />
         <mark key="^" line="551" column="6" />
         <mark key="." line="551" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1584581522133">
+        <mark key="[" line="66" column="144" />
+        <mark key="]" line="66" column="147" />
+        <mark key="." line="66" column="147" />
+        <mark key="^" line="66" column="147" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1584671414641" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/RetainCompanyWord.java" timestamp="1584684862379">
@@ -73,7 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="450" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="453" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="458" column="107" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
@@ -173,6 +184,7 @@
       <jump line="77" column="30" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/relatedbrand/RelatedBrandHandler.java" />
       <jump line="79" column="28" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/stats/update_nlp_rec_tag_system.sh" />
+      <jump line="94" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
