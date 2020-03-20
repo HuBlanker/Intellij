@@ -87,11 +87,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.38/zp-client-9.38.jar!/com/zhipin/client/NlpClients.class" timestamp="1584609773743" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1584671414641" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/RetainCompanyWord.java" timestamp="1584678372867">
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="27" column="67" />
-        <mark key="." line="27" column="67" />
-        <mark key="^" line="23" column="50" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/eval/RetainCompanyWord.java" timestamp="1584684862379">
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="^" line="33" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/Dictionary.java" timestamp="1584430904249">
         <mark key="'" line="26" column="13" />
@@ -210,7 +210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IjMx5bKBIiwgbmV3IEhhc2hNYXA8Pigp</text>
+        <text>Dictionary.load(&quot;/Users/pfliu/data/little_recall_query/less_recall_query_with_info.txt&quot;);</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -306,19 +306,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IjMx5bKBIiwgbmV3IEhhc2hNYXA8Pigp</text>
+        <text>Dictionary.load(&quot;/Users/pfliu/data/little_recall_query/less_recall_query_with_info.txt&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
       </register>
       <register name="0" type="4">
-        <text>regexp_replace(regexp_replace(position_codes,&quot;\\[&quot;,&quot;&quot;),&quot;\\]&quot;,&quot;&quot;)</text>
+        <text>&quot;/Users/pfliu/data/little_recall_query/less_recall_query_with_info.txt&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -345,10 +345,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -381,7 +381,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3FsPScnJwpzZWxlY3QgbDEubmFtZSwgbDIubmFtZSwgbDIubDNfY29kZXMsIGJhc2ljLmJhc2ljX3dvcmRzIGZyb20KKHNlbGVjdCB0YWdfaWQsIHBhcmVudCwgbmFtZSxyZWdleHBfcmVwbGFjZShyZWdleHBfcmVwbGFjZShwb3NpdGlvbl9jb2RlcywiXFxbIiwiIiksIlxcXSIsIiIpIGFzIGwzX2NvZGVzIGZyb20gbmxwLnVzZXJfdGFnX3N5c3RlbV9vbmxpbmUgIHdoZXJlIGxldmVsPTIpIGwyIGpvaW4KKHNlbGVjdCB0YWdfaWQsIG5hbWUgZnJvbSBubHAudXNlcl90YWdfc3lzdGVtX29ubGluZSB3aGVyZSBsZXZlbD0xKSBsMSBvbiBsMi5wYXJlbnQgPSBsMS50YWdfaWQgbGVmdCBqb2luCihzZWxlY3QgdGFnX2lkLCBiYXNpY193b3JkcyBmcm9tIG5scC51c2VyX3RhZ19yZWxldmFuY2Vfb25saW5lICkgYmFzaWMgb24gbDIudGFnX2lkID0gYmFzaWMudGFnX2lkOwonJycKCmhpdmUgLVMgLWUgIiRzcWwiID4gbmxwX3JlY190YWdfd2l0aF9iYXNpY19uZXcudHh0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -405,16 +405,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c3FsPScnJwpzZWxlY3QgbDEubmFtZSwgbDIubmFtZSwgbDIubDNfY29kZXMsIGJhc2ljLmJhc2ljX3dvcmRzIGZyb20KKHNlbGVjdCB0YWdfaWQsIHBhcmVudCwgbmFtZSxyZWdleHBfcmVwbGFjZShyZWdleHBfcmVwbGFjZShwb3NpdGlvbl9jb2RlcywiXFxbIiwiIiksIlxcXSIsIiIpIGFzIGwzX2NvZGVzIGZyb20gbmxwLnVzZXJfdGFnX3N5c3RlbV9vbmxpbmUgIHdoZXJlIGxldmVsPTIpIGwyIGpvaW4KKHNlbGVjdCB0YWdfaWQsIG5hbWUgZnJvbSBubHAudXNlcl90YWdfc3lzdGVtX29ubGluZSB3aGVyZSBsZXZlbD0xKSBsMSBvbiBsMi5wYXJlbnQgPSBsMS50YWdfaWQgbGVmdCBqb2luCihzZWxlY3QgdGFnX2lkLCBiYXNpY193b3JkcyBmcm9tIG5scC51c2VyX3RhZ19yZWxldmFuY2Vfb25saW5lICkgYmFzaWMgb24gbDIudGFnX2lkID0gYmFzaWMudGFnX2lkOwonJycKCmhpdmUgLVMgLWUgIiRzcWwiID4gbmxwX3JlY190YWdfd2l0aF9iYXNpY19uZXcudHh0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCcmFuZEpvYlJlcSByZXEgPSBuZXcgQnJhbmRKb2JSZXEoKTsKICAgICAgICByZXEuc2V0R2Vla0lkKDU0Mzg4NTkxKTsKICAgICAgICByZXEuc2V0U3RhcnQoMCk7CiAgICAgICAgcmVxLnNldExpbWl0KDEwKTsKICAgICAgICByZXEuc2V0QnJhbmRJZCg3MzkzNjk5KTsKCiAgICAgICAgLy81MGvku6XkuIrkuI3lupTor6Xlh7rnjrDlrp7kuaDnlJ8KICAgICAgICBKb2JDYXJkTGlzdCByZXNwMSA9IGNsaS5CcmFuZEpvYlYyKHJlcSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3AxKTsKICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGkgPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBacENsaWVudHMgY2xpID0gbmV3IFpwQ2xpZW50cygiMTkyLjE2OC4xLjI1MTo1Njc2NyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBCcmFuZEpvYlJlcSByZXEgPSBuZXcgQnJhbmRKb2JSZXEoKTsKICAgICAgICByZXEuc2V0R2Vla0lkKDU0Mzg4NTkxKTsKICAgICAgICByZXEuc2V0U3RhcnQoMCk7CiAgICAgICAgcmVxLnNldExpbWl0KDEwKTsKICAgICAgICByZXEuc2V0QnJhbmRJZCg3MzkzNjk5KTsKCiAgICAgICAgLy81MGvku6XkuIrkuI3lupTor6Xlh7rnjrDlrp7kuaDnlJ8KICAgICAgICBKb2JDYXJkTGlzdCByZXNwMSA9IGNsaS5CcmFuZEpvYlYyKHJlcSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlc3AxKTsKICAgICAgICBpbnQgaSA9IDA7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
