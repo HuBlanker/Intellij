@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1584945230901">
-        <mark key="'" line="18" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/pom.xml" timestamp="1584932709809" />
       <file name="$USER_HOME$/workspace/zp-client/scripts/nlu_data.thrift" timestamp="1584523815429">
         <mark key="'" line="3" column="0" />
@@ -24,12 +21,6 @@
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/TestClone.java" timestamp="1584882806255">
         <mark key="[" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1584948148840">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_hunter.def" timestamp="1584414853543">
         <mark key="'" line="30" column="15" />
@@ -217,8 +208,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>qaClients</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -314,7 +305,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resp</text>
+        <text>qaClients</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
