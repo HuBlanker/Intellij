@@ -61,6 +61,12 @@
         <mark key="." line="3376" column="14" />
         <mark key="^" line="3376" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeChecker.java" timestamp="1584963825780">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="97" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordslot/SynonymDict.java" timestamp="1584582692005">
         <mark key="'" line="98" column="4" />
       </file>
@@ -97,12 +103,12 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1584961374389">
-        <mark key="'" line="569" column="36" />
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="395" column="24" />
-        <mark key="." line="395" column="24" />
-        <mark key="^" line="395" column="24" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1584963664465">
+        <mark key="'" line="589" column="36" />
+        <mark key="[" line="410" column="0" />
+        <mark key="]" line="410" column="68" />
+        <mark key="^" line="408" column="44" />
+        <mark key="." line="410" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
         <mark key="'" line="15" column="13" />
@@ -233,8 +239,8 @@
       <jump line="559" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>no_expect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzY2hvb2wKICAgICAqIEBwYXJhbSBtYWpvcgogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -330,19 +336,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>geek.expects</text>
+        <text>) {</text>
       </register>
       <register name="/" type="4">
         <text>no_exp</text>
       </register>
-      <register name="0" type="4">
-        <text>no_expect</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB9CgogICAgICAgIGlmIChyZXN1bWUuaXNIaWdoU3RhbmRhcmQpIHN0YXQuaW5jckFuZEdldCgiaGlnaF9zdGFuZGFyZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFRTZXJpYWxpemVyIHNlcmlhbGl6ZXIgPSBuZXcgVFNlcmlhbGl6ZXIobmV3IFRDb21wYWN0UHJvdG9jb2wuRmFjdG9yeSgpKTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzY2hvb2wKICAgICAqIEBwYXJhbSBtYWpvcgogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRTZXJpYWxpemVyIHRTZXJpYWxpemVyID0gbmV3IFRTZXJpYWxpemVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -369,10 +375,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2b2lkIGJ1aWxkR2Vla0luZGV4KCkgdGhyb3dzIEludGVycnVwdGVkRXhjZXB0aW9uLCBTUUxFeGNlcHRpb24gewovLyAgICAgICAgaW50IG1heElkID0gdGhpcy56cFVzZXJEQkFwaS5tYXhVc2VySWQoKTsKLy8gICAgICAgIGludCBKT0JTID0gMTI7IC8vIOWHoOS4que6v+eoi++8jOWQjOaXtuW7uue0ouW8lQovLyAgICAgICAgZmluYWwgVGhyZWFkUG9vbEV4ZWN1dG9yIHBvb2wgPSBVdGlscy5uZXdQb29sKEpPQlMsIEpPQlMsICJ3Iik7Ci8vCi8vICAgICAgICBmaW5hbCBpbnQgcCA9IG1heElkIC8gSk9CUzsKLy8KLy8gICAgICAgIFN0cmluZyBlbnYgPSBTeXN0ZW0uZ2V0ZW52KCkuZ2V0T3JEZWZhdWx0KCJTRUFSQ0hfRU5WIiwgIiIpOwovLyAgICAgICAgaWYgKGVudi5jb250YWlucygicWEiKSkgewovLyAgICAgICAgICAgIGJ1aWxkUWFzKHN0YXQsIHBvb2wsIG1heElkLCBlbnYpOwovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICBmb3IgKGludCBpID0gSk9CUzsgaSA+IDA7IGktLSkgewovLyAgICAgICAgICAgICAgICBpbnQgZW5kID0gaSA9PSBKT0JTID8gSW50ZWdlci5NQVhfVkFMVUUgOiBwICogaTsKLy8gICAgICAgICAgICAgICAgaW50IHN0YXJ0ID0gcCAqIGkgLSBwOwovLyAgICAgICAgICAgICAgICBEYXRhU291cmNlIGQgPSBnZXQoaSk7Ci8vICAgICAgICAgICAgICAgIHBvb2wuc3VibWl0KCgpIC0+IGJ1aWxkUmFuZ2Uoc3RhcnQsIGVuZCwgc3RhdCwgZCkpOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0KLy8KLy8gICAgICAgIFV0aWxzLndhaXRQb29scyhwb29sKTsKLy8gICAgICAgIGRvbmVCdWlsZC5zZXQodHJ1ZSk7Ci8vICAgICAgICBsb2dnZXIuaW5mbygie30iLCBzdGF0KTsKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJhZE5hbWUoInNjaG9vbCIsIHNjaG9vbCkgfHwgYmFkTmFtZSgibWFqb3IiLCBtYWpvcikgfHwKICAgICAgICAgICAgICAgICAgICBCQURfU0NIT09MLmNvbnRhaW5zKHNjaG9vbCkgfHwKICAgICAgICAgICAgICAgICAgICBCQURfTUFKT1JfTkFNRVMuY29udGFpbnMobWFqb3IpIHx8CiAgICAgICAgICAgICAgICAgICAgaGFzU3RyaW5nKHNjaG9vbCwgQkFEX0NPTV9OQU1FUykgfHwKICAgICAgICAgICAgICAgICAgICBoYXNTdHJpbmcobWFqb3IsIEJBRF9DT01fTkFNRVMpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -405,7 +411,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoQ2xpZW50RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFVzZXJFZHUgZWR1IDogZWR1cykgewogICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -429,16 +435,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FuUmVxLnNldEN1cnNvcihjdXJzb3IgKyAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNjaG9vbCA9IGNvYWxlc2NlKGVkdS5zY2hvb2wsICIiKTsKICAgICAgICAgICAgU3RyaW5nIG1ham9yID0gY29hbGVzY2UoZWR1Lm1ham9yLCAiIik7CiAgICAgICAgICAgIGlmIChiYWROYW1lKCJzY2hvb2wiLCBzY2hvb2wpIHx8IGJhZE5hbWUoIm1ham9yIiwgbWFqb3IpIHx8CiAgICAgICAgICAgICAgICAgICAgQkFEX1NDSE9PTC5jb250YWlucyhzY2hvb2wpIHx8CiAgICAgICAgICAgICAgICAgICAgQkFEX01BSk9SX05BTUVTLmNvbnRhaW5zKG1ham9yKSB8fAogICAgICAgICAgICAgICAgICAgIGhhc1N0cmluZyhzY2hvb2wsIEJBRF9DT01fTkFNRVMpIHx8CiAgICAgICAgICAgICAgICAgICAgaGFzU3RyaW5nKG1ham9yLCBCQURfQ09NX05BTUVTKSkgewogICAgICAgICAgICAgICAgcmVzdWx0LmhpZGUgPSB0cnVlOwogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NhblJlcSBzY2FuUmVxID0gbmV3IFNjYW5SZXEoKTsKICAgICAgICAgICAgc2NhblJlcS5zZXRDdXJzb3IoY3Vyc29yICsgIiIpOwogICAgICAgICAgICBzY2FuUmVxLnNldExpbWl0KEhJU1RPUllfREJfTElNSVQpOwogICAgICAgICAgICBzY2FuUmVxLnNldE1heFZlcnNpb24oTG9uZy5NQVhfVkFMVUUpOwogICAgICAgICAgICBzY2FuUmVxLnNldEFsbFZlcnNpb25zKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdW1lLmlzSGlnaFN0YW5kYXJkKSBzdGF0LmluY3JBbmRHZXQoImhpZ2hfc3RhbmRhcmQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZWR1cy5pc0VtcHR5KCkpIHN0YXQuaW5jckFuZEdldCgibm9fZWR1Iik7CiAgICAgICAgaWYgKHJlc3VtZS5pc0hpZ2hTdGFuZGFyZCkgc3RhdC5pbmNyQW5kR2V0KCJoaWdoX3N0YW5kYXJkIik7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
