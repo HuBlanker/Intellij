@@ -22,6 +22,7 @@
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/TestClone.java" timestamp="1584882806255">
         <mark key="[" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/CacheLoader.java" timestamp="1584952740681" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_hunter.def" timestamp="1584414853543">
         <mark key="'" line="30" column="15" />
       </file>
@@ -95,22 +96,23 @@
         <mark key="^" line="18" column="68" />
         <mark key="." line="18" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/gen.sh" timestamp="1584953789539">
+        <mark key="'" line="44" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" timestamp="1583942642958">
         <mark key="'" line="44" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1584716683993">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/data_view.thrift" timestamp="1584953368996">
+        <mark key="'" line="104" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GeekNNRecallReq.java" timestamp="1584429595989">
         <mark key="'" line="97" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="444" column="79" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="229" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
-      <jump line="589" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
       <jump line="95" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
       <jump line="150" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
       <jump line="646" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" />
@@ -206,6 +208,11 @@
       <jump line="18" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="91" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/gen.sh" />
+      <jump line="35" column="29" filename="$USER_HOME$/workspace/zp-client/scripts/gen.sh" />
+      <jump line="36" column="25" filename="$USER_HOME$/workspace/zp-client/scripts/gen.sh" />
+      <jump line="104" column="27" filename="$USER_HOME$/workspace/zp-client/scripts/data_view.thrift" />
+      <jump line="44" column="37" filename="$USER_HOME$/workspace/zp-client/scripts/gen.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -308,7 +315,7 @@
         <text>qaClients</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5wdXQoImppZCIsIGpvYklkKTsK</text>
@@ -431,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -441,10 +448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>action_table</entry>
-        <entry>f1</entry>
-        <entry>update</entry>
-        <entry>job</entry>
         <entry>geekData</entry>
         <entry>dbGeek</entry>
         <entry>geekInfo</entry>
@@ -461,6 +464,10 @@
         <entry>parent</entry>
         <entry>lucene</entry>
         <entry>client</entry>
+        <entry>data_videw</entry>
+        <entry>data</entry>
+        <entry>data_view</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
