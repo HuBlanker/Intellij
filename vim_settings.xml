@@ -33,6 +33,12 @@
       <file name="$USER_HOME$/workspace/zp-web/pom.xml" timestamp="1584719173939">
         <mark key="'" line="28" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1584934472222">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="26" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
         <mark key="'" line="16" column="44" />
       </file>
@@ -201,8 +207,8 @@
       <jump line="28" column="37" filename="$USER_HOME$/workspace/zp-web/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9.39</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -298,7 +304,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jobId</text>
+        <text>9.39</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
