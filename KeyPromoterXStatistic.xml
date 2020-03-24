@@ -782,7 +782,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6625</Count>
+          <Count>6628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -911,6 +911,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild '...arch.resume.handler'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild '...hipin.search.resume'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild '...hipin.search.resume'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild '...ipin.recall.handler'">
