@@ -103,7 +103,7 @@
         <mark key="." line="55" column="45" />
         <mark key="^" line="55" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/gs/GeekSearchHandler.java" timestamp="1585064391894">
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/gs/GeekSearchHandler.java" timestamp="1585067974315">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="80" />
       </file>
@@ -156,11 +156,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs/gs_tourist.vm" timestamp="1585066762405">
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="39" column="45" />
-        <mark key="." line="39" column="45" />
-        <mark key="^" line="39" column="45" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs/gs_tourist.vm" timestamp="1585068101416">
+        <mark key="[" line="42" column="87" />
+        <mark key="]" line="42" column="87" />
+        <mark key="." line="42" column="87" />
+        <mark key="^" line="42" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1585049664521">
         <mark key="'" line="759" column="29" />
@@ -389,7 +389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-${t.jobId}</text>
+        <text>name</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -485,13 +485,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-${t.jobId}</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>qas</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPmwzPC90ZD4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">aHJlZj0iL2dzPz91aWQ9JHtib3NzSWR9JmppZD0ke2dyb3VwLmpvYklkfSZ0YWc9JHt0ZXJtLm5hbWV9Ig==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHIucmVuZGVyKG1vZGVsLCAiZ3MvZ3NfdG91cmlzdC52bSIpOwo=</text>
