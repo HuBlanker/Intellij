@@ -62,6 +62,7 @@
         <mark key="." line="571" column="7" />
         <mark key="^" line="560" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1585132122806" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeChecker.java" timestamp="1585128190991">
         <mark key="'" line="192" column="0" />
         <mark key="[" line="142" column="0" />
@@ -91,6 +92,7 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="80" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/JOB_DESC.txt" timestamp="1585131526008" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs/geek_search.vm" timestamp="1585104887682">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="35" />
@@ -187,7 +189,19 @@
         <mark key="." line="100" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/handler/HotTerm4BHandler.java" timestamp="1585103415827" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" timestamp="1585131877425">
+        <mark key="'" line="139" column="26" />
+        <mark key="[" line="139" column="23" />
+        <mark key="]" line="139" column="26" />
+        <mark key="." line="139" column="26" />
+        <mark key="^" line="139" column="26" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.40/zp-client-9.40-sources.jar!/gen/thrift/SuggestResp.java" timestamp="1585107455430" />
+      <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/nlu_conf.yaml" timestamp="1585132265752">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" timestamp="1585051466391">
         <mark key="'" line="197" column="90" />
         <mark key="[" line="173" column="69" />
@@ -220,6 +234,7 @@
         <mark key="." line="139" column="61" />
         <mark key="^" line="139" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordtag/MTagCRF.java" timestamp="1585130322622" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1585120923652">
         <mark key="[" line="76" column="51" />
         <mark key="]" line="76" column="51" />
@@ -228,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="224" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="225" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="227" column="90" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="236" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
@@ -328,10 +341,12 @@
       <jump line="141" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
       <jump line="198" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
       <jump line="165" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" />
+      <jump line="139" column="26" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -427,13 +442,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2Vlay53b3Jrcy5zaXplKCkgPiAw</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>work</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHdvcmsuc2tpbGxzKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeUxpc3QuYWRkKCLnlLXlrZDlsZUsSmF2YeW3peeoi+W4iCzlpKnnjKsiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
