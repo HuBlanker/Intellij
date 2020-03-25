@@ -92,7 +92,7 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/JOB_DESC.txt" timestamp="1585131526008" />
+      <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/wordtag/tag_dict/JOB_DESC.txt" timestamp="1585133405320" />
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs/geek_search.vm" timestamp="1585104887682">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="35" />
@@ -189,12 +189,12 @@
         <mark key="." line="100" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/handler/HotTerm4BHandler.java" timestamp="1585103415827" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" timestamp="1585131877425">
-        <mark key="'" line="139" column="26" />
-        <mark key="[" line="139" column="23" />
-        <mark key="]" line="139" column="26" />
-        <mark key="." line="139" column="26" />
-        <mark key="^" line="139" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" timestamp="1585133416503">
+        <mark key="'" line="92" column="26" />
+        <mark key="[" line="92" column="23" />
+        <mark key="]" line="92" column="23" />
+        <mark key="." line="92" column="23" />
+        <mark key="^" line="92" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.40/zp-client-9.40-sources.jar!/gen/thrift/SuggestResp.java" timestamp="1585107455430" />
       <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/nlu_conf.yaml" timestamp="1585132265752">
@@ -210,8 +210,8 @@
         <mark key="^" line="173" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/HistoryDbHandler.java" timestamp="1585121011316" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585125214350">
-        <mark key="'" line="365" column="28" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585133730877">
+        <mark key="'" line="559" column="45" />
         <mark key="[" line="541" column="12" />
         <mark key="]" line="541" column="12" />
         <mark key="." line="541" column="12" />
@@ -243,12 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="227" column="90" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="236" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="237" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="238" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="543" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="13" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/sure_job_sims.txt" />
       <jump line="540" column="107" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="560" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
@@ -343,10 +337,16 @@
       <jump line="165" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" />
       <jump line="139" column="26" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" />
+      <jump line="7" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="53" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="54" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="397" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="398" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="559" column="45" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>谱尼测试</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -442,10 +442,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>谱尼测试</text>
       </register>
       <register name="/" type="4">
-        <text>work</text>
+        <text>dz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxdWVyeUxpc3QuYWRkKCLnlLXlrZDlsZUsSmF2YeW3peeoi+W4iCzlpKnnjKsiKTsK</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>work</last-search>
+      <last-search>dz</last-search>
       <last-offset />
-      <last-pattern>work</last-pattern>
+      <last-pattern>dz</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -584,7 +584,6 @@
         <entry>empty_e</entry>
         <entry>no_exp</entry>
         <entry>geekstatic</entry>
-        <entry>dz</entry>
         <entry>区块链</entry>
         <entry>sr</entry>
         <entry>garbage</entry>
@@ -598,6 +597,7 @@
         <entry>skill</entry>
         <entry>works</entry>
         <entry>work</entry>
+        <entry>dz</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
