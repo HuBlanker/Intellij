@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/ExpectDistinguish.java" timestamp="1585208937131">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/ExpectDistinguish.java" timestamp="1585210575566">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
         <mark key="^" line="27" column="41" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/data/GarbageResume.java" timestamp="1585045263719">
         <mark key="[" line="31" column="44" />
@@ -69,11 +69,6 @@
         <mark key="]" line="55" column="53" />
         <mark key="." line="55" column="53" />
         <mark key="^" line="26" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1585208912001">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1584965940929">
         <mark key="[" line="30" column="29" />
@@ -198,11 +193,6 @@
         <mark key="." line="25" column="53" />
         <mark key="^" line="25" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/ExpectWrapper.java" timestamp="1585209046163">
-        <mark key="[" line="421" column="8" />
-        <mark key="]" line="421" column="8" />
-        <mark key="." line="421" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs/gs_job_action.vm" timestamp="1585204554768">
         <mark key="[" line="73" column="28" />
         <mark key="]" line="73" column="28" />
@@ -213,13 +203,6 @@
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/RebuildExpectRecallMain.java" timestamp="1585208968992">
-        <mark key="'" line="92" column="50" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="90" column="66" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-modules/zp-nlu/nlu_dict/nlu_conf.yaml" timestamp="1585132265752">
         <mark key="[" line="9" column="18" />
@@ -240,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="12" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/data/GeekIntentionStrength.java" />
       <jump line="51" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/data/GeekIntentionStrength.java" />
       <jump line="48" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/data/GeekIntentionStrength.java" />
@@ -340,10 +322,11 @@
       <jump line="591" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="161" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-08/select_less_recall.sh" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-08/select_less_recall.sh" />
+      <jump line="178" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/ExpectWrapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gZ2Vla1N0YXRpYwogICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMDExNDBhYjNiLi4uIGZpeCBjb21waWxlCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -439,7 +422,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdlZWtTdGF0aWMuYXZhdGFy</text>
+        <text>RebuildExpectRecallMain.</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
@@ -448,10 +431,10 @@
         <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gZ2Vla1N0YXRpYwogICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMDExNDBhYjNiLi4uIGZpeCBjb21waWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdlZWtJbnRlbnRpb25TdHJlbmd0aDsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -478,10 +461,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdhcmJhZ2VSZXN1bWU7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdhcmJhZ2VSZXN1bWU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdlZWtJbnRlbnRpb25TdHJlbmd0aDsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -514,7 +497,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdlZWtJbnRlbnRpb25TdHJlbmd0aDsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -538,16 +521,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdhcmJhZ2VSZXN1bWU7Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIFJlYnVpbGRFeHBlY3RSZWNhbGxNYWluLklOVEVOVElPTl9TVFJFTkdUSCBzdHJlbmd0aCA9IEVYUEVDVF9ESVNUSU5HVUlTSC5nZXRJbnRlbnRpb25TdHJlbmd0aChleHBlY3QuaWQpOwo+Pj4+Pj4+IHBhcmVudCBvZiAwMTE0MGFiM2IuLi4gZml4IGNvbXBpbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdlZWtJbnRlbnRpb25TdHJlbmd0aDsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmltcG9ydCBjb20uemhpcGluLnNlYXJjaC5yZXN1bWUuZGljdC5HZWVrSW50ZW50aW9uU3RyZW5ndGg7Cj09PT09PT0KPj4+Pj4+PiBwYXJlbnQgb2YgMDExNDBhYjNiLi4uIGZpeCBjb21waWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gZ2Vla1N0YXRpYwogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGQgc29tZSBmaWx0ZXJGaWx0ZXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uc2VhcmNoLnJlc3VtZS5kYXRhLkdlZWtJbnRlbnRpb25TdHJlbmd0aDsK</text>
       </register>
       <register name="y" type="4">
         <keys>
