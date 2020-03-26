@@ -64,9 +64,10 @@
         <mark key="^" line="560" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/SearchQA.java" timestamp="1585132122806" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/GSearchFields.java" timestamp="1585125303383">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="82" column="94" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_resume.sh" timestamp="1585190045150">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/finder/main/FinderGeekRebuildMain.java" timestamp="1585044725782">
         <mark key="[" line="214" column="12" />
@@ -74,8 +75,10 @@
         <mark key="." line="214" column="12" />
         <mark key="^" line="84" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/WorkHelper.java" timestamp="1585126847591">
-        <mark key="'" line="27" column="59" />
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/log2db_resume_by_uuid.sh" timestamp="1585190051851">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/headhunter/HHResumeSearchMainTest.java" timestamp="1585050325510">
         <mark key="[" line="56" column="91" />
@@ -113,12 +116,6 @@
         <mark key="." line="777" column="52" />
         <mark key="^" line="776" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" timestamp="1585128637859">
-        <mark key="'" line="164" column="30" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/data/GeekIntentionStrength.java" timestamp="1585052927509">
         <mark key="'" line="55" column="14" />
         <mark key="[" line="55" column="52" />
@@ -140,9 +137,6 @@
         <mark key="]" line="38" column="5" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" timestamp="1585107105095">
-        <mark key="'" line="119" column="66" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/gs/gs_tourist.vm" timestamp="1585145428137">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="80" column="0" />
@@ -161,6 +155,11 @@
         <mark key="]" line="441" column="0" />
         <mark key="." line="441" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/log2db_job.sh" timestamp="1585190063154">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/SchoolHelper.java" timestamp="1584976967095">
         <mark key="[" line="25" column="47" />
         <mark key="]" line="25" column="53" />
@@ -171,6 +170,11 @@
         <mark key="[" line="423" column="8" />
         <mark key="]" line="423" column="8" />
         <mark key="." line="423" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/log2db_job_by_uuid.sh" timestamp="1585190068201">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1584965940929">
         <mark key="[" line="30" column="29" />
@@ -326,8 +330,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-08/select_less_recall.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gaojiabao</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -423,7 +427,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90ZD4=</text>
+        <text>gaojiabao</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
