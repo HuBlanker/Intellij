@@ -9,6 +9,9 @@
         <mark key="^" line="27" column="41" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" timestamp="1585275590322">
+        <mark key="'" line="20" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-08/bashrc" timestamp="1585142749536">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -55,7 +58,7 @@
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobType.java" timestamp="1585228044557">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobType.java" timestamp="1585275856297">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
@@ -125,6 +128,12 @@
         <mark key="]" line="55" column="53" />
         <mark key="." line="55" column="53" />
         <mark key="^" line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1585276136163">
+        <mark key="[" line="97" column="53" />
+        <mark key="]" line="97" column="57" />
+        <mark key="." line="97" column="57" />
+        <mark key="^" line="97" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1585243746423">
         <mark key="[" line="194" column="0" />
@@ -198,8 +207,8 @@
         <mark key="." line="2" column="75" />
         <mark key="^" line="2" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1585228001951">
-        <mark key="'" line="54" column="29" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1585276038383">
+        <mark key="'" line="177" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/gs/QuerySuggest4BHandler.java" timestamp="1585065180356">
         <mark key="[" line="53" column="0" />
@@ -231,10 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="12" filename="/ResumeRebuildMain.java" />
-      <jump line="454" column="33" filename="/ResumeRebuildMain.java" />
-      <jump line="96" column="0" filename="/ResumeRebuildMain.java" />
-      <jump line="154" column="13" filename="/ResumeRebuildMain.java" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/thrift/GFilterQueryBuilder.java" />
       <jump line="82" column="6" filename="$USER_HOME$/workspace/zp-web/src/main/resources/gs/gs_tourist.vm" />
       <jump line="40" column="19" filename="$USER_HOME$/workspace/zp-web/src/main/resources/gs/gs_tourist.vm" />
@@ -331,10 +336,14 @@
       <jump line="65" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" />
       <jump line="69" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" />
       <jump line="27" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" />
+      <jump line="20" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" />
+      <jump line="101" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
+      <jump line="219" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
+      <jump line="177" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMucGFyYW1zNEIgPSBwYXJhbXM0QjsK</text>
+      <register name="&quot;" type="4">
+        <text>16667</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -430,10 +439,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6.0f</text>
+        <text>16667</text>
       </register>
       <register name="/" type="4">
-        <text>fsscore</text>
+        <text>exper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
@@ -556,9 +565,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fsscore</last-search>
+      <last-search>exper</last-search>
       <last-offset />
-      <last-pattern>fsscore</last-pattern>
+      <last-pattern>exper</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -566,8 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_exp</entry>
-        <entry>geekstatic</entry>
         <entry>区块链</entry>
         <entry>sr</entry>
         <entry>garbage</entry>
@@ -584,8 +591,10 @@
         <entry>dz</entry>
         <entry>check'</entry>
         <entry>check</entry>
-        <entry>jobtype</entry>
         <entry>fsscore</entry>
+        <entry>jobtype</entry>
+        <entry>job_type</entry>
+        <entry>exper</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
