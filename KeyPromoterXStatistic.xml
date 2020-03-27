@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BrandJobV2Test.testGray'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'BrandJobV2Test.testGray'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'BrandJobV2Test.testJobs'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -742,7 +750,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'resumeZZZ'</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scanJobItemTest()'">
@@ -806,7 +814,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6911</Count>
+          <Count>6913</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1167,6 +1175,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BrandJobV2Test.test2'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BrandJobV2Test.testGray'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'BrandJobV2Test.testGray'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BrandJobV2Test.testJobs'">
@@ -3798,7 +3814,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'resumeZZZ'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'study_hyperloglog'">
@@ -3854,7 +3870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>737</Count>
+          <Count>744</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
