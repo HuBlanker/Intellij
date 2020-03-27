@@ -97,10 +97,12 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585315761657">
-        <mark key="[" line="350" column="72" />
-        <mark key="]" line="350" column="72" />
-        <mark key="." line="350" column="72" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585317436831">
+        <mark key="'" line="362" column="15" />
+        <mark key="[" line="160" column="54" />
+        <mark key="]" line="160" column="54" />
+        <mark key="^" line="592" column="7" />
+        <mark key="." line="160" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
         <mark key="'" line="15" column="13" />
@@ -143,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
       <jump line="250" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
       <jump line="394" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
       <jump line="83" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
@@ -243,10 +244,11 @@
       <jump line="215" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="350" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="340" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="362" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>99860382</text>
+        <text>scan_ids</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -342,19 +344,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>99860382</text>
+        <text>scan_ids</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U0VMRUNUIGlkIEFTIHVzZXJfaWQsIGdlbmRlciwgYWRkX3RpbWUsIG5hbWUsIGNoYW5uZWwsIHRpbnksIHN0YXR1cyBBUyB1c2VyX3N0YXR1cyBGUk9NIHVzZXIgV0hFUkUgc3RhdHVzID0gMCBBTkQgaWQgPiA/IEFuZCBpZCA8PSA/IE9SREVSIEJZIGlkIExJTUlUID8=</text>
+        <text>ignore_dz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAobG9jaykgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBpZCA9IGdlZWsuaWQgKyAiXG4iOwogICAgICAgICAgICAgICAgICAgIGZvcy53cml0ZShpZC5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nUXVldWUucHV0KCJiYWRfcmVzdW1lOiIgKyBnZWVrLmlkICsgIlxuIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -381,10 +383,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdlZWtTdGF0aWMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9zLndyaXRlKHBvbGwuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4ucmVjYWxsLnJlYnVpbGQuRXhwZWN0RGlzdGluZ3Vpc2g7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -417,7 +419,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uemhpcGluLnRvb2xzOwoKLyoqCiAqIEBhdXRob3IgcGZsaXUKICogQGRhdGUgMjAyMC8wMy8yNy4KICogQGJyaWVmCiAqLwpAU2xmNGoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -441,16 +443,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEdlZWtJbmRleERpZmYgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHBvbGwgPSBsb2dRdWV1ZS5wb2xsKDEsIFRpbWVVbml0LlNFQ09ORFMpOwogICAgICAgICAgICAgICAgICAgIGZvcy53cml0ZShwb2xsLmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAobG9jaykgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBpZCA9IGdlZWsuaWQgKyAiXG4iOwogICAgICAgICAgICAgICAgICAgIGZvcy53cml0ZShpZC5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBGaWxlVXRpbHMud3JpdGVMaW5lcyhuZXcgRmlsZShuZXdGaWxlICsgIl9tb3JlX2lkcy50eHQiKSwgbmV3SWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdlZWtTdGF0aWMgCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
