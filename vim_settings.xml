@@ -90,15 +90,17 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/recall/query/thrift/GFilterQueryBuilder.java" timestamp="1585061566317">
         <mark key="'" line="25" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/ZpUserDBApi.java" timestamp="1585315048386">
+        <mark key="[" line="272" column="22" />
+        <mark key="]" line="272" column="173" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585313799656">
-        <mark key="'" line="350" column="80" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585315761657">
         <mark key="[" line="350" column="72" />
         <mark key="]" line="350" column="72" />
         <mark key="." line="350" column="72" />
-        <mark key="^" line="350" column="74" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
         <mark key="'" line="15" column="13" />
@@ -141,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="45" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
       <jump line="245" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
       <jump line="250" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
       <jump line="394" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
@@ -241,10 +242,11 @@
       <jump line="202" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
       <jump line="215" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="350" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="340" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100315460</text>
+        <text>99860382</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -340,13 +342,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>100315460</text>
+        <text>99860382</text>
       </register>
       <register name="/" type="4">
-        <text>c_hi</text>
+        <text>cache</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZWVrU3RhdGljQ2FjaGVMb2FkZXIgPSBuZXcgQ2FjaGVMb2FkZXI8PihiX2hpc3Rvcnlfc3RhdGljX21hc3RlciwgTkVXX0dFRUtfU1RBVElDLCA1MDAwMCwgREVGQVVMVF9HRUVLX1NUQVRJQyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">U0VMRUNUIGlkIEFTIHVzZXJfaWQsIGdlbmRlciwgYWRkX3RpbWUsIG5hbWUsIGNoYW5uZWwsIHRpbnksIHN0YXR1cyBBUyB1c2VyX3N0YXR1cyBGUk9NIHVzZXIgV0hFUkUgc3RhdHVzID0gMCBBTkQgaWQgPiA/IEFuZCBpZCA8PSA/IE9SREVSIEJZIGlkIExJTUlUID8=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAobG9jaykgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBpZCA9IGdlZWsuaWQgKyAiXG4iOwogICAgICAgICAgICAgICAgICAgIGZvcy53cml0ZShpZC5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
@@ -466,9 +468,9 @@
       </register>
     </registers>
     <search>
-      <last-search>c_hi</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>c_hi</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -476,8 +478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qas</entry>
-        <entry>kind</entry>
         <entry>total</entry>
         <entry>loader</entry>
         <entry>buildon</entry>
@@ -496,6 +496,8 @@
         <entry>203</entry>
         <entry>192</entry>
         <entry>c_hi</entry>
+        <entry>version</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
