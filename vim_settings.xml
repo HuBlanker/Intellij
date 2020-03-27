@@ -97,12 +97,12 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585317436831">
-        <mark key="'" line="362" column="15" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585321521402">
+        <mark key="'" line="523" column="35" />
         <mark key="[" line="160" column="54" />
-        <mark key="]" line="160" column="54" />
-        <mark key="^" line="592" column="7" />
-        <mark key="." line="160" column="54" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
         <mark key="'" line="15" column="13" />
@@ -145,12 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
-      <jump line="394" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
-      <jump line="83" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
-      <jump line="84" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
-      <jump line="119" column="66" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/ac/AutoCompleteServer.java" />
-      <jump line="96" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="359" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="256" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="364" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
@@ -245,6 +239,12 @@
       <jump line="350" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="340" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="362" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="399" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="400" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="401" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="522" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="523" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,7 +347,7 @@
         <text>scan_ids</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>hide</text>
       </register>
       <register name="0" type="4">
         <text>ignore_dz</text>
@@ -470,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>hide</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>hide</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -480,7 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry>total</entry>
         <entry>loader</entry>
         <entry>buildon</entry>
         <entry>build one</entry>
@@ -500,6 +499,7 @@
         <entry>c_hi</entry>
         <entry>version</entry>
         <entry>cache</entry>
+        <entry>hide</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
