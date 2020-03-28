@@ -23,8 +23,12 @@
         <mark key="." line="55" column="53" />
         <mark key="^" line="26" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1585279331562">
-        <mark key="^" line="24" column="42" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/compute_geek_index_diff.sh" timestamp="1585382035415">
+        <mark key="'" line="36" column="53" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="6" />
+        <mark key="^" line="35" column="6" />
+        <mark key="." line="35" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/nlu_data.thrift" timestamp="1584523815429">
         <mark key="'" line="3" column="0" />
@@ -42,11 +46,11 @@
         <mark key="^" line="67" column="11" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/GeekIndexDiff.java" timestamp="1585291154670">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="51" />
-        <mark key="^" line="36" column="51" />
-        <mark key="." line="36" column="51" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/GeekIndexDiff.java" timestamp="1585382345831">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_hunter.def" timestamp="1584414853543">
         <mark key="'" line="30" column="15" />
@@ -106,12 +110,12 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ReferenceConfig.class" timestamp="1583764540431">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585380068673">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585380890506">
         <mark key="'" line="198" column="0" />
-        <mark key="[" line="581" column="25" />
-        <mark key="]" line="581" column="25" />
-        <mark key="." line="581" column="25" />
-        <mark key="^" line="568" column="14" />
+        <mark key="[" line="532" column="0" />
+        <mark key="]" line="532" column="0" />
+        <mark key="^" line="531" column="37" />
+        <mark key="." line="532" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/dep_b_geek_detail_after.sh" timestamp="1585373618564" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.12-ZP/dubbo-2.5.12-ZP.jar!/com/alibaba/dubbo/config/ApplicationConfig.class" timestamp="1583762894042">
@@ -155,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="678" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="724" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="88" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="431" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
@@ -255,10 +258,11 @@
       <jump line="537" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="89" column="5" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/recall/RecallMainTest.java" />
       <jump line="197" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="30" column="53" filename="$USER_HOME$/workspace/zp-search2/scripts/compute_geek_index_diff.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>qa_filter</text>
+        <text>计算两份properties的diff</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -354,19 +358,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qa_filter</text>
+        <text>计算两份properties的diff</text>
       </register>
       <register name="/" type="4">
         <text>qas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkRGVidWdMb2coInFhX2ZpbHRlcjoiLCBnZWVrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkRGVidWdMb2coImJhZF9oaWRlIiwgZ2Vlayk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nUXVldWUucHV0KCJub19leHBlY3Q6IiArIGdlZWsuaWQgKyAiXG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nUXVldWUucHV0KCJxYV9maWx0ZXI6IiArIGdlZWsuaWQgKyAiXG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -393,10 +397,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nUXVldWUucHV0KCJmaWx0ZXI6IiArIG51bGwgKyAiXG4iKTsK</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgaW50IG5ld1NpemUgPSBuZXdJZHMuc2l6ZSgpOwovLyAgICAgICAgICAgIFNldDxJbnRlZ2VyPiBjb21tb25zID0gU2V0VXRpbHMuaW50ZXJzZWN0aW9uKG9ubGluZXMsIG5ld0lkcykudG9TZXQoKTsKLy8gICAgICAgICAgICBpbnQgY29tbW9uU2l6ZSA9IGNvbW1vbnMuc2l6ZSgpOwovLwovLyAgICAgICAgICAgIG9ubGluZXMucmVtb3ZlQWxsKGNvbW1vbnMpOwovLyAgICAgICAgICAgIEZpbGVVdGlscy53cml0ZUxpbmVzKG5ldyBGaWxlKG9ubGluZUZpbGUgKyAiX21vcmVfaWRzLnR4dCIpLCBvbmxpbmVzKTsKLy8KLy8gICAgICAgICAgICBuZXdJZHMucmVtb3ZlQWxsKGNvbW1vbnMpOwovLwovLyAgICAgICAgICAgIGxvZy5pbmZvKCJvbmxpbmVTaXplPXt9LCBuZXdTaXplPXt9LCBjb21tb25TaXplPXt9LCBvbmxpbmUtY29tbW9uPXt9LCBuZXctY29tbW9uPXt9IiwKLy8gICAgICAgICAgICAgICAgICAgIG9ubGluZVNpemUsIG5ld1NpemUsIGNvbW1vblNpemUsIG9ubGluZXMuc2l6ZSgpLCBuZXdJZHMuc2l6ZSgpKTsKCi8vICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Ci8vICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1F1ZXVlLnB1dCgic2NhbjoiICsgZ2Vlay5pZCArICJcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDliqDovb3nur/kuIrnmoTntKLlvJUsIOaJgOacieeahGlkCi8vICAgICAgICB0cnkgewoKLy8gICAgICAgICAgICBTZXQ8SW50ZWdlcj4gb25saW5lcyA9IGxvYWRJZHNGcm9tRmlsZShvbmxpbmVGaWxlKTsKLy8gICAgICAgICAgICBpbnQgb25saW5lU2l6ZSA9IG9ubGluZXMuc2l6ZSgpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -453,16 +457,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChnZWUpCg==</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItb25saW5lX2ZpbGUiKQogICAgcHVibGljIFN0cmluZyBvbmxpbmVGaWxlID0gImdlZWtfcHJvcGVydGllc19vbmxpbmUiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZExvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZExvZygiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dRdWV1ZS5wdXQoImluZGV4OiIgKyBndy5nZWVrLmlkICsgIlxuIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dRdWV1ZS5wdXQoImluZGV4OiIgKyBndy5nZWVrLmlkICsgIlxuIik7Cgo=</text>
       </register>
       <register name="y" type="4">
         <keys>
