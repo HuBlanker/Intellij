@@ -6,9 +6,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapperBase.java" timestamp="1585275590322">
         <mark key="'" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1585313408681">
-        <mark key="[" line="184" column="78" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/nlu_data.thrift" timestamp="1584523815429">
         <mark key="'" line="3" column="0" />
       </file>
@@ -31,6 +28,7 @@
         <mark key="'" line="98" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/log2db_resume_by_uuid.sh" timestamp="1585373590248" />
+      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1585391708318" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/recall/RecallMainTest.java" timestamp="1585377331954">
         <mark key="'" line="89" column="5" />
       </file>
@@ -50,11 +48,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" timestamp="1583942642958">
         <mark key="'" line="44" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/ExpectDistinguish.java" timestamp="1585383552203">
-        <mark key="'" line="98" column="9" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/ExpectDistinguish.java" timestamp="1585391809951">
+        <mark key="'" line="122" column="9" />
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/compute_geek_index_diff.sh" timestamp="1585382035415">
         <mark key="'" line="36" column="53" />
@@ -85,7 +84,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" timestamp="1585287483456">
         <mark key="[" line="98" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585380890506">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585392044460">
         <mark key="'" line="198" column="0" />
         <mark key="[" line="532" column="0" />
         <mark key="]" line="532" column="0" />
@@ -209,8 +208,8 @@
       <jump line="99" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/ExpectDistinguish.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYnJhbmQgam9iIHYyIGJ1aWxkIHF1ZXJ5ID0ge30iLCBxdWVyeS50b1N0cmluZygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Api</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -306,7 +305,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>计算两份properties的diff</text>
+        <text>Api</text>
       </register>
       <register name="/" type="4">
         <text>qas</text>
