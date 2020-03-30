@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1585313408681">
+        <mark key="[" line="184" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Flags.java" timestamp="1585549180693" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/GeekIndexDiff.java" timestamp="1585394318203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="61" column="1" />
@@ -12,11 +16,9 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek-detail.vm" timestamp="1585543948101">
         <mark key="'" line="14" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/zp_bucket_active.sh" timestamp="1585549688309" />
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/log2db_resume_by_uuid.sh" timestamp="1585373590248" />
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1585391708318" />
-      <file name="/StaticDataImportMain.java" timestamp="1585383408168">
-        <mark key="[" line="28" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/ExpectDistinguish.java" timestamp="1585391809951">
         <mark key="'" line="122" column="9" />
         <mark key="[" line="45" column="43" />
@@ -32,23 +34,10 @@
         <mark key="." line="35" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/NewJobCollector2.java" timestamp="1585383146273" />
-      <file name="/Dummy.txt" timestamp="1585383509525">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" timestamp="1585287483456">
-        <mark key="[" line="98" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585547092112">
-        <mark key="'" line="620" column="30" />
-        <mark key="[" line="632" column="40" />
-        <mark key="]" line="620" column="30" />
-        <mark key="." line="620" column="30" />
-        <mark key="^" line="620" column="30" />
+      <file name="/ResumeRebuildMain.java" timestamp="1585549602664">
+        <mark key="[" line="699" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/dep_b_geek_detail_after.sh" timestamp="1585373618564" />
-      <file name="/fragment.java" timestamp="1585379029423">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="367" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
@@ -154,7 +143,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MON1_AGO_TS</text>
+        <text>stats/geek_bucket_active.txt</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -255,8 +244,8 @@
       <register name="/" type="4">
         <text>bad_hide</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkTG9nKCJiYWRfcmVzdW1lIiwgZ2Vlay51c2VySWQpOwo=</text>
+      <register name="0" type="4">
+        <text>stats/geek_bucket_active.txt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWRkTG9nKCJub19leHRyYSIsIGdlZWsudXNlcklkKTsK</text>
