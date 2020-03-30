@@ -38,11 +38,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/f2pushv2/DetailOfflinePush.java" timestamp="1585287483456">
         <mark key="[" line="98" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585544281794">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585547092112">
+        <mark key="'" line="620" column="30" />
         <mark key="[" line="632" column="40" />
-        <mark key="]" line="632" column="40" />
-        <mark key="." line="632" column="40" />
-        <mark key="^" line="626" column="45" />
+        <mark key="]" line="620" column="30" />
+        <mark key="." line="620" column="30" />
+        <mark key="^" line="620" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-01/dep_b_geek_detail_after.sh" timestamp="1585373618564" />
       <file name="/fragment.java" timestamp="1585379029423">
@@ -50,7 +51,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="367" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="439" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="502" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
@@ -150,6 +150,7 @@
       <jump line="652" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="711" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="14" column="30" filename="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek-detail.vm" />
+      <jump line="620" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -252,7 +253,7 @@
         <text>MON1_AGO_TS</text>
       </register>
       <register name="/" type="4">
-        <text>eventTime</text>
+        <text>bad_hide</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWRkTG9nKCJiYWRfcmVzdW1lIiwgZ2Vlay51c2VySWQpOwo=</text>
@@ -375,9 +376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eventTime</last-search>
+      <last-search>bad_hide</last-search>
       <last-offset />
-      <last-pattern>eventTime</last-pattern>
+      <last-pattern>bad_hide</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -401,10 +402,10 @@
         <entry>extra</entry>
         <entry>hide_re</entry>
         <entry>qas</entry>
-        <entry>bad_hide</entry>
         <entry>idle5d</entry>
         <entry>idle</entry>
         <entry>eventTime</entry>
+        <entry>bad_hide</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
