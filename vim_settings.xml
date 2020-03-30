@@ -341,7 +341,7 @@
         <text>bb.array(), bb.position(), bb.limit()</text>
       </register>
       <register name="/" type="4">
-        <text>isschooldouble</text>
+        <text>load</text>
       </register>
       <register name="0" type="4">
         <text>bb.array(), bb.position(), bb.limit()</text>
@@ -464,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isschooldouble</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>isschooldouble</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>complete</entry>
         <entry>203</entry>
         <entry>192</entry>
         <entry>version</entry>
@@ -494,6 +493,7 @@
         <entry>end</entry>
         <entry>e.endDate</entry>
         <entry>isschooldouble</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
