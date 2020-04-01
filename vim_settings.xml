@@ -59,6 +59,27 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" timestamp="1583942642958">
         <mark key="'" line="44" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/ExpectDistinguish.java" timestamp="1585391809951">
+        <mark key="'" line="122" column="9" />
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/compute_geek_index_diff.sh" timestamp="1585382035415">
+        <mark key="'" line="36" column="53" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="6" />
+        <mark key="^" line="35" column="6" />
+        <mark key="." line="35" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler2.java" timestamp="1585712544032">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="215" column="105" />
+        <mark key="]" line="215" column="53" />
+        <mark key="." line="215" column="53" />
+        <mark key="^" line="215" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1585652986817" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/DataSerializer.java" timestamp="1585647973282" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
@@ -77,6 +98,13 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1584090465373">
         <mark key="'" line="558" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" timestamp="1585712502889">
+        <mark key="'" line="193" column="68" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="69" />
+        <mark key="^" line="194" column="106" />
+        <mark key="." line="194" column="106" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1585279437175">
         <mark key="'" line="177" column="27" />
@@ -108,8 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="632" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
-      <jump line="633" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="634" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="669" column="58" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="671" column="70" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
@@ -208,10 +234,12 @@
       <jump line="164" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" />
       <jump line="41" column="54" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" />
       <jump line="30" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" />
+      <jump line="193" column="68" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBkZWxheSA9IChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIG1heFRzKSAvIDEwMDA7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -307,13 +335,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
       </register>
-      <register name="0" type="4">
-        <text>baseIds</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBkZWxheSA9IChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIG1heFRzKSAvIDEwMDA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCA9IHN0YXJ0ICsgTElNSVQ7Cg==</text>
