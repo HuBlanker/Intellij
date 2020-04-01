@@ -15,12 +15,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1585658293130" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/CacheLoader.java" timestamp="1585582803923" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" timestamp="1585747601418">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" timestamp="1585748741678">
         <mark key="'" line="168" column="0" />
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="92" column="7" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/stats/geek_bucket_active.txt" timestamp="1585555114577">
         <mark key="'" line="413" column="0" />
@@ -92,6 +92,7 @@
         <mark key="[" line="488" column="35" />
         <mark key="]" line="488" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/ResumeSearchLogEval.java" timestamp="1585748450470" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1584090465373">
         <mark key="'" line="558" column="13" />
       </file>
@@ -233,8 +234,8 @@
       <jump line="159" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxSnNvbiA9ICIge1wicXVlcnlcIjpcIuS6qOawj1wiLFwiYm9zc0lkXCI6MzI2NDM2OTUsXCJqb2JJZFwiOjAsXCJsaW1pdFwiOjE1LFwib2Zmc2V0XCI6MCxcImZpbHRlcnNcIjp7XCJDSVRZXCI6XCIxMDEwMTAxMDBcIixcIkRFR1JFRVwiOlwiMjAzLDIwNVwiLFwiRVhQRVJJRU5DRVwiOlwiMywxMFwiLFwiU0FMQVJZXCI6XCIxMCwyMFwiLFwiQUdFXCI6XCIyNiwzM1wiLFwiU0NIT09MX1VOSUZJRURcIjpcIjFcIn0sXCJpczIxMVwiOjAsXCJkZWJ1Z1wiOjAsXCJzYWxhcnlGaWx0ZXJcIjpmYWxzZSxcImluY2x1ZGVEaWFuemhhbmdcIjpmYWxzZSxcIl9faXNzZXRfYml0ZmllbGRcIjoxNX0iOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFsxXQ==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -330,7 +331,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NLU</text>
+        <text encoding="base64">IFsxXQ==</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
