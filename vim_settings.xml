@@ -15,11 +15,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1585658293130" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/CacheLoader.java" timestamp="1585582803923" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" timestamp="1585738439009">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" timestamp="1585742806871">
         <mark key="'" line="80" column="4" />
-        <mark key="[" line="157" column="50" />
-        <mark key="]" line="157" column="50" />
-        <mark key="." line="157" column="50" />
+        <mark key="[" line="158" column="54" />
+        <mark key="]" line="158" column="54" />
+        <mark key="." line="158" column="54" />
+        <mark key="^" line="160" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/stats/geek_bucket_active.txt" timestamp="1585555114577">
         <mark key="'" line="413" column="0" />
@@ -60,12 +61,6 @@
         <mark key="." line="48" column="20" />
         <mark key="^" line="48" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" timestamp="1585561149202">
-        <mark key="'" line="103" column="22" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/compute_geek_index_diff.sh" timestamp="1585382035415">
         <mark key="'" line="36" column="53" />
         <mark key="[" line="35" column="5" />
@@ -82,12 +77,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1585736467561" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1585652986817" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/GeekStaticDeserializer.java" timestamp="1585576920960">
-        <mark key="'" line="45" column="31" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/DataSerializer.java" timestamp="1585647973282" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
@@ -245,7 +234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Client</text>
+        <text>Server</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -341,7 +330,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Client</text>
+        <text>Server</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
