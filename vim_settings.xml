@@ -45,7 +45,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" timestamp="1585812590611" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" timestamp="1585817146346">
+        <mark key="[" line="67" column="40" />
+        <mark key="]" line="67" column="58" />
+        <mark key="^" line="67" column="58" />
+        <mark key="." line="67" column="58" />
+      </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/TestClone.java" timestamp="1585558982383">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="14" column="11" />
@@ -59,11 +64,11 @@
         <mark key="." line="215" column="64" />
         <mark key="^" line="186" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1585814259173">
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="29" />
-        <mark key="^" line="72" column="29" />
-        <mark key="." line="72" column="29" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1585815700216">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/stats/geek_bucket_active.txt" timestamp="1585555114577">
         <mark key="'" line="413" column="0" />
@@ -71,6 +76,7 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/geek/geek-detail.vm" timestamp="1585543948101">
         <mark key="'" line="14" column="30" />
       </file>
+      <file name="/JTopCollector.java" timestamp="1585817675673" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_hunter.def" timestamp="1584414853543">
         <mark key="'" line="30" column="15" />
       </file>
@@ -86,12 +92,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
         <mark key="'" line="16" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/col/JTopCollector.java" timestamp="1585811832865">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="83" />
-        <mark key="^" line="28" column="83" />
-        <mark key="." line="28" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordslot/SynonymDict.java" timestamp="1584582692005">
         <mark key="'" line="98" column="4" />
@@ -265,8 +265,8 @@
       <jump line="15" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.params4B.bossId</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -362,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>set</text>
+        <text>this.params4B.bossId</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -374,7 +374,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2lkcz17fSIsICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQodGhpcy5wcS5wb3AoKS5kb2MpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -401,10 +401,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obG9uZ3Muc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodGhpcy5wcS5zaXplKCkgPiAwKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoU2V0PExvbmc+IGxvbmdzID0gbmV3IEhhc2hTZXQ8PihhbGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBaSGl0UXVldWUgcHEgPSB0aGlzLnBxOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -437,7 +437,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -461,16 +461,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGwucmVtb3ZlQWxsKGxvbmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQodGhpcy5wcS5wb3AoKS5kb2MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgWkhpdFF1ZXVlIHBxID0gdGhpcy5wcTsKLy8gICAgICAgIGZvciAoWlNjb3JlRG9jIHpTY29yZURvYyA6IHRoaXMucHEpIHsKLy8KLy8gICAgICAgIH0KICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB3aGlsZSAodGhpcy5wcS5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgIGxpc3QuYWRkKHRoaXMucHEucG9wKCkuZG9jKTsKICAgICAgICB9CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT09PT09PT09bGlzdD17fSIsIGxpc3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2lkcz17fSIsICk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
