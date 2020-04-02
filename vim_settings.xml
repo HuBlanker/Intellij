@@ -81,11 +81,11 @@
         <mark key="." line="215" column="53" />
         <mark key="^" line="215" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1585799195624">
-        <mark key="[" line="155" column="29" />
-        <mark key="]" line="161" column="26" />
-        <mark key="." line="161" column="26" />
-        <mark key="^" line="161" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1585805644883">
+        <mark key="[" line="161" column="25" />
+        <mark key="]" line="161" column="25" />
+        <mark key="." line="161" column="25" />
+        <mark key="^" line="149" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Tool.java" timestamp="1585751235645">
         <mark key="[" line="107" column="0" />
@@ -98,12 +98,12 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/QaAccountFilter.java" timestamp="1585658627582" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" timestamp="1585802531883" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1585802993917">
-        <mark key="'" line="80" column="10" />
-        <mark key="[" line="82" column="49" />
-        <mark key="]" line="82" column="51" />
-        <mark key="." line="82" column="51" />
-        <mark key="^" line="82" column="51" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1585805310609">
+        <mark key="'" line="15" column="31" />
+        <mark key="[" line="76" column="35" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_hunter.def" timestamp="1584414853543">
         <mark key="'" line="30" column="15" />
@@ -162,10 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
-      <jump line="165" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" />
-      <jump line="139" column="26" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/nlu/qaTest.java" />
       <jump line="7" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="53" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="54" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
@@ -262,10 +258,14 @@
       <jump line="186" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" />
       <jump line="84" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
       <jump line="78" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
+      <jump line="54" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
+      <jump line="111" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
+      <jump line="109" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
+      <jump line="15" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ha</text>
+        <text>i* 15</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -361,7 +361,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ha</text>
+        <text>i* 15</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
