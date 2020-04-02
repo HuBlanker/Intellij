@@ -20,15 +20,16 @@
         <mark key="." line="215" column="53" />
         <mark key="^" line="215" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1585806872011">
-        <mark key="[" line="179" column="39" />
-        <mark key="]" line="179" column="40" />
-        <mark key="." line="179" column="40" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1585807642036">
+        <mark key="[" line="162" column="26" />
+        <mark key="]" line="162" column="26" />
+        <mark key="." line="162" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/utils/base/Tool.java" timestamp="1585751235645">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="134" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/BrandHandlerV2.java" timestamp="1585808158430" />
       <file name="$USER_HOME$/workspace/zp-client/scripts/nlu_data.thrift" timestamp="1584523815429">
         <mark key="'" line="3" column="0" />
       </file>
@@ -51,7 +52,7 @@
         <mark key="." line="215" column="64" />
         <mark key="^" line="186" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1585806679704" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" timestamp="1585808073188" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/stats/geek_bucket_active.txt" timestamp="1585555114577">
         <mark key="'" line="413" column="0" />
       </file>
@@ -74,6 +75,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/internal_run.sh" timestamp="1583823812531">
         <mark key="'" line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/col/JTopCollector.java" timestamp="1585808087217" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/nlu/wordslot/SynonymDict.java" timestamp="1584582692005">
         <mark key="'" line="98" column="4" />
       </file>
@@ -247,7 +249,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text>45742896L</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -343,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>45742896L</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
