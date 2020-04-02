@@ -45,6 +45,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler.java" timestamp="1585821890641">
+        <mark key="[" line="191" column="78" />
+        <mark key="]" line="191" column="107" />
+        <mark key="." line="191" column="107" />
+        <mark key="^" line="191" column="107" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" timestamp="1585817146346">
         <mark key="[" line="67" column="40" />
         <mark key="]" line="67" column="58" />
@@ -265,8 +271,8 @@
       <jump line="15" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/TopCollector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.params4B.bossId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9zLndyaXRlKCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -371,10 +377,10 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWxsLnNpemUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9zLndyaXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQodGhpcy5wcS5wb3AoKS5kb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -401,10 +407,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodGhpcy5wcS5zaXplKCkgPiAwKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBaSGl0UXVldWUgcHEgPSB0aGlzLnBxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQodGhpcy5wcS5wb3AoKS5kb2MpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -437,7 +443,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodGhpcy5wcS5zaXplKCkgPiAwKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -461,16 +467,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQodGhpcy5wcS5wb3AoKS5kb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBaSGl0UXVldWUgcHEgPSB0aGlzLnBxOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgWkhpdFF1ZXVlIHBxID0gdGhpcy5wcTsKLy8gICAgICAgIGZvciAoWlNjb3JlRG9jIHpTY29yZURvYyA6IHRoaXMucHEpIHsKLy8KLy8gICAgICAgIH0KICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB3aGlsZSAodGhpcy5wcS5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgIGxpc3QuYWRkKHRoaXMucHEucG9wKCkuZG9jKTsKICAgICAgICB9CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT09PT09PT09bGlzdD17fSIsIGxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQodGhpcy5wcS5wb3AoKS5kb2MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZ2lkcz17fSIsICk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgWkhpdFF1ZXVlIHBxID0gdGhpcy5wcTsKLy8gICAgICAgIGZvciAoWlNjb3JlRG9jIHpTY29yZURvYyA6IHRoaXMucHEpIHsKLy8KLy8gICAgICAgIH0KICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB3aGlsZSAodGhpcy5wcS5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgIGxpc3QuYWRkKHRoaXMucHEucG9wKCkuZG9jKTsKICAgICAgICB9CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT09PT09PT09bGlzdD17fSIsIGxpc3QpOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
