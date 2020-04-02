@@ -42,6 +42,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/JobItem2StreamMain.java" timestamp="1583940206917">
         <mark key="'" line="71" column="29" />
       </file>
+      <file name="$USER_HOME$/study/open-source/lucene-old/lucene-8.0.0/lucene-solr-releases-lucene-solr-8.0.0/lucene/core/src/java/org/apache/lucene/index/IndexWriter.java" timestamp="1585828119861" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1583757623724">
         <mark key="'" line="462" column="47" />
       </file>
@@ -51,6 +52,9 @@
         <mark key="]" line="141" column="41" />
         <mark key="." line="141" column="41" />
         <mark key="^" line="141" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1585828156299">
+        <mark key="'" line="345" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/c/BrandJobCollectorV2.java" timestamp="1585817146346">
         <mark key="[" line="67" column="40" />
@@ -170,10 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeChecker.java" />
-      <jump line="591" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="161" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-08/select_less_recall.sh" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/zp-search2/cron/bx-gateway-08/select_less_recall.sh" />
       <jump line="178" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/ExpectWrapper.java" />
       <jump line="55" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/RebuildExpectRecallMain.java" />
       <jump line="54" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" />
@@ -270,6 +270,10 @@
       <jump line="65" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler.java" />
       <jump line="87" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler.java" />
       <jump line="88" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler.java" />
+      <jump line="402" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
+      <jump line="245" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
+      <jump line="334" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
+      <jump line="345" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -372,7 +376,7 @@
         <text>ignore_c</text>
       </register>
       <register name="/" type="4">
-        <text>fos</text>
+        <text>submit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGEgPSAiaWdub3JlX2MiICsgam9iLmlkOwogICAgICAgICAgICAgICAgICAgICAgICBmb3Mud3JpdGUoYS5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -495,9 +499,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fos</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>fos</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace>,&quot;</last-replace>
       <last-substitute>-----</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +509,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cache</entry>
         <entry>hide</entry>
         <entry>extra_</entry>
         <entry>extra</entry>
@@ -525,6 +528,7 @@
         <entry>history</entry>
         <entry>error</entry>
         <entry>fos</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_new_1231//g</entry>
