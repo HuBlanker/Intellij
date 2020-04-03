@@ -119,16 +119,15 @@
         <mark key="." line="574" column="72" />
         <mark key="^" line="574" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585904830265">
-        <mark key="'" line="139" column="25" />
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="388" column="0" />
-        <mark key="." line="388" column="0" />
-        <mark key="^" line="386" column="25" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1585905605738">
+        <mark key="'" line="360" column="15" />
+        <mark key="[" line="391" column="50" />
+        <mark key="]" line="392" column="36" />
+        <mark key="." line="392" column="36" />
+        <mark key="^" line="392" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
       <jump line="46" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
       <jump line="47" column="91" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
       <jump line="53" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" />
@@ -228,10 +227,11 @@
       <jump line="45" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/service/ExpectRecallSearchMain.java" />
       <jump line="266" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="139" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="355" column="15" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>doneBuild</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -327,13 +327,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dz</text>
+        <text>doneBuild</text>
       </register>
       <register name="/" type="4">
         <text>dz</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdC5pbmNyQW5kR2V0KCJpZ25vcmVfZHoiKTsKICAgICAgICAgICAgYWRkRGVidWdMb2coImlnbm9yZV9keiIsIGdlZWspOwogICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXRvbWljQm9vbGVhbiBkb25lQnVpbGQgPSBuZXcgQXRvbWljQm9vbGVhbihmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
