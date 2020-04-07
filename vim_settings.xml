@@ -35,10 +35,11 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1585909822887">
-        <mark key="[" line="51" column="74" />
-        <mark key="]" line="51" column="79" />
-        <mark key="." line="51" column="79" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1586245248918">
+        <mark key="'" line="431" column="143" />
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="82" column="11" />
+        <mark key="." line="82" column="11" />
         <mark key="^" line="51" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/DebugFlag.java" timestamp="1585917326066">
@@ -86,12 +87,18 @@
         <mark key="." line="139" column="79" />
         <mark key="^" line="139" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F24BResult.java" timestamp="1586240162594">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" timestamp="1586245616354">
+        <mark key="'" line="130" column="46" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F24BResult.java" timestamp="1586245018649">
         <mark key="'" line="200" column="88" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
         <mark key="^" line="198" column="11" />
-        <mark key="." line="200" column="0" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1585901758746">
         <mark key="'" line="138" column="14" />
@@ -100,14 +107,14 @@
         <mark key="." line="574" column="72" />
         <mark key="^" line="574" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1586244123381" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1586245221498">
+        <mark key="'" line="78" column="13" />
+      </file>
       <file name="/fragment.java" timestamp="1585911240810">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="711" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
-      <jump line="712" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="731" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="669" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="343" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
@@ -206,10 +213,12 @@
       <jump line="145" column="74" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="766" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="536" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="78" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="431" column="143" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -305,7 +314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>dz</text>
@@ -314,10 +323,10 @@
         <text encoding="base64">ICAgICAgICAgICAgI2lmKCAkZ2Vla1N0YXRpYy5pZCA8IDApIDxzcGFuIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiB5ZWxsb3ciPuW6lzwvc3Bhbj4gI2VuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnJlY2FsbC5yZWJ1aWxkLlN0YXRpY0RhdGFUcmFuc2Zlci5jaGVja0VtcHR5TGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnJlY2FsbC5yZWJ1aWxkLlN0YXRpY0RhdGFUcmFuc2Zlci5jaGVja0VtcHR5TGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlZWtJZHNBbGwgPSBnZWVrSWRzQWwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -347,7 +356,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g562J5LiA5LyaaGlzdG9yeURiCi8vICAgICAgICAgICAgZm9yICg7IDsgKSB7Ci8vICAgICAgICAgICAgICAgIGlmIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIG1heFRzID49IDIwMDApIGJyZWFrOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB0aWNrZXIudGljaygid2FpdCIpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -380,7 +389,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyDlkozlj6zmmZbnoa7lrprov5nph4znmoTpgLvovpHmmK8sIOWPkeeUn+S6huaWsOeahOi/h+a7pCwg5ZCM5q2l5YiwY2FjaGUsIOeEtuWQjuaKiumAu+i+keaUueato+ehri4gKHBmbGl1KQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -404,16 +413,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEtleT4ga2V5cyA9IGdlZWtJZHMuc3RyZWFtKCkubWFwKGlkIC0+IG5ldyBLZXkoaWQgKyAiIiwgQmFzZUltcG9ydGVyLkZJWEVEX1ZFUlNJT04pKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgIExpc3Q8SXRlbT4gaXRlbXMgPSBoaXN0b3J5RGJDbGllbnRzLk1HZXQoa2V5cyk7CiAgICAgICAgTGlzdDxHZWVrU3RhdGljPiBnZWVrcyA9IERhdGFTZXJpYWxpemVyLmRlc2VyaWFsaXplRGF0YXMoZGVzZXJpYWxpemVyLCBpdGVtcywgR2Vla1N0YXRpYzo6bmV3LCBnIC0+IHRydWUsIEdlZWtTdGF0aWNIZWxwZXI6OmZpeFJlbGF0aW9uSW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8g5piv5ZCm5bCR5LqG5LiA5Lqb6L+H5rukLCDkuI3nnIvnjI7lpLTku4DkuYjnmoQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnJlY2FsbC5yZWJ1aWxkLlN0YXRpY0RhdGFUcmFuc2Zlci5jaGVja0VtcHR5TGlzdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uemhpcGluLnJlY2FsbC5yZWJ1aWxkLlN0YXRpY0RhdGFUcmFuc2Zlci5jaGVja0VtcHR5TGlzdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBjaGVja0VtcHR5TGlzdChMaXN0PD8+IGl0ZW1zKSB7CiAgICAgICAgaWYgKGl0ZW1zID09IG51bGwgfHwgaXRlbXMuc2l6ZSgpID09IDApIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
