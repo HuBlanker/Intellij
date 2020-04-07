@@ -40,11 +40,11 @@
         <mark key="." line="27" column="48" />
         <mark key="^" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" timestamp="1586231998775">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="269" column="44" />
-        <mark key="^" line="269" column="44" />
-        <mark key="." line="269" column="44" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F2ForBossHandler.java" timestamp="1586232761901">
+        <mark key="[" line="271" column="66" />
+        <mark key="]" line="271" column="66" />
+        <mark key="^" line="270" column="118" />
+        <mark key="." line="271" column="66" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1586231338560" />
       <file name="$MAVEN_REPOSITORY$/com/zhipin/zp-search2/0.1/zp-search2-0.1.jar!/com/zhipin/SearchDebugFlags.class" timestamp="1585917267961" />
@@ -176,8 +176,8 @@
       <jump line="99" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuc3luY2hyb25pemVkTGlzdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>!req.includeDianzhang</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -273,7 +273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MODEL</text>
+        <text>!req.includeDianzhang</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
