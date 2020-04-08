@@ -32,10 +32,10 @@
         <mark key="^" line="85" column="15" />
         <mark key="." line="85" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ParserHDFSMain.java" timestamp="1586331015051">
-        <mark key="'" line="143" column="45" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="140" column="6" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ParserHDFSMain.java" timestamp="1586354287679">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="26" />
       </file>
       <file name="/F24BResult.java" timestamp="1586239635858" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/recall/rebuild/StaticDataTransfer.java" timestamp="1586240810828">
@@ -170,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="68" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" />
       <jump line="247" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler2.java" />
       <jump line="35" column="9" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/internal/InternalServerTest.java" />
       <jump line="450" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
@@ -270,10 +269,11 @@
       <jump line="405" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="406" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="140" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ParserHDFSMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, HistoryDbLoader.cleanGeek</text>
+        <text>ParserHDFSMain</text>
       </register>
       <register name="d" type="4">
         <keys>
