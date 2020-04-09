@@ -29,11 +29,11 @@
         <mark key="[" line="186" column="0" />
         <mark key="]" line="187" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1586421766497">
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="303" column="0" />
-        <mark key="^" line="293" column="38" />
-        <mark key="." line="303" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1586422277166">
+        <mark key="[" line="267" column="48" />
+        <mark key="]" line="267" column="66" />
+        <mark key="^" line="644" column="27" />
+        <mark key="." line="267" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1585898719964">
         <mark key="'" line="196" column="26" />
@@ -275,8 +275,8 @@
       <jump line="96" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobCardBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>User.STATUS_NORMAL</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -377,8 +377,8 @@
       <register name="/" type="4">
         <text>isD</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgVGhyZWFkUG9vbEV4ZWN1dG9yIHdwID0gY29tLmJvc3N6aGlwaW4uY29tbW9uLlV0aWxzLm5ld1Bvb2woMiwgMTAsICJjdyIpOwogICAgICAgICAgICBmaW5hbCBUaHJlYWRQb29sRXhlY3V0b3IgcnAgPSBjb20uYm9zc3poaXBpbi5jb21tb24uVXRpbHMubmV3UG9vbCgxMCwgMjAsICJjciIpOwo=</text>
+      <register name="0" type="4">
+        <text>User.STATUS_NORMAL</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
