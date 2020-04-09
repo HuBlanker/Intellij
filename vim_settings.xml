@@ -66,6 +66,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/GeekStaticHelper.java" timestamp="1586352157561">
         <mark key="]" line="45" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1586427191150">
+        <mark key="[" line="135" column="46" />
+        <mark key="]" line="135" column="63" />
+        <mark key="^" line="135" column="43" />
+        <mark key="." line="135" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobCardBuilder.java" timestamp="1586416335711">
         <mark key="'" line="106" column="13" />
       </file>
@@ -266,7 +272,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8.22-SNAPSHOT</text>
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -362,13 +368,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8.22-SNAPSHOT</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>isD</text>
       </register>
       <register name="0" type="4">
-        <text>User.STATUS_NORMAL</text>
+        <text>Integer.MAX_VALUE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIOa1i+ivleS7o+eggQogICAgICAgICAgICBpZiAocmVxLmJvc3NJZCA9PSAxMDYxODMwNjczIHx8IHJlcS5ib3NzSWQgPT0gMTA2MTgzMDY4OCB8fCByZXEuYm9zc0lkID09IDEwNjE4MzEzMzkpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJ0ZXN0LXJlc3A6IiArIGZhbHNlICsgMSk7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IENoYXRDYXJkQmxvY2tSZXNwKGZhbHNlLCAxKTsKICAgICAgICAgICAgfQoK</text>
