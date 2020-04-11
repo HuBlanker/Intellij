@@ -24,10 +24,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossW2v.java" timestamp="1586447771929">
-        <mark key="[" line="6" column="31" />
-        <mark key="." line="6" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1586579455363">
         <mark key="[" line="305" column="0" />
         <mark key="]" line="305" column="0" />
@@ -74,7 +70,9 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" timestamp="1586585035373" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" timestamp="1586588793348">
+        <mark key="'" line="415" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1586350202671">
         <mark key="'" line="140" column="36" />
       </file>
@@ -101,7 +99,10 @@
         <mark key="." line="155" column="77" />
         <mark key="^" line="155" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1586582620705" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1586588455354">
+        <mark key="'" line="124" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/DebugInfo.java" timestamp="1586588824723" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchHandler.java" timestamp="1586583461273" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1586349734180">
         <mark key="'" line="166" column="51" />
@@ -115,14 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
-      <jump line="345" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/LuceneTest.java" />
-      <jump line="482" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="139" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" />
-      <jump line="140" column="81" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" />
-      <jump line="261" column="96" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F24BResult.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="196" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
       <jump line="138" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="195" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
@@ -215,6 +208,14 @@
       <jump line="80" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
       <jump line="24" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="22" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" />
+      <jump line="124" column="73" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" />
+      <jump line="381" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="467" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="468" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="469" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="470" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="313" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
+      <jump line="415" column="59" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -317,7 +318,7 @@
         <text>03</text>
       </register>
       <register name="/" type="4">
-        <text>chat</text>
+        <text>e_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgPT0gZ2VlaykgY29udGludWU7CiAgICAgICAgICAgIEdlZWtDYXJkIGdlZWtDYXJkID0gbG9hZEdlZWtDYXJkKGdlZWssIHBhcmFtKTsKICAgICAgICAgICAgZ2Vla0NhcmRzLmFkZChnZWVrQ2FyZCk7Cg==</text>
@@ -440,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>chat</last-search>
+      <last-search>e_</last-search>
       <last-offset />
-      <last-pattern>chat</last-pattern>
+      <last-pattern>e_</last-pattern>
       <last-replace>JobStatic</last-replace>
       <last-substitute>ZpJob</last-substitute>
       <last-dir>1</last-dir>
@@ -450,9 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry>fos</entry>
-        <entry>submit</entry>
         <entry>limit</entry>
         <entry>====</entry>
         <entry>===</entry>
@@ -470,6 +468,9 @@
         <entry>cron</entry>
         <entry>no_boss</entry>
         <entry>chat</entry>
+        <entry>g7_t0</entry>
+        <entry>debug</entry>
+        <entry>e_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/zhipin/huyan/g</entry>
