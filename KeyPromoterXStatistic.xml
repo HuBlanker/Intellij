@@ -2353,6 +2353,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ResumeSearchMainTest.QuerySuggestTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ResumeSearchMainTest.QuerySuggestTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ResumeSearchMainTest.geekCountTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
