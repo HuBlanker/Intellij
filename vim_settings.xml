@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" timestamp="1586572378076">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeRebuildMain.java" timestamp="1586762385587">
-        <mark key="'" line="257" column="0" />
-        <mark key="[" line="88" column="39" />
-        <mark key="]" line="88" column="51" />
-        <mark key="^" line="88" column="51" />
-        <mark key="." line="88" column="51" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeRebuildMain.java" timestamp="1586765559016">
+        <mark key="'" line="154" column="25" />
+        <mark key="[" line="128" column="25" />
+        <mark key="]" line="128" column="51" />
+        <mark key="^" line="128" column="51" />
+        <mark key="." line="128" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" timestamp="1586600226417">
         <mark key="[" line="93" column="52" />
@@ -175,12 +175,17 @@
         <mark key="^" line="80" column="9" />
       </file>
       <file name="/HHResumeRebuildMain.java" timestamp="1586758519691" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/subscribe/SubscribeConditionRebuildMain.java" timestamp="1586765681502">
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="39" />
+        <mark key="^" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1586490441974">
         <mark key="'" line="97" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="406" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="140" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ParserHDFSMain.java" />
@@ -280,10 +285,11 @@
       <jump line="223" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHGeekWrapper.java" />
       <jump line="257" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeRebuildMain.java" />
       <jump line="1116" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" />
+      <jump line="154" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeRebuildMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+      <register name="&quot;" type="4">
+        <text>garbageResume</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -379,13 +385,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e.getPositionname(),</text>
+        <text>garbageResume</text>
       </register>
       <register name="/" type="4">
         <text>expect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnaS5ldmVudFRzID0gKGludCkgKGdlZWtFeHRyYS5ldmVudFRpbWUuZ2V0VGltZSgpIC8gMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiLCBnYXJiYWdlUmVzdW1lPSIgKyBnYXJiYWdlUmVzdW1lICsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqCg==</text>
