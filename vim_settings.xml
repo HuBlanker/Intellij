@@ -159,6 +159,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/BaseImporter.java" timestamp="1586851025938">
+        <mark key="m" line="63" column="53" />
+      </file>
       <file name="$USER_HOME$/data/flink/quickstart/src/main/java/org/myorg/quickstart/zp/actionStreamingJob.java" timestamp="1586772056265">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="44" column="57" />
@@ -226,12 +229,14 @@
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/scripts/gen.sh" timestamp="1586850763372">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1586490441974">
         <mark key="'" line="97" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="22" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
       <jump line="177" column="10" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
       <jump line="38" column="72" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
       <jump line="178" column="18" filename="$USER_HOME$/workspace/zp-search2/Rakefile" />
@@ -331,6 +336,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/data-common/pom.xml" />
       <jump line="64" column="30" filename="$USER_HOME$/data/flink/quickstart/src/main/java/org/myorg/quickstart/zp/ActionStreamingJob.java" />
       <jump line="43" column="30" filename="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/KafkaTest.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/gen.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -433,7 +439,7 @@
         <text>adienTest2</text>
       </register>
       <register name="/" type="4">
-        <text>gson</text>
+        <text>history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYS5hY3MuYWRkQWxsKGIuYWNzKTsK</text>
@@ -556,9 +562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gson</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern>gson</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-replace>JobStatic</last-replace>
       <last-substitute>ZpJob</last-substitute>
       <last-dir>1</last-dir>
@@ -566,7 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cron</entry>
         <entry>no_boss</entry>
         <entry>g7_t0</entry>
         <entry>debug</entry>
@@ -586,6 +591,7 @@
         <entry>guava</entry>
         <entry>Gson</entry>
         <entry>gson</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry>%s/zhipin/huyan/g</entry>
