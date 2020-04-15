@@ -133,11 +133,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" timestamp="1586746640874">
         <mark key="'" line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1586855756936">
-        <mark key="'" line="249" column="44" />
-        <mark key="[" line="216" column="42" />
-        <mark key="]" line="216" column="42" />
-        <mark key="." line="216" column="42" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1586934102494">
+        <mark key="'" line="82" column="43" />
+        <mark key="[" line="209" column="42" />
+        <mark key="]" line="209" column="42" />
+        <mark key="." line="209" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfileNew.java" timestamp="1586445945026">
         <mark key="'" line="64" column="24" />
@@ -243,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ChatCardBlockHandler.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="22" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" />
       <jump line="124" column="73" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" />
       <jump line="381" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
@@ -255,7 +253,6 @@
       <jump line="313" column="80" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
       <jump line="415" column="59" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" />
       <jump line="13" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ChatCardBlockEval.java" />
-      <jump line="223" column="32" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/ChatCardBlockEval.java" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="132" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
@@ -343,10 +340,13 @@
       <jump line="195" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeSearchHandler.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeSearchHandler.java" />
       <jump line="123" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeRebuildMain.java" />
+      <jump line="223" column="32" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
+      <jump line="81" column="73" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
+      <jump line="82" column="43" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>26666</text>
+        <text>devClients</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -442,10 +442,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>26666</text>
+        <text>devClients</text>
       </register>
       <register name="/" type="4">
-        <text>history</text>
+        <text>count</text>
       </register>
       <register name="0" type="4">
         <text>e.expectType == ExpectType.PRACTICE.code</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>history</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>history</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>JobStatic</last-replace>
       <last-substitute>ZpJob</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>g7_t0</entry>
         <entry>debug</entry>
         <entry>e_</entry>
         <entry>event</entry>
@@ -598,6 +597,7 @@
         <entry>chat</entry>
         <entry>split</entry>
         <entry>history</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry>%s/zhipin/huyan/g</entry>
