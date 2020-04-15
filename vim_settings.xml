@@ -67,8 +67,8 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="40" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekLoadParam2.java" timestamp="1586964070153">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekLoadParam2.java" timestamp="1586965722767">
+        <mark key="'" line="268" column="24" />
         <mark key="[" line="188" column="98" />
         <mark key="]" line="188" column="98" />
         <mark key="." line="188" column="98" />
@@ -90,7 +90,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1586948351113">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1586965884395">
         <mark key="'" line="529" column="39" />
         <mark key="[" line="529" column="0" />
         <mark key="]" line="529" column="103" />
@@ -195,7 +195,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1586964381291">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" timestamp="1586965946407">
+        <mark key="'" line="341" column="19" />
         <mark key="[" line="392" column="33" />
         <mark key="]" line="392" column="42" />
         <mark key="." line="392" column="42" />
@@ -220,8 +221,8 @@
         <mark key="." line="155" column="77" />
         <mark key="^" line="155" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1586964419996">
-        <mark key="'" line="205" column="55" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" timestamp="1586965988684">
+        <mark key="'" line="95" column="12" />
         <mark key="[" line="206" column="52" />
         <mark key="]" line="206" column="52" />
         <mark key="." line="206" column="52" />
@@ -257,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="607" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
-      <jump line="285" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="750" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" />
       <jump line="381" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" />
@@ -357,6 +355,9 @@
       <jump line="433" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekLoadParam2.java" />
       <jump line="205" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" />
+      <jump line="268" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekLoadParam2.java" />
+      <jump line="341" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchReq.java" />
+      <jump line="95" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekSearchResult.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -459,7 +460,7 @@
         <text>r.zpUserDBApi,</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text encoding="base64">TGlzdDxHZWVrPiBjYXJkcyA9IFJlc3VtZUhlbHBlcnMubG9hZEdlZWtzKHIsIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcG9zaXRpb25OYW1lID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICBpZiAoZS5leHBlY3RUeXBlID09IEV4cGVjdFR5cGUuUFJBQ1RJQ0UuY29kZSkgewogICAgICAgICAgICAgICAgICAgICAgICBwb3NpdGlvbk5hbWUgPSBQb3NpdGlvbk5ldy5nZXQoZS5wb3NpdGlvbikubmFtZTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBwb3NpdGlvbk5hbWUgPSBQb3NpdGlvbnMyLmdldChlLnBvc2l0aW9uKS5uYW1lOwogICAgICAgICAgICAgICAgICAgIH0K</text>
@@ -582,9 +583,9 @@
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search encoding="base64">TGlzdDxHZWVrPiBjYXJkcyA9IFJlc3VtZUhlbHBlcnMubG9hZEdlZWtzKHIsIA==</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern encoding="base64">TGlzdDxHZWVrPiBjYXJkcyA9IFJlc3VtZUhlbHBlcnMubG9hZEdlZWtzKHIsIA==</last-pattern>
       <last-replace>JobStatic</last-replace>
       <last-substitute>ZpJob</last-substitute>
       <last-dir>1</last-dir>
@@ -592,9 +593,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
-        <entry>e_</entry>
-        <entry>event</entry>
         <entry>eventTs</entry>
         <entry>work_position</entry>
         <entry>epn</entry>
@@ -612,6 +610,9 @@
         <entry>split</entry>
         <entry>history</entry>
         <entry>count</entry>
+        <entry>int pos = Integer.parseInt(filters.get(POSITION));</entry>
+        <entry encoding="base64">TGlzdDxHZWVrPiBjYXJkcyA9IFJlc3VtZUhlbHBlcnMubG9hZEdlZWtzKGlkcywgcmVxLmJ1aWxkUGFyYW1zKG1hdGNoTWFwKSw=</entry>
+        <entry encoding="base64">TGlzdDxHZWVrPiBjYXJkcyA9IFJlc3VtZUhlbHBlcnMubG9hZEdlZWtzKHIsIA==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/zhipin/huyan/g</entry>
