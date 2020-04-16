@@ -2697,6 +2697,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ZpBaseKafkaProducer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ZpBaseKafkaProducer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'b_query_more_10_premark'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
