@@ -13,10 +13,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/boss/BossSearchMain.java" timestamp="1586961010111" />
-      <file name="$USER_HOME$/workspace/data-common/src/test/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducerTest.java" timestamp="1587017558446">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/workspace/data-common/src/test/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducerTest.java" timestamp="1587021163610">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
         <mark key="^" line="20" column="68" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/KafkaTest.java" timestamp="1587017602350">
@@ -409,8 +409,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>20</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -506,7 +506,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>earliest</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>kafka</text>
