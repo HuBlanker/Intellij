@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" timestamp="1587034915174">
-        <mark key="'" line="264" column="0" />
-        <mark key="[" line="130" column="46" />
-        <mark key="]" line="131" column="26" />
-        <mark key="." line="131" column="26" />
-        <mark key="^" line="131" column="26" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" timestamp="1587051939360">
+        <mark key="'" line="276" column="0" />
+        <mark key="[" line="129" column="47" />
+        <mark key="]" line="130" column="38" />
+        <mark key="." line="130" column="38" />
+        <mark key="^" line="130" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" timestamp="1586760184425">
         <mark key="[" line="342" column="9" />
@@ -118,7 +118,7 @@
         <mark key="." line="63" column="31" />
         <mark key="^" line="63" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/Kafka2StreamMain.java" timestamp="1587034643710">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/Kafka2StreamMain.java" timestamp="1587051250446">
         <mark key="'" line="126" column="27" />
         <mark key="[" line="188" column="0" />
         <mark key="]" line="196" column="5" />
@@ -415,7 +415,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -511,7 +511,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>modify</text>
@@ -520,10 +520,10 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gYmF0Y2ggYW5kIHByb2R1Y2VyIGdlZWsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwcm9kdWNlclRocmVhZE51bTsgaSsrKSB7CiAgICAgICAgICAgICAgICBwcm9kdWNlclBvb2wuZXhlY3V0ZSgoKS0+KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlQ29tcHV0ZVByb2R1Y2VyNEdlZWsuc2VuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -550,10 +550,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwcm9kdWNlclRocmVhZE51bTsgaSsrKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -586,7 +586,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -610,16 +610,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlQ29tcHV0ZVByb2R1Y2VyNEdlZWsuc2VuZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdGFydCAgY29uc3VtZSBnZWVrIHN0YXRpYyBpbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICBnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdGFydCAgY29uc3VtZSBnZWVrIHN0YXRpYyBpbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="y" type="4">
         <keys>

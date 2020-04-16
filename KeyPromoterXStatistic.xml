@@ -854,7 +854,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7543</Count>
+          <Count>7544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -3966,6 +3966,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ZpBaseKafkaProducer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ZpBaseKafkaProducerTest.buildKafkaProducer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ZpBaseKafkaProducerTest.buildKafkaProducer'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
