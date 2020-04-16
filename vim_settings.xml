@@ -33,11 +33,8 @@
         <mark key="." line="46" column="94" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0.jar!/org/apache/kafka/clients/producer/internals/DefaultPartitioner.class" timestamp="1587017735455" />
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducer.java" timestamp="1587017481472">
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducer.java" timestamp="1587019332840">
         <mark key="'" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobCardBuilder.java" timestamp="1586609119384">
-        <mark key="'" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchResult.java" timestamp="1586592817798" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekLoadParam2.java" timestamp="1586965722767">
@@ -83,24 +80,23 @@
         <mark key="." line="123" column="24" />
         <mark key="^" line="123" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Utils.java" timestamp="1586772792423">
+        <mark key="'" line="346" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/util/EduHelper.java" timestamp="1586746640874">
         <mark key="'" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" timestamp="1587018639747">
         <mark key="'" line="82" column="43" />
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-        <mark key="^" line="25" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1586759825562">
         <mark key="'" line="63" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaConsumer.java" timestamp="1587018164265">
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaConsumer.java" timestamp="1587019238830">
         <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="45" />
-        <mark key="." line="20" column="45" />
-        <mark key="^" line="20" column="49" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1587008089685">
         <mark key="'" line="226" column="24" />
@@ -240,10 +236,10 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/partitioner/UserIdKafkaPartitioner.java" timestamp="1587017621967">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/partitioner/UserIdKafkaPartitioner.java" timestamp="1587019359261">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/data/flink/quickstart/pom.xml" timestamp="1586772878805">
@@ -277,11 +273,14 @@
         <mark key="^" line="58" column="21" />
         <mark key="." line="58" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/data-common/src/test/java/com/bosszhipin/common/kafka/ZpBaseKafkaConsumerTest.java" timestamp="1587018002688">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="12" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekRanker4S.java" timestamp="1586588793348">
+        <mark key="'" line="415" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/data-common/src/test/java/com/bosszhipin/common/kafka/ZpBaseKafkaConsumerTest.java" timestamp="1587019068367">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/runs/hh_resume_run.sh" timestamp="1586854011299">
         <mark key="[" line="4" column="0" />
@@ -410,8 +409,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>70141596</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -507,7 +506,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>70141596</text>
+        <text>earliest</text>
       </register>
       <register name="/" type="4">
         <text>kafka</text>
@@ -515,12 +514,12 @@
       <register name="0" type="4">
         <text>localhost:31214</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>System.out.println
 System.out.println</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygia2V5PXt9LCB2YWx1ZT17fSIsIGl0ZXJhdG9yKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -547,10 +546,10 @@ System.out.println</text>
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygia2V5PXt9LCB2YWx1ZT17fSIsIGl0ZXJhdG9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -583,7 +582,7 @@ System.out.println</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QElnbm9yZQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -610,13 +609,13 @@ System.out.println</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgRXhlY3V0aW9uRXhjZXB0aW9uLCBJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBFeGVjdXRpb25FeGNlcHRpb24sIEludGVycnVwdGVkRXhjZXB0aW9uIHsKCiAgICAgICAgU3RyaW5nIHRvcGljID0gInRlc3QiOwogICAgICAgIEthZmthUHJvZHVjZXI8U3RyaW5nLCBTdHJpbmc+IHByb2R1Y2VyID0gYnVpbGRLYWZrYVByb2R1Y2VyKCJsb2NhbGhvc3Q6OTA5MiIsIFVzZXJJZEthZmthUGFydGl0aW9uZXIuY2xhc3MuZ2V0TmFtZSgpKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDIwOyBpKyspIHsKICAgICAgICAgICAgU3RyaW5nIGtleSA9IGkgKyAiIjsKICAgICAgICAgICAgU3RyaW5nIHZhbHVlID0gIui/meaYr+esrCIgKyBpICsgIuadoea2iOaBry4iOwogICAgICAgICAgICBGdXR1cmU8UmVjb3JkTWV0YWRhdGE+IGFhYSA9IHByb2R1Y2VyLnNlbmQobmV3IFByb2R1Y2VyUmVjb3JkPD4odG9waWMsIGtleSwgdmFsdWUpKTsKICAgICAgICAgICAgUmVjb3JkTWV0YWRhdGEgcmVjb3JkTWV0YWRhdGEgPSBhYWEuZ2V0KCk7CiAgICAgICAgICAgIGxvZy5pbmZvKCJrZXk9e30sIHZhbHVlPXt9LCBwYXJ0aXRpb249e30iLCBrZXksIHZhbHVlLCByZWNvcmRNZXRhZGF0YS5wYXJ0aXRpb24oKSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgRXhlY3V0aW9uRXhjZXB0aW9uLCBJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
