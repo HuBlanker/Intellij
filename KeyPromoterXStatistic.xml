@@ -854,7 +854,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7544</Count>
+          <Count>7548</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -3487,6 +3487,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Main'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MessagePreProcessingMain'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MessagePreProcessingMain'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MiscHandlerTest'">
