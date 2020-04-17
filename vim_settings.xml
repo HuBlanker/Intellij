@@ -254,6 +254,13 @@
         <mark key="]" line="98" column="21" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1587088448583">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="196" column="23" />
+        <mark key="]" line="196" column="28" />
+        <mark key="." line="196" column="28" />
+        <mark key="^" line="196" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHGeekWrapper.java" timestamp="1586917962068">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="208" column="20" />
@@ -312,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/resume/ResumeSearchMainTest.java" />
       <jump line="560" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="147" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeRebuildMain.java" />
       <jump line="112" column="51" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHResumeRebuildMain.java" />
@@ -412,10 +418,11 @@
       <jump line="50" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
       <jump line="246" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
       <jump line="126" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/Kafka2StreamMain.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIAo=</text>
+      <register name="&quot;" type="4">
+        <text>33</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -511,10 +518,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>33</text>
       </register>
       <register name="/" type="4">
-        <text>modify</text>
+        <text>blue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gYmF0Y2ggYW5kIHByb2R1Y2VyIGdlZWsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwcm9kdWNlclRocmVhZE51bTsgaSsrKSB7CiAgICAgICAgICAgICAgICBwcm9kdWNlclBvb2wuZXhlY3V0ZSgoKS0+KTsKICAgICAgICAgICAgfQo=</text>
@@ -637,9 +644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>modify</last-search>
+      <last-search>blue</last-search>
       <last-offset />
-      <last-pattern>modify</last-pattern>
+      <last-pattern>blue</last-pattern>
       <last-replace>JobStatic</last-replace>
       <last-substitute>ZpJob</last-substitute>
       <last-dir>1</last-dir>
@@ -647,8 +654,6 @@
     </search>
     <history>
       <history-search>
-        <entry>expect</entry>
-        <entry>suggest</entry>
         <entry>label</entry>
         <entry>jack</entry>
         <entry>json</entry>
@@ -667,6 +672,8 @@
         <entry>kafka</entry>
         <entry>is_</entry>
         <entry>modify</entry>
+        <entry>bray</entry>
+        <entry>blue</entry>
       </history-search>
       <history-cmd>
         <entry>%s/zhipin/huyan/g</entry>
