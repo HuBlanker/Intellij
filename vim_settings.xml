@@ -51,6 +51,9 @@
         <mark key="^" line="46" column="60" />
         <mark key="." line="46" column="94" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" timestamp="1587375844498">
+        <mark key="'" line="248" column="65" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0.jar!/org/apache/kafka/clients/producer/internals/DefaultPartitioner.class" timestamp="1587017735455" />
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducer.java" timestamp="1587019332840">
         <mark key="'" line="7" column="0" />
@@ -232,12 +235,12 @@
       <file name="$USER_HOME$/workspace/zp-client/scripts/gen.sh" timestamp="1586850763372">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1587179844995">
-        <mark key="'" line="291" column="63" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="146" column="66" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1587376846655">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="142" column="66" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1586490441974">
         <mark key="'" line="97" column="22" />
@@ -397,19 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="137" column="4" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="154" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="152" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="156" column="37" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="172" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="146" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="238" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
-      <jump line="209" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
       <jump line="88" column="86" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
       <jump line="219" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
       <jump line="80" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePreProcessingMain.java" />
@@ -497,10 +487,23 @@
       <jump line="125" column="0" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/CommonConfigs.java" />
       <jump line="268" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/actioncheck/BusinessLicenseHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
+      <jump line="216" column="16" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="217" column="16" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="218" column="16" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="223" column="56" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="224" column="71" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="32" column="21" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="71" column="20" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="128" column="116" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="167" column="8" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="247" column="28" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="248" column="65" filename="$USER_HOME$/workspace/zp-search2/cron/bxv-bosssearchbuilder-01/zp_resume2_rebuild.sh" />
+      <jump line="200" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.zhipin.feature.compute.preparse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -605,10 +608,10 @@
         <text>produce_kafka_servers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uZmVhdHVyZS5jb21wdXRlLnByZS5EZWxheVF1ZXVlNEV2ZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8g5b2T5YmN57q/5LiK55So55qEc3RyZWFtLCDnnIvnnIvopoHkuI3opoHkuIDotbfkvb/nlKhrYWZrYS4KICAgIC8vIGRiLWJpbmxvZyDmlbDmja7mupAuCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -635,10 +638,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBCT1NTX0lEX1RPUElDID0gImV2ZW50X2ZlYXR1cmVfY29tcHV0ZSI7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGJnX2FjdGlvbiDmlbDmja7mupAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uZmVhdHVyZS5jb21wdXRlLnByZXBhcnNlLkRlbGF5UXVldWU0RXZlbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uZmVhdHVyZS5jb21wdXRlLnByZS5EZWxheVF1ZXVlNEV2ZW50Owo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -671,7 +674,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItcHJvZHVjZV9rYWZrYV9ncm91cCIpCiAgICBwcm90ZWN0ZWQgU3RyaW5nIHByb2R1Y2VLYWZrYUdyb3VwID0gImV2ZW50X2ZlYXR1cmVfY29tcHV0ZV9ncm91cCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -695,16 +698,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGFzdFByb2R1Y2VUaW1lID0gMDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBCT1NTX0lEX1RPUElDID0gImV2ZW50X2ZlYXR1cmVfY29tcHV0ZSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHRUVLX0lEX1RPUElDID0gImZlYXR1cmVfY29tcHV0ZV9nZWVrX2lkIjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aGlwaW4uZmVhdHVyZS5jb21wdXRlLnByZXBhcnNlLkRlbGF5UXVldWU0RXZlbnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyDov5nph4znmoRrYWZrYeetieW+hemFjee9ri4K</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItcHJvZHVjZV9rYWZrYV9ncm91cCIpCiAgICBwcm90ZWN0ZWQgU3RyaW5nIHByb2R1Y2VLYWZrYUdyb3VwID0gImV2ZW50X2ZlYXR1cmVfY29tcHV0ZV9ncm91cCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFTEFZX1NFQ09ORFMgPSAyMDsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGFzdFByb2R1Y2VUaW1lID0gMDsK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -732,7 +735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chat</entry>
         <entry>split</entry>
         <entry>history</entry>
         <entry>count</entry>
@@ -751,6 +753,7 @@
         <entry>bossIdQueue.queue(new DelayQueue4Event.Event(0</entry>
         <entry>Collections.singletonList</entry>
         <entry>kafka</entry>
+        <entry>geek</entry>
         <entry>geekitem</entry>
       </history-search>
       <history-cmd>
