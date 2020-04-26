@@ -62,7 +62,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>39</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -70,7 +70,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'BrandJobV2Test.testGray'</Description>
-          <Count>1</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BrandJobV2Test.testJobs'">
@@ -223,6 +223,22 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'FastTextDemo'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'FeatureDbTest.LoadData'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FeatureDbTest.LoadData'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'FeatureDbTest.singleWrite'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FeatureDbTest.singleWrite'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FinderGeekRebuildMain'">
@@ -401,6 +417,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'JobSearchMain'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'JobSearchMain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'JobTitleClean'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -558,7 +582,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ResumeSearchMain'</Description>
-          <Count>9</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ResumeSearchMain.main()'">
@@ -566,7 +590,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'ResumeSearchMain.main()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ResumeSearchMainTest.ChatCardBlockTest'">
@@ -582,7 +606,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ResumeSearchMainTest.testResumeSearchV3'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ResumeSearchMainTest.testResumeSearchV3JobSuggest'">
@@ -710,7 +734,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'WebMain'</Description>
-          <Count>338</Count>
+          <Count>346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebMain.main()'">
@@ -735,6 +759,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'YamlTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ZstdThriftTest.testResumeSearchV3'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'ZstdThriftTest.testResumeSearchV3'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'compare()'">
@@ -774,7 +806,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'jobAAAA'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'qaTest.testQueryQPS'">
@@ -862,7 +894,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7670</Count>
+          <Count>7850</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -966,7 +998,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preferences...">
@@ -1182,7 +1214,7 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Module 'zp-search2'</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'GeekItemHandler.java'">
@@ -1198,7 +1230,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Module</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -1254,7 +1286,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BrandJobV2Test.testGray'</Description>
-          <Count>1</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BrandJobV2Test.testJobs'">
@@ -1407,6 +1439,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FastTextDemo'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FeatureDbTest.LoadData'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FeatureDbTest.LoadData'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FilterCodeUtilTest.filterExpect'">
@@ -1678,7 +1718,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'JobSearchMain'</Description>
-          <Count>24</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JobTitleClean'">
@@ -2398,7 +2438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ResumeSearchMain'</Description>
-          <Count>13</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResumeSearchMainTest.ChatCardBlockTest'">
@@ -2430,7 +2470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ResumeSearchMainTest.testResumeSearchV3'</Description>
-          <Count>18</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RetainCompanyWord'">
@@ -2729,6 +2769,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ZstdTest.CorrectnessTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ZstdTest.CorrectnessTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ZstdThriftTest.testResumeSearchV3'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ZstdThriftTest.testResumeSearchV3'</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'b_query_more_10_premark'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2822,7 +2878,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>46</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ConcurrentIntObjectMapTest'">
@@ -2953,6 +3009,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'singleWrite()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'singleWrite()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testSimV2Perf()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3054,7 +3118,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2129</Count>
+          <Count>2225</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -3223,6 +3287,38 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'EvalQA'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FeatureDbTest.LoadData (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FeatureDbTest.LoadData (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FeatureDbTest.LoadData'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FeatureDbTest.LoadData'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FeatureDbTest.Test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FeatureDbTest.Test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FeatureDbTest.singleWrite'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FeatureDbTest.singleWrite'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FindCompanyWord'">
@@ -3766,7 +3862,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ResumeSearchMain'</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ResumeSearchMainTest'">
@@ -4086,7 +4182,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>816</Count>
+          <Count>849</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
