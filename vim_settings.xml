@@ -105,7 +105,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1587909720891">
+      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1587911831796">
         <mark key="[" line="365" column="22" />
         <mark key="]" line="365" column="1054" />
       </file>
@@ -173,6 +173,9 @@
         <mark key="[" line="200" column="112" />
         <mark key="]" line="200" column="113" />
         <mark key="." line="200" column="113" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1587911905919">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardWrapper.java" timestamp="1587635906818">
         <mark key="[" line="299" column="18" />
@@ -459,12 +462,12 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1587900509477">
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1587912398291">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="224" column="61" />
-        <mark key="]" line="224" column="67" />
-        <mark key="^" line="224" column="67" />
-        <mark key="." line="224" column="67" />
+        <mark key="]" line="224" column="61" />
+        <mark key="^" line="224" column="77" />
+        <mark key="." line="224" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/scripts/gen_clients.py" timestamp="1587873197108">
         <mark key="'" line="19" column="68" />
@@ -554,7 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/GeekItem2StreamMain.java" />
       <jump line="265" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="17" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
       <jump line="76" column="6" filename="$USER_HOME$/workspace/zp-web/src/main/resources/login.vm" />
@@ -654,10 +656,11 @@
       <jump line="263" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" />
       <jump line="25" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/blue_facade_l3.txt" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/blue_facade_l3.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.toString(</text>
+        <text>7050648</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -753,10 +756,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toString(</text>
+        <text>7050648</text>
       </register>
       <register name="/" type="4">
-        <text>290202</text>
+        <text>getJobsAll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICB0aGlzLmhpc3RvcnlEYkxvYWRlciA9IEhpc3RvcnlEYkxvYWRlci5jcmVhdGVKb2JSZWRpc0xvYWRlclVwZGF0ZShiX2hpc3Rvcnlfc3RhdGljX3NsYXZlX29ubGluZSwgaGlzdG9yeURiQ2FjaGUsIHdyaXRlLCByZWFkLCBSRURJU19USU1FT1VUKTsK</text>
@@ -879,9 +882,9 @@
       </register>
     </registers>
     <search>
-      <last-search>290202</last-search>
+      <last-search>getJobsAll</last-search>
       <last-offset />
-      <last-pattern>290202</last-pattern>
+      <last-pattern>getJobsAll</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -889,9 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stream_sentinel_db</entry>
-        <entry>stream_thread_num</entry>
-        <entry>kafka_group</entry>
         <entry>kafka_topics</entry>
         <entry>parseti</entry>
         <entry>160283789</entry>
@@ -909,6 +909,9 @@
         <entry>4</entry>
         <entry>bad</entry>
         <entry>290202</entry>
+        <entry>getjoball</entry>
+        <entry>getJobAll</entry>
+        <entry>getJobsAll</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
