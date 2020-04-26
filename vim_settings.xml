@@ -105,6 +105,10 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1587909720891">
+        <mark key="[" line="365" column="22" />
+        <mark key="]" line="365" column="1054" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/QaAccountFilter.java" timestamp="1586916823922">
         <mark key="[" line="51" column="19" />
         <mark key="]" line="51" column="23" />
@@ -135,11 +139,11 @@
         <mark key="]" line="952" column="0" />
         <mark key="." line="952" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" timestamp="1587909038166">
-        <mark key="[" line="134" column="43" />
-        <mark key="]" line="134" column="46" />
-        <mark key="^" line="134" column="46" />
-        <mark key="." line="134" column="46" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" timestamp="1587910758944">
+        <mark key="[" line="138" column="79" />
+        <mark key="]" line="138" column="79" />
+        <mark key="." line="138" column="79" />
+        <mark key="^" line="138" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" timestamp="1587883734139">
         <mark key="'" line="20" column="43" />
@@ -478,6 +482,12 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/BaseImporter.java" timestamp="1587910726317">
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="58" column="96" />
+        <mark key="^" line="58" column="96" />
+        <mark key="." line="58" column="96" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekBusinessRules.java" timestamp="1587635674630">
         <mark key="[" line="127" column="16" />
         <mark key="]" line="127" column="23" />
@@ -647,7 +657,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>.toString(</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -743,7 +753,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.toString(</text>
       </register>
       <register name="/" type="4">
         <text>290202</text>
@@ -752,10 +762,10 @@
         <text encoding="base64">Ly8gICAgICAgICAgICB0aGlzLmhpc3RvcnlEYkxvYWRlciA9IEhpc3RvcnlEYkxvYWRlci5jcmVhdGVKb2JSZWRpc0xvYWRlclVwZGF0ZShiX2hpc3Rvcnlfc3RhdGljX3NsYXZlX29ubGluZSwgaGlzdG9yeURiQ2FjaGUsIHdyaXRlLCByZWFkLCBSRURJU19USU1FT1VUKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGSUxURVJfRklFTERfTUFQLnB1dChPTkxZX0JMVUVfR1JBWSwgSm9iV3JhcHBlci5KT0JfVFlQRSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWlNURF9DT01QUkVTU09SLgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZyBbXSBhcmdzKXsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -782,10 +792,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG9yaWdpblNpemUgPSAxMDAwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGSUxURVJfRklFTERfTUFQLnB1dChPTkxZX0JMVUVfR1JBWSwgSm9iV3JhcHBlci5KT0JfVFlQRSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWlNURF9DT01QUkVTU09SLgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -818,7 +828,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG9yaWdpblNpemUgPSAxMDAwMDA7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -842,16 +852,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGJ5dGUgYjEgOiBhKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWnN0ZERlY29tcHJlc3Nvci4K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGJ5dGUgYjEgOiBhKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <keys>
