@@ -233,6 +233,22 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FeatureDbTest.compareData'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FeatureDbTest.compareData'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'FeatureDbTest.compareData1'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FeatureDbTest.compareData1'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FeatureDbTest.singleWrite'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -777,6 +793,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'compareData1()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'compareData1()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'genFastTextSample'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -894,7 +918,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7869</Count>
+          <Count>7891</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1447,6 +1471,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FeatureDbTest.LoadData'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FeatureDbTest.compareData1'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FeatureDbTest.compareData1'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FilterCodeUtilTest.filterExpect'">
@@ -2993,6 +3025,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'compareData1()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'compareData1()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'function()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3126,7 +3166,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2225</Count>
+          <Count>2243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -4222,7 +4262,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>849</Count>
+          <Count>854</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
