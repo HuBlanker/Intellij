@@ -254,7 +254,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'FeatureDbTest.singleWrite'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FinderGeekRebuildMain'">
@@ -918,7 +918,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7894</Count>
+          <Count>7896</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1487,6 +1487,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FeatureDbTest.compareData1'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FeatureDbTest.singleWrite'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FeatureDbTest.singleWrite'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FilterCodeUtilTest.filterExpect'">
@@ -3257,6 +3265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CompressThriftTestServer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CompressThriftTestServer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ConcurrentIntObjectMapTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3382,7 +3398,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FeatureDbTest.singleWrite'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FindCompanyWord'">
