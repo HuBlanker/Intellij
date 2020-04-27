@@ -894,7 +894,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7855</Count>
+          <Count>7864</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1286,7 +1286,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BrandJobV2Test.testGray'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BrandJobV2Test.testJobs'">
@@ -2878,7 +2878,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>51</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ConcurrentIntObjectMapTest'">
@@ -4086,6 +4086,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ZpBaseKafkaProducerTest.buildKafkaProducer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ZstdTest.CorrectnessTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ZstdTest.CorrectnessTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
