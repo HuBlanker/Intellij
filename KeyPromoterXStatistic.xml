@@ -918,7 +918,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7891</Count>
+          <Count>7894</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1361,6 +1361,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CompressThriftTestServer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CompressThriftTestServer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ConcurrentIntObjectMapTest.testTest2'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1478,7 +1486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FeatureDbTest.compareData1'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FilterCodeUtilTest.filterExpect'">
@@ -3239,6 +3247,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CompareCrfAndBiLSTMCRF'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CompressThriftTestClient'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CompressThriftTestClient'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ConcurrentIntObjectMapTest'">
