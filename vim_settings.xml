@@ -53,10 +53,6 @@
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/ZpBaseKafkaProducer.java" timestamp="1587019332840">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" timestamp="1587952616445">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="81" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/MessagePrePeocessingAbstractMain.java" timestamp="1587032587798">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="35" column="0" />
@@ -103,10 +99,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1587911831796">
-        <mark key="[" line="365" column="22" />
-        <mark key="]" line="365" column="1054" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/QaAccountFilter.java" timestamp="1586916823922">
         <mark key="[" line="51" column="19" />
@@ -180,10 +172,10 @@
         <mark key="." line="45" column="32" />
         <mark key="^" line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/ZstdTest.java" timestamp="1587976702797">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="63" column="62" />
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/ZstdTest.java" timestamp="1588001255112">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="108" column="42" />
         <mark key="." line="69" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdTransport.java" timestamp="1587981028363">
@@ -332,6 +324,12 @@
         <mark key="^" line="116" column="0" />
         <mark key="." line="72" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/TransportTest.java" timestamp="1588002597570">
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+        <mark key="^" line="38" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/query/recall/GeekNNRecallReq.java" timestamp="1587635737424">
         <mark key="[" line="136" column="15" />
         <mark key="]" line="136" column="22" />
@@ -354,6 +352,9 @@
         <mark key="]" line="263" column="35" />
         <mark key="^" line="263" column="35" />
         <mark key="." line="263" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/TZstdTransport.java" timestamp="1588001205394">
+        <mark key="'" line="149" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" timestamp="1586572378076">
         <mark key="'" line="22" column="13" />
@@ -451,7 +452,12 @@
         <mark key="^" line="38" column="38" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/CompressThriftTestServer.java" timestamp="1587977848900" />
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/CompressThriftTestServer.java" timestamp="1588003015183">
+        <mark key="[" line="55" column="54" />
+        <mark key="]" line="55" column="54" />
+        <mark key="^" line="55" column="62" />
+        <mark key="." line="55" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/feature/FetchReq.java" timestamp="1587975564252">
         <mark key="'" line="194" column="38" />
       </file>
@@ -516,8 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
-      <jump line="345" column="0" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/ActionsHandler.java" />
       <jump line="179" column="52" filename="$MAVEN_REPOSITORY$/cn/techwolf/boss-internaluc-client/1.132/boss-internaluc-client-1.132.jar!/cn/techwolf/boss/internaluc/interceptor/UcPassportInterceptor.class" />
       <jump line="269" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="57" column="62" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
@@ -616,10 +620,12 @@
       <jump line="194" column="38" filename="$USER_HOME$/workspace/zp-client/gen-java/gen/feature/FetchReq.java" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/ZstdTest.java" />
       <jump line="107" column="46" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdTransport.java" />
+      <jump line="149" column="23" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/TZstdTransport.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/ZstdTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>.Factory()</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -715,19 +721,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>.Factory()</text>
       </register>
       <register name="/" type="4">
-        <text>tde</text>
+        <text>tser</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;172.16.24.10:4590&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAga2YuYWRkVG9GaWVsZHMobmV3IEZpZWxkKGkgKyAiYWJjIikuc2V0RmxvYXRWYWx1ZSgxLjIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmV0Y2hSZXNwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2YuYWRkVG9GaWVsZHMobmV3IEZpZWxkKGkgKyAiZGRkIikuc2V0RmxvYXRWYWx1ZSgxLjUpKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -754,7 +760,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -790,7 +796,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuaW50RmllbGRzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVERlc2VyaWFsaXplciB0RGVzZXJpYWxpemVyID0gbmV3IFRzZShuZXcgVENvbXBhY3RQcm90b2NvbC5GYWN0b3J5KCkpOwogICAgICAgICAgICBLZXlGaWVsZCBrZXlGaWVsZCA9IG5ldyBLZXlGaWVsZCgpOwogICAgICAgICAgICB0RGVzZXJpYWxpemVyLmRlc2VyaWFsaXplKGtleUZpZWxkLCBjMiwgMCwgbCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -814,16 +820,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHN1cGVyKHNlcnZlcnMsIG1heEZyYW1lLCB0cnVlLCB0cnVlKTsgCg==</text>
+        <text encoding="base64">ICAgICAgIG5ldyBUcmEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigicmVhZDogbmV0IHNpemU6ICVkLCBkZWNvbXByZXNzZWQ6ICVkXG4iLCBidWZmLmxlbmd0aCwgOSk7Cg==</text>
+        <text encoding="base64">ICAgIFNvbGlkX0xpbmVhckdyYWRpZW50X1BBRF9BbHBoYVRlc3RfTG9hZGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBac3RkLmRlY29tcHJlc3MoKQoKLy8gICAgICAgIFREZXNlcmlhbGl6ZXIgdERlc2VyaWFsaXplciA9IG5ldyBURGVzZXJpYWxpemVyKG5ldyBUQ29tcGFjdFByb3RvY29sLkZhY3RvcnkoKSk7Ci8vICAgICAgICBLZXlGaWVsZCBrZXlGaWVsZCA9IG5ldyBLZXlGaWVsZCgpOwovLyAgICAgICAgdHJ5IHsKLy8gICAgICAgICAgICB0RGVzZXJpYWxpemVyLmRlc2VyaWFsaXplKGtleUZpZWxkLCBkc3QsIDAsIGNvbXByZXNzZWQpOwovLyAgICAgICAgfSBjYXRjaCAoVEV4Y2VwdGlvbiBlKSB7Ci8vICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKLy8gICAgICAgIH0KLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihrZXlGaWVsZC50b1N0cmluZygpKTsKCg==</text>
+        <text encoding="base64">QFNsZjRqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXM6c3JjL21haW4vamF2YS9jb20vYm9zc3poaXBpbi9jbGllbnQvdGhyZml0enN0ZC9UWnN0ZFRyYW5zcG9ydC5qYXZhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmV0Y2hSZXNwCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -841,9 +847,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tde</last-search>
+      <last-search>tser</last-search>
       <last-offset />
-      <last-pattern>tde</last-pattern>
+      <last-pattern>tser</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -851,7 +857,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stat: {</entry>
         <entry>feature</entry>
         <entry>thrift</entry>
         <entry>args</entry>
@@ -871,6 +876,7 @@
         <entry>boss-service</entry>
         <entry>level</entry>
         <entry>tde</entry>
+        <entry>tser</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
