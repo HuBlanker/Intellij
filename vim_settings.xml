@@ -10,7 +10,6 @@
         <mark key="." line="130" column="38" />
         <mark key="^" line="130" column="38" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/airlift/aircompressor/0.16/aircompressor-0.16.jar!/io/airlift/compress/zstd/ZstdFrameCompressor.class" timestamp="1587968730598" />
       <file name="/a.dummy" timestamp="1587176796091">
         <mark key="[" line="0" column="0" />
       </file>
@@ -324,15 +323,15 @@
       <file name="$USER_HOME$/workspace/zp-client/pom.xml" timestamp="1587978053756">
         <mark key="[" line="72" column="24" />
         <mark key="]" line="72" column="25" />
-        <mark key="^" line="116" column="0" />
+        <mark key="^" line="110" column="0" />
         <mark key="." line="72" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/TransportTest.java" timestamp="1588055982330">
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/TransportTest.java" timestamp="1588057692325">
         <mark key="'" line="46" column="36" />
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="38" column="39" />
-        <mark key="^" line="38" column="39" />
-        <mark key="." line="38" column="39" />
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="39" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/query/recall/GeekNNRecallReq.java" timestamp="1587635737424">
         <mark key="[" line="136" column="15" />
@@ -456,11 +455,11 @@
         <mark key="^" line="38" column="38" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/CompressThriftTestServer.java" timestamp="1588056292824">
-        <mark key="[" line="57" column="58" />
-        <mark key="]" line="57" column="58" />
-        <mark key="^" line="57" column="58" />
-        <mark key="." line="57" column="58" />
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/CompressThriftTestServer.java" timestamp="1588057531114">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+        <mark key="." line="3" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/feature/FetchReq.java" timestamp="1587975564252">
         <mark key="'" line="194" column="38" />
@@ -495,7 +494,6 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ClientsPoolV2.java" timestamp="1587976069752" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/NNFetcher.java" timestamp="1586586331157">
         <mark key="[" line="155" column="78" />
         <mark key="]" line="155" column="77" />
@@ -514,12 +512,6 @@
         <mark key="]" line="41" column="56" />
         <mark key="." line="41" column="63" />
         <mark key="^" line="36" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ClientsPool.java" timestamp="1587978733987">
-        <mark key="[" line="111" column="36" />
-        <mark key="]" line="111" column="40" />
-        <mark key="^" line="111" column="40" />
-        <mark key="." line="111" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1587985785829">
         <mark key="[" line="0" column="0" />
@@ -629,7 +621,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>0</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -725,7 +717,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>tser</text>
