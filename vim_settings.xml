@@ -83,12 +83,7 @@
         <mark key="^" line="66" column="27" />
         <mark key="." line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/zhipin/client/FeatureDbClients.java" timestamp="1588061216580">
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="47" />
-        <mark key="." line="42" column="47" />
-        <mark key="^" line="42" column="47" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/zhipin/client/FeatureDbClients.java" timestamp="1588062890609" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/blue_facade_l3.txt" timestamp="1587899293569">
         <mark key="'" line="24" column="0" />
       </file>
@@ -100,6 +95,12 @@
         <mark key="^" line="66" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.80/zp-client-9.80-sources.jar!/com/zhipin/client/FeatureDbClients.java" timestamp="1588061050583" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/FeatureScanHandler.java" timestamp="1588063503636">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="49" column="31" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/QaAccountFilter.java" timestamp="1586916823922">
         <mark key="[" line="51" column="19" />
         <mark key="]" line="51" column="23" />
@@ -292,13 +293,6 @@
         <mark key="]" line="93" column="38" />
         <mark key="^" line="93" column="38" />
         <mark key="." line="93" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ZpClients.java" timestamp="1587873056412">
-        <mark key="'" line="53" column="47" />
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="48" />
-        <mark key="^" line="28" column="48" />
-        <mark key="." line="28" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/kafka/UserIdKafkaPartitioner.java" timestamp="1587008892563">
         <mark key="[" line="24" column="20" />
@@ -523,6 +517,7 @@
       <file name="/fragment.java" timestamp="1587985785829">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/feature_scan.vm" timestamp="1588063469319" />
     </filemarks>
     <jumps>
       <jump line="121" column="20" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
@@ -727,7 +722,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>data-com</text>
+        <text>kind</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC50cmFuc3BvcnRGYWN0b3J5KG5ldyBURnJhbWVkVHJhbnNwb3J0LkZhY3RvcnkoKSk7Cg==</text>
@@ -850,9 +845,9 @@
       </register>
     </registers>
     <search>
-      <last-search>data-com</last-search>
+      <last-search>kind</last-search>
       <last-offset />
-      <last-pattern>data-com</last-pattern>
+      <last-pattern>kind</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -860,7 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>args</entry>
         <entry>frame</entry>
         <entry>zlibs</entry>
         <entry>zlib</entry>
@@ -880,6 +874,7 @@
         <entry>tser</entry>
         <entry>0.12</entry>
         <entry>data-com</entry>
+        <entry>kind</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
