@@ -327,12 +327,12 @@
         <mark key="^" line="116" column="0" />
         <mark key="." line="72" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/TransportTest.java" timestamp="1588053029298">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="38" column="41" />
-        <mark key="." line="35" column="37" />
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/TransportTest.java" timestamp="1588055183370">
+        <mark key="'" line="46" column="36" />
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="43" />
+        <mark key="^" line="38" column="43" />
+        <mark key="." line="38" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/query/recall/GeekNNRecallReq.java" timestamp="1587635737424">
         <mark key="[" line="136" column="15" />
@@ -456,11 +456,11 @@
         <mark key="^" line="38" column="38" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/CompressThriftTestServer.java" timestamp="1588053623297">
-        <mark key="[" line="55" column="52" />
-        <mark key="]" line="55" column="52" />
-        <mark key="^" line="55" column="52" />
-        <mark key="." line="55" column="52" />
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/CompressThriftTestServer.java" timestamp="1588055053792">
+        <mark key="[" line="56" column="54" />
+        <mark key="]" line="56" column="54" />
+        <mark key="^" line="56" column="54" />
+        <mark key="." line="56" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/feature/FetchReq.java" timestamp="1587975564252">
         <mark key="'" line="194" column="38" />
@@ -526,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="57" column="62" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
       <jump line="269" column="0" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
       <jump line="59" column="53" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" />
@@ -626,6 +625,7 @@
       <jump line="149" column="23" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/TZstdTransport.java" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/ZstdTest.java" />
       <jump line="29" column="13" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/TransportTest.java" />
+      <jump line="46" column="36" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/TransportTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -731,7 +731,7 @@
         <text>tser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2YuYWRkVG9GaWVsZHMobmV3IEZpZWxkKGkgKyAiYWJjIikuc2V0RmxvYXRWYWx1ZSgxLjIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50cmFuc3BvcnRGYWN0b3J5KG5ldyBUWnN0ZFRyYW5zcG9ydC5GYWN0b3J5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
