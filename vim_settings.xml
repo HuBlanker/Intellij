@@ -35,6 +35,10 @@
         <mark key="]" line="414" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.80/zp-client-9.80-sources.jar!/com/zhipin/client/FeatureDbClients.java" timestamp="1588061050583" />
+      <file name="/ExpectPropLoader.java" timestamp="1588153332917">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="123" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/FeatureScanHandler.java" timestamp="1588063503636">
         <mark key="[" line="48" column="30" />
         <mark key="]" line="49" column="31" />
@@ -94,11 +98,6 @@
         <mark key="." line="31" column="56" />
         <mark key="^" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/ExpectPropLoader.java" timestamp="1588149600910">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/GeekImporter.java" timestamp="1588132385406" />
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/pom.xml" timestamp="1587011746939">
         <mark key="'" line="101" column="0" />
@@ -115,6 +114,13 @@
         <mark key="^" line="21" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/args4j/args4j/2.0.26/args4j-2.0.26-sources.jar!/org/kohsuke/args4j/ClassParser.java" timestamp="1588145807378" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588153639919">
+        <mark key="'" line="30" column="59" />
+        <mark key="[" line="82" column="112" />
+        <mark key="]" line="88" column="23" />
+        <mark key="." line="88" column="23" />
+        <mark key="^" line="88" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/pre/DelayQueue4Event.java" timestamp="1587122144273">
         <mark key="'" line="134" column="4" />
         <mark key="[" line="93" column="36" />
@@ -166,18 +172,17 @@
         <mark key="." line="112" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/Converter.java" timestamp="1588141509781" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" timestamp="1588148472223">
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
-        <mark key="^" line="376" column="43" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588150915005" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1588153090765">
+        <mark key="'" line="97" column="26" />
+        <mark key="[" line="435" column="0" />
+        <mark key="]" line="437" column="109" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1588148775694">
-        <mark key="'" line="131" column="35" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="131" column="86" />
+      <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/db/ZstdThriftTest.java" timestamp="1588150649980">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="17" column="6" />
+        <mark key="^" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1587958183893">
         <mark key="'" line="0" column="0" />
@@ -231,10 +236,6 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/feature_scan.vm" timestamp="1588063469319" />
     </filemarks>
     <jumps>
-      <jump line="34" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" />
-      <jump line="310" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" />
-      <jump line="192" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F24BResult.java" />
-      <jump line="211" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" />
       <jump line="90" column="9" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/StrApiUtils.java" />
       <jump line="191" column="50" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="286" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
@@ -331,10 +332,14 @@
       <jump line="283" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater.java" />
       <jump line="13" column="29" filename="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/ArgsTest2.java" />
       <jump line="128" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="42" column="56" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
+      <jump line="20" column="59" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
+      <jump line="152" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="97" column="26" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgZ2Vla0lkID0gZW50cnkuZ2V0S2V5KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>zpExpectProp</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -430,19 +435,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93cyBFeGVjdXRpb25FeGNlcHRpb24sIEludGVycnVwdGVkRXhjZXB0aW9u</text>
+        <text>zpExpectProp</text>
       </register>
       <register name="/" type="4">
-        <text>work</text>
+        <text>loader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8RXhwZWN0SW5mbz4gZXhwZWN0cyA9IGVudHJ5LmdldFZhbHVlKCkuZXhwZWN0czsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgVGhyZWFkUG9vbEV4ZWN1dG9yIHdyaXRlID0gY29tLmJvc3N6aGlwaW4uY29tbW9uLlV0aWxzLm5ld1Bvb2woMiwgMTAsICJqb2Jfd3JpdGUiKTsKICAgICAgICAgICAgZmluYWwgVGhyZWFkUG9vbEV4ZWN1dG9yIHJlYWQgPSBjb20uYm9zc3poaXBpbi5jb21tb24uVXRpbHMubmV3UG9vbCgyMCwgNDAsICJqb2JfcmVhZCIpOwogICAgICAgICAgICBmaW5hbCBDb25zaXN0ZW50SGFzaFJlZGlzIGhpc3RvcnlEYkNhY2hlID0gbmV3IENvbnNpc3RlbnRIYXNoUmVkaXMoSElTVE9SWV9DQUNIRSwgUkVESVNfVElNRU9VVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgZ2Vla0lkID0gZW50cnkuZ2V0S2V5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb3BIZWxwZXIuYnVpbGRFeHBlY3RQcm9wKHdvcmtzQnlHZWVrSWQuZ2V0KGdlZWtJZCkKICAgICAgICAgICAgICAgICAgICAgICAgLCBlZHVzQnlHZWVrSWQuZ2V0KGdlZWtJZCkKICAgICAgICAgICAgICAgICAgICAgICAgLAogICAgICAgICAgICAgICAgICAgICAgICAsIGV4cGVjdHMKICAgICAgICAgICAgICAgICAgICAgICAgLCB1cEJ5R2Vla0lkLmdldChnZWVrSWQpCiAgICAgICAgICAgICAgICAgICAgICAgICwgZ0luZm9CeUlkLmdldChnZWVrSWQpCiAgICAgICAgICAgICAgICAgICAgICAgICwgbAoKICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -469,10 +474,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbD0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLyAxMDAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -505,7 +510,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlMaXN0PEludGVnZXI+IGdlZWtBbGwgPSBuZXcgQXJyYXlMaXN0PD4oZHVwbGljYXRlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -529,16 +534,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICItYnVpbGREeiIsIHVzYWdlID0gImluZGV4IGR6IG9yIG5vdCIpCiAgICBwcm90ZWN0ZWQgaW50IGJ1aWxkRHogPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcEhlbHBlci5idWlsZEV4cGVjdFByb3AoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYnVpbGREeikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihQcm9wVXBkYXRlci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5leGl0KDIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -556,9 +561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>work</last-search>
+      <last-search>loader</last-search>
       <last-offset />
-      <last-pattern>work</last-pattern>
+      <last-pattern>loader</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -566,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Factory</entry>
         <entry>this.i32</entry>
         <entry>+ 4</entry>
         <entry>4</entry>
@@ -586,6 +590,7 @@
         <entry>sp</entry>
         <entry>wp</entry>
         <entry>work</entry>
+        <entry>loader</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
