@@ -61,12 +61,12 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588230268260">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588234090466">
         <mark key="'" line="70" column="12" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="96" column="66" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="82" column="89" />
+        <mark key="]" line="85" column="18" />
+        <mark key="^" line="85" column="18" />
+        <mark key="." line="85" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/HistoryDbLoader.java" timestamp="1588230017148">
         <mark key="[" line="160" column="81" />
@@ -178,8 +178,8 @@
       <jump line="1440" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iLmRlc2MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>toList</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -275,7 +275,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cleanJob</text>
+        <text>toList</text>
       </register>
       <register name="/" type="4">
         <text>442</text>
@@ -284,10 +284,10 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iLmRlc2NyaXB0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iLmRlc2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKS5jb2xsZWN0KENvbGwpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iLmRlc2NyaXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZHMucmVtb3ZlSWYoY29tLnpoaXBpbi5VdGlscy52YWxpZEpvYigpKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -314,10 +314,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iLmRlc2MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnJhbmROYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iLmRlc2NyaXB0aW9uKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -350,7 +350,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJyYW5kLm5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -374,16 +374,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh6cEpvYiA9PSBudWxsIHx8IGpvYlN0YXRpYyA9PSBudWxsKSBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnJhbmROYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNwbGl0RGIuWnBCb3NzSW5mbzIgYmkyID0gYmkyQnlJZHMuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJyYW5kLm5hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5ybWkucnVudGltZS5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh6cEpvYiA9PSBudWxsIHx8IGpvYlN0YXRpYyA9PSBudWxsKSBjb250aW51ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNwbGl0RGIuWnBCb3NzSW5mbzIgYmkyID0gYmkyQnlJZHMuZ2V0KCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
