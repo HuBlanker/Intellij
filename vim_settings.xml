@@ -52,12 +52,12 @@
         <mark key="^" line="112" column="3" />
         <mark key="." line="112" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588176562310">
-        <mark key="'" line="319" column="0" />
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="315" column="43" />
-        <mark key="." line="315" column="43" />
-        <mark key="^" line="315" column="43" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588212212590">
+        <mark key="'" line="320" column="0" />
+        <mark key="[" line="291" column="41" />
+        <mark key="]" line="291" column="63" />
+        <mark key="." line="291" column="63" />
+        <mark key="^" line="291" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekLoadParam2.java" timestamp="1586965722767">
         <mark key="'" line="268" column="24" />
@@ -78,8 +78,8 @@
         <mark key="[" line="111" column="0" />
         <mark key="]" line="116" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" timestamp="1588176697104">
-        <mark key="'" line="362" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" timestamp="1588212189932">
+        <mark key="'" line="100" column="6" />
       </file>
       <file name="/ExpectPropLoader.java" timestamp="1588160130133">
         <mark key="[" line="113" column="0" />
@@ -131,6 +131,7 @@
         <mark key="." line="158" column="28" />
         <mark key="^" line="158" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/NNDictionary.java" timestamp="1588211979570" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/headhunter/HHGeekWrapper.java" timestamp="1586917962068">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="208" column="20" />
@@ -243,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/db/FeatureDbTest.java" />
-      <jump line="86" column="52" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/db/FeatureDbTest.java" />
       <jump line="165" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/zip/Deflater.java" />
       <jump line="91" column="43" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/zip/Deflater.java" />
       <jump line="90" column="0" filename="$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TFramedTransport.class" />
@@ -343,10 +342,12 @@
       <jump line="21" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
       <jump line="6058" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
       <jump line="362" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
+      <jump line="239" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
+      <jump line="100" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>edusByGeekId.get(geekId)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ19za2lsbC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -448,7 +449,7 @@
         <text>school</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgRGF0YVNvdXJjZSB6cENvbW1vbkRzID0gVXRpbHMuZ2V0RHNGcm9tWmsoREJDb25maWdzLkRCX1pLX1pQX0NPTU1PTiwgYWdlbnQpOwogICAgICAgICAgICBmaW5hbCBUaHJlYWRQb29sRXhlY3V0b3IgbHVjZW5lUG9vbCA9IFV0aWxzLm5ld1Bvb2woNDAsIDQwLCAibHVjZW5lIik7CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJ1c2UgZGlyOnt9IiwgbmV3IEZpbGUoZm9sZGVyKS5nZXRBYnNvbHV0ZVBhdGgoKSk7CgogICAgICAgICAgICBEYXRhSW5pdE1hbmFnZXIuaW5pdChib3NzRGIsIENPTU1PTl9DT05GSUdTLCBQT1NJVElPTlMyLCBDSVRJRVMsIFBPU0lUSU9OX05FVyk7CiAgICAgICAgICAgIERhdGFJbml0TWFuYWdlci5pbml0U2Nob29scyh6cENvbW1vbkRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ19za2lsbC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGFJbml0TWFuYWdlci5pbml0U2Nob29scyh6cENvbW1vbkRzKTsK</text>
