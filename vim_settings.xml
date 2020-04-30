@@ -97,6 +97,13 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="138" column="85" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" timestamp="1588218351928">
+        <mark key="'" line="124" column="30" />
+        <mark key="[" line="124" column="61" />
+        <mark key="]" line="124" column="64" />
+        <mark key="." line="124" column="64" />
+        <mark key="^" line="124" column="64" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" timestamp="1587883734139">
         <mark key="'" line="20" column="43" />
         <mark key="[" line="109" column="0" />
@@ -217,12 +224,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588176244145">
-        <mark key="'" line="72" column="38" />
-        <mark key="[" line="80" column="20" />
-        <mark key="]" line="80" column="38" />
-        <mark key="^" line="80" column="38" />
-        <mark key="." line="80" column="38" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588219194831">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="83" column="59" />
+        <mark key="]" line="83" column="59" />
+        <mark key="^" line="83" column="59" />
+        <mark key="." line="83" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/pre/DelayQueue4Event.java" timestamp="1587122144273">
         <mark key="'" line="134" column="4" />
@@ -243,8 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="43" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/zip/Deflater.java" />
-      <jump line="90" column="0" filename="$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TFramedTransport.class" />
       <jump line="10" column="0" filename="$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.11.0/libthrift-0.11.0.jar!/org/apache/thrift/transport/TFramedTransport.class" />
       <jump line="84" column="20" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
       <jump line="4" column="0" filename="$MAVEN_REPOSITORY$/com/bosszhipin/data-common/9.58/data-common-9.58.jar!/com/bosszhipin/common/Utils.class" />
@@ -343,10 +348,12 @@
       <jump line="239" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
       <jump line="100" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
       <jump line="18" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
+      <jump line="114" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
+      <jump line="124" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>56767</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -442,19 +449,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>56767</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>school</text>
+        <text>bs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ19za2lsbC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBIaXN0b3J5RGJMb2FkZXI8R2Vla1N0YXRpYz4gaGlzdG9yeURiTG9hZGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihnX3dvcmsudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2Vla1N0YXRpYyAgPSBqb2JTdGF0aWNNYXAuZ2V0KGlkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ19za2lsbC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxJbnRlZ2VyLCBacEpvYj4gZW50cnkgOiBqb2JNYXAuZW50cnlTZXQoKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -481,10 +488,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihnX3dvcmsudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgaWQgOiBpZHMpIHsKICAgICAgICAgICAgci5ib3NzRGJBcGkuCiAgICAgICAgICAgIFByb3BIZWxwZXIuYnVpbGRKb2JQcm9wKCkKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ19za2lsbC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9wSGVscGVyLmJ1aWxkSm9iUHJvcCgpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -517,7 +524,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGFJbml0TWFuYWdlci5pbml0U2Nob29scyh6cENvbW1vbkRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -541,16 +548,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0YUluaXRNYW5hZ2VyLmluaXRTY2hvb2xzKHpwQ29tbW9uRHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZhbEdlZWsociwgZ2Vla0lkcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0YUluaXRNYW5hZ2VyLmluaXQoYm9zc0RiLCBDT01NT05fQ09ORklHUywgUE9TSVRJT05TMiwgQ0lUSUVTLCBQT1NJVElPTl9ORVcpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihnX3dvcmsudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ19za2lsbC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInVzZSBkaXI6e30iLCBuZXcgRmlsZShmb2xkZXIpLmdldEFic29sdXRlUGF0aCgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihnX3dvcmsudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -568,9 +575,9 @@
       </register>
     </registers>
     <search>
-      <last-search>school</last-search>
+      <last-search>bs</last-search>
       <last-offset />
-      <last-pattern>school</last-pattern>
+      <last-pattern>bs</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +585,6 @@
     </search>
     <history>
       <history-search>
-        <entry>4</entry>
         <entry>bad</entry>
         <entry>290202</entry>
         <entry>getjoball</entry>
@@ -598,6 +604,7 @@
         <entry>loader</entry>
         <entry>数据服务</entry>
         <entry>school</entry>
+        <entry>bs</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
