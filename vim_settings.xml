@@ -29,8 +29,14 @@
         <mark key="^" line="60" column="29" />
         <mark key="." line="60" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ParserHDFSMain.java" timestamp="1588756696761" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588759229046" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ParserHDFSMain.java" timestamp="1588760473212">
+        <mark key="[" line="185" column="69" />
+        <mark key="]" line="185" column="69" />
+        <mark key="." line="185" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588760081575">
+        <mark key="[" line="501" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1588242475886" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1588748746452">
         <mark key="'" line="111" column="0" />
@@ -202,7 +208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JobStatic</text>
+        <text>r</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -298,7 +304,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>JobStatic</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>老铁</text>
