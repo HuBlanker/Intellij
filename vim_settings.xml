@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1588745263302">
-        <mark key="'" line="219" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1588748874868">
+        <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" timestamp="1588227070658">
         <mark key="'" line="1440" column="5" />
@@ -26,6 +26,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1588236558212">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="123" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1588748746452">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="116" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" timestamp="1588212189932">
         <mark key="'" line="100" column="6" />
@@ -77,12 +82,12 @@
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588743822907">
-        <mark key="'" line="70" column="12" />
-        <mark key="[" line="204" column="54" />
-        <mark key="]" line="204" column="76" />
-        <mark key="^" line="204" column="76" />
-        <mark key="." line="204" column="76" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588749210437">
+        <mark key="'" line="189" column="46" />
+        <mark key="[" line="75" column="27" />
+        <mark key="]" line="75" column="25" />
+        <mark key="^" line="75" column="25" />
+        <mark key="." line="75" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/HistoryDbLoader.java" timestamp="1588737385269">
         <mark key="'" line="212" column="68" />
@@ -93,9 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="12" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
-      <jump line="93" column="38" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
-      <jump line="114" column="23" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
       <jump line="118" column="37" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
       <jump line="119" column="43" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
       <jump line="76" column="34" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
@@ -193,10 +195,13 @@
       <jump line="474" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="213" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="431" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="189" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ds;</text>
+        <text>老铁666</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -292,10 +297,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ds;</text>
+        <text>老铁666</text>
       </register>
       <register name="/" type="4">
-        <text>nn-</text>
+        <text>老铁</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgSGlzdG9yeURiTG9hZGVyPEdlZWtTdGF0aWM+IGNyZWF0ZUdlZWtOb0NhY2hlTG9hZGVyKFN0cmluZyBoaXN0b3J5RGIpIHsKICAgICAgICBIaXN0b3J5RGJDbGllbnRzIGNsaWVudHMgPSBuZXcgSGlzdG9yeURiQ2xpZW50cyhoaXN0b3J5RGIpOwogICAgICAgIHJldHVybiBuZXcgTm9DYWNoZUxvYWRlcjw+KGNsaWVudHMsIEhpc3RvcnlEYkxvYWRlcjo6Y3RvR2VlaywgRU1QVFlfR0VFSyk7CiAgICB9Cg==</text>
@@ -418,9 +423,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nn-</last-search>
+      <last-search>老铁</last-search>
       <last-offset />
-      <last-pattern>nn-</last-pattern>
+      <last-pattern>老铁</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -428,8 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>0.12</entry>
-        <entry>data-com</entry>
         <entry>kind</entry>
         <entry>sp</entry>
         <entry>wp</entry>
@@ -448,6 +451,8 @@
         <entry>-nn_servers</entry>
         <entry>nn</entry>
         <entry>nn-</entry>
+        <entry>predict</entry>
+        <entry>老铁</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
