@@ -15,6 +15,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/BossExtraListener.java" timestamp="1588232240289" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekCardBuilder.java" timestamp="1588729780522" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SplitDb.java" timestamp="1588231205429" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588737292113" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1588242475886" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1588236558212">
         <mark key="[" line="89" column="0" />
@@ -67,16 +68,15 @@
         <mark key="^" line="204" column="85" />
         <mark key="." line="204" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/HistoryDbLoader.java" timestamp="1588236638577">
-        <mark key="'" line="50" column="37" />
-        <mark key="[" line="219" column="80" />
-        <mark key="]" line="219" column="90" />
-        <mark key="." line="219" column="90" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/HistoryDbLoader.java" timestamp="1588737385269">
+        <mark key="'" line="212" column="68" />
+        <mark key="[" line="217" column="69" />
+        <mark key="]" line="217" column="69" />
+        <mark key="." line="217" column="69" />
         <mark key="^" line="219" column="90" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/gen_clients.py" />
       <jump line="19" column="68" filename="$USER_HOME$/workspace/zp-client/scripts/gen_clients.py" />
       <jump line="455" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="79" column="40" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
@@ -176,10 +176,11 @@
       <jump line="343" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="355" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="432" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="212" column="68" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/HistoryDbLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PREDICT_JOB_PROP</text>
+        <text>WithClean</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -275,7 +276,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PREDICT_JOB_PROP</text>
+        <text>WithClean</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
