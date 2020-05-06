@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1588745263302">
+        <mark key="'" line="219" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" timestamp="1588227070658">
+        <mark key="'" line="1440" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/PositionNew.java" timestamp="1588729340114" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/NNMapping.java" timestamp="1588157302220" />
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/stream/StreamConsumer5.java" timestamp="1588242664447">
@@ -21,6 +27,9 @@
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="123" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" timestamp="1588212189932">
+        <mark key="'" line="100" column="6" />
+      </file>
       <file name="/ExpectPropLoader.java" timestamp="1588160130133">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="123" column="64" />
@@ -37,11 +46,12 @@
         <mark key="^" line="99" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1588159711273" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1588743991805">
-        <mark key="[" line="452" column="78" />
-        <mark key="]" line="453" column="11" />
-        <mark key="." line="453" column="11" />
-        <mark key="^" line="453" column="11" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1588746044449">
+        <mark key="'" line="431" column="55" />
+        <mark key="[" line="412" column="19" />
+        <mark key="]" line="412" column="36" />
+        <mark key="." line="412" column="36" />
+        <mark key="^" line="412" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1588214691925">
         <mark key="'" line="18" column="13" />
@@ -83,10 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="68" filename="$USER_HOME$/workspace/zp-client/scripts/gen_clients.py" />
-      <jump line="455" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="79" column="40" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
-      <jump line="148" column="50" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
       <jump line="92" column="12" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
       <jump line="93" column="38" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
       <jump line="114" column="23" filename="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/thrfitzstd/TZstdFramedTransport.java" />
@@ -183,10 +189,14 @@
       <jump line="355" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="432" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="212" column="68" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/HistoryDbLoader.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="474" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="213" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
+      <jump line="431" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createJobNoCacheLoaderWithClean</text>
+        <text>ds;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -282,10 +292,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>createJobNoCacheLoaderWithClean</text>
+        <text>ds;</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>nn-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgSGlzdG9yeURiTG9hZGVyPEdlZWtTdGF0aWM+IGNyZWF0ZUdlZWtOb0NhY2hlTG9hZGVyKFN0cmluZyBoaXN0b3J5RGIpIHsKICAgICAgICBIaXN0b3J5RGJDbGllbnRzIGNsaWVudHMgPSBuZXcgSGlzdG9yeURiQ2xpZW50cyhoaXN0b3J5RGIpOwogICAgICAgIHJldHVybiBuZXcgTm9DYWNoZUxvYWRlcjw+KGNsaWVudHMsIEhpc3RvcnlEYkxvYWRlcjo6Y3RvR2VlaywgRU1QVFlfR0VFSyk7CiAgICB9Cg==</text>
@@ -408,9 +418,9 @@
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>nn-</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>nn-</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -418,9 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
-        <entry>tde</entry>
-        <entry>tser</entry>
         <entry>0.12</entry>
         <entry>data-com</entry>
         <entry>kind</entry>
@@ -438,6 +445,9 @@
         <entry>nocache</entry>
         <entry>cleanjob</entry>
         <entry>init</entry>
+        <entry>-nn_servers</entry>
+        <entry>nn</entry>
+        <entry>nn-</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
