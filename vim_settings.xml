@@ -13,11 +13,11 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1588831654860">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/JobDepartmentInfoListener.java" timestamp="1588832825475">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="41" column="44" />
-        <mark key="^" line="41" column="44" />
-        <mark key="." line="41" column="44" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/JobDepartmentInfoListener.java" timestamp="1588838314612">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="43" />
+        <mark key="^" line="42" column="43" />
+        <mark key="." line="42" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/pom.xml" timestamp="1588823228244">
         <mark key="'" line="35" column="0" />
@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" timestamp="1588227070658">
         <mark key="'" line="1440" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/SendToStreamListener.java" timestamp="1588836694273" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/SendToStreamListener.java" timestamp="1588838149587" />
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/PositionNew.java" timestamp="1588729340114" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/NNMapping.java" timestamp="1588157302220" />
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/stream/StreamConsumer5.java" timestamp="1588242664447">
@@ -279,7 +279,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmCacheBaseMain.java" timestamp="1588836139550" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/RmCacheBaseMain.java" timestamp="1588838487208" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" timestamp="1588749210437">
         <mark key="'" line="189" column="46" />
         <mark key="[" line="75" column="27" />
@@ -423,8 +423,8 @@
       <jump line="87" column="16" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/binlog/BinlogParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRBbGxDb2x1bUxpc3RlbmVyKGxvZ1BhcnNlciwgYm9zc0RiLCBCT1NTX0RCLCBKT0JfREVQQVJUTUVOVF9JTkZPLCBuZXcgSm9iRGVwYXJ0bWVudEluZm9MaXN0ZW5lcihTZW5kVG9TdHJlYW1MaXN0ZW5lci5TdHJlYW1UeXBlLkpPQl9UWVBFLCBwcm9kdWNlcjQpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>intVal</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -520,7 +520,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PREDICT_JOB_TYPE</text>
+        <text>intVal</text>
       </register>
       <register name="/" type="4">
         <text>subway</text>
