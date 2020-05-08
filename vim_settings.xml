@@ -105,6 +105,7 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/HistoryDbHandler.java" timestamp="1588230807347" />
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.83/zp-client-9.83.jar!/gen/dataview/JobStatic.class" timestamp="1588823010956" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" timestamp="1588922080664" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1588843252108">
         <mark key="'" line="247" column="26" />
         <mark key="[" line="26" column="31" />
@@ -237,6 +238,9 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SplitDb.java" timestamp="1588768060106" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588760081575">
+        <mark key="[" line="501" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" timestamp="1588212189932">
         <mark key="'" line="100" column="6" />
       </file>
@@ -251,7 +255,12 @@
         <mark key="^" line="92" column="12" />
         <mark key="." line="92" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1588920467205" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeHelpers.java" timestamp="1588922692419">
+        <mark key="[" line="501" column="33" />
+        <mark key="]" line="502" column="53" />
+        <mark key="^" line="502" column="53" />
+        <mark key="." line="502" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1588751726297">
         <mark key="'" line="214" column="30" />
         <mark key="[" line="395" column="19" />
@@ -310,6 +319,9 @@
         <mark key="^" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/GeekProp.java" timestamp="1588844641465" />
+      <file name="/fragment.java" timestamp="1588922213405">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="25" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/blue_facade_l3.txt" />
@@ -514,7 +526,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>subway</text>
+        <text>屏蔽</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgam9iQ2FyZC5zZXRDb21JZChqb2IuY29tSWQpOwo=</text>
@@ -637,9 +649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subway</last-search>
+      <last-search>屏蔽</last-search>
       <last-offset />
-      <last-pattern>subway</last-pattern>
+      <last-pattern>屏蔽</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -647,8 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>63</entry>
-        <entry>1855</entry>
         <entry>442</entry>
         <entry>nocache</entry>
         <entry>cleanjob</entry>
@@ -667,6 +677,8 @@
         <entry>depar</entry>
         <entry>job_department_info</entry>
         <entry>subway</entry>
+        <entry>mask</entry>
+        <entry>屏蔽</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
