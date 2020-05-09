@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/HistoryDbHandler.java" timestamp="1588230807347" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardWrapper.java" timestamp="1588933158822" />
       <file name="$MAVEN_REPOSITORY$/com/bosszhipin/zp-client/9.83/zp-client-9.83.jar!/gen/dataview/JobStatic.class" timestamp="1588823010956" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" timestamp="1588926926316">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" timestamp="1588990906772">
         <mark key="[" line="76" column="74" />
         <mark key="]" line="76" column="86" />
         <mark key="." line="76" column="86" />
@@ -203,6 +203,7 @@
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/PositionNew.java" timestamp="1588729340114" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/NNMapping.java" timestamp="1588157302220" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/GeekProfile.java" timestamp="1588991127030" />
       <file name="$USER_HOME$/workspace/data-common/pom.xml" timestamp="1587012058156">
         <mark key="'" line="81" column="27" />
         <mark key="[" line="95" column="25" />
@@ -277,7 +278,7 @@
         <mark key="." line="210" column="52" />
         <mark key="^" line="210" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1588925843105">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1588990965110">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
@@ -523,7 +524,7 @@
         <text>-job列表对应的comId的map, (comId可能为中介职位的客户公司ID)</text>
       </register>
       <register name="/" type="4">
-        <text>expect</text>
+        <text>geeknotify</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog5a+55LqOY+err++8jOWPlmPlsY/olL3nmoTlhazlj7jlhbPogZTnmoTlhazlj7jliJfooagKICAgICAqIDE6YyAtPiBuOm1hc2tzIC0+IG4nOm1hc2tzCiAgICAgKiBuOmIgLT4gbjpjb21zCiAgICAgKiBuOmNvbXMgLT4gbidtYXNrcwogICAgICoKICAgICAqIEBwYXJhbSBnZWVrSWQgICAgICAgIOeJm+S6umlkCiAgICAgKiBAcGFyYW0gYm9zczJDb21JZE1hcCBqb2LliJfooajnmoRib3NzLWpvYuWIl+ihqOWvueW6lOeahGNvbUlk55qEbWFwLCAoY29tSWTlj6/og73kuLrkuK3ku4vogYzkvY3nmoTlrqLmiLflhazlj7hJRCkKICAgICAqIEBwYXJhbSBib3NzRGJBcGkgICAgIOatpOaWueazleS8muafpeW6k++8jGJvc3NEYkFwaS5nZXRCb3NzQnlJZHMgYm9zc0RiQXBpLmxvYWRDb21zQnlDb21JZHMKICAgICAqIEBwYXJhbSBtYXNrcyAgICAgICAgIOeJm+S6uueahOecn+WunuWxj+iUveWIl+ihqAogICAgICogQHJldHVybiDpnIDopoHljrvmjonlk6rkupvogIHmnb8KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBTZXQ8SW50ZWdlcj4gZ2V0TWFza2VkRm9yQyhpbnQgZ2Vla0lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gYm9zczJDb21JZE1hcCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgREJBcGkgYm9zc0RiQXBpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBacFVzZXJEQkFwaSB6cFVzZXJEQkFwaSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWnBCb3NzREJBcGkgenBCb3NzREJBcGksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8R2Vla01hc2tDb21wYW55PiBtYXNrcykgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlmIChNYXBVdGlscy5pc0VtcHR5KGJvc3MyQ29tSWRNYXApIHx8IG1hc2tzID09IG51bGwgfHwgbWFza3MuaXNFbXB0eSgpKSByZXR1cm4gbmV3IEhhc2hTZXQ8PigpOwoKICAgICAgICAgICAgTWFwPEludGVnZXIsIFNwbGl0RGIuWnBCb3NzSW5mbzI+IGJvc3NJbmZvMkJ5SWRzID0gU3BsaXREYi5nZXRCb3NzSW5mbzJCeUlkcyhib3NzRGJBcGksIHpwVXNlckRCQXBpLCB6cEJvc3NEQkFwaSwgbmV3IEFycmF5TGlzdDw+KGJvc3MyQ29tSWRNYXAua2V5U2V0KCkpKTsKICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiBjb21zID0gbWFza3Muc3RyZWFtKCkubWFwKG0gLT4gbS5jb21JZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgTWFwPEludGVnZXIsIFpwQ29tSW5mbz4gY29tUmVsYXRpb25zID0gYm9zc0RiQXBpLmxvYWRDb21zQnlDb21JZHMoY29tcyk7CiAgICAgICAgICAgIG1hc2tzLmFkZEFsbChjb21SZWxhdGlvbnMudmFsdWVzKCkuc3RyZWFtKCkubWFwKGMgLT4gbmV3IEdlZWtNYXNrQ29tcGFueShnZWVrSWQsIGMuY29tSWQsIGMuY29tcGFueUZ1bGxOYW1lKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSk7CgogICAgICAgICAgICBTZXQ8SW50ZWdlcj4gaWdub3JlQm9zc2VzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgICAgICBmb3IgKFNwbGl0RGIuWnBCb3NzSW5mbzIgYmkyIDogYm9zc0luZm8yQnlJZHMudmFsdWVzKCkpIHsKICAgICAgICAgICAgICAgIC8vIGZvciBjLCBmaWx0ZXIgYm9zcwogICAgICAgICAgICAgICAgaWYgKGNvbS56aGlwaW4uVXRpbHMubm90VmFsaWRCb3NzKGJpMikpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmb3IgKEdlZWtNYXNrQ29tcGFueSBtYXNrIDogbWFza3MpIHsKICAgICAgICAgICAgICAgICAgICBpZiAobWFzay5jb21JZCA9PSBiaTIuYm9zc0V4dHJhVGlueS5jb21JZCB8fCBtYXNrLmNvbUlkID09IGJvc3MyQ29tSWRNYXAuZ2V0T3JEZWZhdWx0KGJpMi51c2VyLmlkLCAwKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZ25vcmVCb3NzZXMuYWRkKGJpMi51c2VyLmlkKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBpZ25vcmVCb3NzZXM7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJnZXRNYXNrZWRGb3JDIHt9IiwgZ2Vla0lkLCBlKTsKICAgICAgICAgICAgcmV0dXJuIG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICB9CiAgICB9Cg==</text>
@@ -646,9 +647,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expect</last-search>
+      <last-search>geeknotify</last-search>
       <last-offset />
-      <last-pattern>expect</last-pattern>
+      <last-pattern>geeknotify</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -656,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cleanjob</entry>
         <entry>init</entry>
         <entry>-nn_servers</entry>
         <entry>nn</entry>
@@ -676,6 +676,7 @@
         <entry>屏蔽</entry>
         <entry>jobItem</entry>
         <entry>expect</entry>
+        <entry>geeknotify</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
