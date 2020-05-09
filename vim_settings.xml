@@ -18,10 +18,11 @@
         <mark key="." line="134" column="95" />
         <mark key="^" line="134" column="95" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1588919196364">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1589005733568">
+        <mark key="[" line="64" column="67" />
+        <mark key="]" line="64" column="66" />
+        <mark key="." line="64" column="66" />
+        <mark key="^" line="64" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/HistoryDbActionHandler.java" timestamp="1588230793576" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/BossExtraListener.java" timestamp="1588232240289" />
@@ -39,10 +40,10 @@
         <mark key="." line="185" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" timestamp="1588996129170">
-        <mark key="[" line="288" column="124" />
-        <mark key="]" line="288" column="132" />
-        <mark key="." line="288" column="132" />
-        <mark key="^" line="288" column="132" />
+        <mark key="[" line="266" column="124" />
+        <mark key="]" line="266" column="132" />
+        <mark key="." line="266" column="132" />
+        <mark key="^" line="266" column="132" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1588242475886" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekLoadParam2.java" timestamp="1586965722767">
@@ -58,6 +59,11 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1589005979551">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="116" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/resources/sample_c.txt" timestamp="1588754056818">
         <mark key="[" line="0" column="0" />
@@ -79,9 +85,9 @@
       <file name="$MAVEN_REPOSITORY$/com/zhipin/zhipin-data-model/1.193/zhipin-data-model-1.193.jar!/com/zhipin/data/model/job/JobCardDataBO.class" timestamp="1588993630237" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" timestamp="1588995826204">
         <mark key="'" line="45" column="18" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" timestamp="1588237866360">
         <mark key="'" line="99" column="30" />
@@ -104,12 +110,6 @@
         <mark key="]" line="39" column="5" />
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="54" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/DzJobImporter.java" timestamp="1588995881483">
-        <mark key="[" line="171" column="33" />
-        <mark key="]" line="171" column="46" />
-        <mark key="^" line="171" column="46" />
-        <mark key="." line="171" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/HistoryDbHandler.java" timestamp="1588230807347" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardWrapper.java" timestamp="1588933158822" />
@@ -183,6 +183,7 @@
         <mark key="^" line="75" column="25" />
         <mark key="." line="75" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/DzGeekImporter.java" timestamp="1589006781910" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/pre/DelayQueue4Event.java" timestamp="1587122144273">
         <mark key="'" line="134" column="4" />
         <mark key="[" line="93" column="36" />
@@ -262,11 +263,9 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SplitDb.java" timestamp="1588927155340" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" timestamp="1588760081575">
-        <mark key="[" line="501" column="5" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/zhipin/zhipin-data-model/1.196/zhipin-data-model-1.196.jar!/com/zhipin/data/model/job/JobCardDataBO.class" timestamp="1588995589755" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/cache/bean/Notice.java" timestamp="1588924543289" />
+      <file name="$MAVEN_REPOSITORY$/com/zhipin/zhipin-data-model/1.196/zhipin-data-model-1.196.jar!/com/zhipin/data/model/geek/GeekCardDataBO.class" timestamp="1589007640383" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/BrandListener.java" timestamp="1588836683056" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/PredictMainTest.java" timestamp="1588823063221">
         <mark key="[" line="92" column="51" />
@@ -352,7 +351,7 @@
         <mark key="^" line="167" column="12" />
         <mark key="." line="167" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F24BResult.java" timestamp="1587635768011">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/f2/F24BResult.java" timestamp="1589005967438">
         <mark key="'" line="192" column="20" />
         <mark key="[" line="41" column="56" />
         <mark key="]" line="41" column="56" />
@@ -360,9 +359,6 @@
         <mark key="^" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/GeekProp.java" timestamp="1588844641465" />
-      <file name="/fragment.java" timestamp="1588926934199">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="248" column="26" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
@@ -468,7 +464,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getProxyJob</text>
+        <text>geekIds4Boss</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -564,13 +560,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getProxyJob</text>
+        <text>geekIds4Boss</text>
       </register>
       <register name="/" type="4">
         <text>zhipin-data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JEYXRhLnNldFByb3h5Sm9iKGpvYi5nZXRQcm94eUpvYigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGdlZWtJZHM0Qm9zcyA9IGdlZWtJZHMuc3RyZWFtKCkuZmlsdGVyKGkgLT4gaSA+IDApLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PT09PT09PQogICAgcHVibGljIEdlZWtDYXJkTGlzdCBXZWxjb21lNEJvc3MoV2VsY29tZTRCb3NzUmVxIHJlcSkgdGhyb3dzIFRFeGNlcHRpb24gewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo+Pj4+Pj4+IHVwZ3JhZGUgY2xpZW50cwo=</text>
