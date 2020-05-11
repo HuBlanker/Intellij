@@ -85,12 +85,12 @@
         <mark key="." line="947" column="0" />
         <mark key="^" line="938" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" timestamp="1589180193128">
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" timestamp="1589181132172">
         <mark key="'" line="88" column="33" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="97" column="58" />
+        <mark key="[" line="151" column="32" />
+        <mark key="]" line="151" column="47" />
+        <mark key="." line="151" column="47" />
+        <mark key="^" line="151" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" timestamp="1588237866360">
         <mark key="'" line="99" column="30" />
@@ -105,11 +105,11 @@
         <mark key="^" line="92" column="12" />
         <mark key="." line="92" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" timestamp="1589180225506">
-        <mark key="[" line="99" column="36" />
-        <mark key="]" line="99" column="36" />
-        <mark key="^" line="96" column="40" />
-        <mark key="." line="99" column="36" />
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" timestamp="1589181280886">
+        <mark key="[" line="94" column="31" />
+        <mark key="]" line="94" column="31" />
+        <mark key="^" line="94" column="29" />
+        <mark key="." line="94" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1588751726297">
         <mark key="'" line="214" column="30" />
@@ -375,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comId</text>
+        <text>&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -471,19 +471,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>comId</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>company_full_info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lLmNvbUluZm8uY29tSWQK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGdldENvbUlkKCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy5jb21JbmZvLmNvbUlkOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouQ2l0eS8kai5BcmVhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQ29tV3JhcHBlcnsKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -510,10 +510,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouRGVncmVlLyRqLkV4cGVyaWVuY2UvJGouSW5kdXN0cnkK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbWluZm8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgogICAgICAgICAgICAgICAgICAgICAgICAkai5KLkJyYW5kLk5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouQ2l0eS8kai5BcmVhCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -546,7 +546,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpZCI+JGouSi5JZDwvc3Bhbj4gLyAkai5KLkJvc3MuSWQKICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgI2ZvcmVhY2goICR0IGluICRqLlRhZ3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0idGFnIj4kdDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgI2VuZAogICAgICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -570,16 +570,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICRmb3JlYWNoLmNvdW50CiAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouRGVncmVlLyRqLkV4cGVyaWVuY2UvJGouSW5kdXN0cnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgogICAgICAgICAgICAgICAgICAgICAgICAkai5KLkJyYW5kLk5hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNmb3JlYWNoKCRqIGluICRtZS5Kb2JzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpZCI+JGouSi5JZDwvc3Bhbj4gLyAkai5KLkJvc3MuSWQKICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgI2ZvcmVhY2goICR0IGluICRqLlRhZ3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0idGFnIj4kdDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgI2VuZAogICAgICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoYmcuZXF1YWxzKCIxIikgfHwgYmcuZXF1YWxzKCIyIikpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICRmb3JlYWNoLmNvdW50CiAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name="y" type="4">
         <keys>
