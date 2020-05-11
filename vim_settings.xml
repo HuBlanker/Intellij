@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1589184875721">
-        <mark key="'" line="91" column="23" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1589186862023">
+        <mark key="'" line="49" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/stream/StreamConsumer5.java" timestamp="1588242664447">
         <mark key="[" line="134" column="95" />
@@ -51,6 +51,7 @@
         <mark key="." line="50" column="53" />
         <mark key="^" line="50" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/tagparse/TagParseBaseMain.java" timestamp="1589186921999" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1589184846248">
         <mark key="'" line="437" column="0" />
       </file>
@@ -84,6 +85,7 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="58" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/tagparse/TagParse4BHigh.java" timestamp="1589186951016" />
       <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/db/ZstdThriftTest.java" timestamp="1588150649980">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="17" column="6" />
@@ -148,8 +150,8 @@
         <mark key="]" line="142" column="9" />
         <mark key="." line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1589186026076">
-        <mark key="'" line="27" column="34" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1589187264673">
+        <mark key="'" line="30" column="62" />
         <mark key="[" line="43" column="85" />
         <mark key="]" line="43" column="86" />
         <mark key="." line="43" column="86" />
@@ -191,11 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
-      <jump line="239" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
-      <jump line="100" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
-      <jump line="18" column="13" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
-      <jump line="114" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
       <jump line="124" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/JobPropLoader.java" />
       <jump line="17" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
       <jump line="203628" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
@@ -279,8 +276,6 @@
       <jump line="88" column="33" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" />
       <jump line="18" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
       <jump line="21" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="24" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="27" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
       <jump line="437" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="10" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="92" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
@@ -291,6 +286,13 @@
       <jump line="100" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="90" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="91" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="24" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
+      <jump line="27" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
+      <jump line="30" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
+      <jump line="86" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="105" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="48" column="58" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="49" column="99" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -393,7 +395,7 @@
         <text>..</text>
       </register>
       <register name="/" type="4">
-        <text>c_actions2</text>
+        <text>tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGdldENvbUlkKCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy5jb21JbmZvLmNvbUlkOwogICAgICAgIH0K</text>
@@ -516,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search>c_actions2</last-search>
+      <last-search>tag</last-search>
       <last-offset />
-      <last-pattern>c_actions2</last-pattern>
+      <last-pattern>tag</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>proxy</entry>
         <entry>job</entry>
         <entry>jobstatic</entry>
         <entry>depart</entry>
@@ -546,6 +547,7 @@
         <entry>company_full_info</entry>
         <entry>actions</entry>
         <entry>c_actions2</entry>
+        <entry>tag</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
