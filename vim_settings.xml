@@ -3,15 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1589184875721">
+        <mark key="'" line="91" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/stream/StreamConsumer5.java" timestamp="1588242664447">
         <mark key="[" line="134" column="95" />
         <mark key="]" line="134" column="95" />
         <mark key="." line="134" column="95" />
         <mark key="^" line="134" column="95" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/binlog/listeners/sendstream/JobListener.java" timestamp="1588832702657">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="26" column="7" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/zp_industry.txt" timestamp="1588157542430">
+        <mark key="'" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1588927140394">
         <mark key="[" line="709" column="74" />
@@ -31,6 +33,9 @@
         <mark key="." line="192" column="45" />
         <mark key="^" line="192" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/Converter.java" timestamp="1588822269297">
+        <mark key="'" line="72" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" timestamp="1588996129170">
         <mark key="[" line="266" column="124" />
         <mark key="]" line="266" column="132" />
@@ -46,17 +51,8 @@
         <mark key="." line="50" column="53" />
         <mark key="^" line="50" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1588236558212">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="123" />
-      </file>
-      <file name="/ExpectPropLoader.java" timestamp="1588160130133">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="123" column="64" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/DBApi.java" timestamp="1588227228229">
-        <mark key="[" line="1646" column="22" />
-        <mark key="]" line="1646" column="206" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" timestamp="1589184846248">
+        <mark key="'" line="437" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" timestamp="1588994977462">
         <mark key="[" line="947" column="0" />
@@ -97,10 +93,6 @@
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1589179285898">
         <mark key="'" line="844" column="16" />
       </file>
-      <file name="/JobPropLoader.java" timestamp="1588227195448">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="173" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/NoAgencyFilter.java" timestamp="1588992676148">
         <mark key="[" line="11" column="87" />
         <mark key="]" line="12" column="3" />
@@ -131,10 +123,6 @@
         <mark key="^" line="3" column="58" />
         <mark key="." line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/ZpGeekDBApi.java" timestamp="1588767710437">
-        <mark key="[" line="341" column="22" />
-        <mark key="]" line="341" column="77" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1589171084470">
         <mark key="'" line="67" column="46" />
         <mark key="[" line="245" column="52" />
@@ -148,6 +136,7 @@
         <mark key="^" line="51" column="28" />
         <mark key="." line="51" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/DzUserLogHandler.java" timestamp="1589184447844" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/NoCacheLoader.java" timestamp="1588236570335">
         <mark key="[" line="37" column="9" />
         <mark key="]" line="38" column="20" />
@@ -159,8 +148,8 @@
         <mark key="]" line="142" column="9" />
         <mark key="." line="142" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1589169355514">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1589186026076">
+        <mark key="'" line="27" column="34" />
         <mark key="[" line="43" column="85" />
         <mark key="]" line="43" column="86" />
         <mark key="." line="43" column="86" />
@@ -197,28 +186,11 @@
         <mark key="^" line="220" column="28" />
         <mark key="." line="220" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/GeekProp.java" timestamp="1589106936867">
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="258" column="6" />
-      </file>
       <file name="/fragment.java" timestamp="1589120799736">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/zp_industry.txt" />
-      <jump line="317" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropHelper.java" />
-      <jump line="51" column="41" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
-      <jump line="396" column="92" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="417" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="420" column="92" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="520" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="521" column="79" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
-      <jump line="64" column="57" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
-      <jump line="80" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
-      <jump line="72" column="38" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/eval/EvalExpectPropUseHistory.java" />
-      <jump line="21" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
-      <jump line="6058" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
       <jump line="362" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
       <jump line="239" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
       <jump line="100" column="6" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_skill.txt" />
@@ -261,7 +233,6 @@
       <jump line="159" column="237" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" />
       <jump line="183" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" />
       <jump line="156" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
-      <jump line="10" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="20" column="12" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
       <jump line="961" column="1" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
       <jump line="959" column="7" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
@@ -306,6 +277,20 @@
       <jump line="844" column="16" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="79" column="28" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" />
       <jump line="88" column="33" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" />
+      <jump line="18" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
+      <jump line="21" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
+      <jump line="24" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
+      <jump line="27" column="34" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
+      <jump line="437" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
+      <jump line="10" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="92" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="93" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="97" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="98" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="99" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="100" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="90" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
+      <jump line="91" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,7 +393,7 @@
         <text>..</text>
       </register>
       <register name="/" type="4">
-        <text>company_full_info</text>
+        <text>c_actions2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGdldENvbUlkKCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy5jb21JbmZvLmNvbUlkOwogICAgICAgIH0K</text>
@@ -531,9 +516,9 @@
       </register>
     </registers>
     <search>
-      <last-search>company_full_info</last-search>
+      <last-search>c_actions2</last-search>
       <last-offset />
-      <last-pattern>company_full_info</last-pattern>
+      <last-pattern>c_actions2</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -541,8 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jobcard</entry>
-        <entry>jobitem</entry>
         <entry>proxy</entry>
         <entry>job</entry>
         <entry>jobstatic</entry>
@@ -561,6 +544,8 @@
         <entry>zhipin-data-mo</entry>
         <entry>zhipin-data</entry>
         <entry>company_full_info</entry>
+        <entry>actions</entry>
+        <entry>c_actions2</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
