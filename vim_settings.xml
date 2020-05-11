@@ -58,12 +58,12 @@
         <mark key="." line="947" column="0" />
         <mark key="^" line="938" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" timestamp="1589181132172">
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" timestamp="1589194054672">
         <mark key="'" line="88" column="33" />
-        <mark key="[" line="151" column="32" />
-        <mark key="]" line="151" column="47" />
-        <mark key="." line="151" column="47" />
-        <mark key="^" line="151" column="47" />
+        <mark key="[" line="104" column="22" />
+        <mark key="]" line="104" column="108" />
+        <mark key="." line="104" column="108" />
+        <mark key="^" line="104" column="108" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/PredictMainTest.java" timestamp="1588823063221">
         <mark key="[" line="92" column="51" />
@@ -76,7 +76,8 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" timestamp="1589183038013">
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" timestamp="1589193964610">
+        <mark key="'" line="121" column="22" />
         <mark key="[" line="58" column="24" />
         <mark key="]" line="58" column="24" />
         <mark key="^" line="50" column="23" />
@@ -98,11 +99,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1589192078667">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="169" column="5" />
-        <mark key="^" line="169" column="5" />
-        <mark key="." line="169" column="5" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1589195189380">
+        <mark key="'" line="178" column="245" />
+        <mark key="[" line="123" column="46" />
+        <mark key="]" line="123" column="45" />
+        <mark key="^" line="123" column="45" />
+        <mark key="." line="123" column="45" />
       </file>
       <file name="$USER_HOME$/study/huyan-modules/huyan-essay/src/main/java/daily/Args4JTest.java" timestamp="1588147509992">
         <mark key="[" line="31" column="49" />
@@ -187,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203628" column="11" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
-      <jump line="203629" column="7" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
-      <jump line="203612" column="10" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
       <jump line="64" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
       <jump line="1849" column="8" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
       <jump line="1440" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/nn2_dict_com.txt" />
@@ -287,10 +286,13 @@
       <jump line="49" column="99" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="51" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
       <jump line="119" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
+      <jump line="73" column="29" filename="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" />
+      <jump line="121" column="22" filename="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" />
+      <jump line="175" column="245" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EXPOSURE_ACTIVE_DB</text>
+        <text>tion\</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -386,19 +388,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EXPOSURE_ACTIVE_DB</text>
+        <text>tion\</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>cls</text>
       </register>
-      <register name="0" type="4">
-        <text>EXPOSURE_ACTIVE_DB</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGFkZGVkID0gaXRlbXMuc3RyZWFtKCkuZmlsdGVyKGkgLT4gaS5raW5kID09IEFERF9LSU5EKS5tYXAoaSAtPiBpLm90aGVySWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cnMuYWRkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQ29tV3JhcHBlcnsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGRlZCA9IGFkZGVkOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -425,10 +427,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbWluZm8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IGRldGFpbCA9IGl0ZW1zLnN0cmVhbSgpLmZpbHRlcihpIC0+IGkua2luZCA9PSBERVRBSUxfS0lORCkubWFwKGkgLT4gaS5vdGhlcklkKS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouQ2l0eS8kai5BcmVhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -461,7 +463,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQ29tV3JhcHBlcnsKICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -485,16 +487,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouRGVncmVlLyRqLkV4cGVyaWVuY2UvJGouSW5kdXN0cnkK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbWluZm8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgogICAgICAgICAgICAgICAgICAgICAgICAkai5KLkJyYW5kLk5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouQ2l0eS8kai5BcmVhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpZCI+JGouSi5JZDwvc3Bhbj4gLyAkai5KLkJvc3MuSWQKICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgI2ZvcmVhY2goICR0IGluICRqLlRhZ3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0idGFnIj4kdDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgI2VuZAogICAgICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICRmb3JlYWNoLmNvdW50CiAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGouRGVncmVlLyRqLkV4cGVyaWVuY2UvJGouSW5kdXN0cnkK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -512,9 +514,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search>cls</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>cls</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -522,7 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>job</entry>
         <entry>jobstatic</entry>
         <entry>depart</entry>
         <entry>depar</entry>
@@ -542,6 +543,7 @@
         <entry>actions</entry>
         <entry>c_actions2</entry>
         <entry>tag</entry>
+        <entry>cls</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
