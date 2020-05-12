@@ -57,7 +57,7 @@
         <mark key="^" line="60" column="112" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/consumer/ExposureConsumer.java" timestamp="1589198293387" />
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" timestamp="1589193964610">
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" timestamp="1589285556393">
         <mark key="'" line="121" column="22" />
         <mark key="[" line="58" column="24" />
         <mark key="]" line="58" column="24" />
@@ -118,12 +118,12 @@
         <mark key="." line="115" column="33" />
         <mark key="^" line="115" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" timestamp="1589276551289">
-        <mark key="'" line="142" column="21" />
-        <mark key="[" line="137" column="33" />
-        <mark key="]" line="137" column="102" />
-        <mark key="." line="137" column="102" />
-        <mark key="^" line="137" column="102" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" timestamp="1589284672258">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="402" column="85" />
+        <mark key="." line="402" column="85" />
+        <mark key="^" line="405" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobRebuildMain.java" timestamp="1589268924596">
         <mark key="'" line="263" column="35" />
@@ -235,16 +235,15 @@
         <mark key="^" line="37" column="117" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/techwolf/techwolf-dbwolf-client/2.1.46/techwolf-dbwolf-client-2.1.46.jar!/cn/techwolf/dbwolf/client/DbAgent.class" timestamp="1589281534097" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" timestamp="1589278158033">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" timestamp="1589284934598">
         <mark key="'" line="45" column="43" />
-        <mark key="[" line="128" column="63" />
-        <mark key="]" line="128" column="61" />
-        <mark key="." line="128" column="61" />
+        <mark key="[" line="110" column="22" />
+        <mark key="]" line="110" column="22" />
+        <mark key="." line="110" column="22" />
         <mark key="^" line="128" column="61" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" />
       <jump line="148" column="58" filename="$USER_HOME$/workspace/zp-search2/src/test/resources/sample_c.txt" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/resources/sample_c.txt" />
       <jump line="998" column="79" filename="$USER_HOME$/workspace/zp-search2/src/test/resources/sample_c.txt" />
@@ -344,10 +343,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
       <jump line="138" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" />
       <jump line="45" column="43" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>ADD_KIND</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -443,7 +443,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>ADD_KIND</text>
       </register>
       <register name="/" type="4">
         <text>com_e</text>
