@@ -233,6 +233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FeatureApiDubboClientsTest.test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FeatureApiDubboClientsTest.test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FeatureDbTest.LoadData'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -942,7 +950,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8458</Count>
+          <Count>8470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
