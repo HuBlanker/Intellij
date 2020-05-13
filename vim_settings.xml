@@ -87,10 +87,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" timestamp="1589356662782">
         <mark key="'" line="407" column="0" />
-        <mark key="[" line="310" column="37" />
-        <mark key="]" line="310" column="36" />
-        <mark key="." line="310" column="36" />
-        <mark key="^" line="310" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" timestamp="1589353085038">
         <mark key="'" line="520" column="10" />
@@ -164,11 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
-      <jump line="20" column="12" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
-      <jump line="961" column="1" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
-      <jump line="959" column="7" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
       <jump line="87" column="16" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/binlog/BinlogParser.java" />
       <jump line="45" column="18" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
@@ -264,6 +255,11 @@
       <jump line="484" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
       <jump line="502" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
       <jump line="520" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
+      <jump line="11" column="28" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="22" column="14" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="37" column="38" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="1818" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
+      <jump line="2055" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -366,7 +362,7 @@
         <text>new IntHashMap()</text>
       </register>
       <register name="/" type="4">
-        <text>seo_company_info_new</text>
+        <text>geekcard</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDmiL/lnLDkuqfotoXngavpmLvmlq0KICAgICAgICBpZiAoYnAuaXNSZWFsRXN0YXRlQmxvY2sgJiYgYnAuY29tQWRkQ291bnRlci5nZXQoZ2Vlay51c2VySWQpID49IDIpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oImJvc3M6e30sIGNvbTp7fSwgZ2Vlazp7fSwgcmVhbEVzdGF0ZUJsb2NrRmlsdGVyLiIsIGJwLmJvc3NJbmZvMi51c2VyLmlkCiAgICAgICAgICAgICAgICAgICAgLCBicC5ib3NzSW5mbzIuYm9zc0V4dHJhVGlueS5jb21JZCwgZ2Vlay51c2VySWQpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9Cg==</text>
@@ -489,9 +485,9 @@
       </register>
     </registers>
     <search>
-      <last-search>seo_company_info_new</last-search>
+      <last-search>geekcard</last-search>
       <last-offset />
-      <last-pattern>seo_company_info_new</last-pattern>
+      <last-pattern>geekcard</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -499,7 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>屏蔽</entry>
         <entry>jobItem</entry>
         <entry>expect</entry>
         <entry>geeknotify</entry>
@@ -519,6 +514,7 @@
         <entry>com_e</entry>
         <entry>block</entry>
         <entry>seo_company_info_new</entry>
+        <entry>geekcard</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
