@@ -10,11 +10,10 @@
         <mark key="." line="134" column="95" />
         <mark key="^" line="134" column="95" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1589385107220">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="106" column="88" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1589386045533">
+        <mark key="[" line="105" column="43" />
+        <mark key="]" line="105" column="43" />
+        <mark key="." line="105" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/techwolf/techwolf-dbwolf-datasource4jade/2.1.46/techwolf-dbwolf-datasource4jade-2.1.46.jar!/cn/techwolf/dbwolf/jade/datasource/JadeDataSource.class" timestamp="1589281440906" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/UtilsTest.java" timestamp="1589385170589">
@@ -114,6 +113,7 @@
         <mark key="." line="255" column="89" />
         <mark key="^" line="255" column="89" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardParam.java" timestamp="1589385931024" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1589369878997">
         <mark key="[" line="76" column="21" />
         <mark key="]" line="76" column="25" />
@@ -404,8 +404,8 @@
       <jump line="74" column="4" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/UtilsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/agency-add</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -501,7 +501,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>geekFeatures</text>
+        <text>/agency-add</text>
       </register>
       <register name="/" type="4">
         <text>comId</text>
@@ -510,10 +510,10 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgZmluYWwgR2Vla0RhdGFSY2RJZHhBcGkgZ2Vla0RhdGFSY2RJZHhBcGk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgaXNIdW50ZXJUZXN0KCkgewovLyAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDAsIDEpKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShVdGlscy5pc0h1bnRlcihuZXcgSHVudGVyRXh0cmEoMCwgMSwgMSkpKTsKLy8gICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKFV0aWxzLmlzSHVudGVyKG5ldyBIdW50ZXJFeHRyYSgwLCAyLCAxKSkpOwovLyAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDMsIDEpKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShVdGlscy5pc0h1bnRlcihuZXcgSHVudGVyRXh0cmEoMCwgNCwgMSkpKTsKLy8KLy8gICAgICAgIEFzc2VydC5hc3NlcnRGYWxzZShVdGlscy5pc0h1bnRlcihudWxsKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDMsIDApKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDEsIDApKSk7Ci8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdlZWtGZWF0dXJlc0JhdGNoUmVxIHJlcSA9IG5ldyBHZWVrRmVhdHVyZXNCYXRjaFJlcSgpOwogICAgICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGdlZWtJZCA6IGdlZWtJZHMpIHsKICAgICAgICAgICAgICAgICAgICBHZWVrRmVhdHVyZXNSZXEgcGVyUmVxID0gbmV3IEdlZWtGZWF0dXJlc1JlcSgpOwogICAgICAgICAgICAgICAgICAgIHBlclJlcS5zZXRHZWVrSWQoZ2Vla0lkKTsKICAgICAgICAgICAgICAgICAgICBwZXJSZXEuYWRkQ29kZSgiMjA3NSIpOwogICAgICAgICAgICAgICAgICAgIHJlcS5hZGRHZWVrRmVhdHVyZXNSZXEocGVyUmVxKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIEZlYXR1cmVCYXRjaFJlc3AgZmVhdHVyZVJlc3AgPSBmZWF0dXJlQXBpRHViYm9DbGllbnQuZ2V0R2Vla0ZlYXR1cmVzQmF0Y2gocmVxKTsKICAgICAgICAgICAgICAgIGdlZWtzLnJlbW92ZUlmKGcgLT4gZmVhdHVyZVJlc3AuZ2V0RmllbGRSZXNwQnlDb2RlKGcuaWQsICIyMDc1IikuZ2V0SW50KDApID4gNSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -540,10 +540,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIEZlYXR1cmVSZXNwPiByZXNwTWFwID0gZmVhdHVyZVJlc3AuZ2V0UmVzcE1hcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnRlY2h3b2xmLnJjZC5wbGF0Zm9ybS5saWIuZmVhdHVyZS5HZWVrRmVhdHVyZXNSZXE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -576,7 +576,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLnRlY2h3b2xmLnJjZC5wbGF0Zm9ybS5saWIuZmVhdHVyZS5GZWF0dXJlUmVzcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiZmlsdGVyIGFnZW5jeS1hZGQtYmxvY2sgZ2VlayBlcnJvciEiLCBlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -600,16 +600,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlhazlj7jlsY/olL0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdlZWtGZWF0dXJlc0JhdGNoUmVxIHJlcSA9IG5ldyBHZWVrRmVhdHVyZXNCYXRjaFJlcSgpOwogICAgICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGdlZWtJZCA6IGdlZWtJZHMpIHsKICAgICAgICAgICAgICAgICAgICBHZWVrRmVhdHVyZXNSZXEgcGVyUmVxID0gbmV3IEdlZWtGZWF0dXJlc1JlcSgpOwogICAgICAgICAgICAgICAgICAgIHBlclJlcS5zZXRHZWVrSWQoZ2Vla0lkKTsKICAgICAgICAgICAgICAgICAgICBwZXJSZXEuYWRkQ29kZSgiMjA3NSIpOwogICAgICAgICAgICAgICAgICAgIHJlcS5hZGRHZWVrRmVhdHVyZXNSZXEocGVyUmVxKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIEZlYXR1cmVCYXRjaFJlc3AgZmVhdHVyZVJlc3AgPSBmZWF0dXJlQXBpRHViYm9DbGllbnQuZ2V0R2Vla0ZlYXR1cmVzQmF0Y2gocmVxKTsKICAgICAgICAgICAgICAgIGdlZWtzLnJlbW92ZUlmKGcgLT4gZmVhdHVyZVJlc3AuZ2V0RmllbGRSZXNwQnlDb2RlKGcuaWQsICIyMDc1IikuZ2V0SW50KDApID4gNSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgQFRlc3QKLy8gICAgcHVibGljIHZvaWQgaXNIdW50ZXJUZXN0KCkgewovLyAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDAsIDEpKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShVdGlscy5pc0h1bnRlcihuZXcgSHVudGVyRXh0cmEoMCwgMSwgMSkpKTsKLy8gICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKFV0aWxzLmlzSHVudGVyKG5ldyBIdW50ZXJFeHRyYSgwLCAyLCAxKSkpOwovLyAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDMsIDEpKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShVdGlscy5pc0h1bnRlcihuZXcgSHVudGVyRXh0cmEoMCwgNCwgMSkpKTsKLy8KLy8gICAgICAgIEFzc2VydC5hc3NlcnRGYWxzZShVdGlscy5pc0h1bnRlcihudWxsKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDMsIDApKSk7Ci8vICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoVXRpbHMuaXNIdW50ZXIobmV3IEh1bnRlckV4dHJhKDAsIDEsIDApKSk7Ci8vICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDkuK3ku4vlhazlj7jov4fmu6QKICAgICAgICAgICAgICAgICAgICBHZWVrRmVhdHVyZXNSZXEgZnIgPSBuZXcgR2Vla0ZlYXR1cmVzUmVxKCk7CiAgICAgICAgICAgICAgICAgICAgZnIuc2V0R2Vla0lkKGdwLmdlZWtJZCk7CiAgICAgICAgICAgICAgICAgICAgZnIuYWRkQ29kZSgiMjA3NSIpOwoKICAgICAgICAgICAgICAgICAgICBGZWF0dXJlUmVzcCBmcmVzcCA9IHRoaXMuci5mZWF0dXJlQXBpRHViYm9DbGllbnQuZ2V0R2Vla0ZlYXR1cmVzKGZyKTsKICAgICAgICAgICAgICAgICAgICBpbnQgbnVtID0gZnJlc3AuZ2V0UmVzcEJ5Q29kZSgiMjA3NSIpLmdldEludCgwKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIEZlYXR1cmVSZXNwPiByZXNwTWFwID0gZmVhdHVyZVJlc3AuZ2V0UmVzcE1hcCgpOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
