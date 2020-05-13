@@ -44,6 +44,9 @@
         <mark key="^" line="8" column="69" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1589179285898">
+        <mark key="'" line="844" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/col/NewGeekCollector2.java" timestamp="1589349802993">
         <mark key="'" line="81" column="61" />
         <mark key="[" line="23" column="0" />
@@ -82,12 +85,15 @@
         <mark key="." line="115" column="73" />
         <mark key="^" line="115" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" timestamp="1589349758609">
-        <mark key="'" line="399" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="137" column="14" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/preference/BossProfile.java" timestamp="1589353210848">
+        <mark key="'" line="401" column="0" />
+        <mark key="[" line="138" column="33" />
+        <mark key="]" line="138" column="50" />
+        <mark key="." line="138" column="50" />
+        <mark key="^" line="138" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" timestamp="1589353085038">
+        <mark key="'" line="520" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/nn/zp_industry.txt" timestamp="1588157542430">
         <mark key="'" line="17" column="10" />
@@ -155,12 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/data_view.thrift" />
-      <jump line="2" column="12" filename="$USER_HOME$/workspace/zp-client/scripts/data_view.thrift" />
-      <jump line="49" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
-      <jump line="1677" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
-      <jump line="159" column="237" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" />
-      <jump line="183" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/JobImporter.java" />
       <jump line="156" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="20" column="12" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
       <jump line="961" column="1" filename="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/AHandler.java" />
@@ -255,10 +255,16 @@
       <jump line="51" column="52" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/c/GeekCollector2.java" />
       <jump line="154" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/v3/GeekBusinessRules.java" />
       <jump line="86" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/col/NewGeekCollector2.java" />
+      <jump line="413" column="19" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
+      <jump line="441" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
+      <jump line="464" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
+      <jump line="484" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
+      <jump line="502" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
+      <jump line="520" column="10" filename="$USER_HOME$/workspace/zp-search2/scripts/db_tb.def" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihOZXdHZWVrQ29sbGVjdG9yMi5jbGFzcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RealEstateBlock.isRealEStateBlock(this.bossInfo2.bossExtraTiny.comId);</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -354,10 +360,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>172.16.24.10</text>
+        <text>RealEstateBlock.isRealEStateBlock(this.bossInfo2.bossExtraTiny.comId);</text>
       </register>
       <register name="/" type="4">
-        <text>block</text>
+        <text>seo_company_info_new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDmiL/lnLDkuqfotoXngavpmLvmlq0KICAgICAgICBpZiAoYnAuaXNSZWFsRXN0YXRlQmxvY2sgJiYgYnAuY29tQWRkQ291bnRlci5nZXQoZ2Vlay51c2VySWQpID49IDIpIHsKICAgICAgICAgICAgbG9nZ2VyLmluZm8oImJvc3M6e30sIGNvbTp7fSwgZ2Vlazp7fSwgcmVhbEVzdGF0ZUJsb2NrRmlsdGVyLiIsIGJwLmJvc3NJbmZvMi51c2VyLmlkCiAgICAgICAgICAgICAgICAgICAgLCBicC5ib3NzSW5mbzIuYm9zc0V4dHJhVGlueS5jb21JZCwgZ2Vlay51c2VySWQpOwogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9Cg==</text>
@@ -480,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>block</last-search>
+      <last-search>seo_company_info_new</last-search>
       <last-offset />
-      <last-pattern>block</last-pattern>
+      <last-pattern>seo_company_info_new</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mask</entry>
         <entry>屏蔽</entry>
         <entry>jobItem</entry>
         <entry>expect</entry>
@@ -510,6 +515,7 @@
         <entry>com</entry>
         <entry>com_e</entry>
         <entry>block</entry>
+        <entry>seo_company_info_new</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
