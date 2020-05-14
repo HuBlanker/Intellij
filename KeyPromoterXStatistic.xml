@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'FeatureApiDubboClientsTest.test1'</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FeatureDbTest.LoadData'">
@@ -1535,6 +1535,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FastTextDemo'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FeatureApiDubboClientsTest.test1'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FeatureApiDubboClientsTest.test1'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FeatureDbTest.LoadData'">
@@ -3465,6 +3473,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FeatureApiDubboClientsTest.test1'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FeatureApiDubboClientsTest.test1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FeatureDbTest.LoadData (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -4414,7 +4430,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>871</Count>
+          <Count>872</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
