@@ -17,6 +17,7 @@
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/TpJobSearchMain.java" timestamp="1589452303212" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobCardBuilder.java" timestamp="1588843262186">
         <mark key="[" line="192" column="37" />
         <mark key="]" line="192" column="45" />
@@ -121,6 +122,7 @@
         <mark key="^" line="627" column="11" />
         <mark key="." line="627" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpJobSearchHandler.java" timestamp="1589452032616" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchHandler.java" timestamp="1588927140394">
         <mark key="[" line="709" column="74" />
         <mark key="]" line="709" column="86" />
@@ -128,6 +130,12 @@
         <mark key="." line="709" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/eval/GeekSearchEval.java" timestamp="1589359258964" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/TpJobTest.java" timestamp="1589453067335">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/AgencyHelper.java" timestamp="1589439191006">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -186,6 +194,7 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="85" column="137" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1589452573248" />
       <file name="$MAVEN_REPOSITORY$/cn/techwolf/rcd/platform/rcd-platform-lib/1.2.10/rcd-platform-lib-1.2.10.jar!/cn/techwolf/rcd/platform/lib/feature/FeatureBatchResp.class" timestamp="1589375807866" />
       <file name="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/compress/CompressThriftTestServer.java" timestamp="1588057531114">
         <mark key="[" line="3" column="58" />
@@ -338,8 +347,8 @@
       <jump line="117" column="69" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIGJvb2xlYW4gaGVhZGh1bnRlciA9IGZhbHNlOwovLyAgICBwdWJsaWMgYm9vbGVhbiBpc1Byb3h5ID0gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>preRouter</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -435,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLy8g</text>
+        <text>preRouter</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
