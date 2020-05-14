@@ -57,11 +57,10 @@
         <mark key="^" line="938" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/data-common/src/main/java/com/bosszhipin/common/Utils.java" timestamp="1589281431234" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/GeekIntentionStrength.java" timestamp="1589462184661">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="61" column="5" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/GeekIntentionStrength.java" timestamp="1589465116614">
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/feature/ExpectFeature.java" timestamp="1589462778567" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" timestamp="1589458832424">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="101" />
@@ -140,6 +139,12 @@
         <mark key="^" line="97" column="45" />
         <mark key="." line="97" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/FeatureConstants.java" timestamp="1589463382845">
+        <mark key="[" line="150" column="68" />
+        <mark key="]" line="150" column="69" />
+        <mark key="^" line="150" column="69" />
+        <mark key="." line="150" column="69" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/techwolf/techwolf-dbwolf-client/2.1.46/techwolf-dbwolf-client-2.1.46.jar!/cn/techwolf/dbwolf/client/ConnectionManager.class" timestamp="1589281511017" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1588926838660">
         <mark key="[" line="220" column="19" />
@@ -147,11 +152,11 @@
         <mark key="^" line="220" column="28" />
         <mark key="." line="220" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/expect_feature.fb" timestamp="1589462029593">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="23" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/expect_feature.fb" timestamp="1589463319009">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1589376974171">
         <mark key="[" line="625" column="93" />
@@ -240,7 +245,7 @@
         <mark key="." line="104" column="108" />
         <mark key="^" line="104" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/dumpdb/DumpFeatureFromItemMain.java" timestamp="1589457682187">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/dumpdb/DumpFeatureFromItemMain.java" timestamp="1589463115515">
         <mark key="'" line="36" column="19" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="338" column="60" />
@@ -259,11 +264,12 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/dumpdb/DumpGeekIntentionStrengthMain.java" timestamp="1589462634638">
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="72" />
-        <mark key="." line="38" column="72" />
-        <mark key="^" line="38" column="72" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/dumpdb/DumpGeekIntentionStrengthMain.java" timestamp="1589465277238">
+        <mark key="'" line="59" column="5" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/db/BusinessDBApi.java" timestamp="1589265174304">
         <mark key="[" line="603" column="22" />
@@ -353,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="46" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="57" column="20" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/pom.xml" />
       <jump line="43" column="29" filename="$USER_HOME$/workspace/zp-client/pom.xml" />
@@ -453,10 +458,11 @@
       <jump line="36" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/dumpdb/DumpFeatureFromItemMain.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" />
       <jump line="426" column="14" filename="$USER_HOME$/workspace/zp-client/src/test/java/com/bosszhipin/db/FeatureDbTest.java" />
+      <jump line="57" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/dumpdb/DumpGeekIntentionStrengthMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clients</text>
+        <text encoding="base64">U2V0PFN0cmluZz4gS05PV19WQUxVRSA9IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -552,19 +558,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>clients</text>
+        <text encoding="base64">U2V0PFN0cmluZz4gS05PV19WQUxVRSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>fb</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;./intention_strength.txt&quot;</text>
+        <text>DumpGeekIntentionStrengthMain</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICJmZWF0dXJlX2RiX2MiKQogICAgcHVibGljIFN0cmluZyBmZWF0dXJlRGJDID0gZmVhdHVyZV9kYl80YzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -591,10 +597,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4cGVjdEZlYXR1cmUuU2F2ZSh0aGlzLmZlYXR1cmVEYjRDQ2xpZW50cywgc3BsaXRMaXN0LAogICAgICAgICAgICAgICAgICAgICAgICBzcGxpdExpc3Quc3RyZWFtKCkubWFwKGVmIC0+IEZFQVRVUkVfS0VZX0VYUEVDVCArIGVmLmVfaWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSksCiAgICAgICAgICAgICAgICAgICAgICAgIEZsYWdzLkRBWTJfVFMpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -651,16 +657,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPcHRpb24obmFtZSA9ICJmZWF0dXJlX2RiX2MiKQogICAgcHVibGljIFN0cmluZyBmZWF0dXJlRGJDID0gZmVhdHVyZV9kYl80YzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8TG9uZywgR2Vla0ludGVudGlvblN0cmVuZ3RoLklOVEVOVElPTl9TVFJFTkdUSD4gZ2Vla1N0cmVuZ3RoTWFwID0gZ2lzLmdldEdlZWtTdHJlbmd0aE1hcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHZWVrSW50ZW50aW9uU3RyZW5ndGggZ2lzID0gbmV3IEdlZWtJbnRlbnRpb25TdHJlbmd0aCgiLi9pbnRlbnRpb25fc3RyZW5ndGgudHh0Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
