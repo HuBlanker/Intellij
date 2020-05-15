@@ -108,11 +108,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1589518260973">
-        <mark key="[" line="638" column="16" />
-        <mark key="]" line="638" column="16" />
-        <mark key="^" line="149" column="40" />
-        <mark key="." line="638" column="16" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" timestamp="1589518784397">
+        <mark key="'" line="709" column="0" />
+        <mark key="[" line="650" column="25" />
+        <mark key="]" line="650" column="28" />
+        <mark key="^" line="650" column="28" />
+        <mark key="." line="650" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1589203789800">
         <mark key="'" line="116" column="60" />
@@ -149,14 +150,20 @@
         <mark key="^" line="97" column="45" />
         <mark key="." line="97" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekIndexHandler.java" timestamp="1589518961395">
+        <mark key="[" line="136" column="64" />
+        <mark key="]" line="136" column="73" />
+        <mark key="." line="136" column="73" />
+        <mark key="^" line="136" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobWrapper.java" timestamp="1588926838660">
         <mark key="[" line="220" column="19" />
         <mark key="]" line="220" column="28" />
         <mark key="^" line="220" column="28" />
         <mark key="." line="220" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/expect_feature.fb" timestamp="1589463319009">
-        <mark key="[" line="21" column="6" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/expect_feature.fb" timestamp="1589518314129">
+        <mark key="[" line="49" column="36" />
         <mark key="]" line="21" column="7" />
         <mark key="." line="21" column="7" />
         <mark key="^" line="21" column="7" />
@@ -174,12 +181,12 @@
         <mark key="^" line="75" column="25" />
         <mark key="." line="75" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1589518189420">
-        <mark key="'" line="158" column="40" />
-        <mark key="[" line="338" column="21" />
-        <mark key="]" line="339" column="28" />
-        <mark key="^" line="339" column="28" />
-        <mark key="." line="339" column="28" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1589518539543">
+        <mark key="'" line="339" column="20" />
+        <mark key="[" line="340" column="58" />
+        <mark key="]" line="341" column="26" />
+        <mark key="^" line="341" column="26" />
+        <mark key="." line="341" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/RebuildMain.java" timestamp="1589471931101" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/HistoryDbLoader.java" timestamp="1588737385269">
@@ -404,8 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="46" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="738" column="9" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="73" column="33" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" />
       <jump line="214" column="7" filename="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/ExposureHandler.java" />
@@ -504,10 +509,12 @@
       <jump line="419" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="19" column="36" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="158" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="339" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="709" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekWrapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>strength</text>
+        <text>Collections.emptyMap()</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -603,13 +610,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>strength</text>
+        <text>Collections.emptyMap()</text>
       </register>
       <register name="/" type="4">
-        <text>strength</text>
+        <text>expect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygibm8gd3JpdGUuIHNvIGxvZzoge30iLCBVdGlscy5nc29uLnRvSnNvbihsaXN0LmdldCgwKSkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUmVidWlsZEdlZWsgZ2Vla0ZlYXR1cmVzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIm5vIHdyaXRlLiBzbyBsb2c6IHt9IiwgVXRpbHMuZ3Nvbi50b0pzb24obGlzdC5nZXQoMCkpKTsK</text>
@@ -729,9 +736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>strength</last-search>
+      <last-search>expect</last-search>
       <last-offset />
-      <last-pattern>strength</last-pattern>
+      <last-pattern>expect</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -739,7 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>company_full_info</entry>
         <entry>actions</entry>
         <entry>c_actions2</entry>
         <entry>tag</entry>
@@ -759,6 +765,7 @@
         <entry>split</entry>
         <entry>inten</entry>
         <entry>strength</entry>
+        <entry>expect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
