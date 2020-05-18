@@ -394,8 +394,8 @@
         <mark key="]" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ClientsPool.java" timestamp="1589550764346" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1589552303911">
-        <mark key="'" line="281" column="45" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1589766335281">
+        <mark key="'" line="304" column="0" />
         <mark key="[" line="517" column="65" />
         <mark key="]" line="517" column="73" />
         <mark key="." line="517" column="73" />
@@ -424,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
       <jump line="10" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="92" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="93" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
@@ -524,6 +523,7 @@
       <jump line="339" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="404" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="281" column="45" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
+      <jump line="304" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -626,7 +626,7 @@
         <text>_ACCEPT</text>
       </register>
       <register name="/" type="4">
-        <text>app_active</text>
+        <text>geek_expect_db</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnB1dChBY3Rpb24uRFpfRVhDSEFOR0VfUEhPTkVfQUNDRVBULCBQYWlyLm9mKEFDLCBBQ0VEKSkK</text>
@@ -749,9 +749,9 @@
       </register>
     </registers>
     <search>
-      <last-search>app_active</last-search>
+      <last-search>geek_expect_db</last-search>
       <last-offset />
-      <last-pattern>app_active</last-pattern>
+      <last-pattern>geek_expect_db</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -759,7 +759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tag</entry>
         <entry>cls</entry>
         <entry>idle</entry>
         <entry>db</entry>
@@ -779,6 +778,7 @@
         <entry>expect</entry>
         <entry>accept</entry>
         <entry>app_active</entry>
+        <entry>geek_expect_db</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
