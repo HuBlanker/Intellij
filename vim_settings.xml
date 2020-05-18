@@ -184,11 +184,11 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1589509227520">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="156" column="26" />
-        <mark key="]" line="197" column="22" />
-        <mark key="." line="197" column="22" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1589769115899">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="215" column="48" />
+        <mark key="]" line="215" column="50" />
+        <mark key="." line="215" column="0" />
         <mark key="^" line="158" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/crf/BayesIntentions.java" timestamp="1589540687537">
@@ -362,6 +362,12 @@
         <mark key="^" line="220" column="28" />
         <mark key="." line="220" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/compute/pre/DelayQueue4EventTest.java" timestamp="1589768780794">
+        <mark key="[" line="49" column="86" />
+        <mark key="]" line="45" column="106" />
+        <mark key="^" line="45" column="106" />
+        <mark key="." line="49" column="88" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/expect_feature.fb" timestamp="1589518314129">
         <mark key="[" line="49" column="36" />
         <mark key="]" line="21" column="7" />
@@ -394,7 +400,7 @@
         <mark key="]" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/bosszhipin/client/ClientsPool.java" timestamp="1589550764346" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1589767628449">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1589768581770">
         <mark key="'" line="192" column="67" />
         <mark key="[" line="517" column="65" />
         <mark key="]" line="517" column="73" />
@@ -424,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="93" column="44" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="97" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="98" column="48" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
@@ -524,10 +529,11 @@
       <jump line="281" column="45" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="304" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="192" column="67" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_ACCEPT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iQ2FyZExpc3QuZ2V0Sm9icygpKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -629,7 +635,7 @@
         <text>geek_expect_db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnB1dChBY3Rpb24uRFpfRVhDSEFOR0VfUEhPTkVfQUNDRVBULCBQYWlyLm9mKEFDLCBBQ0VEKSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iQ2FyZExpc3QuZ2V0Sm9icygpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZXZlbnQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
