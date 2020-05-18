@@ -72,6 +72,9 @@
         <mark key="." line="90" column="22" />
         <mark key="^" line="90" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" timestamp="1589536945829">
+        <mark key="'" line="339" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" timestamp="1589792150452">
         <mark key="[" line="126" column="35" />
         <mark key="]" line="126" column="51" />
@@ -186,9 +189,11 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1589797346398">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="55" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseMain4Exposure.java" />
       <jump line="94" column="29" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
@@ -288,6 +293,7 @@
       <jump line="64" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/tools/commandline/HistoryDbConsole.java" />
       <jump line="45" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/JobCardBuilder.java" />
       <jump line="37" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -390,7 +396,7 @@
         <text>31321</text>
       </register>
       <register name="/" type="4">
-        <text>keys</text>
+        <text>jobitem</text>
       </register>
       <register name="0" type="4">
         <text>HistoryDbLoa</text>
@@ -513,9 +519,9 @@
       </register>
     </registers>
     <search>
-      <last-search>keys</last-search>
+      <last-search>jobitem</last-search>
       <last-offset />
-      <last-pattern>keys</last-pattern>
+      <last-pattern>jobitem</last-pattern>
       <last-replace>StaticLoader</last-replace>
       <last-substitute>keys</last-substitute>
       <last-dir>1</last-dir>
@@ -523,7 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>block</entry>
         <entry>seo_company_info_new</entry>
         <entry>geekcard</entry>
         <entry>kafka.zk</entry>
@@ -543,6 +548,7 @@
         <entry>key</entry>
         <entry>HistoryDbLoader</entry>
         <entry>keys</entry>
+        <entry>jobitem</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
