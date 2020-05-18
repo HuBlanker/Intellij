@@ -112,6 +112,13 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/gen.sh" timestamp="1589784880043">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="101" />
+        <mark key="]" line="60" column="112" />
+        <mark key="." line="60" column="112" />
+        <mark key="^" line="60" column="112" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-client/src/main/java/com/zhipin/client/HistoryDbClients.java" timestamp="1589550662755" />
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/PredictMainTest.java" timestamp="1588823063221">
         <mark key="[" line="92" column="51" />
@@ -149,6 +156,11 @@
         <mark key="]" line="53" column="38" />
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/db.def" timestamp="1589784946920">
+        <mark key="'" line="984" column="7" />
+        <mark key="[" line="993" column="9" />
+        <mark key="]" line="993" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/NoAgencyFilter.java" timestamp="1588992676148">
         <mark key="[" line="11" column="87" />
@@ -293,18 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="27" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="30" column="62" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" />
-      <jump line="86" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
-      <jump line="105" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
-      <jump line="48" column="58" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
-      <jump line="49" column="99" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
-      <jump line="51" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
-      <jump line="119" column="60" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
-      <jump line="73" column="29" filename="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" />
-      <jump line="121" column="22" filename="$USER_HOME$/workspace/zp-web/src/main/resources/db/exposure.vm" />
-      <jump line="175" column="245" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" />
       <jump line="81" column="13" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="350" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db_zp_block.def" />
       <jump line="2" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/db_zp_block.def" />
@@ -393,10 +393,22 @@
       <jump line="264" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="98" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/blue_facade_l3.txt" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="61" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="105" column="8" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="162" column="8" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="217" column="8" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="273" column="8" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="326" column="8" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="379" column="8" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="581" column="13" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="590" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="617" column="15" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
+      <jump line="984" column="7" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iQ2FyZExpc3QuZ2V0Sm9icygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>job_department_info</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -495,10 +507,10 @@
         <text>1061832867</text>
       </register>
       <register name="/" type="4">
-        <text>geek_expect_db</text>
+        <text>ProxyJob</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iQ2FyZExpc3QuZ2V0Sm9icygpKTsK</text>
+      <register name="0" type="4">
+        <text>job_department_info</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MTUwMjA4Cg==</text>
@@ -692,9 +704,9 @@
       </register>
     </registers>
     <search>
-      <last-search>geek_expect_db</last-search>
+      <last-search>ProxyJob</last-search>
       <last-offset />
-      <last-pattern>geek_expect_db</last-pattern>
+      <last-pattern>ProxyJob</last-pattern>
       <last-replace>Collections.singleton</last-replace>
       <last-substitute>Collections.singletonList</last-substitute>
       <last-dir>1</last-dir>
@@ -702,8 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cls</entry>
-        <entry>idle</entry>
         <entry>db</entry>
         <entry>com</entry>
         <entry>com_e</entry>
@@ -722,6 +732,8 @@
         <entry>accept</entry>
         <entry>app_active</entry>
         <entry>geek_expect_db</entry>
+        <entry>proxy</entry>
+        <entry>ProxyJob</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Intention/NLUSlotType/g</entry>
