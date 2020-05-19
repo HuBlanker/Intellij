@@ -1086,7 +1086,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -2143,6 +2143,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ListForGeekV2Test.f2cnKeywordTest'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ListForGeekV2Test.testList'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ListForGeekV2Test.testList'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ListForGeekV2Test.testListForGeek'">
@@ -4462,7 +4470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>872</Count>
+          <Count>874</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
