@@ -70,10 +70,13 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1589881674995" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater2.java" timestamp="1589882074855">
-        <mark key="[" line="371" column="45" />
+        <mark key="[" line="334" column="45" />
         <mark key="]" line="334" column="73" />
         <mark key="^" line="334" column="73" />
         <mark key="." line="334" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/ListForGeekV2Test.java" timestamp="1589882821785">
+        <mark key="'" line="259" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1589877779745">
         <mark key="'" line="77" column="4" />
@@ -131,12 +134,6 @@
         <mark key="." line="80" column="23" />
         <mark key="^" line="67" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1589880308660">
-        <mark key="[" line="212" column="31" />
-        <mark key="]" line="211" column="31" />
-        <mark key="." line="211" column="31" />
-        <mark key="^" line="211" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1589876410902">
         <mark key="[" line="223" column="52" />
         <mark key="]" line="5" column="61" />
@@ -182,12 +179,6 @@
         <mark key="]" line="57" column="44" />
         <mark key="." line="57" column="47" />
         <mark key="^" line="49" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/rmcache/RmHistoryCacheMain.java" timestamp="1589877803784">
-        <mark key="[" line="109" column="42" />
-        <mark key="]" line="109" column="42" />
-        <mark key="." line="109" column="45" />
-        <mark key="^" line="107" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/L3IndexSampler4C.java" timestamp="1589875215944">
         <mark key="'" line="112" column="30" />
@@ -249,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1818" column="19" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="2055" column="7" filename="$USER_HOME$/workspace/zp-client/scripts/api.thrift" />
       <jump line="117" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" />
       <jump line="74" column="4" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/UtilsTest.java" />
@@ -349,6 +339,7 @@
       <jump line="113" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/L3IndexSampler4C.java" />
       <jump line="90" column="16" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler.java" />
       <jump line="249" column="44" filename="$MAVEN_REPOSITORY$/com/zhipin/bean/1.11/bean-1.11.jar!/com/zhipin/bean/RedisCache.class" />
+      <jump line="259" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/ListForGeekV2Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
