@@ -69,7 +69,7 @@
         <mark key="^" line="50" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1589881674995" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater2.java" timestamp="1589882074855">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PropUpdater2.java" timestamp="1589883896448">
         <mark key="[" line="334" column="45" />
         <mark key="]" line="334" column="73" />
         <mark key="^" line="334" column="73" />
@@ -133,6 +133,12 @@
         <mark key="]" line="80" column="20" />
         <mark key="." line="80" column="23" />
         <mark key="^" line="67" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/predict/PredictMain.java" timestamp="1589884043544">
+        <mark key="[" line="479" column="84" />
+        <mark key="]" line="479" column="84" />
+        <mark key="^" line="479" column="91" />
+        <mark key="." line="479" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1589876410902">
         <mark key="[" line="223" column="52" />
@@ -343,7 +349,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.key</text>
+        <text>C_HISTORY_STATIC_SLAVE_ONLINE</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -439,7 +445,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.key</text>
+        <text>C_HISTORY_STATIC_SLAVE_ONLINE</text>
       </register>
       <register name="/" type="4">
         <text>Integer</text>
