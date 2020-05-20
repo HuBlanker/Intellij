@@ -561,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MiscServerTest.StatForBoss'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MiscServerTest.StatForBoss'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'NLUConf'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -982,7 +990,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8749</Count>
+          <Count>8753</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2255,6 +2263,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'MiscServerTest.SearchKeyWordFromGeekTest'</Description>
           <Count>45</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MiscServerTest.StatForBoss'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MiscServerTest.StatForBoss'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'NLUConf'">
