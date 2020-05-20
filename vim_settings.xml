@@ -83,7 +83,7 @@
         <mark key="]" line="158" column="75" />
         <mark key="." line="158" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/NewJobCollector2.java" timestamp="1589982032910" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/NewJobCollector2.java" timestamp="1589983276317" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/L3IndexSampler4B.java" timestamp="1589874571908">
         <mark key="'" line="72" column="30" />
         <mark key="[" line="97" column="66" />
@@ -96,7 +96,7 @@
         <mark key="]" line="232" column="75" />
         <mark key="." line="232" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Updater.java" timestamp="1589970714509" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Updater.java" timestamp="1589983310562" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/atlas/AtlasClients.java" timestamp="1589877039977">
         <mark key="[" line="90" column="16" />
         <mark key="]" line="90" column="19" />
@@ -204,6 +204,13 @@
         <mark key="^" line="16" column="91" />
         <mark key="." line="16" column="84" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1589984305387">
+        <mark key="'" line="225" column="0" />
+        <mark key="[" line="223" column="56" />
+        <mark key="]" line="223" column="56" />
+        <mark key="." line="223" column="56" />
+        <mark key="^" line="222" column="123" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/feature/JobFeature.java" timestamp="1589977438141">
         <mark key="'" line="584" column="0" />
       </file>
@@ -213,6 +220,7 @@
         <mark key="." line="120" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/ActionCacheLoader.java" timestamp="1589856679415" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/importer/BaseImporter.java" timestamp="1589983574969" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/L3IndexSampler.java" timestamp="1589874461890">
         <mark key="[" line="65" column="25" />
         <mark key="]" line="65" column="31" />
@@ -252,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="645" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="150" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="339" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="404" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
@@ -352,10 +359,11 @@
       <jump line="62" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemHandler2.java" />
       <jump line="427" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Flags.java" />
       <jump line="584" column="0" filename="$USER_HOME$/workspace/zp-search2/gen-java/gen/feature/JobFeature.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userId</text>
+        <text>1041115715</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -451,7 +459,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>1041115715</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
