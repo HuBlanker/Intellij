@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobItemArray.java" timestamp="1589975155731">
+        <mark key="[" line="131" column="4" />
+        <mark key="]" line="131" column="9" />
+        <mark key="." line="131" column="9" />
+        <mark key="^" line="131" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/NNModelV2Test.java" timestamp="1589870162379">
         <mark key="[" line="82" column="53" />
         <mark key="]" line="82" column="58" />
@@ -18,6 +24,13 @@
         <mark key="[" line="126" column="86" />
         <mark key="]" line="126" column="86" />
         <mark key="." line="126" column="86" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Flags.java" timestamp="1589977605848">
+        <mark key="'" line="429" column="19" />
+        <mark key="[" line="586" column="111" />
+        <mark key="]" line="586" column="123" />
+        <mark key="." line="586" column="123" />
+        <mark key="^" line="586" column="123" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchResult.java" timestamp="1589962251297">
         <mark key="[" line="275" column="63" />
@@ -104,7 +117,12 @@
         <mark key="." line="168" column="42" />
         <mark key="^" line="168" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobItemHandler2.java" timestamp="1589971050472" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobItemHandler2.java" timestamp="1589977314990">
+        <mark key="[" line="175" column="43" />
+        <mark key="]" line="175" column="43" />
+        <mark key="." line="175" column="43" />
+        <mark key="^" line="174" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/feature/GeekFeature.java" timestamp="1589967176873" />
       <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" timestamp="1589859857062" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/atlas/AtlasClients2.java" timestamp="1589873577255">
@@ -114,6 +132,7 @@
         <mark key="^" line="162" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/techwolf/tsf/tsf-sdk/0.3.7/tsf-sdk-0.3.7.jar!/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" timestamp="1589943860018" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1589977754954" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ConverterE2v.java" timestamp="1589874104532">
         <mark key="[" line="62" column="44" />
         <mark key="]" line="62" column="47" />
@@ -127,6 +146,7 @@
         <mark key="." line="295" column="27" />
         <mark key="^" line="295" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobItemHandler.java" timestamp="1589975217200" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/handler/JobIndexHandler.java" timestamp="1589876829197">
         <mark key="'" line="90" column="16" />
         <mark key="[" line="114" column="67" />
@@ -144,7 +164,7 @@
         <mark key="^" line="516" column="56" />
         <mark key="." line="516" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemHandler2.java" timestamp="1589970689318">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemHandler2.java" timestamp="1589975443365">
         <mark key="'" line="62" column="24" />
         <mark key="[" line="114" column="51" />
         <mark key="]" line="115" column="53" />
@@ -182,6 +202,9 @@
         <mark key="]" line="16" column="84" />
         <mark key="^" line="16" column="91" />
         <mark key="." line="16" column="84" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/gen-java/gen/feature/JobFeature.java" timestamp="1589977438141">
+        <mark key="'" line="584" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/tpjob/handler/TpComHandler2.java" timestamp="1589961888591">
         <mark key="[" line="120" column="70" />
@@ -228,8 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
-      <jump line="386" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="645" column="21" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="150" column="35" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
       <jump line="339" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" />
@@ -328,10 +349,12 @@
       <jump line="81" column="102" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemHandler2.java" />
       <jump line="100" column="23" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemHandler2.java" />
       <jump line="62" column="24" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemHandler2.java" />
+      <jump line="427" column="19" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/Flags.java" />
+      <jump line="584" column="0" filename="$USER_HOME$/workspace/zp-search2/gen-java/gen/feature/JobFeature.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBzdGF0LmluY3JBbmRHZXQoInVwZGF0ZV9mYWlsIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>userId</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -427,19 +450,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>updateOrAddGeek</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBzdGF0LmluY3JBbmRHZXQoInVwZGF0ZV9mYWlsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9iSXRlbS5pZCA9IGpvYklkLmlkOwogICAgICAgICAgICAgICAgICAgICAgICBqb2JJdGVtLnVzZUlkID0gam9iSWQudXNlcklkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0LmluY3JBbmRHZXQoInVwZGF0ZV9mYWlsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9iSXRlbS5pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdC5pbmNyQW5kR2V0KCJ1cGRhdGVfZmFpbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -466,10 +489,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiZGVidWcgZmVhdHVyZToge30sIGl0ZW06IHt9IiwgVXRpbHMuZ3Nvbi50b0pzb24oY2hhbmdlKSwgVXRpbHMuZ3Nvbi50b0pzb24oam9iTmV3KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgVW5tb2RpZmlhYmxlU2V0PD4K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -502,7 +525,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoam9iaSkK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -526,16 +549,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9sZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbGQgPSBuZXcgR2Vla0l0ZW0oKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG9sZCAhPSBudWxsKSB7CgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShqb2JJdGVtcykpIHsKICAgICAgICAgICAgICAgICAgICBzdGF0Q291bnQuaW5jckFuZEdldCgiZW1wdHlfam9icyIpOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
