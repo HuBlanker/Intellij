@@ -151,8 +151,8 @@
         <mark key="^" line="47" column="33" />
         <mark key="." line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1590029790386">
-        <mark key="'" line="189" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1590031419430">
+        <mark key="'" line="629" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/v2/ConverterE2v.java" timestamp="1589874104532">
         <mark key="[" line="62" column="44" />
@@ -203,7 +203,12 @@
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/app.properties" timestamp="1589887631238" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/app.properties" timestamp="1590031691203">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/GeekItemArray.java" timestamp="1589969581056">
         <mark key="[" line="139" column="4" />
         <mark key="]" line="139" column="4" />
@@ -285,8 +290,8 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/NoCacheLoader.java" timestamp="1589873163399">
         <mark key="'" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1589797346398">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" timestamp="1590031054506">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/target/classes/app.properties" timestamp="1589890062288" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataImportMain.java" timestamp="1589958604172" />
@@ -302,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="5" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/gray_facade_l3.txt" />
-      <jump line="264" column="17" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
       <jump line="98" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/blue_facade_l3.txt" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
@@ -402,10 +405,12 @@
       <jump line="120" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/Updater.java" />
       <jump line="130" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/job/JobStatCompute2.java" />
       <jump line="189" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
+      <jump line="629" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b_</text>
+        <text>2ce3a1d6e274312c</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -501,23 +506,20 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b_</text>
+        <text>2ce3a1d6e274312c</text>
       </register>
       <register name="/" type="4">
-        <text>j7</text>
+        <text>jobitem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhdC5pbmNyQW5kR2V0KCJ1cGRhdGVfb2xkIik7Cg==</text>
+        <text encoding="base64">I3Fh546v5aKDCmh0dHA6Ly8xOTIuMTY4LjMuMjAwOjgwODAKdHNmLmF1dGguc2VydmVyPWh0dHA6Ly8xOTIuMTY4LjEuNzI6ODA4MAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>Gid.incrementAndGet();
                     old.id = (int) rebuildJob.j</text>
-      </register>
-      <register name="2" type="8">
-        <text>e_
-e_
-e_
-e_</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -544,15 +546,13 @@ e_</text>
         </keys>
       </register>
       <register name="3" type="8">
-        <text>b_
-b_
-b_
-b_
-b_
-b_</text>
+        <text>e_
+e_
+e_
+e_</text>
       </register>
       <register name="4" type="8">
-        <text>_a
+        <text>b_
 b_
 b_
 b_
@@ -590,9 +590,12 @@ b_</text>
         </keys>
       </register>
       <register name="5" type="8">
-        <text>j_
-j_
-j_</text>
+        <text>_a
+b_
+b_
+b_
+b_
+b_</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -620,21 +623,18 @@ j_</text>
 j_
 j_</text>
       </register>
-      <register name="7" type="4">
-        <text>j_event = jobAction.eventTs;
-        jobFeature.j_</text>
-      </register>
-      <register name="8" type="8">
+      <register name="7" type="8">
         <text>j_
-j_
-j_
-j_
-j_
 j_
 j_</text>
       </register>
+      <register name="8" type="4">
+        <text>j_event = jobAction.eventTs;
+        jobFeature.j_</text>
+      </register>
       <register name="9" type="8">
         <text>j_
+j_
 j_
 j_
 j_
@@ -657,9 +657,9 @@ j_</text>
       </register>
     </registers>
     <search>
-      <last-search>j7</last-search>
+      <last-search>jobitem</last-search>
       <last-offset />
-      <last-pattern>j7</last-pattern>
+      <last-pattern>jobitem</last-pattern>
       <last-replace>d7</last-replace>
       <last-substitute>j7</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +671,6 @@ j_</text>
         <entry>key</entry>
         <entry>HistoryDbLoader</entry>
         <entry>keys</entry>
-        <entry>jobitem</entry>
         <entry>log4j</entry>
         <entry>log</entry>
         <entry>Integer</entry>
@@ -687,6 +686,7 @@ j_</text>
         <entry>g7</entry>
         <entry>e3</entry>
         <entry>j7</entry>
+        <entry>jobitem</entry>
       </history-search>
       <history-cmd>
         <entry>%s/phrase.phrase/phrase.word/g</entry>
