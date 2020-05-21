@@ -33,6 +33,12 @@
         <mark key="." line="82" column="58" />
         <mark key="^" line="82" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/search/job/BrandJobV2Test.java" timestamp="1590075048826">
+        <mark key="[" line="185" column="69" />
+        <mark key="]" line="185" column="75" />
+        <mark key="." line="185" column="75" />
+        <mark key="^" line="185" column="75" />
+      </file>
       <file name="/a.dummy" timestamp="1590054006762">
         <mark key="[" line="0" column="0" />
       </file>
@@ -329,7 +335,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>26666</text>
+        <text>id</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -425,13 +431,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>26666</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>j2</text>
       </register>
-      <register name="0" type="4">
-        <text>FeatureApiDubboClient</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oam9iQ2FyZExpc3QuZ2V0Sm9icygpLnN0cmVhbSgpLm1hcChqIC0+IGouaWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInJtIG51bT17fSIsIG0uZ2V0KCkpOwo=</text>
