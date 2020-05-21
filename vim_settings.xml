@@ -63,11 +63,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="585" column="123" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/assembly.xml" timestamp="1590033613211">
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/assembly.xml" timestamp="1590037062486">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchResult.java" timestamp="1589962251297">
         <mark key="[" line="275" column="63" />
@@ -186,7 +186,8 @@
         <mark key="." line="168" column="42" />
         <mark key="^" line="168" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1590033426751">
+      <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1590037071555">
+        <mark key="'" line="87" column="47" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -393,6 +394,12 @@
         <mark key="]" line="98" column="45" />
         <mark key="." line="98" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/LocalCacheLoader.java" timestamp="1589873603984">
+        <mark key="'" line="44" column="26" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/relatedbrand/RelatedBrandHandler.java" timestamp="1589961761225">
         <mark key="[" line="78" column="77" />
         <mark key="]" line="78" column="77" />
@@ -400,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="3" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/up/ExposureCounter.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/resources/blue_facade_l3.txt" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
       <jump line="61" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/db.def" />
@@ -500,10 +506,11 @@
       <jump line="189" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/zp-search2/scripts/rebuild.bean" />
       <jump line="629" column="27" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" />
+      <jump line="87" column="47" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0KICAgICAgICA8enAuY2xpZW50LnZlcnNpb24+OS4xMS1TTkFQU0hPVDwvenAuY2xpZW50LnZlcnNpb24+Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
+      <register name="&quot;" type="4">
+        <text>src/main/resources/</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -599,13 +606,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>coemonZk</text>
+        <text>src/main/resources/</text>
       </register>
       <register name="/" type="4">
         <text>jobitem</text>
       </register>
-      <register name="0" type="4">
-        <text>-rcd_feature_dubbo_zk</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvbWFpbi9yZXNvdXJjZXMvPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0KICAgICAgICA8enAuY2xpZW50LnZlcnNpb24+OS4xMS1TTkFQU0hPVDwvenAuY2xpZW50LnZlcnNpb24+Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
