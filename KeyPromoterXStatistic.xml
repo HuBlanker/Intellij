@@ -441,6 +441,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'InternalServerTest.scanGeekItemTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'InternalServerTest.scanGeekItemTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'JedisTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -990,7 +998,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8850</Count>
+          <Count>8852</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1822,7 +1830,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'InternalServerTest.scanGeekItemTest'</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InternalServerTest.scanJobItemTest'">
