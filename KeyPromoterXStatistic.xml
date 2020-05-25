@@ -657,6 +657,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RedisLoader'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'RedisLoader'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ReferenceCountTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1022,7 +1030,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9056</Count>
+          <Count>9063</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1374,7 +1382,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Module</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -2641,6 +2649,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RedisLoader'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'RedisLoader'</Description>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RedisLock'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3422,7 +3438,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2250</Count>
+          <Count>2254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -4574,7 +4590,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>887</Count>
+          <Count>905</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
