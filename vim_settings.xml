@@ -22,9 +22,9 @@
         <mark key="^" line="36" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1590410351351">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/geek/GeekStatCompute2.java" timestamp="1590379114762">
         <mark key="[" line="111" column="21" />
@@ -426,12 +426,12 @@
         <mark key="." line="197" column="103" />
         <mark key="^" line="197" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/GeekD1AgencyAddedFeature.java" timestamp="1590410637598">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="45" column="59" />
-        <mark key="." line="45" column="32" />
-        <mark key="^" line="42" column="55" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/GeekD1AgencyAddedFeature.java" timestamp="1590411618901">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FeedHandler.java" timestamp="1590139031867">
         <mark key="'" line="21" column="13" />
@@ -559,8 +559,8 @@
       <jump line="557" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeSearchMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIHRvZG8g6Kej5Yaz5LqG5omT5YyF6Zeu6aKY5YaN55yf5q2j5bqU55SoCiAgICAgICAgICAgIHRoaXMuZmVhdHVyZUFwaUR1YmJvQ2xpZW50ID0gbnVsbDsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>GeekD1AgencyAddedNum</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -656,7 +656,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2075 feature from FeatureApiDubboClient</text>
+        <text>GeekD1AgencyAddedNum</text>
       </register>
       <register name="/" type="4">
         <text>Integer</text>
