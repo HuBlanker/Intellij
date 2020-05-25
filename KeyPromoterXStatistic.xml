@@ -257,6 +257,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FeatureComputeTest.computeCTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'FeatureComputeTest.computeCTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FeatureDbTest.LoadData'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1014,7 +1022,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9017</Count>
+          <Count>9018</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1607,6 +1615,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FeatureApiDubboClientsTest.test1'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FeatureComputeTest.computeCTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FeatureComputeTest.computeCTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FeatureDbTest.LoadData'">
