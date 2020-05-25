@@ -186,7 +186,9 @@
         <mark key="^" line="111" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/SearchMainBase.java" timestamp="1590220977821" />
-      <file name="$MAVEN_REPOSITORY$/com/zhipin/bean/1.11/bean-1.11.jar!/com/zhipin/bean/ConsistentHashRedis.class" timestamp="1590415977789" />
+      <file name="$MAVEN_REPOSITORY$/com/zhipin/bean/1.11/bean-1.11.jar!/com/zhipin/bean/ConsistentHashRedis.class" timestamp="1590417288482">
+        <mark key="'" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/api-kit/bean/pom.xml" timestamp="1590415814626">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="25" />
@@ -218,7 +220,7 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/zhipin/bean/1.11/bean-1.11.jar!/com/zhipin/bean/RedisCache.class" timestamp="1590416875059" />
+      <file name="$MAVEN_REPOSITORY$/com/zhipin/bean/1.11/bean-1.11.jar!/com/zhipin/bean/RedisCache.class" timestamp="1590417373809" />
       <file name="$USER_HOME$/workspace/zp-web/pom.xml" timestamp="1590132501457">
         <mark key="[" line="34" column="29" />
         <mark key="]" line="34" column="51" />
@@ -237,12 +239,11 @@
         <mark key="]" line="25" column="51" />
         <mark key="." line="25" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1590416740314">
-        <mark key="'" line="168" column="122" />
-        <mark key="[" line="169" column="65" />
-        <mark key="]" line="166" column="49" />
-        <mark key="." line="166" column="49" />
-        <mark key="^" line="166" column="49" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1590417232534">
+        <mark key="'" line="170" column="122" />
+        <mark key="[" line="172" column="9" />
+        <mark key="]" line="172" column="9" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/IndexHandler.java" timestamp="1590140630902">
         <mark key="[" line="52" column="9" />
@@ -386,7 +387,6 @@
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/exposure/CountByKindReq.java" timestamp="1590394041682" />
     </filemarks>
     <jumps>
-      <jump line="60" column="68" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" />
       <jump line="62" column="22" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" />
       <jump line="63" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" />
       <jump line="64" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" />
@@ -486,10 +486,11 @@
       <jump line="114" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
       <jump line="68" column="93" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
       <jump line="168" column="122" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
+      <jump line="48" column="0" filename="$MAVEN_REPOSITORY$/com/zhipin/bean/1.11/bean-1.11.jar!/com/zhipin/bean/ConsistentHashRedis.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>redis</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -588,16 +589,16 @@
         <text>redis</text>
       </register>
       <register name="/" type="4">
-        <text>Integer</text>
+        <text>ping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb25zaXN0ZW50SGFzaFJlZGlzIHJlZGlzID0gbmV3IENvbnNpc3RlbnRIYXNoUmVkaXMoIjEyNy4wLjAuMTo2Mzc5OjUiLCAxMDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZS5wdXQoMTIzNEwsIG5ldyBKb2JTdGF0aWMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZS5wdXQoMTIzNEwsIG5ldyBKb2JTdGF0aWMoKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -627,7 +628,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -660,7 +661,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -684,16 +685,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVC4K</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIHRvZG8g6Kej5Yaz5LqG5omT5YyF6Zeu6aKY5YaN55yf5q2j5bqU55SoCiAgICAgICAgICAgIHRoaXMuZmVhdHVyZUFwaUR1YmJvQ2xpZW50ID0gbnVsbDsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -734,9 +735,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Integer</last-search>
+      <last-search>ping</last-search>
       <last-offset />
-      <last-pattern>Integer</last-pattern>
+      <last-pattern>ping</last-pattern>
       <last-replace>r</last-replace>
       <last-substitute>resources</last-substitute>
       <last-dir>1</last-dir>
@@ -744,7 +745,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log4j</entry>
         <entry>log</entry>
         <entry>feature</entry>
         <entry encoding="base64">XDxGaWx0ZXJcPg==</entry>
@@ -764,6 +764,7 @@
         <entry>batch</entry>
         <entry>fetch</entry>
         <entry>Integer</entry>
+        <entry>ping</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IntentionType/NLUSlotType/g</entry>
