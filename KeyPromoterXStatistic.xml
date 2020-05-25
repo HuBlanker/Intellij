@@ -337,6 +337,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'GeekAgencyAddComputer'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'GeekAgencyAddComputer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GeekItemArrayCountTest.countTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1006,7 +1014,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9014</Count>
+          <Count>9017</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
