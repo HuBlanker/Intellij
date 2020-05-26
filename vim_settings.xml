@@ -278,8 +278,12 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" timestamp="1590465053355">
-        <mark key="'" line="6" column="6" />
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" timestamp="1590477431284">
+        <mark key="'" line="92" column="5" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="138" column="19" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1590405243470">
         <mark key="[" line="108" column="92" />
@@ -328,11 +332,11 @@
         <mark key="." line="589" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1590475505520">
-        <mark key="'" line="263" column="25" />
+        <mark key="'" line="262" column="25" />
         <mark key="[" line="214" column="16" />
-        <mark key="]" line="263" column="25" />
-        <mark key="^" line="263" column="25" />
-        <mark key="." line="263" column="25" />
+        <mark key="]" line="262" column="25" />
+        <mark key="^" line="262" column="25" />
+        <mark key="." line="262" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekIntentionDisHandler.java" timestamp="1590140314103">
         <mark key="[" line="30" column="23" />
@@ -457,14 +461,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zp-client/scripts/data_view.thrift" />
       <jump line="117" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
       <jump line="97" column="20" filename="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" />
-      <jump line="92" column="23" filename="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" />
       <jump line="6" column="6" filename="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" />
       <jump line="109" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" />
       <jump line="263" column="25" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" />
+      <jump line="92" column="5" filename="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bSA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaChyLmRiQ2xpZW50czRjLCBnZWVrUHJvZmlsZS5nZWVrSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -569,10 +573,10 @@
         <text>FEATURE_KEY_GEEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bSA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaChyLmRiQ2xpZW50czRjLCBnZWVrUHJvZmlsZS5nZWVrSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gZmVhdHVyZU1hcCA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaEJhdGNoKGNsaWVudHMsIGdlZWtJZHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -599,14 +603,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRtcDsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="4" type="4">
-        <text>e_id, \
-                     view_j, \
-                     add_j, \
-                     ac_j, \
-                     hide</text>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBnZWVrX2FnZW5jeV9jb21fYWRkX251bSB1c2UgZmVhdHVyZSBkYgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -639,7 +639,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2Vlay50ZQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -663,16 +663,20 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2Vlay50ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bSA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaChyLmRiQ2xpZW50czRjLCBnZWVrUHJvZmlsZS5nZWVrSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gZmVhdHVyZU1hcCA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaEJhdGNoKGNsaWVudHMsIGdlZWtJZHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRtcDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpZyA9IERpZ2VzdFV0aWxzLm1kNUhleChmaWVsZHMpOwo=</text>
+      <register name="9" type="4">
+        <text>e_id, \
+                     view_j, \
+                     add_j, \
+                     ac_j, \
+                     hide</text>
       </register>
       <register name="y" type="4">
         <keys>
