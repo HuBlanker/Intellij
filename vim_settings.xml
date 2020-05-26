@@ -49,12 +49,11 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1590473822589">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1590478038687">
         <mark key="'" line="3" column="42" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="42" />
-        <mark key="^" line="3" column="42" />
+        <mark key="[" line="110" column="135" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/HistoryDbActionHandler.java" timestamp="1590138770119">
         <mark key="[" line="28" column="56" />
@@ -468,7 +467,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -569,11 +568,11 @@
       <register name="/" type="4">
         <text>geekstatic</text>
       </register>
-      <register name="0" type="4">
-        <text>FEATURE_KEY_GEEK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW1vdmVBZ2VuY3lBZGQoZ2Vla0lkcywgZmVhdHVyZURiQ2xpZW50cywgZ2Vla3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -603,10 +602,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBnZWVrX2FnZW5jeV9jb21fYWRkX251bSB1c2UgZmVhdHVyZSBkYgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -639,7 +638,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBnZWVrX2FnZW5jeV9jb21fYWRkX251bSB1c2UgZmVhdHVyZSBkYgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -663,20 +662,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bSA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaChyLmRiQ2xpZW50czRjLCBnZWVrUHJvZmlsZS5nZWVrSWQpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gZmVhdHVyZU1hcCA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaEJhdGNoKGNsaWVudHMsIGdlZWtJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bSA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaChyLmRiQ2xpZW50czRjLCBnZWVrUHJvZmlsZS5nZWVrSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRtcDsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gZmVhdHVyZU1hcCA9IEdlZWtEMUFnZW5jeUFkZGVkRmVhdHVyZS5mZXRjaEJhdGNoKGNsaWVudHMsIGdlZWtJZHMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>e_id, \
-                     view_j, \
-                     add_j, \
-                     ac_j, \
-                     hide</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRtcDsK</text>
       </register>
       <register name="y" type="4">
         <keys>
