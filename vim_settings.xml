@@ -51,9 +51,6 @@
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1590481065195">
         <mark key="'" line="3" column="42" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/HistoryDbActionHandler.java" timestamp="1590138770119">
         <mark key="[" line="28" column="56" />
@@ -100,6 +97,12 @@
         <mark key="[" line="25" column="51" />
         <mark key="]" line="25" column="51" />
         <mark key="." line="25" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" timestamp="1590487025522">
+        <mark key="[" line="165" column="65" />
+        <mark key="]" line="170" column="45" />
+        <mark key="." line="170" column="45" />
+        <mark key="^" line="170" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/v2/JobSearchReq.java" timestamp="1590129033394">
         <mark key="[" line="469" column="0" />
@@ -197,11 +200,6 @@
         <mark key="." line="46" column="20" />
         <mark key="^" line="46" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1590480990131">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/api-kit/bean/src/main/java/com/zhipin/bean/RedisCache.java" timestamp="1590415871907">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -250,10 +248,10 @@
         <mark key="." line="59" column="159" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1590482279495">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
         <mark key="^" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/FinderGeekHandler.java" timestamp="1590139090644">
@@ -275,17 +273,11 @@
         <mark key="." line="82" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscServer.java" timestamp="1590404930692">
-        <mark key="[" line="145" column="0" />
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="146" column="0" />
-        <mark key="." line="145" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" timestamp="1590478773799">
-        <mark key="'" line="92" column="5" />
-        <mark key="[" line="137" column="33" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="139" column="19" />
-        <mark key="." line="121" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" timestamp="1590478773799" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/miscellaneous/MiscHandler.java" timestamp="1590405243470">
         <mark key="[" line="108" column="92" />
         <mark key="]" line="108" column="92" />
@@ -328,16 +320,16 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/JobSearchMain.java" timestamp="1590410691327">
-        <mark key="[" line="573" column="0" />
-        <mark key="]" line="573" column="0" />
-        <mark key="." line="573" column="0" />
+        <mark key="[" line="594" column="0" />
+        <mark key="]" line="594" column="0" />
+        <mark key="." line="594" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/ResumeRebuildMain.java" timestamp="1590475505520">
-        <mark key="'" line="262" column="25" />
+        <mark key="'" line="263" column="25" />
         <mark key="[" line="214" column="16" />
-        <mark key="]" line="262" column="25" />
-        <mark key="^" line="262" column="25" />
-        <mark key="." line="262" column="25" />
+        <mark key="]" line="263" column="25" />
+        <mark key="^" line="263" column="25" />
+        <mark key="." line="263" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/GeekIntentionDisHandler.java" timestamp="1590140314103">
         <mark key="[" line="30" column="23" />
@@ -468,8 +460,8 @@
       <jump line="92" column="5" filename="$USER_HOME$/workspace/zp-search2/scripts/feature/geek_feature.fb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -565,7 +557,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>num</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>geekstatic</text>
