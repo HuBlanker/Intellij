@@ -216,12 +216,12 @@
         <mark key="." line="99" column="4" />
         <mark key="^" line="68" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1590586101041">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1590587183188">
         <mark key="'" line="343" column="39" />
-        <mark key="[" line="399" column="100" />
-        <mark key="]" line="400" column="34" />
+        <mark key="[" line="400" column="0" />
+        <mark key="]" line="400" column="0" />
         <mark key="^" line="400" column="34" />
-        <mark key="." line="400" column="34" />
+        <mark key="." line="400" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/gs/GeekSearchTouristHandler.java" timestamp="1590138927485">
         <mark key="[" line="36" column="17" />
@@ -273,11 +273,11 @@
         <mark key="." line="157" column="67" />
         <mark key="^" line="157" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1590585884615">
-        <mark key="[" line="265" column="68" />
-        <mark key="]" line="265" column="79" />
-        <mark key="." line="265" column="79" />
-        <mark key="^" line="265" column="79" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1590587203198">
+        <mark key="[" line="266" column="68" />
+        <mark key="]" line="266" column="79" />
+        <mark key="." line="266" column="79" />
+        <mark key="^" line="266" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/LogItemParser.java" timestamp="1590574028866">
         <mark key="[" line="443" column="0" />
@@ -386,7 +386,7 @@
       <file name="/fragment.java" timestamp="1590585896234">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1590583741498">
+      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1590587756153">
         <mark key="[" line="111" column="44" />
         <mark key="]" line="111" column="50" />
         <mark key="." line="111" column="50" />
@@ -497,7 +497,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comIdByBossId</text>
+        <text>bossComCache</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -593,7 +593,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>comIdByBossId</text>
+        <text>bossComCache</text>
       </register>
       <register name="/" type="4">
         <text>accept</text>
@@ -602,10 +602,10 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5zZXJ0RXhwb3N1cmVkKEV4cG9zdXJlSXRlbVBhcnNlci5wYXJzZUl0ZW0yKGNBY3Rpb25zLCBjb21JbmZvQ2FjaGUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY29tSXRlbTp7fSIsICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygic3Nzcz17fSIsIGlkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiY29tSXRlbTp7fSIsICk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -632,10 +632,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -668,7 +668,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzIDogZXhwb3N1cmVkLmtleVNldCgpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -692,16 +692,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiaXRlbXM9e30sIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzIDogZXhwb3N1cmVkLmtleVNldCgpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiaXRlbXM9e30sIik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
