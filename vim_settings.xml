@@ -220,12 +220,12 @@
         <mark key="." line="99" column="4" />
         <mark key="^" line="68" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1590641531578">
-        <mark key="'" line="410" column="39" />
-        <mark key="[" line="425" column="12" />
-        <mark key="]" line="425" column="83" />
-        <mark key="^" line="425" column="32" />
-        <mark key="." line="425" column="12" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1590646321627">
+        <mark key="'" line="379" column="28" />
+        <mark key="[" line="371" column="68" />
+        <mark key="]" line="372" column="77" />
+        <mark key="^" line="372" column="77" />
+        <mark key="." line="372" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/gs/GeekSearchTouristHandler.java" timestamp="1590138927485">
         <mark key="[" line="36" column="17" />
@@ -277,7 +277,7 @@
         <mark key="." line="157" column="67" />
         <mark key="^" line="157" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1590637777957">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1590646182398">
         <mark key="'" line="213" column="30" />
         <mark key="[" line="301" column="69" />
         <mark key="]" line="304" column="82" />
@@ -405,9 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
-      <jump line="330" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
-      <jump line="332" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
       <jump line="333" column="65" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
       <jump line="365" column="33" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
       <jump line="371" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/StaticDataUpdateMain.java" />
@@ -505,10 +502,13 @@
       <jump line="213" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
       <jump line="66" column="42" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" />
       <jump line="410" column="39" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" />
+      <jump line="330" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" />
+      <jump line="386" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" />
+      <jump line="379" column="28" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LogItemParser.isF1(algo)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBieXRlIGtpbmQgPSAwOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -604,19 +604,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>LogItemParser.isF1(algo)</text>
+        <text>kind</text>
       </register>
       <register name="/" type="4">
-        <text>Integer.par</text>
+        <text>System.out</text>
       </register>
       <register name="0" type="4">
         <text>algo.startsWith(&quot;f1&quot;) || algo.contains(&quot;group&quot;) || algo.contains(&quot;rcd&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWxnbyA9PSBudWxsKSByZXR1cm4gc291cmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBieXRlIGtpbmQgPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzb3VyY2UgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDMpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -643,10 +643,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKDIpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -679,7 +679,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IFV0aWxzLmdzb24udG9Kc29uKGdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -703,16 +703,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic3Nzc3Nzcz17fSwiLCBzKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYWFhYWFhPXt9IiwgVXRpbHMuZ3Nvbi50b0pzb24oKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRQb29sRXhlY3V0b3IgZGJQb29sID0gVXRpbHMubmV3UG9vbCg0LCA0LCAiZGIiKTsKICAgICAgICBacEJvc3NEQkFwaSB6cEJvc3NEQkFwaSA9IG5ldyBacEJvc3NEQkFwaShVdGlscy5nZXREc0Zyb21aayhEQkNvbmZpZ3MuREJfWktfWlBfQk9TUywgYWdlbnQpLCBkYlBvb2wpOwogICAgICAgIENvbUluZm9DYWNoZSBjb21JbmZvQ2FjaGUgPSBuZXcgQ29tSW5mb0NhY2hlKHpwQm9zc0RCQXBpLCAyMDAwMDAwLCA3ICogMjQgKiA2MCAqIDYwKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWxnbyA9PSBudWxsKSByZXR1cm4gc291cmNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbUluZm9DYWNoZSA9IGNvbUluZm9DYWNoZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzb3VyY2UgPiAwKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -753,9 +753,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Integer.par</last-search>
+      <last-search>System.out</last-search>
       <last-offset />
-      <last-pattern>Integer.par</last-pattern>
+      <last-pattern>System.out</last-pattern>
       <last-replace>r</last-replace>
       <last-substitute>pip</last-substitute>
       <last-dir>1</last-dir>
@@ -763,7 +763,6 @@
     </search>
     <history>
       <history-search>
-        <entry>history</entry>
         <entry>g3</entry>
         <entry>g7</entry>
         <entry>e3</entry>
@@ -783,6 +782,7 @@
         <entry>reply</entry>
         <entry>accept</entry>
         <entry>Integer.par</entry>
+        <entry>System.out</entry>
       </history-search>
       <history-cmd>
         <entry>%s/IntentionType/NLUSlotType/g</entry>
