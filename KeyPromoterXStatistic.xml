@@ -193,6 +193,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DelayQueue4Event2Test.tet'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'DelayQueue4Event2Test.tet'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DelayQueue4Event2Test.tet1'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'DelayQueue4Event2Test.tet1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DemoApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1038,7 +1054,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9324</Count>
+          <Count>9351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1543,6 +1559,22 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CountHashMap2Test'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DelayQueue4Event2Test.tet'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DelayQueue4Event2Test.tet'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DelayQueue4Event2Test.tet1'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DelayQueue4Event2Test.tet1'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DemoApplication'">
@@ -2694,7 +2726,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResumeLog2DB2'">
@@ -3190,7 +3222,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ConcurrentIntObjectMapTest'">
@@ -3462,7 +3494,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2254</Count>
+          <Count>2262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -3591,6 +3623,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CountHashMap2Test.main'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DelayQueue4Event2Test.tet1'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DelayQueue4Event2Test.tet1'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoMain'">
@@ -4614,7 +4654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>910</Count>
+          <Count>913</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
