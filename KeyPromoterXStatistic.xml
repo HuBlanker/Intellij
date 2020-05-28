@@ -62,7 +62,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9351</Count>
+          <Count>9362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1575,6 +1575,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DelayQueue4Event2Test.tet1'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DelayQueue4Event2Test.tet1_5'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DelayQueue4Event2Test.tet1_5'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DemoApplication'">
@@ -3631,6 +3639,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DelayQueue4Event2Test.tet1'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DelayQueue4Event2Test.tet1_5'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DelayQueue4Event2Test.tet1_5'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoMain'">
