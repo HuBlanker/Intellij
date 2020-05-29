@@ -1054,7 +1054,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9395</Count>
+          <Count>9396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1663,6 +1663,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ExposureItemParser'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ExposureTest.testList'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ExposureTest.testList'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FastTextDemo'">
