@@ -81,8 +81,8 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/DelayQueue4Event2.java" timestamp="1590675335711">
-        <mark key="'" line="35" column="32" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/DelayQueue4Event2.java" timestamp="1590715020099">
+        <mark key="'" line="85" column="30" />
         <mark key="[" line="110" column="58" />
         <mark key="]" line="110" column="79" />
         <mark key="^" line="110" column="79" />
@@ -238,7 +238,7 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" timestamp="1590681585418" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" timestamp="1590715006779" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/resources/city_code_mapping.json" timestamp="1590119636828">
         <mark key="[" line="373" column="18" />
         <mark key="]" line="373" column="18" />
@@ -292,7 +292,9 @@
         <mark key="^" line="82" column="36" />
         <mark key="." line="82" column="36" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1590668331789" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1590715291992">
+        <mark key="'" line="458" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseMain4Exposure.java" timestamp="1590637828172">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -376,8 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
-      <jump line="167" column="82" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
       <jump line="114" column="32" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
       <jump line="68" column="93" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
       <jump line="168" column="122" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/history/loader/RedisLoader.java" />
@@ -476,6 +476,8 @@
       <jump line="229" column="40" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="502" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="318" column="70" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
+      <jump line="85" column="30" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/DelayQueue4Event2.java" />
+      <jump line="458" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
