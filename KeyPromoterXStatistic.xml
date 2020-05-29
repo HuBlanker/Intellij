@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DelayQueue4Event2Test.perf1'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'DelayQueue4Event2Test.perf1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DelayQueue4Event2Test.tet'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1054,7 +1062,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9409</Count>
+          <Count>9411</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1567,6 +1575,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DelayQueue4Event2Test.perf1'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DelayQueue4Event2Test.perf3'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DelayQueue4Event2Test.perf3'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DelayQueue4Event2Test.tet'">
