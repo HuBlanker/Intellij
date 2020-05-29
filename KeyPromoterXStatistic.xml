@@ -1054,7 +1054,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9383</Count>
+          <Count>9391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DelayQueue4Event2Test.tet'</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DelayQueue4Event2Test.tet1'">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DelayQueue4Event2Test.tet1'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DelayQueue4Event2Test.tet1_5'">
@@ -3502,7 +3502,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2262</Count>
+          <Count>2308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AcHighLightTest.testTest2'">
@@ -3631,6 +3631,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CountHashMap2Test.main'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DelayQueue4Event2Test.tet'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DelayQueue4Event2Test.tet'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DelayQueue4Event2Test.tet1'">
@@ -4670,7 +4678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>913</Count>
+          <Count>918</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
