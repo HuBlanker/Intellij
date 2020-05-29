@@ -39,6 +39,13 @@
         <mark key="^" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/consumer/BgActionConsumer.java" timestamp="1590647309139" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/exposure/ExposureTest.java" timestamp="1590746680598">
+        <mark key="'" line="100" column="28" />
+        <mark key="[" line="93" column="20" />
+        <mark key="]" line="93" column="27" />
+        <mark key="^" line="93" column="27" />
+        <mark key="." line="93" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/consumer/ExposureConsumer.java" timestamp="1590741380206" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2ForGeekHandler.java" timestamp="1590723893337">
         <mark key="'" line="379" column="39" />
@@ -104,7 +111,12 @@
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F24CResult.java" timestamp="1590550228626">
         <mark key="[" line="183" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1590741187555" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/parser/ExposureItemParser.java" timestamp="1590745669186">
+        <mark key="[" line="339" column="115" />
+        <mark key="]" line="339" column="114" />
+        <mark key="." line="339" column="114" />
+        <mark key="^" line="339" column="114" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" timestamp="1590726426751">
         <mark key="'" line="393" column="21" />
       </file>
@@ -163,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="4" filename="$USER_HOME$/workspace/api-kit/bean/src/main/java/com/zhipin/bean/ZpRedisClient.java" />
       <jump line="69" column="24" filename="$USER_HOME$/workspace/api-kit/bean/src/main/java/com/zhipin/bean/ZpRedisClient.java" />
       <jump line="154" column="30" filename="$USER_HOME$/workspace/api-kit/bean/src/main/java/com/zhipin/bean/RedisCache2.java" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/zp-search2/pom.xml" />
@@ -263,10 +274,11 @@
       <jump line="150" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
       <jump line="295" column="56" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
       <jump line="76" column="178" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseMain4Exposure.java" />
+      <jump line="95" column="28" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/exposure/ExposureTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBCb3NzQ29tPiBjb21JZE1hcCA9IHRoaXMuY29tSW5mb0NhY2hlLihpdGVtcy5zdHJlYW0oKS5tYXAoaSAtPiBpLm1lSWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwoKICAgICAgICAgICAgICAgIGNvbUl0ZW1zID0gaXRlbXMuc3RyZWFtKCkubWFwKGkgLT4gbmV3IEl0ZW0oY29tSWRNYXAuZ2V0KGkubWVJZCkuY29tSWQsIGkub3RoZXJJZCwgaS50cywgaS5zb3VyY2UsIGkua2luZCkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>54882984</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -362,13 +374,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MGetInt</text>
+        <text>54882984</text>
       </register>
       <register name="/" type="4">
         <text>insertToComDb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBjb21JZE1hcCA9IGNvbUluZm9DYWNoZS5nZXRDb21JZEJ5Qm9zc0lkKGl0ZW1zLnN0cmVhbSgpLm1hcChpIC0+IGkubWVJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSk7CiAgICAgICAgICAgICAgICBjb21JdGVtcyA9IGl0ZW1zLnN0cmVhbSgpLm1hcChpIC0+IG5ldyBJdGVtKGNvbUlkTWFwLmdldE9yRGVmYXVsdChpLm1lSWQsIDApLCBpLm90aGVySWQsIGkudHMsIGkuc291cmNlLCBpLmtpbmQpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0Q2YoVFJBTlNGT1JNX0VYUEVDVF9EQik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBCb3NzQ29tPiBjb21JZE1hcCA9IHRoaXMuY29tSW5mb0NhY2hlLihpdGVtcy5zdHJlYW0oKS5tYXAoaSAtPiBpLm1lSWQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwoKICAgICAgICAgICAgICAgIGNvbUl0ZW1zID0gaXRlbXMuc3RyZWFtKCkubWFwKGkgLT4gbmV3IEl0ZW0oY29tSWRNYXAuZ2V0KGkubWVJZCkuY29tSWQsIGkub3RoZXJJZCwgaS50cywgaS5zb3VyY2UsIGkua2luZCkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
