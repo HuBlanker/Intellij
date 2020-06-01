@@ -12,11 +12,11 @@
       <file name="/a.dummy" timestamp="1590656185503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/DelayQueue4Event3.java" timestamp="1590982999353">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="52" column="25" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/DelayQueue4Event3.java" timestamp="1590983913872">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="/EventParse4FeatureMain.java" timestamp="1590977370967" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/FinanceRule.java" timestamp="1590722215637">
@@ -118,12 +118,12 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1590983118349">
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1590983916166">
         <mark key="'" line="478" column="47" />
-        <mark key="[" line="364" column="21" />
-        <mark key="]" line="365" column="32" />
-        <mark key="." line="365" column="32" />
-        <mark key="^" line="365" column="32" />
+        <mark key="[" line="135" column="131" />
+        <mark key="]" line="135" column="130" />
+        <mark key="." line="135" column="130" />
+        <mark key="^" line="135" column="130" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/PQ.java" timestamp="1590725193847">
         <mark key="[" line="33" column="41" />
@@ -256,8 +256,8 @@
       <jump line="478" column="47" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8obCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -353,19 +353,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVyZ2UgcHJpb3JpdHk6LiA=</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>now</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBub3cgPSAoaW50KSAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLyAxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdENvdW50LmluY3JBbmRHZXQoImFkZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8obCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRDb3VudC5pbmNyQW5kR2V0KCJhZGQiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImdldCBhIGV4aXN0IGV2ZW50LCBvbGQ9e30iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -392,10 +392,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBsID0gU3RyaW5nLmZvcm1hdCgiZ2V0IGEgZXhpc3QgZXZlbnQsIG1lcmdlIHByaW9yaXR5Oi4gYmVmb3JlPSAlcy4iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImdldCBhIGV4aXN0IGV2ZW50LCBub3QgYmF0Y2g6e30iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -428,7 +428,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImdldCBhIGV4aXN0IGV2ZW50LCBub3QgYmF0Y2g6e30iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8obCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -452,16 +452,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYmdBY3Rpb24udWlkICUgMTAgIT0gMSkgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImdldCBhIGV4aXN0IGV2ZW50LCBvbGQ9e30iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBsID0gU3RyaW5nLmZvcm1hdCgiZ2V0IGEgZXhpc3QgZXZlbnQsIG1lcmdlIHByaW9yaXR5Oi4gYmVmb3JlPSAlcy4iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbm93ID0gKGludCkgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC8gMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImdldCBhIGV4aXN0IGV2ZW50LCBub3QgYmF0Y2g6e30iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImdldCBhIGV4aXN0IGV2ZW50LCBub3QgYmF0Y2g6e30iLCBvbGQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
