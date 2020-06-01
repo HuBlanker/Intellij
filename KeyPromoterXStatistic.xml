@@ -1062,7 +1062,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9433</Count>
+          <Count>9463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -3663,6 +3663,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CountHashMap2Test.main'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DelayQueue4Event2Test.perf4'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DelayQueue4Event2Test.perf4'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DelayQueue4Event2Test.tet'">
