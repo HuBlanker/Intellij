@@ -63,6 +63,13 @@
         <mark key="[" line="389" column="19" />
         <mark key="]" line="389" column="89" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" timestamp="1591007518725">
+        <mark key="'" line="76" column="14" />
+        <mark key="[" line="60" column="157" />
+        <mark key="]" line="60" column="160" />
+        <mark key="^" line="60" column="160" />
+        <mark key="." line="60" column="160" />
+      </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/count.vm" timestamp="1590653070408">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="40" />
@@ -90,8 +97,17 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseMain4Exposure.java" timestamp="1590743680615">
-        <mark key="^" line="75" column="157" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1591007394195">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="53" />
+        <mark key="." line="44" column="53" />
+        <mark key="^" line="44" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseMain4Exposure.java" timestamp="1591007485322">
+        <mark key="[" line="74" column="67" />
+        <mark key="]" line="74" column="82" />
+        <mark key="^" line="74" column="82" />
+        <mark key="." line="74" column="82" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" timestamp="1590999674276" />
       <file name="/ExposureLogHandler.java" timestamp="1590743784143">
@@ -155,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="32" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
       <jump line="217" column="27" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
       <jump line="459" column="33" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
       <jump line="461" column="34" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
@@ -255,10 +270,11 @@
       <jump line="106" column="61" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="287" column="64" filename="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/compute/preparse/DelayQueue4Event2Test.java" />
       <jump line="339" column="20" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
+      <jump line="76" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AC</text>
+        <text>x_exposuredb</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -354,19 +370,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AC</text>
+        <text>x_exposuredb</text>
       </register>
       <register name="/" type="4">
-        <text>thread</text>
+        <text>xEx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxLnF1ZXVlKG5ldyBEZWxheVF1ZXVlNEV2ZW50LkV2ZW50KDEsIDEsIENvbGxlY3Rpb25zLnNpbmdsZXRvbigxKSwwLCBFdmVudFR5cGUuQUMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUcmVlU2V0PERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudD4gcSA9IG5ldyBUcmVlU2V0PD4oKTsKICAgICAgICBib29sZWFuIGFkZCA9IHEuYWRkKG5ldyBEZWxheVF1ZXVlNEV2ZW50LkRlbGF5RXZlbnQoMzA5MDgzLCAxNTkwOTk5MzQwKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCk7CiAgICAgICAgYm9vbGVhbiBhZGQxID0gcS5hZGQobmV3IERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudCgxMTEzNjIxNzMsIDE1OTA5OTkzNDApKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRkMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOe6v+S4iuW6kwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGlmIChiZ0FjdGlvbi51aWQgJSAxMCAhPSAxKSBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICBUcmVlU2V0PERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudD4gcSA9IG5ldyBUcmVlU2V0PD4oKTsKICAgICAgICBib29sZWFuIGFkZCA9IHEuYWRkKG5ldyBEZWxheVF1ZXVlNEV2ZW50LkRlbGF5RXZlbnQoMzA5MDgzLCAxNTkwOTk5MzQwKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCk7CiAgICAgICAgYm9vbGVhbiBhZGQxID0gcS5hZGQobmV3IERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudCgxMTEzNjIxNzMsIDE1OTA5OTkzNDApKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRkMSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -393,11 +409,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChqb2JTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoam9iU3RhdGljRXZlbnQpOwovLyAgICAgICAgICAgICAgICAgICAgam9iU3RhdGljRXZlbnQuY2xlYXIoKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGdlZWtTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoZ2Vla1N0YXRpY0V2ZW50KTsKLy8gICAgICAgICAgICAgICAgICAgIGdlZWtTdGF0aWNFdmVudC5jbGVhcigpOwovLyAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGlmIChiZ0FjdGlvbi51aWQgJSAxMCAhPSAxKSBjb250aW51ZTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>, queue-count={}, unique.size={}/{}&quot;, bossIdQueue.size(), geekIdQueue.size()
-                        , DelayQueue4Event.statCount.toString(), bossIdQueue.unique.size(), geekIdQueue.unique.size()</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChqb2JTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoam9iU3RhdGljRXZlbnQpOwovLyAgICAgICAgICAgICAgICAgICAgam9iU3RhdGljRXZlbnQuY2xlYXIoKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGdlZWtTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoZ2Vla1N0YXRpY0V2ZW50KTsKLy8gICAgICAgICAgICAgICAgICAgIGdlZWtTdGF0aWNFdmVudC5jbGVhcigpOwovLyAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -430,8 +445,8 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text>else {
-            }</text>
+        <text>, queue-count={}, unique.size={}/{}&quot;, bossIdQueue.size(), geekIdQueue.size()
+                        , DelayQueue4Event.statCount.toString(), bossIdQueue.unique.size(), geekIdQueue.unique.size()</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -454,17 +469,18 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCJlPXt9LCBwcT17fSIsIGUsIHBxLnN0cmVhbSgpLm1hcChPYmplY3Q6OnRvU3RyaW5nKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiLCIpKSk7Ci8vICAgICAgICBsb2cuaW5mbygiYWRkLCBldmVudD17fSwgb2xkPXt9LCBhZGQ9e30iLCBldmVudCwgcHV0LCBhZGQpOwo=</text>
+      <register name="6" type="4">
+        <text>else {
+            }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0Q291bnQuaW5jckFuZEdldCgiYWRkIik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCJlPXt9LCBwcT17fSIsIGUsIHBxLnN0cmVhbSgpLm1hcChPYmplY3Q6OnRvU3RyaW5nKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiLCIpKSk7Ci8vICAgICAgICBsb2cuaW5mbygiYWRkLCBldmVudD17fSwgb2xkPXt9LCBhZGQ9e30iLCBldmVudCwgcHV0LCBhZGQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCJwb2xsLCBkZT17fSwgcj17fSAgIiwgZGVsYXlFdmVudC50b1N0cmluZygpLCByZW1vdmUudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0Q291bnQuaW5jckFuZEdldCgiYWRkIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0Q291bnQuaW5jckFuZEdldCgicG9sbCIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCJwb2xsLCBkZT17fSwgcj17fSAgIiwgZGVsYXlFdmVudC50b1N0cmluZygpLCByZW1vdmUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -505,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>thread</last-search>
+      <last-search>xEx</last-search>
       <last-offset />
-      <last-pattern>thread</last-pattern>
+      <last-pattern>xEx</last-pattern>
       <last-replace>DelayQueue4Event3</last-replace>
       <last-substitute>now</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jobitem</entry>
         <entry>proxy</entry>
         <entry>resources</entry>
         <entry>batch</entry>
@@ -535,6 +550,7 @@
         <entry>boss size</entry>
         <entry>now</entry>
         <entry>thread</entry>
+        <entry>xEx</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Phrase/NLUSlot/g</entry>
