@@ -76,6 +76,7 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="25" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1591015274946" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1590652459039">
         <mark key="'" line="109" column="19" />
         <mark key="[" line="26" column="32" />
@@ -97,19 +98,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseAbstractMain.java" timestamp="1591011809279">
-        <mark key="[" line="44" column="50" />
-        <mark key="]" line="44" column="53" />
-        <mark key="." line="44" column="53" />
-        <mark key="^" line="44" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseMain4Exposure.java" timestamp="1591011803921">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="74" column="67" />
-        <mark key="]" line="74" column="82" />
-        <mark key="^" line="74" column="82" />
-        <mark key="." line="74" column="82" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" timestamp="1590999674276" />
       <file name="/ExposureLogHandler.java" timestamp="1590743784143">
         <mark key="[" line="288" column="0" />
@@ -121,12 +109,6 @@
         <mark key="]" line="43" column="14" />
         <mark key="^" line="199" column="15" />
         <mark key="." line="43" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/exposure/ExposureTest.java" timestamp="1591013041489">
-        <mark key="[" line="104" column="60" />
-        <mark key="]" line="104" column="60" />
-        <mark key="." line="104" column="60" />
-        <mark key="^" line="104" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/CountDbHandler.java" timestamp="1590659077969">
         <mark key="'" line="150" column="21" />
@@ -142,8 +124,8 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1591011788461">
-        <mark key="'" line="103" column="12" />
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1591015418577">
+        <mark key="'" line="112" column="31" />
         <mark key="[" line="130" column="54" />
         <mark key="]" line="130" column="54" />
         <mark key="." line="130" column="54" />
@@ -178,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="461" column="34" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
       <jump line="463" column="28" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
       <jump line="14" column="25" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
       <jump line="10" column="8" filename="$USER_HOME$/workspace/zp-client/gen-java/logdb/thrift/Action.java" />
@@ -278,6 +259,7 @@
       <jump line="76" column="14" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/handler/ExposureLogHandler.java" />
       <jump line="103" column="12" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/main/EventParseMain4Exposure.java" />
+      <jump line="112" column="31" filename="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
