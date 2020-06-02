@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/handler/db/FeatureDbHandler.java" timestamp="1590652697081">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="5" />
-        <mark key="." line="36" column="26" />
-        <mark key="^" line="36" column="26" />
-      </file>
       <file name="/a.dummy" timestamp="1590993399087">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,12 +13,6 @@
         <mark key="^" line="49" column="41" />
       </file>
       <file name="/EventParse4FeatureMain.java" timestamp="1591003735677" />
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/rule/FinanceRule.java" timestamp="1590722215637">
-        <mark key="[" line="44" column="95" />
-        <mark key="]" line="44" column="100" />
-        <mark key="^" line="44" column="100" />
-        <mark key="." line="44" column="100" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/resume/geekcard/GeekCardBuilder.java" timestamp="1590721954210">
         <mark key="'" line="3" column="42" />
         <mark key="[" line="109" column="76" />
@@ -70,12 +58,6 @@
         <mark key="^" line="60" column="160" />
         <mark key="." line="60" column="160" />
       </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/db/count.vm" timestamp="1590653070408">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="25" column="59" />
-      </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/CommonInstance.java" timestamp="1591015274946" />
       <file name="$USER_HOME$/workspace/zp-search2/pom.xml" timestamp="1590652459039">
         <mark key="'" line="109" column="19" />
@@ -86,12 +68,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1590632053221">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/eventparse/cache/BossCom.java" timestamp="1590631956568">
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/zp-search2/src/test/java/com/zhipin/feature/compute/preparse/DelayQueue4Event3Test.java" timestamp="1590735830115">
         <mark key="[" line="4" column="0" />
@@ -124,18 +100,19 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/zp-web/src/main/resources/rm_tp_job.vm" timestamp="1591078177969">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/search/job/f2/F2cnFilters.java" timestamp="1591079494385" />
       <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/EventParse4FeatureMain.java" timestamp="1591062755206">
         <mark key="'" line="430" column="4" />
         <mark key="[" line="486" column="26" />
         <mark key="]" line="430" column="4" />
         <mark key="." line="430" column="4" />
         <mark key="^" line="430" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-search2/src/main/java/com/zhipin/feature/compute/preparse/PQ.java" timestamp="1590725193847">
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="50" />
-        <mark key="^" line="33" column="50" />
-        <mark key="." line="33" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1590743640393">
         <mark key="[" line="0" column="0" />
@@ -146,13 +123,6 @@
         <mark key="]" line="292" column="18" />
         <mark key="." line="292" column="18" />
         <mark key="^" line="292" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/zp-web/src/main/java/com/zhipin/web/WebMain.java" timestamp="1590654220466">
-        <mark key="'" line="137" column="72" />
-        <mark key="[" line="197" column="51" />
-        <mark key="]" line="197" column="62" />
-        <mark key="." line="197" column="62" />
-        <mark key="^" line="197" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/zp-client/gen-java/gen/feature/compute/EventType.java" timestamp="1590674995131">
         <mark key="[" line="10" column="0" />
@@ -263,7 +233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>输入公司ID, 不要带前缀. 例: https://www.zhipin.com/gongsi/l03725517.html, 请输入: 3725517</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -359,19 +329,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>输入公司ID, 不要带前缀. 例: https://www.zhipin.com/gongsi/l03725517.html, 请输入: 3725517</text>
       </register>
       <register name="/" type="4">
         <text>xEx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxLnF1ZXVlKG5ldyBEZWxheVF1ZXVlNEV2ZW50LkV2ZW50KDEsIDEsIENvbGxlY3Rpb25zLnNpbmdsZXRvbigxKSwwLCBFdmVudFR5cGUuQUMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFA+6L6T5YWl5YWs5Y+4SUQsIOS4jeimgeW4puWJjee8gC4g5L6LOiBodHRwczovL3d3dy56aGlwaW4uY29tL2dvbmdzaS9sMDM3MjU1MTcuaHRtbCwg6K+36L6T5YWlOiAzNzI1NTE3PC9QPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOe6v+S4iuW6kwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1sZyIgbmFtZT0iY29tbWl0IiB2YWx1ZT0iMiI+5Yig6ZmkPC9idXR0b24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUcmVlU2V0PERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudD4gcSA9IG5ldyBUcmVlU2V0PD4oKTsKICAgICAgICBib29sZWFuIGFkZCA9IHEuYWRkKG5ldyBEZWxheVF1ZXVlNEV2ZW50LkRlbGF5RXZlbnQoMzA5MDgzLCAxNTkwOTk5MzQwKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCk7CiAgICAgICAgYm9vbGVhbiBhZGQxID0gcS5hZGQobmV3IERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudCgxMTEzNjIxNzMsIDE1OTA5OTkzNDApKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRkMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOe6v+S4iuW6kwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -398,10 +368,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGlmIChiZ0FjdGlvbi51aWQgJSAxMCAhPSAxKSBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICBUcmVlU2V0PERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudD4gcSA9IG5ldyBUcmVlU2V0PD4oKTsKICAgICAgICBib29sZWFuIGFkZCA9IHEuYWRkKG5ldyBEZWxheVF1ZXVlNEV2ZW50LkRlbGF5RXZlbnQoMzA5MDgzLCAxNTkwOTk5MzQwKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCk7CiAgICAgICAgYm9vbGVhbiBhZGQxID0gcS5hZGQobmV3IERlbGF5UXVldWU0RXZlbnQuRGVsYXlFdmVudCgxMTEzNjIxNzMsIDE1OTA5OTkzNDApKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWRkMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChqb2JTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoam9iU3RhdGljRXZlbnQpOwovLyAgICAgICAgICAgICAgICAgICAgam9iU3RhdGljRXZlbnQuY2xlYXIoKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGdlZWtTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoZ2Vla1N0YXRpY0V2ZW50KTsKLy8gICAgICAgICAgICAgICAgICAgIGdlZWtTdGF0aWNFdmVudC5jbGVhcigpOwovLyAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGlmIChiZ0FjdGlvbi51aWQgJSAxMCAhPSAxKSBjb250aW51ZTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -433,9 +403,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>, queue-count={}, unique.size={}/{}&quot;, bossIdQueue.size(), geekIdQueue.size()
-                        , DelayQueue4Event.statCount.toString(), bossIdQueue.unique.size(), geekIdQueue.unique.size()</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChqb2JTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoam9iU3RhdGljRXZlbnQpOwovLyAgICAgICAgICAgICAgICAgICAgam9iU3RhdGljRXZlbnQuY2xlYXIoKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGdlZWtTdGF0aWNFdmVudCkgewovLyAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwoZ2Vla1N0YXRpY0V2ZW50KTsKLy8gICAgICAgICAgICAgICAgICAgIGdlZWtTdGF0aWNFdmVudC5jbGVhcigpOwovLyAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -459,17 +428,18 @@
         </keys>
       </register>
       <register name="6" type="4">
+        <text>, queue-count={}, unique.size={}/{}&quot;, bossIdQueue.size(), geekIdQueue.size()
+                        , DelayQueue4Event.statCount.toString(), bossIdQueue.unique.size(), geekIdQueue.unique.size()</text>
+      </register>
+      <register name="7" type="4">
         <text>else {
             }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCJlPXt9LCBwcT17fSIsIGUsIHBxLnN0cmVhbSgpLm1hcChPYmplY3Q6OnRvU3RyaW5nKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiLCIpKSk7Ci8vICAgICAgICBsb2cuaW5mbygiYWRkLCBldmVudD17fSwgb2xkPXt9LCBhZGQ9e30iLCBldmVudCwgcHV0LCBhZGQpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0Q291bnQuaW5jckFuZEdldCgiYWRkIik7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZy5pbmZvKCJwb2xsLCBkZT17fSwgcj17fSAgIiwgZGVsYXlFdmVudC50b1N0cmluZygpLCByZW1vdmUudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0Q291bnQuaW5jckFuZEdldCgiYWRkIik7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
