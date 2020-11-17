@@ -2,7 +2,10 @@
 #parse("File Header.java")
 
 /**
- * Created by pfliu on ${YEAR}/${MONTH}/${DAY}.
+ * @author pfliu
+ * @date   ${YEAR}/${MONTH}/${DAY}.
+ * @brief  ${BRIEF}
  */
+@Slf4j
 public class ${NAME} {
 }

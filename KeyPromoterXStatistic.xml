@@ -1,14 +1,6 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Change Signature...">
-        <Item>
-          <IdeaActionID>ChangeSignature</IdeaActionID>
-          <ShortCut>'⌘F6'</ShortCut>
-          <Description>Change Signature...</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
@@ -25,52 +17,12 @@
           <Count>5</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Commit...">
-        <Item>
-          <IdeaActionID>CheckinProject</IdeaActionID>
-          <ShortCut>'⌘K'</ShortCut>
-          <Description>Commit...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'⌘C'</ShortCut>
-          <Description>Copy</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy Path">
-        <Item>
-          <IdeaActionID>CopyPaths</IdeaActionID>
-          <ShortCut>'⇧⌘C'</ShortCut>
-          <Description>Copy Path</Description>
-          <Count>46</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy Paths">
-        <Item>
-          <IdeaActionID>CopyPaths</IdeaActionID>
-          <ShortCut>'⇧⌘C'</ShortCut>
-          <Description>Copy Paths</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>56</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy Relative Path">
-        <Item>
-          <IdeaActionID>CopyReference</IdeaActionID>
-          <ShortCut>'⌥⇧⌘C'</ShortCut>
-          <Description>Copy Relative Path</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -78,79 +30,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>55</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug">
-        <Item>
-          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
-          <ShortCut>'⌘5'</ShortCut>
-          <Description>Debug</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Args4JTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'Args4JTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'BlueFacadeClientTest.batchGetDzJob'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'BlueFacadeClientTest.batchGetDzJob'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'BlueFacadeClientTest.testBatchDzJob'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'BlueFacadeClientTest.testBatchDzJob'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'BlueFacadeClientTest.testListJobIds'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'BlueFacadeClientTest.testListJobIds'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'BossProfile'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'BossProfile'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'BrandJobV2Test.testGray'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'BrandJobV2Test.testGray'</Description>
-          <Count>24</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'BrandJobV2Test.testJobs'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'BrandJobV2Test.testJobs'</Description>
-          <Count>47</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'BrandJobV2Test.testQa1'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'BrandJobV2Test.testQa1'</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BuildAcIndexMain'">
@@ -159,246 +39,6 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'BuildAcIndexMain'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'CalJobCoverage'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'CalJobCoverage'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ChatCardBlockEval'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ChatCardBlockEval'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ChatCardBlockTest()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'ChatCardBlockTest()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'CleanQueryDict'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'CleanQueryDict'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'DemoApplication'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'DemoApplication'</Description>
-          <Count>11</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'DemoMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'DemoMain'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'EvalDangersWord'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'EvalDangersWord'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'EvalDangersWord.main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'EvalDangersWord.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'EvalJobSug'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'EvalJobSug'</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FastTextDemo'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FastTextDemo'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FeatureApiDubboClientsTest.test'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FeatureApiDubboClientsTest.test'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FeatureApiDubboClientsTest.test1'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FeatureApiDubboClientsTest.test1'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FeatureComputeTest.computeCTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FeatureComputeTest.computeCTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FeatureDbTest.LoadData'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FeatureDbTest.LoadData'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FeatureDbTest.compareData'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FeatureDbTest.compareData'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FeatureDbTest.compareData1'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FeatureDbTest.compareData1'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FeatureDbTest.singleWrite'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FeatureDbTest.singleWrite'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FinderGeekRebuildMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FinderGeekRebuildMain'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FinderGeekSear....main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'FinderGeekSear....main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FinderGeekSearchMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FinderGeekSearchMain'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'FinderGeekSearchMainTest.finderListGeek'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'FinderGeekSearchMainTest.finderListGeek'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'GSLOptionalGenerator'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'GSLOptionalGenerator'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'GSearchFlagFilter'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'GSearchFlagFilter'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'GeekAgencyAddComputer'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'GeekAgencyAddComputer'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'GeekItemArrayCountTest.countTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'GeekItemArrayCountTest.countTest'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'GeekSearchEval'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'GeekSearchEval'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'GenQueryCorrectSample'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'GenQueryCorrectSample'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'GsonTest.main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'GsonTest.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'HHResumeSearchMainTest.testPrivate'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'HHResumeSearchMainTest.testPrivate'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'HHResumeSearchMainTest.testQueryBuilder'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'HHResumeSearchMainTest.testQueryBuilder'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HashMapTest.main()'">
@@ -441,140 +81,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'InternalServerTest.getGeekItemsTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'InternalServerTest.getGeekItemsTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'InternalServerTest.getJobItemsTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'InternalServerTest.getJobItemsTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'InternalServerTest.scanGeekItemTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'InternalServerTest.scanGeekItemTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'JedisTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'JedisTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'JetCacheTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'JetCacheTest'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'JobRebuildMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'JobRebuildMain'</Description>
-          <Count>11</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'JobSearchMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'JobSearchMain'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'JobTitleClean'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'JobTitleClean'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'LeetCode2'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'LeetCode2'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'LeetCode371.main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'LeetCode371.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'LeetCode61'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'LeetCode61'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'LeetCode92'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'LeetCode92'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'ListForBossV2Test.testListForBoss'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ListForBossV2Test.testListForBoss'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ListForGeekV2Test.testListForGeek'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ListForGeekV2Test.testListForGeek'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'LoadCityCodeTest.test'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'LoadCityCodeTest.test'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Main'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'Main'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'MessagePreProcessingMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'MessagePreProcessingMain'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MigrateRedis'">
@@ -583,94 +95,6 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MigrateRedis'</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'MiscServerTest.SearchKeyWordFromGeekTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'MiscServerTest.SearchKeyWordFromGeekTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'MiscServerTest.StatForBoss'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'MiscServerTest.StatForBoss'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'NLUConf'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'NLUConf'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'PredictMainTest'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'PredictMainTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'PredictMainTest.verifyTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'PredictMainTest.verifyTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Query2SQLTest.query2FieldsLuceneQuery'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'Query2SQLTest.query2FieldsLuceneQuery'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'QueryAnalyzerM....main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'QueryAnalyzerM....main()'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'QueryAnalyzerMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'QueryAnalyzerMain'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'QueryAnalyzerT....main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'QueryAnalyzerT....main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'RedisLoader'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'RedisLoader'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'RedisLoaderTest.test'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'RedisLoaderTest.test'</Description>
-          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ReferenceCountTest'">
@@ -686,7 +110,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'ResumeRebuildM....main()'</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ResumeRebuildMain'">
@@ -694,87 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'ResumeRebuildMain'</Description>
-          <Count>25</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ResumeSearchLogEval'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ResumeSearchLogEval'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ResumeSearchMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ResumeSearchMain'</Description>
-          <Count>18</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ResumeSearchMain.main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'ResumeSearchMain.main()'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ResumeSearchMainTest.ChatCardBlockTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ResumeSearchMainTest.ChatCardBlockTest'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ResumeSearchMainTest.testResumeSearchV3'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ResumeSearchMainTest.testResumeSearchV3'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ResumeSearchMainTest.testResumeSearchV3JobSuggest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ResumeSearchMainTest.testResumeSearchV3JobSuggest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'RetainCompanyWord'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'RetainCompanyWord'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'SearchQA'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'SearchQA'</Description>
-          <Count>30</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'SearchQA.main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'SearchQA.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'StaticDataImportMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'StaticDataImportMain'</Description>
-          <Count>10</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestMajorTitle....main()'">
@@ -793,52 +137,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'TpJobTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'TpJobTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'TpJobTest.testBatch'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'TpJobTest.testBatch'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'Unnamed (2)'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Unnamed (2)'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Unnamed (3)'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'Unnamed (3)'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Unnamed (4)'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'Unnamed (4)'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Unnamed (5)'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'Unnamed (5)'</Description>
-          <Count>4</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unnamed'">
@@ -846,7 +150,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>10</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WResumeRebuildMain'">
@@ -865,76 +169,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'WebMain'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'WebMain'</Description>
-          <Count>381</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'WebMain.main()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'WebMain.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'WordTag'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'WordTag'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'YamlTest'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'YamlTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'ZstdThriftTest.testResumeSearchV3'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'ZstdThriftTest.testResumeSearchV3'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'compare()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'compare()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'compareData1()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'compareData1()'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'genFastTextSample'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'genFastTextSample'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'job3'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'job3'</Description>
-          <Count>2</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'job3_2'">
@@ -943,30 +183,6 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'job3_2'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'jobAAAA'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'jobAAAA'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'qaTest.testQueryQPS'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'qaTest.testQueryQPS'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'resumeZZZ'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'resumeZZZ'</Description>
-          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scanJobItemTest()'">
@@ -985,46 +201,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'testJobByAddr()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'testJobByAddr()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'testListForBoss()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'testListForBoss()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'testPerf()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'testPerf()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'testPrivate()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'testPrivate()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'testResumeSearchV3()'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧F9'</ShortCut>
-          <Description>Debug 'testResumeSearchV3()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'testSimV2Perf()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1038,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9144</Count>
+          <Count>1735</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1046,7 +222,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>67</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -1054,15 +230,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>25</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Generate...">
-        <Item>
-          <IdeaActionID>Generate</IdeaActionID>
-          <ShortCut>'⌃N' or '⌃⏎'</ShortCut>
-          <Description>Generate...</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1070,15 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Implementation(s)">
-        <Item>
-          <IdeaActionID>GotoImplementation</IdeaActionID>
-          <ShortCut>'⌥⌘B'</ShortCut>
-          <Description>Implementation(s)</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inline...">
@@ -1089,76 +249,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Jump To Source">
-        <Item>
-          <IdeaActionID>XDebugger.JumpToSource</IdeaActionID>
-          <ShortCut>'F4'</ShortCut>
-          <Description>Jump To Source</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Messages">
-        <Item>
-          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
-          <ShortCut>'⌘0'</ShortCut>
-          <Description>Messages</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Method...">
-        <Item>
-          <IdeaActionID>ExtractMethod</IdeaActionID>
-          <ShortCut>'⌥⌘M'</ShortCut>
-          <Description>Method...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Move...">
-        <Item>
-          <IdeaActionID>Move</IdeaActionID>
-          <ShortCut>'F6'</ShortCut>
-          <Description>Move...</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Open Library Settings">
-        <Item>
-          <IdeaActionID>EditSource</IdeaActionID>
-          <ShortCut>'F4'</ShortCut>
-          <Description>Open Library Settings</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Open Module Settings">
-        <Item>
-          <IdeaActionID>OpenModuleSettings</IdeaActionID>
-          <ShortCut>'F4'</ShortCut>
-          <Description>Open Module Settings</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Optimize Imports">
-        <Item>
-          <IdeaActionID>OptimizeImports</IdeaActionID>
-          <ShortCut>'⌥⌘O'</ShortCut>
-          <Description>Optimize Imports</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Paste">
-        <Item>
-          <IdeaActionID>$Paste</IdeaActionID>
-          <ShortCut>'⌘V'</ShortCut>
-          <Description>Paste</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Preferences...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>48</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1174,159 +270,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>30</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Quick Evaluate Expression">
-        <Item>
-          <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
-          <ShortCut>'⌥⌘F8'</ShortCut>
-          <Description>Quick Evaluate Expression</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild '....zhipin.historypush'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild '....zhipin.historypush'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild '...arch.resume.handler'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild '...arch.resume.handler'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild '...hipin.search.resume'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild '...hipin.search.resume'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild '...ipin.recall.handler'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild '...ipin.recall.handler'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild '...ipin.recall.rebuild'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild '...ipin.recall.rebuild'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild '...search.resume.model'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild '...search.resume.model'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild 'com.zhipin.f2pushv2'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild 'com.zhipin.f2pushv2'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild 'com.zhipin.search'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild 'com.zhipin.search'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'LeetCode'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'LeetCode'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'data-common'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'data-common'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'demo'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'demo'</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'huyan-ml'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'huyan-ml'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'huyan-modules'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'huyan-modules'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'huyanml'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'huyanml'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'huyannlu'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'huyannlu'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'huyanutil'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'huyanutil'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'javaprogram'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'javaprogram'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'lucene-demo'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'lucene-demo'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'zp-client'">
@@ -1337,331 +281,11 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rebuild Module 'zp-dataservice'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'zp-dataservice'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'zp-finder'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'zp-finder'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'zp-ml'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'zp-ml'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Module 'zp-search2'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Rebuild Module 'zp-search2'</Description>
-          <Count>58</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Recompile 'GeekItemHandler.java'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Recompile 'GeekItemHandler.java'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Reimport All Maven Projects">
-        <Item>
-          <IdeaActionID>Maven.Reimport</IdeaActionID>
-          <ShortCut>'⌃⇧M'</ShortCut>
-          <Description>Reimport All Maven Projects</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Remove Module">
-        <Item>
-          <IdeaActionID>$Delete</IdeaActionID>
-          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
-          <Description>Remove Module</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Remove Watch">
-        <Item>
-          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
-          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
-          <Description>Remove Watch</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Accuracy'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Accuracy'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BiLSTMCRFDictory'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BiLSTMCRFDictory'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BlueFacadeClientTest.testGeekInterface'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BlueFacadeClientTest.testGeekInterface'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BossProfile'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BossProfile'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BrandJobV2Test.test2'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BrandJobV2Test.test2'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BrandJobV2Test.testGray'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BrandJobV2Test.testGray'</Description>
-          <Count>41</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BrandJobV2Test.testJobs'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BrandJobV2Test.testJobs'</Description>
-          <Count>69</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BrandJobV2Test.testQa1'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BrandJobV2Test.testQa1'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BuildData'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'BuildData'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'CalJobCoverage'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'CalJobCoverage'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'CleanQueryDict'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'CleanQueryDict'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'CompareCrfAndBiLSTMCRF'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'CompareCrfAndBiLSTMCRF'</Description>
-          <Count>22</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'CompressThriftTestServer'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'CompressThriftTestServer'</Description>
-          <Count>31</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ConcurrentIntObjectMapTest.testTest2'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ConcurrentIntObjectMapTest.testTest2'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'CountHashMap2Test (2)'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'CountHashMap2Test (2)'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'CountHashMap2Test'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'CountHashMap2Test'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'DemoApplication'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'DemoApplication'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'DictionaryTest.testSchool'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'DictionaryTest.testSchool'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'DumpGeekItemMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'DumpGeekItemMain'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'DzDubboClient'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'DzDubboClient'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'EvalCrf'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'EvalCrf'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'EvalDangersWord'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'EvalDangersWord'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'EvalJobSug'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'EvalJobSug'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'EvalModel'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'EvalModel'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'EvalQA'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'EvalQA'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ExposureItemParser'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ExposureItemParser'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FastTextDemo'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FastTextDemo'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FeatureApiDubboClientsTest.test1'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FeatureApiDubboClientsTest.test1'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FeatureComputeTest.computeCTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FeatureComputeTest.computeCTest'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FeatureDbTest.LoadData'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FeatureDbTest.LoadData'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FeatureDbTest.compareData1'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FeatureDbTest.compareData1'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FeatureDbTest.singleWrite'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FeatureDbTest.singleWrite'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -1671,174 +295,6 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FilterCodeUtilTest.filterExpect'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FindCompanyWord'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FindCompanyWord'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FindCompanyWordTest.contaionS'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FindCompanyWordTest.contaionS'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FindCompanyWordTest.suffixArray'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FindCompanyWordTest.suffixArray'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'FinderGeekSearchMainTest.finderListGeek'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'FinderGeekSearchMainTest.finderListGeek'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GFilterQueryBuilderTest.buildFilter'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GFilterQueryBuilderTest.buildFilter'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GFilterQueryBuilderTest.buildSalary'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GFilterQueryBuilderTest.buildSalary'</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GJobQueryBuilderTest.buildJobQuery'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GJobQueryBuilderTest.buildJobQuery'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GQueryBuilderTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GQueryBuilderTest'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GQueryBuilderTest.build (1)'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GQueryBuilderTest.build (1)'</Description>
-          <Count>11</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GQueryBuilderTest.build'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GQueryBuilderTest.build'</Description>
-          <Count>16</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GQueryBuilderTest.build1'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GQueryBuilderTest.build1'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GSLOptionalGenerator'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GSLOptionalGenerator'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GeekAgencyAddComputer'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GeekAgencyAddComputer'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GeekItemArrayCountTest.countTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GeekItemArrayCountTest.countTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GeekSearchEval'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GeekSearchEval'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GenBiLSTMCRFSample'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GenBiLSTMCRFSample'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GenQueryCorrectSample'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GenQueryCorrectSample'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GenRandomEvalSet'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GenRandomEvalSet'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'GsonTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'GsonTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'HHResumeSearchMainTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'HHResumeSearchMainTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'HHResumeSearchMainTest.testPrivate'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'HHResumeSearchMainTest.testPrivate'</Description>
-          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'HashMapTest'">
@@ -1865,20 +321,12 @@
           <Count>41</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'InternalServerTest.getDbCacheTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'InternalServerTest.getDbCacheTest'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'InternalServerTest.getGeekItemsTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'InternalServerTest.getGeekItemsTest'</Description>
-          <Count>5</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InternalServerTest.getJobItemsTest'">
@@ -1886,7 +334,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'InternalServerTest.getJobItemsTest'</Description>
-          <Count>8</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InternalServerTest.scanGeekItemTest'">
@@ -1894,7 +342,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'InternalServerTest.scanGeekItemTest'</Description>
-          <Count>7</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'InternalServerTest.scanJobItemTest'">
@@ -1921,300 +369,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'JedisTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'JedisTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'JobRebuildMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'JobRebuildMain'</Description>
-          <Count>16</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'JobSearchMain'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'JobSearchMain'</Description>
-          <Count>29</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'JobTitleClean'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'JobTitleClean'</Description>
-          <Count>15</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'JobTitleCleanTest.segSingleTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'JobTitleCleanTest.segSingleTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'KafkaTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'KafkaTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode100'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode100'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode101'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode101'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode108'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode108'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode118'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode118'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode119'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode119'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode125'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode125'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode13'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode13'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode168'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode168'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode169'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode169'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode191'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode191'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode2'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode2'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode202'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode202'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode204'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode204'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode206'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode206'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode21'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode21'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode225'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode225'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode234'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode234'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode24'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode24'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode28'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode28'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode342'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode342'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode367'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode367'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode441'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode441'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode496'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode496'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode507'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode507'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode530'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode530'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode541'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode541'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode61'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode61'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode67'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode67'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode7'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode7'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode82'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode82'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LeetCode88'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LeetCode88'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ListForBossV2Test.testListForBoss'">
@@ -2222,7 +382,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ListForBossV2Test.testListForBoss'</Description>
-          <Count>10</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ListForGeekV2Test.f2cnKeywordTest'">
@@ -2233,76 +393,12 @@
           <Count>11</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'ListForGeekV2Test.testList'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ListForGeekV2Test.testList'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'ListForGeekV2Test.testListForGeek'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ListForGeekV2Test.testListForGeek'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LoadCityCodeTest.test'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'LoadCityCodeTest.test'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MTagCutRule'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MTagCutRule'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MTagCutRuleTest.process'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MTagCutRuleTest.process'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MTagDict'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MTagDict'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MTagDictTest.processTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MTagDictTest.processTest'</Description>
-          <Count>15</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Main'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Main'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MaxWater'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MaxWater'</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MigrateRedis'">
@@ -2313,70 +409,6 @@
           <Count>7</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'MiscHandlerTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MiscHandlerTest'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MiscHandlerTest.findTagFromEdus'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MiscHandlerTest.findTagFromEdus'</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MiscServer'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MiscServer'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MiscServerTest.SearchKeyWordFromGeekTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MiscServerTest.SearchKeyWordFromGeekTest'</Description>
-          <Count>45</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'MiscServerTest.StatForBoss'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'MiscServerTest.StatForBoss'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'NLUConf'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'NLUConf'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'NLURewrite'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'NLURewrite'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'OldNewCompare'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'OldNewCompare'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'OpRecPush'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2385,332 +417,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'PerTest.testPerf'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PerTest.testPerf'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PreRunner'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PreRunner'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PredictMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PredictMain'</Description>
-          <Count>38</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PredictMainTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PredictMainTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PredictMainTest.predict4C'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PredictMainTest.predict4C'</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PredictMainTest.predictTestTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PredictMainTest.predictTestTest'</Description>
-          <Count>74</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PredictMainTest.verifyTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PredictMainTest.verifyTest'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PredictTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PredictTest'</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'PubSubTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'PubSubTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Query2SQLTest.query2FieldsLuceneQuery'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Query2SQLTest.query2FieldsLuceneQuery'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerHttp'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerHttp'</Description>
-          <Count>16</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerMain'</Description>
-          <Count>59</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerMainTest.bossSearchQA'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerMainTest.bossSearchQA'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerMainTest.pressureTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerMainTest.pressureTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest.a'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest.a'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest.compare'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest.compare'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest.crfCompareIntention'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest.crfCompareIntention'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest.genSample'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest.genSample'</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest.intentionSingle'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest.intentionSingle'</Description>
-          <Count>48</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest.single'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest.single'</Description>
-          <Count>23</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryAnalyzerTest.t'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryAnalyzerTest.t'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryConverterTest.convertLuceneTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryConverterTest.convertLuceneTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryConverterTest.convertLuceneTest1'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryConverterTest.convertLuceneTest1'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryCorrectRebuildMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryCorrectRebuildMain'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryCorrectSearchMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryCorrectSearchMain'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryCorrectSearchMainTest.qc'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryCorrectSearchMainTest.qc'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryCrfPreMark'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryCrfPreMark'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'QueryDictBuild'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'QueryDictBuild'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RecallCountMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RecallCountMain'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RedisDistributedLockTest.lock'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RedisDistributedLockTest.lock'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RedisDistributedLockTest.testBasicLockUnLock'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RedisDistributedLockTest.testBasicLockUnLock'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RedisDistributedLockTest.testLock'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RedisDistributedLockTest.testLock'</Description>
-          <Count>18</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RedisDistributedLockTest.testReentrant'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RedisDistributedLockTest.testReentrant'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RedisLoader'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RedisLoader'</Description>
-          <Count>33</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RedisLoaderTest.test'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RedisLoaderTest.test'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RedisLock'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RedisLock'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Rerun Failed Tests'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ResumeLog2DB2'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ResumeLog2DB2'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'ResumeRebuildMain'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ResumeRebuildMain'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ResumeSearchLogEval'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ResumeSearchLogEval'</Description>
-          <Count>61</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResumeSearchMain'">
@@ -2718,23 +430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ResumeSearchMain'</Description>
-          <Count>22</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ResumeSearchMainTest.ChatCardBlockTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ResumeSearchMainTest.ChatCardBlockTest'</Description>
-          <Count>31</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ResumeSearchMainTest.QuerySuggestTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ResumeSearchMainTest.QuerySuggestTest'</Description>
-          <Count>1</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResumeSearchMainTest.geekCountTest'">
@@ -2742,47 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ResumeSearchMainTest.geekCountTest'</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ResumeSearchMainTest.testResumeSearchV3'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ResumeSearchMainTest.testResumeSearchV3'</Description>
-          <Count>23</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RetainCompanyWord'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RetainCompanyWord'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RmBossCache'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'RmBossCache'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'SFClientTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'SFClientTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'SearchQA'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'SearchQA'</Description>
-          <Count>147</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SimMatrixV2Test'">
@@ -2822,55 +478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SimMatrixV2Test.testl3V2Perf'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'SpellCorrectorTest.correction'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'SpellCorrectorTest.correction'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'SpellCorrectorTest.modelPerfTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'SpellCorrectorTest.modelPerfTest'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'SpellCorrectorTest.recallCadTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'SpellCorrectorTest.recallCadTest'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'StaticDataImportMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'StaticDataImportMain'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Strategy0'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Strategy0'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Strategy1'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Strategy1'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'StringChineseTest'">
@@ -2878,30 +486,6 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'StringChineseTest'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'StringSimilarityTest.jaccard'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'StringSimilarityTest.jaccard'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'TagCacheTest.loadTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'TagCacheTest.loadTest'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'TestClone'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'TestClone'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2913,44 +497,12 @@
           <Count>9</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'TpJobSearchMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'TpJobSearchMain'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'TpJobTest.routerTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'TpJobTest.routerTest'</Description>
-          <Count>23</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'TpJobTest.testBatch'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'TpJobTest.testBatch'</Description>
-          <Count>16</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'TpJobTest.testGetCompanyByIdNewClients'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'TpJobTest.testGetCompanyByIdNewClients'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'TpJobTest.testJobByAddr'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'TpJobTest.testJobByAddr'</Description>
-          <Count>16</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TpJobTest.testListTpCom'">
@@ -2959,30 +511,6 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'TpJobTest.testListTpCom'</Description>
           <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'TransportTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'TransportTest'</Description>
-          <Count>42</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Trie'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Trie'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Unnamed (5)'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'Unnamed (5)'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unnamed'">
@@ -3017,118 +545,6 @@
           <Count>16</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'WebMain'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'WebMain'</Description>
-          <Count>34</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'WordTagTest.isAllSingleStop'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'WordTagTest.isAllSingleStop'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'WordTagTest.shortQueryStop'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'WordTagTest.shortQueryStop'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'WordWrapper'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'WordWrapper'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ZpBaseKafkaConsumerTest.buildKafkaConsumer'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ZpBaseKafkaConsumerTest.buildKafkaConsumer'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ZpBaseKafkaProducer'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ZpBaseKafkaProducer'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ZstdTest.CorrectnessTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ZstdTest.CorrectnessTest'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ZstdTest.originSizeTest'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ZstdTest.originSizeTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'ZstdThriftTest.testResumeSearchV3'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'ZstdThriftTest.testResumeSearchV3'</Description>
-          <Count>24</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'b_query_more_10_premark'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'b_query_more_10_premark'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'genFastTextSample'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'genFastTextSample'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'gen_brat_sample'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'gen_brat_sample'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'gen_eval_set'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'gen_eval_set'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'grom_brat_to_txt'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'grom_brat_to_txt'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'job3'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3145,36 +561,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'jobAAAA'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'jobAAAA'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'resumeZZZ'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'resumeZZZ'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'wy_filter'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Rerun 'wy_filter'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>2</Count>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -3182,31 +582,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>56</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'ConcurrentIntObjectMapTest'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'ConcurrentIntObjectMapTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'FinderGeekRebu....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'FinderGeekRebu....main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'GsonTest.main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'GsonTest.main()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HashMapTest.main()'">
@@ -3217,132 +593,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'LeetCode203.main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'LeetCode203.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'LeetCode88.main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'LeetCode88.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'ListForGeekV2Test.testListForGeek'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'ListForGeekV2Test.testListForGeek'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'PreRunner.main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'PreRunner.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'QueryCorrectRe....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'QueryCorrectRe....main()'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'QueryCorrectSe....main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'QueryCorrectSe....main()'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'ResumeSearchMain'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'ResumeSearchMain'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'TestMajorTitle....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'TestMajorTitle....main()'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'b_query_more_10_prem...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'b_query_more_10_prem...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'batchGetDzJob()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'batchGetDzJob()'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'compareData1()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'compareData1()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'function()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'function()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'go build main.go'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'go build main.go'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'remove_single.sh'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'remove_single.sh'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'singleWrite()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'singleWrite()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'testGetCompanyById()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'testGetCompanyById()'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testSimV2Perf()'">
@@ -3353,14 +609,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'testTest2()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧F10'</ShortCut>
-          <Description>Run 'testTest2()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'testl3V2Perf()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3369,83 +617,11 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run to Cursor">
-        <Item>
-          <IdeaActionID>RunToCursor</IdeaActionID>
-          <ShortCut>'⌥F9'</ShortCut>
-          <Description>Run to Cursor</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Scratch File">
-        <Item>
-          <IdeaActionID>NewScratchFile</IdeaActionID>
-          <ShortCut>'⌃⇧N'</ShortCut>
-          <Description>Scratch File</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Set Value...">
-        <Item>
-          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
-          <ShortCut>'F2'</ShortCut>
-          <Description>Set Value...</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Show Dependencies Popup...">
-        <Item>
-          <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
-          <ShortCut>'⌥⌘U'</ShortCut>
-          <Description>Show Dependencies Popup...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Show Dependencies...">
-        <Item>
-          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
-          <ShortCut>'⌥⇧⌘U'</ShortCut>
-          <Description>Show Dependencies...</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Show Diagram...">
-        <Item>
-          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
-          <ShortCut>'⌥⇧⌘U'</ShortCut>
-          <Description>Show Diagram...</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Show Diff">
-        <Item>
-          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
-          <ShortCut>'⌘D'</ShortCut>
-          <Description>Show Diff</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Show Execution Point">
-        <Item>
-          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
-          <ShortCut>'⌥F10'</ShortCut>
-          <Description>Show Execution Point</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>26</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Step Out">
-        <Item>
-          <IdeaActionID>StepOut</IdeaActionID>
-          <ShortCut>'⇧F8'</ShortCut>
-          <Description>Step Out</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -3454,23 +630,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2254</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'AcHighLightTest.testTest2'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'AcHighLightTest.testTest2'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Accuracy'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Accuracy'</Description>
-          <Count>1</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AutoCompleteServer'">
@@ -3481,276 +641,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'BiLSTMCRFDictory'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'BiLSTMCRFDictory'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'BlueFacadeClientTest.testGeekInterface'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'BlueFacadeClientTest.testGeekInterface'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'BrandJobV2Test.test2'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'BrandJobV2Test.test2'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'BrandJobV2Test.testJobs'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'BrandJobV2Test.testJobs'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ChatCardBlockEval'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ChatCardBlockEval'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'CompareCrfAndBiLSTMCRF'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'CompareCrfAndBiLSTMCRF'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'CompressThriftTestClient'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'CompressThriftTestClient'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'CompressThriftTestServer'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'CompressThriftTestServer'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ConcurrentIntObjectMapTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ConcurrentIntObjectMapTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ConcurrentIntObjectMapTest.testTest2'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ConcurrentIntObjectMapTest.testTest2'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'CountHashMap2Test (1)'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'CountHashMap2Test (1)'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'CountHashMap2Test'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'CountHashMap2Test'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'CountHashMap2Test.main'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'CountHashMap2Test.main'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DemoMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DemoMain'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DictionaryTest.testSchool'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DictionaryTest.testSchool'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'DumpWavelyGeek4AC'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DumpWavelyGeek4AC'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'EvalDangersWord'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'EvalDangersWord'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'EvalJobSug'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'EvalJobSug'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'EvalModel'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'EvalModel'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'EvalQA'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'EvalQA'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'FeatureApiDubboClientsTest.test1'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'FeatureApiDubboClientsTest.test1'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'FeatureDbTest.LoadData (1)'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'FeatureDbTest.LoadData (1)'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'FeatureDbTest.LoadData'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'FeatureDbTest.LoadData'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'FeatureDbTest.Test'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'FeatureDbTest.Test'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'FeatureDbTest.singleWrite'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'FeatureDbTest.singleWrite'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'FindCompanyWord'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'FindCompanyWord'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GFilterQueryBuilderTest.buildFilter'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GFilterQueryBuilderTest.buildFilter'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GJobQueryBuilderTest.buildJobQuery'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GJobQueryBuilderTest.buildJobQuery'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GQueryBuilderTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GQueryBuilderTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GQueryBuilderTest.build'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GQueryBuilderTest.build'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GeekAgencyAddComputer'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GeekAgencyAddComputer'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GeekSearchEval'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GeekSearchEval'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GenBiLSTMCRFSample'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GenBiLSTMCRFSample'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'GenQueryCorrectSample'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'GenQueryCorrectSample'</Description>
-          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InternalMain'">
@@ -3777,228 +673,12 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'JedisTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'JedisTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'JobRebuildMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'JobRebuildMain'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'JobSearchMain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'JobSearchMain'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'JobTitleClean'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'JobTitleClean'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'KafkaTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'KafkaTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode101'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode101'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode125'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode125'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode169'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode169'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode2'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode2'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode206'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode206'</Description>
           <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode258'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode258'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode28'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode28'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode35'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode35'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode367'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode367'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode441'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode441'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode507'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode507'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode86'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode86'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LeetCode92'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LeetCode92'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ListForBossV2Test.testListForBoss'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ListForBossV2Test.testListForBoss'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MTagCutRule'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MTagCutRule'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MTagDict'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MTagDict'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MTagNN'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MTagNN'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Main'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Main'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MessagePreProcessingMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MessagePreProcessingMain'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MiscHandlerTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MiscHandlerTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MiscHandlerTest.findTagFromEdus'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MiscHandlerTest.findTagFromEdus'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MiscServerTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MiscServerTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'OldNewCompare'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'OldNewCompare'</Description>
-          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OpRecPush'">
@@ -4009,284 +689,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'PerTest.testPerf'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'PerTest.testPerf'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'PreRunner'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'PreRunner'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'PredictMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'PredictMain'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'PredictMainTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'PredictMainTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'PubSubTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'PubSubTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerHttp'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerHttp'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerMain'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerMainTest.pressureTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerMainTest.pressureTest'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest.a'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest.a'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest.compare'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest.compare'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest.crfCompareIntention'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest.crfCompareIntention'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest.genSample'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest.genSample'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest.intentionSingle'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest.intentionSingle'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest.single'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest.single'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryAnalyzerTest.t'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryAnalyzerTest.t'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryConverterTest.convertLuceneTest1'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryConverterTest.convertLuceneTest1'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryCorrectRebuildMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryCorrectRebuildMain'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryCorrectSearchMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryCorrectSearchMain'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryCorrectSearchMainTest.qc'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryCorrectSearchMainTest.qc'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'QueryDictBuild'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'QueryDictBuild'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RedisDistributedLockTest.testLock'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'RedisDistributedLockTest.testLock'</Description>
-          <Count>21</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RedissonDistributedLockTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'RedissonDistributedLockTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RedissonDistributedLockTest.testDistributedLock'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'RedissonDistributedLockTest.testDistributedLock'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Rerun Failed Tests'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Rerun Failed Tests'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ResumeLog2DB2'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ResumeLog2DB2'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ResumeRebuildMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ResumeRebuildMain'</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ResumeSearchLogEval'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ResumeSearchLogEval'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'ResumeSearchMain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ResumeSearchMain'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ResumeSearchMainTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ResumeSearchMainTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ResumeSearchMainTest.ChatCardBlockTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ResumeSearchMainTest.ChatCardBlockTest'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ResumeSearchMainTest.testResumeSearchV3'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ResumeSearchMainTest.testResumeSearchV3'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RmBossCache'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'RmBossCache'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'SFClientTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'SFClientTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'SearchQA'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'SearchQA'</Description>
-          <Count>17</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimMatrixV2Test'">
@@ -4318,31 +726,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SimMatrixV2Test.testl3V2Perf'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'SpellCorrectorTest.modelPerfTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'SpellCorrectorTest.modelPerfTest'</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'SpellCorrectorTest.recallCadTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'SpellCorrectorTest.recallCadTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'StaticDataImportMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'StaticDataImportMain'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'StringChineseTest'">
@@ -4350,31 +734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'StringChineseTest'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'StringSimilarityTest.jaccard'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'StringSimilarityTest.jaccard'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'SuffixArrayTest.perf'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'SuffixArrayTest.perf'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'TestHttpApi'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'TestHttpApi'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestMajorTitlePerf'">
@@ -4385,60 +745,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'TpJobSearchMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'TpJobSearchMain'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'TpJobTest.routerTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'TpJobTest.routerTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'TransportTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'TransportTest'</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Unnamed (2)'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Unnamed (2)'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Unnamed (3)'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Unnamed (3)'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Unnamed (5)'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Unnamed (5)'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'Unnamed'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
-          <Count>5</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WResumeSearchMain'">
@@ -4449,131 +761,11 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'WebMain'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'WebMain'</Description>
-          <Count>64</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'WordTagTest.shortQueryStop'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'WordTagTest.shortQueryStop'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ZpBaseKafkaProducer'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ZpBaseKafkaProducer'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ZpBaseKafkaProducerTest.buildKafkaProducer'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ZpBaseKafkaProducerTest.buildKafkaProducer'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ZstdTest.CorrectnessTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ZstdTest.CorrectnessTest'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ZstdTest.absolutePerf'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ZstdTest.absolutePerf'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ZstdTest.compressRatioTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ZstdTest.compressRatioTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'ZstdTest.perfTest'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ZstdTest.perfTest'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'filter_rule_in_query_to_review.md'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'filter_rule_in_query_to_review.md'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'genFastTextSample'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'genFastTextSample'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'gen_eval_set'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'gen_eval_set'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'resumeZZZ'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'resumeZZZ'</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'study_hyperloglog'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'study_hyperloglog'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'wy_filter'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'wy_filter'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Structure">
-        <Item>
-          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
-          <ShortCut>'⌘7'</ShortCut>
-          <Description>Structure</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -4582,7 +774,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -4606,31 +798,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>910</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Translate">
-        <Item>
-          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
-          <ShortCut>'⌃⌘U'</ShortCut>
-          <Description>Translate</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Translate and Replace...">
-        <Item>
-          <IdeaActionID>$TranslateAndReplaceAction</IdeaActionID>
-          <ShortCut>'⇧⌘X' or '⌃⌘O'</ShortCut>
-          <Description>Translate and Replace...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Type Declaration">
-        <Item>
-          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
-          <ShortCut>'⌃⇧B'</ShortCut>
-          <Description>Type Declaration</Description>
-          <Count>1</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -4639,42 +807,6 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="View Breakpoints...">
-        <Item>
-          <IdeaActionID>ViewBreakpoints</IdeaActionID>
-          <ShortCut>'⇧⌘F8'</ShortCut>
-          <Description>View Breakpoints...</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-    </option>
-    <option name="suppressed">
-      <Statistic Action="Mute Breakpoints">
-        <Item>
-          <IdeaActionID>XDebugger.MuteBreakpoints</IdeaActionID>
-          <Description>Mute Breakpoints</Description>
-        </Item>
-      </Statistic>
-      <Statistic Action="Reimport">
-        <Item>
-          <IdeaActionID>Maven.ReimportProject</IdeaActionID>
-          <Description>Reimport</Description>
-        </Item>
-      </Statistic>
-      <Statistic Action="Resume Program">
-        <Item>
-          <IdeaActionID>Resume</IdeaActionID>
-          <ShortCut>'F9'</ShortCut>
-          <Description>Resume Program</Description>
-          <Count>1629</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Sign in">
-        <Item>
-          <IdeaActionID>leetcode.LoginAction</IdeaActionID>
-          <Description>Sign in</Description>
         </Item>
       </Statistic>
     </option>
