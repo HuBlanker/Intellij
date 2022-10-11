@@ -1,4 +1,12 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="EditorCompleteStatement">
@@ -15,6 +23,8 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Git.Commit.Stage" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -33,7 +43,11 @@
   <action id="Table-selectPreviousRow">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="ToggleBookmark8" />
   <action id="Tree-selectPrevious">
     <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="Unscramble">
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
   </action>
 </keymap>
