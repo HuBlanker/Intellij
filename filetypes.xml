@@ -6,6 +6,7 @@
       <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern="bashrc" type="PLAIN_TEXT" />
       <mapping ext="def" type="PLAIN_TEXT" />
+      <mapping pattern="run" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
