@@ -43,6 +43,9 @@
   <action id="List-selectPreviousRow">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="NavBar-selectUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
@@ -52,6 +55,7 @@
   <action id="PopupMenu-selectPrevious">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="SaveAll" />
   <action id="Table-selectPreviousRow">
     <keyboard-shortcut first-keystroke="up" />
   </action>
