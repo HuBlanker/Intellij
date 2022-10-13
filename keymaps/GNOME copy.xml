@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="alt button1" />
   </action>
@@ -28,6 +29,10 @@
   </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="Git.Commit.Stage" />
   <action id="GotoBookmark8" />
@@ -52,10 +57,14 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="PopupMenu-selectPrevious">
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="SaveAll" />
+  <action id="ShowNavBar" />
   <action id="Table-selectPreviousRow">
     <keyboard-shortcut first-keystroke="up" />
   </action>
