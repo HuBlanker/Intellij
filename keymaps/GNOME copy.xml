@@ -48,6 +48,9 @@
   <action id="List-selectPreviousRow">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
