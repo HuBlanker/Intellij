@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="run_no_huge" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="HTML" />
       <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern="bashrc" type="PLAIN_TEXT" />
