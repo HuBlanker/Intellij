@@ -11,4 +11,12 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="cidr.max.intellisense.file.length" value="5000000" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="ClangdMemory" value="true" />
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
