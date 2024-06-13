@@ -1,0 +1,45 @@
+<templateSet group="huyanshi">
+  <template name="main" value="public static void main(String [] args){&#10;    $END$&#10;}" description="create the main method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="slf" value="private static final Logger logger = LoggerFactory.getLogger($fileName$.class);$END$" description="static logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="li" value="logger.info(&quot;$1$&quot;);$END$" description="logger.info" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="le" value="logger.error(&quot;$1$&quot;);$END$" description="log.error" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="before" value="@Before&#10;public void pre(){&#10;    $END$&#10;}" description="test before" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="hashmap" value="Map&lt;$1$,$2$&gt; $3$ = new HashMap&lt;&gt;();$END$" description="new a hashmap" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="arraylist" value="List&lt;$1$&gt; $2$ = new ArrayList&lt;&gt;();$END$" description="new a arraylist" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

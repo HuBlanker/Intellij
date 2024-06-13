@@ -1,0 +1,87 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="EditorContextInfo" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="EditorStartNewLine" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="Git.Commit.Stage" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt b" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="List-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="NavBar-selectUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="PopupMenu-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="SaveAll" />
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="ShowNavBar" />
+  <action id="Table-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="ToggleBookmark8" />
+  <action id="Tree-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="Unscramble">
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
+  </action>
+</keymap>
