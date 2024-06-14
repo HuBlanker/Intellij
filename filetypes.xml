@@ -1,18 +1,17 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="srcjar" type="ARCHIVE" />
       <mapping pattern="run_no_huge" type="AUTO_DETECTED" />
       <mapping pattern="Rakefile" type="AUTO_DETECTED" />
       <mapping pattern="tcloud_run" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="HTML" />
-      <mapping pattern="bashrc" type="PLAIN_TEXT" />
       <mapping pattern="push" type="PLAIN_TEXT" />
+      <mapping pattern="bashrc" type="PLAIN_TEXT" />
       <mapping ext="def" type="PLAIN_TEXT" />
       <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="bean" type="PLAIN_TEXT" />
       <mapping pattern="run" type="Shell Script" />
+      <removed_mapping ext="def" approved="true" type="Kotlin/Native Def" />
     </extensionMap>
   </component>
 </application>
